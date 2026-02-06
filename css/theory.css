@@ -1,0 +1,157 @@
+/* Theory container */
+.theory-content {
+  line-height: 1.7;
+}
+
+/* Theory headings */
+.theory-heading {
+  font-family: var(--font-heading);
+  color: var(--color-primary);
+  margin: var(--space-xl) 0 var(--space-md);
+  padding-left: var(--space-md);
+  border-left: 3px solid var(--color-primary);
+}
+
+.theory-heading:first-child {
+  margin-top: 0;
+}
+
+/* Theory paragraphs */
+.theory-paragraph {
+  margin-bottom: var(--space-md);
+  color: var(--color-text);
+}
+
+/* Theory tables */
+.theory-table-wrapper {
+  overflow-x: auto;
+  margin-bottom: var(--space-lg);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+}
+
+.theory-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--text-sm);
+  margin: 0;
+}
+
+.theory-table caption {
+  padding: var(--space-sm) var(--space-md);
+  background: var(--color-primary);
+  color: white;
+  font-weight: 600;
+  text-align: left;
+  font-size: var(--text-sm);
+}
+
+.theory-table th {
+  background: var(--color-primary);
+  color: white;
+  padding: var(--space-sm) var(--space-md);
+  font-weight: 600;
+  border: 1px solid rgba(255,255,255,0.2);
+}
+
+.theory-table td {
+  padding: var(--space-sm) var(--space-md);
+  border: 1px solid var(--color-border);
+}
+
+.theory-table tr:nth-child(even) td {
+  background: var(--color-bg);
+}
+
+.theory-table td strong {
+  color: var(--color-primary);
+}
+
+/* Examples */
+.theory-example {
+  background: var(--color-bg);
+  border-left: 3px solid var(--color-secondary);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  padding: var(--space-md) var(--space-lg);
+  margin-bottom: var(--space-md);
+}
+
+.theory-example-item {
+  font-style: italic;
+  color: var(--color-text);
+  margin-bottom: var(--space-xs);
+}
+
+.theory-example-item .highlight {
+  color: var(--color-primary);
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Rules */
+.theory-rule {
+  background: #FEF8EC;
+  border: 1px solid var(--color-accent);
+  border-left: 3px solid var(--color-accent);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  padding: var(--space-md) var(--space-lg);
+  margin-bottom: var(--space-md);
+}
+
+body.dark .theory-rule {
+  background: #2A2518;
+}
+
+.theory-rule::before {
+  content: 'Regola: ';
+  font-weight: 700;
+  color: var(--color-accent);
+}
+
+/* Notes */
+.theory-note {
+  background: #EBF5FF;
+  border: 1px solid #93C5FD;
+  border-left: 3px solid #3B82F6;
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  padding: var(--space-md) var(--space-lg);
+  margin-bottom: var(--space-md);
+}
+
+body.dark .theory-note {
+  background: #172136;
+}
+
+.theory-note::before {
+  content: 'Attenzione: ';
+  font-weight: 700;
+  color: #3B82F6;
+}
+
+/* Intro box */
+.theory-intro {
+  background: var(--color-primary-bg);
+  border: 1px solid var(--color-primary-light);
+  border-radius: var(--radius-md);
+  padding: var(--space-lg);
+  margin-bottom: var(--space-xl);
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: var(--text-sm);
+  letter-spacing: 0.3px;
+  color: var(--color-primary-dark);
+}
+
+/* List items in theory */
+.theory-list {
+  margin-bottom: var(--space-md);
+  padding-left: var(--space-xl);
+}
+
+.theory-list li {
+  margin-bottom: var(--space-sm);
+}
+
+.theory-list li em {
+  color: var(--color-primary);
+}

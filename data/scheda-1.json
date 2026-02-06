@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "id": "1",
+    "title": "Gli Articoli",
+    "subtitle": "Determinativi e Indeterminativi",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "Gli articoli sono parole che non possono stare da sole, perché non hanno un significato proprio; devono sempre stare davanti al nome e hanno alcune funzioni importanti."
+      },
+      {
+        "type": "paragraph",
+        "content": "L'**articolo determinativo** indica una persona, un animale o una cosa determinata e conosciuta da chi parla e da chi ascolta."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "In cortile c'è il cane.", "highlight": "il" },
+          { "italian": "Il cane vuol dire il cane che conosciamo; può essere il mio cane, il tuo, il suo…", "highlight": null }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "L'**articolo indeterminativo** indica una persona, un animale o una cosa non determinata o generica, non conosciuta da chi parla e da chi ascolta."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "In cortile c'è un cane.", "highlight": "un" },
+          { "italian": "Un cane vuol dire un cane sconosciuto, un cane qualunque.", "highlight": null }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "La Forma"
+      },
+      {
+        "type": "table",
+        "caption": "Articoli Determinativi e Indeterminativi",
+        "headers": ["", "Determ. Sing.", "Determ. Plur.", "Indeterm.", "Davanti a quali nomi?"],
+        "rows": [
+          ["Maschile", "**il**", "**i**", "**un**", "Nomi che iniziano con **consonante** (eccetto z, s+cons., x, y, ps, gn, pn)"],
+          ["Maschile", "**lo**", "**gli**", "**uno**", "Nomi che iniziano con **z, s+cons., x, y, ps, gn, pn**"],
+          ["Maschile", "**l'**", "**gli**", "**un**", "Nomi che iniziano con **vocale**"],
+          ["Femminile", "**la**", "**le**", "**una**", "Nomi che iniziano con **consonante**"],
+          ["Femminile", "**l'**", "**le**", "**un'**", "Nomi che iniziano con **vocale**"]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Quando si usa l'articolo determinativo"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Per indicare una persona o cosa **unica**: *La luna è gialla. Il papa vive a Roma.*",
+          "Per indicare un'**intera specie o categoria**: *Il leone vive in Africa. I soldati portano la divisa.*",
+          "Per indicare qualcosa di cui **si è già parlato**: *Sono andato a una festa; la festa è stata divertente.*",
+          "In sostituzione di un **aggettivo dimostrativo**: *Entro la primavera prenderò la patente.* (= entro questa primavera)",
+          "In sostituzione di un **aggettivo indefinito**: *Il sabato sera vado in discoteca.* (= ogni sabato sera)"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Quando si usa l'articolo indeterminativo"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Per indicare una persona/cosa **qualunque**: *Prendi una matita e scrivi. Andiamo in un bar.*",
+          "Quando **non si vuole precisare** meglio: *Mi ha telefonato un amico. Ho comprato un libro di fantascienza.*",
+          "Quando una persona/cosa è **nominata per la prima volta**: *Sono andato a una festa di compleanno; la festa è stata molto divertente.*"
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "1-ex1",
+      "number": 1,
+      "type": "fill-in-blank",
+      "instruction": "Inserisci l'articolo determinativo corretto davanti a ogni nome.",
+      "items": [
+        { "before": "", "blank": true, "after": "pesce", "answer": "il" },
+        { "before": "", "blank": true, "after": "occhiali", "answer": "gli" },
+        { "before": "", "blank": true, "after": "articolo", "answer": "l'" },
+        { "before": "", "blank": true, "after": "pioggia", "answer": "la" },
+        { "before": "", "blank": true, "after": "spazzolino", "answer": "lo" },
+        { "before": "", "blank": true, "after": "incidente", "answer": "l'" },
+        { "before": "", "blank": true, "after": "fiore", "answer": "il" },
+        { "before": "", "blank": true, "after": "cugino", "answer": "il" },
+        { "before": "", "blank": true, "after": "matite", "answer": "le" },
+        { "before": "", "blank": true, "after": "zucchino", "answer": "lo" },
+        { "before": "", "blank": true, "after": "religione", "answer": "la" },
+        { "before": "", "blank": true, "after": "albero", "answer": "l'" },
+        { "before": "", "blank": true, "after": "vita", "answer": "la" },
+        { "before": "", "blank": true, "after": "capelli", "answer": "i" },
+        { "before": "", "blank": true, "after": "spinaci", "answer": "gli" },
+        { "before": "", "blank": true, "after": "olio", "answer": "l'" },
+        { "before": "", "blank": true, "after": "ladri", "answer": "i" },
+        { "before": "", "blank": true, "after": "strada", "answer": "la" },
+        { "before": "", "blank": true, "after": "scienziato", "answer": "lo" },
+        { "before": "", "blank": true, "after": "vetro", "answer": "il" },
+        { "before": "", "blank": true, "after": "dentista", "answer": "il" },
+        { "before": "", "blank": true, "after": "incrocio", "answer": "l'" }
+      ]
+    },
+    {
+      "id": "1-ex2",
+      "number": 2,
+      "type": "transformation",
+      "instruction": "Sostituisci l'articolo indeterminativo con l'articolo determinativo al plurale e trasforma i nomi al plurale.",
+      "items": [
+        { "given": "una finestra", "answer": "le finestre" },
+        { "given": "un uomo", "answer": "gli uomini" },
+        { "given": "un'unghia", "answer": "le unghie" },
+        { "given": "un'operaia", "answer": "le operaie" },
+        { "given": "uno straniero", "answer": "gli stranieri" },
+        { "given": "un orso", "answer": "gli orsi" },
+        { "given": "un gioco", "answer": "i giochi" },
+        { "given": "un vecchio", "answer": "i vecchi" },
+        { "given": "uno stupido", "answer": "gli stupidi" },
+        { "given": "un impiegato", "answer": "gli impiegati" }
+      ]
+    },
+    {
+      "id": "1-ex3",
+      "number": 3,
+      "type": "multiple-choice",
+      "instruction": "Scegli l'articolo corretto.",
+      "items": [
+        { "prompt": "zio", "options": ["il", "lo", "un"], "answer": "lo" },
+        { "prompt": "zii", "options": ["le", "gli", "li"], "answer": "gli" },
+        { "prompt": "albero", "options": ["un", "un'", "uno"], "answer": "un" },
+        { "prompt": "cattedrale", "options": ["la", "le", "un"], "answer": "la" },
+        { "prompt": "esercito", "options": ["lo", "l'", "il"], "answer": "l'" },
+        { "prompt": "articoli", "options": ["li", "gli", "i"], "answer": "gli" },
+        { "prompt": "generale", "options": ["il", "la", "le"], "answer": "il" },
+        { "prompt": "associazione", "options": ["un", "un'", "una"], "answer": "un'" },
+        { "prompt": "ferrovie", "options": ["le", "la", "un"], "answer": "le" },
+        { "prompt": "ufficio", "options": ["un'", "l'", "lo"], "answer": "l'" },
+        { "prompt": "assenza", "options": ["una", "un'", "la"], "answer": "un'" },
+        { "prompt": "lavaggi", "options": ["i", "le", "gli"], "answer": "i" }
+      ]
+    },
+    {
+      "id": "1-ex4",
+      "number": 4,
+      "type": "sentence-completion",
+      "instruction": "Completa le frasi con l'articolo corretto.",
+      "items": [
+        {
+          "segments": [
+            { "text": "1. Tutti " },
+            { "blank": true, "answer": "gli" },
+            { "text": " errori che fai sono dovuti alla tua distrazione." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "2. Prendi " },
+            { "blank": true, "answer": "una" },
+            { "text": " pentola più grande che riesci a trovare." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "3. " },
+            { "blank": true, "answer": "Le" },
+            { "text": " scarpe da ginnastica che Stefano ha comprato sono bellissime." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "4. Vorrei " },
+            { "blank": true, "answer": "un" },
+            { "text": " francobollo per " },
+            { "blank": true, "answer": "una" },
+            { "text": " lettera da spedire in Perù." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "5. " },
+            { "blank": true, "answer": "L'" },
+            { "text": " orologio è fermo. Sono già " },
+            { "blank": true, "answer": "le" },
+            { "text": " sette?" }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "6. " },
+            { "blank": true, "answer": "Il" },
+            { "text": " telegiornale ha trasmesso " },
+            { "blank": true, "answer": "le" },
+            { "text": " ultime notizie." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "7. Mia zia è " },
+            { "blank": true, "answer": "una" },
+            { "text": " donna molto simpatica, ma " },
+            { "blank": true, "answer": "le" },
+            { "text": " sue sorelle no." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "8. " },
+            { "blank": true, "answer": "I" },
+            { "text": " tuoi vicini di casa hanno " },
+            { "blank": true, "answer": "un" },
+            { "text": " modo di fare insopportabile." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1-ex5",
+      "number": 5,
+      "type": "open-ended",
+      "instruction": "Inventa delle frasi con queste coppie di espressioni e scrivile: 1) La casa nuova / Una casa nuova  2) Un inverno / L'inverno  3) Un lago / Il lago  4) La cartolina / Una cartolina  5) Lo sport / Uno sport",
+      "suggestedAnswer": "Soluzione aperta. Esempio: La casa nuova è molto grande. / Ho comprato una casa nuova."
+    }
+  ]
+}

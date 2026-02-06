@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "id": "3",
+    "title": "Gli Articoli Determinativi",
+    "subtitle": "Usi particolari con i nomi propri",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "Si usa l'articolo determinativo davanti ai nomi propri? Dipende dal contesto."
+      },
+      {
+        "type": "heading",
+        "content": "Davanti a un nome di persona"
+      },
+      {
+        "type": "paragraph",
+        "content": "In generale **no**: *Ho visto Silvano.* Ma nella lingua parlata in certe zone dell'Italia settentrionale **sì**: *Come sta il Bruno?*"
+      },
+      {
+        "type": "heading",
+        "content": "Davanti a un cognome"
+      },
+      {
+        "type": "list",
+        "items": [
+          "**No**, se è un uomo: *Ho incontrato Miniotti.*",
+          "**Sì**, nel linguaggio burocratico: *Il Salvemini è stato interrogato dalla polizia.*",
+          "**Sì**, se il cognome è preceduto da un titolo: *Il dottor Balocco ha operato mia figlia. Il professor Bracco ha spiegato la lezione.*",
+          "**Sì**, nella lingua scolastica per indicare un personaggio famoso: *Il Foscolo scrisse Le Grazie.*",
+          "**Sì**, se è una donna: *La Grasso è una brava professoressa di matematica.*",
+          "**No**, se c'è anche il nome: *Giovanna Grasso è una brava professoressa di matematica.*",
+          "**Sì**, se è una famiglia (o marito e moglie): *I Filippi sono veramente gentili.*"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Davanti a un nome geografico"
+      },
+      {
+        "type": "list",
+        "items": [
+          "**Sì**, quando è un nome di Stato, regione, continente, isola grande, monte, lago, fiume, mare o oceano: *L'Italia ha un clima temperato. Il Danubio sfocia nel Mar Nero.*",
+          "**No**, quando c'è la preposizione *in* davanti a un nome di Stato, regione, continente: *In Italia c'è un clima temperato.*",
+          "**No**, quando è un nome di città: *Abito a Torino. Ho visitato Firenze e Pisa.*",
+          "**Sì**, se il nome della città è accompagnato da una determinazione particolare: *La Torino di una volta era una città piccola.*",
+          "**Sì**, se la città indica il nome di una squadra di calcio: *Il Torino è tornato in serie A. La Roma ha vinto lo scudetto.*"
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "3-ex1",
+      "number": 1,
+      "type": "multiple-choice",
+      "instruction": "Scegli la forma corretta.",
+      "items": [
+        { "prompt": "... frequenta l'ultimo anno di università al politecnico.", "options": ["Alberto", "L'Alberto"], "answer": "Alberto" },
+        { "prompt": "Mi hanno telefonato ... per disdire l'appuntamento.", "options": ["Guglielmi", "i Guglielmi"], "answer": "i Guglielmi" },
+        { "prompt": "... è un monte ...", "options": ["Kilimangiaro, di Africa", "Il Kilimangiaro, dell'Africa"], "answer": "Il Kilimangiaro, dell'Africa" },
+        { "prompt": "Hai visitato ... archeologica?", "options": ["Napoli", "la Napoli"], "answer": "la Napoli" },
+        { "prompt": "... è l'unica scrittrice italiana che ha vinto il premio Nobel.", "options": ["Deledda", "La Deledda"], "answer": "La Deledda" },
+        { "prompt": "I Vigili del Fuoco hanno estratto ... ormai morto dalle lamiere.", "options": ["Calleri", "il Calleri"], "answer": "il Calleri" },
+        { "prompt": "... è bagnata ...", "options": ["Tunisia, da Mediterraneo", "La Tunisia, dal Mediterraneo"], "answer": "La Tunisia, dal Mediterraneo" },
+        { "prompt": "Roma è attraversata ...", "options": ["da Tevere", "dal Tevere"], "answer": "dal Tevere" },
+        { "prompt": "... è un paese bellissimo.", "options": ["Marocco", "Il Marocco"], "answer": "Il Marocco" },
+        { "prompt": "... fa l'elettrauto.", "options": ["Sergio Benni", "Il Sergio Benni"], "answer": "Sergio Benni" }
+      ]
+    },
+    {
+      "id": "3-ex2",
+      "number": 2,
+      "type": "matching",
+      "instruction": "Unisci ciascun nome con la frase corretta.",
+      "items": {
+        "left": ["Tozzi", "Il Tozzi", "La Tozzi", "I Tozzi"],
+        "right": ["ha vinto la medaglia d'argento nel salto in alto", "sono partiti per le vacanze", "è stata trasferita in un altro ufficio", "è uno scrittore del Novecento"],
+        "pairs": [[0, 0], [1, 3], [2, 2], [3, 1]]
+      }
+    },
+    {
+      "id": "3-ex3",
+      "number": 3,
+      "type": "sentence-completion",
+      "instruction": "Aggiungi l'articolo determinativo corretto solo quando è necessario. Lascia vuoto se non serve l'articolo.",
+      "items": [
+        {
+          "segments": [
+            { "text": "1. Ho incontrato " },
+            { "blank": true, "answer": "il" },
+            { "text": " professor Rossi davanti alla scuola." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "2. " },
+            { "blank": true, "answer": "La" },
+            { "text": " maestra Grandi oggi ci ha portati al museo." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "3. " },
+            { "blank": true, "answer": "La" },
+            { "text": " Lombardia è una regione ricca e verde." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "4. Ho chiesto a Paola com'era " },
+            { "blank": true, "answer": "l'" },
+            { "text": " Australia: ci è stata in vacanza per tre mesi!" }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "5. È " },
+            { "blank": true, "answer": "il" },
+            { "text": " Po il fiume che nasce dal Monviso?" }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "8. " },
+            { "blank": true, "answer": "La" },
+            { "text": " Roma oggi ha vinto la partita." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "9. " },
+            { "blank": true, "answer": "I" },
+            { "text": " Canestri non sono in casa. Riprova più tardi." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "11. " },
+            { "blank": true, "answer": "La" },
+            { "text": " Picchio adesso si è trasferita a Firenze." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "12. " },
+            { "blank": true, "answer": "La" },
+            { "text": " Roma dell'antichità era una città importantissima." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "14. Quando " },
+            { "blank": true, "answer": "il" },
+            { "text": " Manzoni ha pubblicato I Promessi Sposi aveva quarantadue anni." }
+          ]
+        }
+      ]
+    }
+  ]
+}

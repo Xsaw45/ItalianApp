@@ -1,0 +1,71 @@
+/* Mobile first - default styles are mobile */
+
+/* Small phones */
+@media (max-width: 480px) {
+  .main-content {
+    padding: var(--space-md);
+  }
+
+  .fib-items {
+    flex-direction: column;
+    gap: var(--space-sm);
+  }
+
+  .transform-item {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--space-sm);
+  }
+
+  .transform-arrow {
+    display: none;
+  }
+
+  .match-item {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .exercise-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .exercise-score {
+    margin-left: 0;
+    text-align: center;
+  }
+
+  .categories-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Tablet and up */
+@media (min-width: 768px) {
+  .main-content {
+    padding: var(--space-xl) var(--space-2xl);
+  }
+
+  .fib-items {
+    gap: var(--space-sm) var(--space-2xl);
+  }
+}
+
+/* Desktop */
+@media (min-width: 1024px) {
+  .main-content {
+    max-width: calc(var(--content-max-width) + var(--space-2xl) * 2);
+  }
+}
+
+/* Large desktop */
+@media (min-width: 1440px) {
+  .main-content {
+    max-width: 900px;
+  }
+}

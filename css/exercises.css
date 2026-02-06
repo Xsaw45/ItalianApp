@@ -1,0 +1,439 @@
+/* Exercise card */
+.exercise-card {
+  background: var(--color-bg-card);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--color-border-light);
+  padding: var(--space-lg);
+  margin-bottom: var(--space-lg);
+}
+
+.exercise-header {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-md);
+}
+
+.exercise-number {
+  font-family: var(--font-heading);
+  font-size: var(--text-2xl);
+  color: var(--color-primary);
+  font-weight: 700;
+  min-width: 36px;
+}
+
+.exercise-instruction {
+  font-size: var(--text-base);
+  color: var(--color-text);
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.exercise-body {
+  margin: var(--space-md) 0;
+}
+
+.exercise-actions {
+  display: flex;
+  gap: var(--space-md);
+  align-items: center;
+  margin-top: var(--space-lg);
+  flex-wrap: wrap;
+}
+
+.exercise-score {
+  margin-left: auto;
+  font-weight: 600;
+  font-size: var(--text-sm);
+}
+
+.exercise-score.good {
+  color: var(--color-correct);
+}
+
+.exercise-score.needs-work {
+  color: var(--color-accent);
+}
+
+/* Shared input styles */
+.exercise-input {
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  padding: var(--space-xs) var(--space-sm);
+  border: none;
+  border-bottom: 2px solid var(--color-border);
+  background: transparent;
+  color: var(--color-text);
+  transition: border-color var(--transition-fast);
+  outline: none;
+}
+
+.exercise-input:focus {
+  border-bottom-color: var(--color-primary);
+}
+
+.exercise-input.correct {
+  border-bottom-color: var(--color-correct);
+  background: var(--color-correct-bg);
+}
+
+.exercise-input.incorrect {
+  border-bottom-color: var(--color-incorrect);
+  background: var(--color-incorrect-bg);
+}
+
+.exercise-input:disabled {
+  opacity: 0.8;
+}
+
+/* Correction display */
+.correction {
+  font-size: var(--text-sm);
+  color: var(--color-correct);
+  font-style: italic;
+  margin-top: 2px;
+}
+
+/* Fill-in-blank */
+.fib-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-md) var(--space-xl);
+}
+
+.fib-item {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-sm);
+}
+
+.fib-input {
+  width: 70px;
+  text-align: center;
+}
+
+.fib-word {
+  font-size: var(--text-base);
+}
+
+.fib-item-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Multiple choice */
+.mc-items {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+
+.mc-item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  flex-wrap: wrap;
+}
+
+.mc-prompt {
+  font-weight: 500;
+  min-width: 120px;
+}
+
+.mc-options {
+  display: flex;
+  gap: var(--space-sm);
+  flex-wrap: wrap;
+}
+
+.mc-option {
+  padding: var(--space-xs) var(--space-md);
+  border: 1.5px solid var(--color-border);
+  border-radius: var(--radius-full);
+  background: var(--color-bg-card);
+  cursor: pointer;
+  font-family: var(--font-body);
+  font-size: var(--text-sm);
+  transition: all var(--transition-fast);
+  color: var(--color-text);
+}
+
+.mc-option:hover {
+  border-color: var(--color-primary);
+  background: var(--color-primary-bg);
+}
+
+.mc-option.selected {
+  border-color: var(--color-primary);
+  background: var(--color-primary);
+  color: white;
+}
+
+.mc-option.correct {
+  border-color: var(--color-correct);
+  background: var(--color-correct);
+  color: white;
+}
+
+.mc-option.incorrect {
+  border-color: var(--color-incorrect);
+  background: var(--color-incorrect);
+  color: white;
+}
+
+.mc-option.correct-answer {
+  border-color: var(--color-correct);
+  outline: 2px solid var(--color-correct);
+  outline-offset: 1px;
+}
+
+.mc-option:disabled {
+  cursor: not-allowed;
+}
+
+/* Transformation */
+.transform-items {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+
+.transform-item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  flex-wrap: wrap;
+}
+
+.transform-given {
+  background: var(--color-bg);
+  padding: var(--space-xs) var(--space-md);
+  border-radius: var(--radius-sm);
+  font-style: italic;
+  min-width: 140px;
+  color: var(--color-text-light);
+}
+
+.transform-arrow {
+  color: var(--color-text-muted);
+  font-size: var(--text-lg);
+}
+
+.transform-input {
+  flex: 1;
+  min-width: 140px;
+}
+
+.transform-item-wrapper {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-width: 140px;
+}
+
+/* Table completion */
+.table-scroll {
+  overflow-x: auto;
+  margin-bottom: var(--space-md);
+}
+
+.completion-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.completion-table th {
+  background: var(--color-primary);
+  color: white;
+  padding: var(--space-sm) var(--space-md);
+  font-size: var(--text-sm);
+  font-weight: 600;
+  border: 1px solid rgba(255,255,255,0.2);
+}
+
+.completion-table td {
+  padding: var(--space-xs) var(--space-sm);
+  border: 1px solid var(--color-border);
+  min-width: 100px;
+}
+
+.completion-table td.correct-cell {
+  background: var(--color-correct-bg);
+}
+
+.completion-table td.incorrect-cell {
+  background: var(--color-incorrect-bg);
+}
+
+.table-input {
+  width: 100%;
+  border: none;
+  background: transparent;
+  padding: var(--space-xs);
+  font-family: var(--font-body);
+  font-size: var(--text-sm);
+  color: var(--color-text);
+}
+
+.table-input:focus {
+  outline: none;
+  background: var(--color-primary-bg);
+}
+
+/* Sentence completion (inline blanks) */
+.sc-item {
+  margin-bottom: var(--space-md);
+  line-height: 2.2;
+}
+
+.sc-number {
+  font-weight: 600;
+  color: var(--color-text-muted);
+  margin-right: var(--space-sm);
+}
+
+.sc-blank {
+  display: inline-block;
+  width: 80px;
+  vertical-align: baseline;
+  margin: 0 2px;
+}
+
+/* Sentence rewriting */
+.sr-items {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-lg);
+}
+
+.sr-item {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+}
+
+.sr-given {
+  background: var(--color-bg);
+  padding: var(--space-sm) var(--space-md);
+  border-radius: var(--radius-sm);
+  border-left: 3px solid var(--color-secondary);
+  font-style: italic;
+}
+
+.sr-hint {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  font-style: italic;
+}
+
+.sr-input {
+  width: 100%;
+}
+
+.sr-item-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Matching */
+.match-items {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+
+.match-item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+}
+
+.match-left {
+  flex: 1;
+  background: var(--color-bg);
+  padding: var(--space-sm) var(--space-md);
+  border-radius: var(--radius-sm);
+  font-size: var(--text-sm);
+}
+
+.match-select {
+  flex: 1;
+  padding: var(--space-sm) var(--space-md);
+  border: 1.5px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  font-family: var(--font-body);
+  font-size: var(--text-sm);
+  color: var(--color-text);
+  background: var(--color-bg-card);
+  cursor: pointer;
+}
+
+.match-select.correct {
+  border-color: var(--color-correct);
+  background: var(--color-correct-bg);
+}
+
+.match-select.incorrect {
+  border-color: var(--color-incorrect);
+  background: var(--color-incorrect-bg);
+}
+
+/* Open ended */
+.oe-textarea {
+  width: 100%;
+  min-height: 120px;
+  padding: var(--space-md);
+  border: 1.5px solid var(--color-border);
+  border-radius: var(--radius-md);
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  color: var(--color-text);
+  background: var(--color-bg-card);
+  resize: vertical;
+  line-height: 1.6;
+}
+
+.oe-textarea:focus {
+  outline: none;
+  border-color: var(--color-primary);
+}
+
+.oe-suggested {
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: var(--space-md);
+  margin-top: var(--space-md);
+  font-style: italic;
+  color: var(--color-text-light);
+}
+
+.oe-suggested-label {
+  font-weight: 600;
+  font-style: normal;
+  color: var(--color-secondary);
+  margin-bottom: var(--space-xs);
+  display: block;
+}
+
+/* Feedback animation */
+@keyframes pulse-correct {
+  0% { box-shadow: 0 0 0 0 rgba(61, 139, 55, 0.3); }
+  70% { box-shadow: 0 0 0 6px rgba(61, 139, 55, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(61, 139, 55, 0); }
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20%, 60% { transform: translateX(-4px); }
+  40%, 80% { transform: translateX(4px); }
+}
+
+.animate-correct {
+  animation: pulse-correct 0.5s ease;
+}
+
+.animate-incorrect {
+  animation: shake 0.4s ease;
+}

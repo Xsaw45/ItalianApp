@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "id": "2",
+    "title": "Gli Articoli Partitivi",
+    "subtitle": "di + articolo determinativo",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "L'articolo partitivo (formato dalla preposizione DI + l'articolo determinativo) indica una parte non ben determinata di un tutto più grande."
+      },
+      {
+        "type": "paragraph",
+        "content": "Al **singolare** indica una certa quantità di qualcosa: *un po' di...*"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Vorrei dell'aranciata = Vorrei un po' di aranciata.", "highlight": "dell'" },
+          { "italian": "Metti ancora dello zucchero nel latte = Metti ancora un po' di zucchero nel latte.", "highlight": "dello" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Al **plurale** indica una parte rispetto a tutto, un certo numero di: *alcuni, qualche...*"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Vorrei dei quaderni = Vorrei alcuni quaderni.", "highlight": "dei" },
+          { "italian": "Laura ha dei cavalli bellissimi = Laura ha alcuni cavalli bellissimi.", "highlight": "dei" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "La Forma"
+      },
+      {
+        "type": "table",
+        "caption": "Articoli partitivi",
+        "headers": ["", "Singolare", "Plurale", "Davanti a quali nomi?"],
+        "rows": [
+          ["Maschile", "**del** (di+il)", "**dei** (di+i)", "Nomi con **consonante** (eccetto z, s+cons., x, y, ps, gn, pn)"],
+          ["Maschile", "**dello** (di+lo)", "**degli** (di+gli)", "Nomi con **z, s+cons., x, y, ps, gn, pn**"],
+          ["Maschile", "**dell'** (di+l')", "**degli** (di+gli)", "Nomi con **vocale**"],
+          ["Femminile", "**della** (di+la)", "**delle** (di+le)", "Nomi con **consonante**"],
+          ["Femminile", "**dell'** (di+l')", "**delle** (di+le)", "Nomi con **vocale**"]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "L'Uso"
+      },
+      {
+        "type": "paragraph",
+        "content": "L'articolo partitivo al plurale si usa anche per formare il **plurale dell'articolo indeterminativo**:"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "un ragazzo → dei ragazzi", "highlight": "dei" },
+          { "italian": "una studentessa → delle studentesse", "highlight": "delle" }
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "2-ex1",
+      "number": 1,
+      "type": "multiple-choice",
+      "instruction": "Scegli l'articolo partitivo corretto.",
+      "items": [
+        { "prompt": "acqua", "options": ["del", "della", "dell'"], "answer": "dell'" },
+        { "prompt": "alberi", "options": ["delle", "degli", "dell'"], "answer": "degli" },
+        { "prompt": "cioccolato", "options": ["del", "dello", "dell'"], "answer": "del" },
+        { "prompt": "insegnanti", "options": ["delle", "dei", "dell'"], "answer": "delle" },
+        { "prompt": "olio", "options": ["della", "delle", "dell'"], "answer": "dell'" },
+        { "prompt": "sciocchezze", "options": ["dello", "del", "delle"], "answer": "delle" },
+        { "prompt": "risposte", "options": ["del", "della", "delle"], "answer": "delle" },
+        { "prompt": "associazioni", "options": ["della", "delle", "dell'"], "answer": "delle" },
+        { "prompt": "zucchero", "options": ["dello", "del", "dell'"], "answer": "dello" },
+        { "prompt": "latte", "options": ["del", "dell'", "dello"], "answer": "del" },
+        { "prompt": "studenti", "options": ["dei", "degli", "delli"], "answer": "degli" },
+        { "prompt": "benzina", "options": ["della", "dell'", "del"], "answer": "della" }
+      ]
+    },
+    {
+      "id": "2-ex2",
+      "number": 2,
+      "type": "transformation",
+      "instruction": "Completa la tabella: trasforma dal singolare indeterminativo al plurale partitivo.",
+      "items": [
+        { "given": "una compagna", "answer": "delle compagne" },
+        { "given": "un giorno", "answer": "dei giorni" },
+        { "given": "un problema", "answer": "dei problemi" },
+        { "given": "una lezione", "answer": "delle lezioni" },
+        { "given": "una pagina", "answer": "delle pagine" },
+        { "given": "una finestra", "answer": "delle finestre" },
+        { "given": "un gioco", "answer": "dei giochi" },
+        { "given": "una merendina", "answer": "delle merendine" },
+        { "given": "una cosa", "answer": "delle cose" },
+        { "given": "uno scalino", "answer": "degli scalini" },
+        { "given": "un berretto", "answer": "dei berretti" },
+        { "given": "uno zaino", "answer": "degli zaini" },
+        { "given": "una scarpa", "answer": "delle scarpe" },
+        { "given": "un orologio", "answer": "degli orologi" }
+      ]
+    },
+    {
+      "id": "2-ex3",
+      "number": 3,
+      "type": "sentence-completion",
+      "instruction": "Completa le frasi con l'articolo partitivo corretto.",
+      "items": [
+        {
+          "segments": [
+            { "text": "1. Fai " },
+            { "blank": true, "answer": "degli" },
+            { "text": " errori dovuti alla tua distrazione." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "2. Prendi " },
+            { "blank": true, "answer": "dell'" },
+            { "text": " acqua per far bollire " },
+            { "blank": true, "answer": "delle" },
+            { "text": " patate per stasera." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "3. Stefano ha comprato " },
+            { "blank": true, "answer": "delle" },
+            { "text": " bellissime scarpe da ginnastica." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "4. Vorrei " },
+            { "blank": true, "answer": "dei" },
+            { "text": " francobolli per il Perù." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "5. Metti nella valigia " },
+            { "blank": true, "answer": "delle" },
+            { "text": " calze, " },
+            { "blank": true, "answer": "delle" },
+            { "text": " magliette, " },
+            { "blank": true, "answer": "delle" },
+            { "text": " mutande e un paio di pantaloni." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "6. Il telegiornale ha trasmesso " },
+            { "blank": true, "answer": "delle" },
+            { "text": " notizie terribili sulla guerra in Cecenia." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "7. Mia zia ha " },
+            { "blank": true, "answer": "delle" },
+            { "text": " sorelle non molto simpatiche." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "8. I vicini di casa di Giulia hanno " },
+            { "blank": true, "answer": "dei" },
+            { "text": " modi di fare insopportabili." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-ex4",
+      "number": 4,
+      "type": "transformation",
+      "instruction": "Sostituisci l'articolo partitivo con 'un po' di' + il nome.",
+      "items": [
+        { "given": "della coca-cola", "answer": "un po' di coca-cola" },
+        { "given": "del sale", "answer": "un po' di sale" },
+        { "given": "del fango", "answer": "un po' di fango" },
+        { "given": "del nastro", "answer": "un po' di nastro" },
+        { "given": "della carta", "answer": "un po' di carta" },
+        { "given": "del tiramisù", "answer": "un po' di tiramisù" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+:root {
+  /* Primary: warm terracotta */
+  --color-primary: #C75B39;
+  --color-primary-light: #E8845F;
+  --color-primary-dark: #9A3F25;
+  --color-primary-bg: #FDF0EB;
+
+  /* Secondary: deep olive green */
+  --color-secondary: #4A6741;
+  --color-secondary-light: #6B8F5E;
+  --color-secondary-dark: #2F4A28;
+
+  /* Accent: warm gold */
+  --color-accent: #D4A843;
+  --color-accent-light: #E8C96E;
+
+  /* Neutrals */
+  --color-bg: #FAF7F2;
+  --color-bg-card: #FFFFFF;
+  --color-bg-sidebar: #F0EBE3;
+  --color-text: #2C2416;
+  --color-text-light: #6B5D4F;
+  --color-text-muted: #9A8E80;
+  --color-border: #D9D0C4;
+  --color-border-light: #E8E0D6;
+
+  /* Feedback */
+  --color-correct: #3D8B37;
+  --color-correct-bg: #E8F5E7;
+  --color-correct-border: #7BC275;
+  --color-incorrect: #C74040;
+  --color-incorrect-bg: #FDE8E8;
+  --color-incorrect-border: #E88A8A;
+
+  /* Typography */
+  --font-body: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  --font-heading: 'Georgia', 'Palatino Linotype', 'Times New Roman', serif;
+  --font-mono: 'Consolas', 'Courier New', monospace;
+
+  /* Font sizes */
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+  --text-2xl: 1.5rem;
+  --text-3xl: 1.875rem;
+
+  /* Spacing */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2rem;
+  --space-2xl: 3rem;
+
+  /* Border radius */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-full: 9999px;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(44, 36, 22, 0.08);
+  --shadow-md: 0 4px 12px rgba(44, 36, 22, 0.1);
+  --shadow-lg: 0 8px 24px rgba(44, 36, 22, 0.12);
+
+  /* Layout */
+  --sidebar-width: 280px;
+  --header-height: 56px;
+  --content-max-width: 800px;
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-normal: 250ms ease;
+  --transition-slow: 400ms ease;
+}
+
+/* Dark mode */
+body.dark {
+  --color-bg: #1A1814;
+  --color-bg-card: #2C2820;
+  --color-bg-sidebar: #232019;
+  --color-text: #E8E0D4;
+  --color-text-light: #A89C8E;
+  --color-text-muted: #7A6F63;
+  --color-border: #3D3830;
+  --color-border-light: #332E27;
+  --color-primary-bg: #3A2219;
+  --color-correct-bg: #1A3318;
+  --color-incorrect-bg: #331818;
+}
