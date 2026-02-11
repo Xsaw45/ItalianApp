@@ -10,3 +10,9 @@ Thumbs.db
 pdfs/
 *.pdf
 *.docx
+
+# Node
+node_modules/
+
+# Capacitor generated
+www/

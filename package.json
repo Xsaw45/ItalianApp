@@ -1,0 +1,27 @@
+{
+  "name": "italienapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:www": "rm -rf www && mkdir www && cp -r index.html css js data assets www/",
+    "cap:sync": "npm run build:www && npx cap sync",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xsaw45/ItalianApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xsaw45/ItalianApp/issues"
+  },
+  "homepage": "https://github.com/Xsaw45/ItalianApp#readme",
+  "dependencies": {
+    "@capacitor/android": "^8.0.2",
+    "@capacitor/cli": "^8.0.2",
+    "@capacitor/core": "^8.0.2"
+  }
+}
