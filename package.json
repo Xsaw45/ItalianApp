@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build:www": "rm -rf www && mkdir www && cp -r index.html css js data assets www/",
+    "build:www": "rm -rf www && mkdir www && cp -r index.html css js data assets icons manifest.webmanifest sw.js www/",
     "cap:sync": "npm run build:www && npx cap sync",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
