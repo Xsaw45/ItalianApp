@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "id": "6",
+    "title": "Il Genere del Nome (Maschile/Femminile)",
+    "subtitle": "Dal maschile al femminile",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "I nomi di persona e i nomi di animale hanno due generi, uno maschile e uno femminile. Possiamo passare dal nome maschile al nome femminile in vari modi."
+      },
+      {
+        "type": "heading",
+        "content": "Nomi mobili (cambiano la desinenza)"
+      },
+      {
+        "type": "table",
+        "caption": "Nomi che cambiano la desinenza",
+        "headers": ["Maschile", "Femminile", "Esempio M.", "Esempio F."],
+        "rows": [
+          ["-o", "-a", "bambino, impiegato, gatto", "bambina, impiegata, gatta"],
+          ["-e", "-a", "signore, infermiere", "signora, infermiera"],
+          ["-tore", "-trice", "attore, pittore, scrittore", "attrice, pittrice, scrittrice"],
+          ["-a", "-essa", "poeta, duca", "poetessa, duchessa"],
+          ["-e", "-essa", "leone, principe", "leonessa, principessa"],
+          ["-o", "-essa", "avvocato", "avvocatessa"]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Nomi indipendenti (due forme diverse)"
+      },
+      {
+        "type": "table",
+        "caption": "Nomi con due forme completamente diverse",
+        "headers": ["Maschile", "Femminile"],
+        "rows": [
+          ["padre", "madre"],
+          ["uomo", "donna"],
+          ["marito", "moglie"],
+          ["fratello", "sorella"],
+          ["genero", "nuora"],
+          ["frate", "suora"],
+          ["toro", "mucca"],
+          ["montone", "pecora"],
+          ["celibe", "nubile"]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Nomi di genere comune"
+      },
+      {
+        "type": "paragraph",
+        "content": "Nomi con la stessa forma, nei quali si distingue il genere con l'articolo: *il/la cantante, l'/l'insegnante, il/la dirigente, il/la pediatra, il/la nipote, l'/l'artista*."
+      },
+      {
+        "type": "heading",
+        "content": "Nomi di genere promiscuo"
+      },
+      {
+        "type": "paragraph",
+        "content": "Nomi con la stessa forma, che vale per entrambi i sessi. Se necessario, si dice *il leopardo maschio* e *il leopardo femmina*: *il leopardo, la marmotta, la balena, il topo, l'usignuolo, lo squalo, la volpe, l'oca*."
+      },
+      {
+        "type": "paragraph",
+        "content": "**Attenzione:** Le cose non hanno sesso e quindi hanno un unico genere, o maschile o femminile. Però ci sono parole simili e di genere diverso (il colpo / la colpa): in questo caso si ha un falso cambiamento di genere, perché il significato cambia completamente."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "6-ex1",
+      "number": 1,
+      "type": "open-ended",
+      "instruction": "Questi nomi hanno un significato completamente diverso se si cambia il genere. Prova a scrivere una frase per ognuno dei due significati: 1) Il pasto / La pasta  2) Il mostro / La mostra  3) Il pizzo / La pizza  4) Il palo / La pala  5) Il busto / La busta  6) Il caso / La casa  7) Il punto / La punta  8) Il velo / La vela  9) Il colpo / La colpa  10) La banca / Il banco  11) Il capitale / La capitale  12) Il torto / La torta  13) Il soffitto / La soffitta  14) Il suolo / La suola",
+      "suggestedAnswer": "Soluzione aperta. Esempio: Il pasto era abbondante. / La pasta è al dente."
+    },
+    {
+      "id": "6-ex2",
+      "number": 2,
+      "type": "transformation",
+      "instruction": "Completa la tabella inserendo le forme mancanti del femminile o del maschile.",
+      "items": [
+        { "given": "il cavallo →", "answer": "la cavalla" },
+        { "given": "l'elefante →", "answer": "l'elefantessa" },
+        { "given": "il lettore →", "answer": "la lettrice" },
+        { "given": "il bidello →", "answer": "la bidella" },
+        { "given": "lo zio →", "answer": "la zia" },
+        { "given": "il telefonista →", "answer": "la telefonista" },
+        { "given": "il fidanzato →", "answer": "la fidanzata" },
+        { "given": "il contadino →", "answer": "la contadina" },
+        { "given": "lo sciatore →", "answer": "la sciatrice" },
+        { "given": "il regista →", "answer": "la regista" },
+        { "given": "il professore →", "answer": "la professoressa" },
+        { "given": "il biologo →", "answer": "la biologa" },
+        { "given": "il segretario →", "answer": "la segretaria" },
+        { "given": "il gallo →", "answer": "la gallina" },
+        { "given": "il re →", "answer": "la regina" },
+        { "given": "il cugino →", "answer": "la cugina" },
+        { "given": "il cane →", "answer": "la cagna" },
+        { "given": "il maestro →", "answer": "la maestra" },
+        { "given": "il giornalista →", "answer": "la giornalista" },
+        { "given": "il lattaio →", "answer": "la lattaia" },
+        { "given": "il sarto →", "answer": "la sarta" },
+        { "given": "il suonatore →", "answer": "la suonatrice" },
+        { "given": "il pianista →", "answer": "la pianista" },
+        { "given": "il panettiere →", "answer": "la panettiera" },
+        { "given": "il preside →", "answer": "la preside" },
+        { "given": "lo studente →", "answer": "la studentessa" },
+        { "given": "il nonno →", "answer": "la nonna" }
+      ]
+    }
+  ]
+}

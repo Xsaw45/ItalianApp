@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "id": "5",
+    "title": "Il Genere del Nome",
+    "subtitle": "Maschile e femminile",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "Tutti i nomi in italiano hanno un genere grammaticale, cioè sono maschili oppure femminili. Quando il nome indica una persona o un animale, è facile sapere qual è il genere grammaticale, perché quasi sempre coincide con il sesso reale."
+      },
+      {
+        "type": "paragraph",
+        "content": "Sono di genere **maschile** i nomi di persone e di animali di sesso maschile: *uomo, padre, fratello, amico, professore, operaio, dottore; cane, leone, gallo, cavallo, gatto, lupo*."
+      },
+      {
+        "type": "paragraph",
+        "content": "Sono di genere **femminile** i nomi di persone e di animali di sesso femminile: *donna, madre, sorella, amica, professoressa, operaia, dottoressa; cagna, leonessa, gallina, cavalla, gatta, lupa, mucca*."
+      },
+      {
+        "type": "paragraph",
+        "content": "Quando il nome indica una cosa, un oggetto, un'azione, un'idea, una qualità ecc. può essere maschile o femminile; in questo caso il **genere** è solo una **categoria grammaticale**."
+      },
+      {
+        "type": "paragraph",
+        "content": "È importantissimo sapere il genere del nome, perché in italiano esiste la **concordanza**, cioè l'obbligo di mettere insieme parole tutte maschili oppure tutte femminili."
+      },
+      {
+        "type": "heading",
+        "content": "Come riconoscere il genere"
+      },
+      {
+        "type": "paragraph",
+        "content": "Possiamo guardare come finisce il nome, cioè la sua **desinenza**. Quando la desinenza non dà una risposta sicura, bisogna guardare sul dizionario."
+      },
+      {
+        "type": "table",
+        "caption": "Genere del nome in base alla desinenza",
+        "headers": ["Desinenza", "Genere", "Esempi", "Eccezioni"],
+        "rows": [
+          ["-o", "quasi sempre maschile", "il libro, il letto, il compagno, lo studio, lo zio, il tavolo", "la mano, la radio, l'eco, la moto, la foto, l'auto"],
+          ["-a", "generalmente femminile", "la mamma, la scuola, la maglia, l'acqua, la ragazza, la penna", "il problema, il diploma, il clima, il papa, il profeta, il poeta, il pilota"],
+          ["-à", "generalmente femminile", "la città, l'onestà, la sincerità, la metà", "il papà"],
+          ["-e, -è", "maschile o femminile", "il sole, il pane, il dente, il giornale, il caffè / la luce, la carne, la pelle, la soluzione", ""],
+          ["-i, -ì", "maschile o femminile", "lo sci, il lunedì, il brindisi / l'analisi, l'oasi", ""],
+          ["-ù", "generalmente femminile", "la gioventù, la servitù, la virtù", "il caucciù"]
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "5-ex1",
+      "number": 1,
+      "type": "fill-in-blank",
+      "instruction": "Inserisci l'articolo o la desinenza necessari.",
+      "items": [
+        { "before": "la lezion", "blank": true, "after": "", "answer": "e" },
+        { "before": "", "blank": true, "after": "problema", "answer": "il" },
+        { "before": "il poet", "blank": true, "after": "", "answer": "a" },
+        { "before": "", "blank": true, "after": "operaio", "answer": "l'" },
+        { "before": "il giornalist", "blank": true, "after": "", "answer": "a" },
+        { "before": "il cugin", "blank": true, "after": "", "answer": "o" },
+        { "before": "", "blank": true, "after": "formaggio", "answer": "il" },
+        { "before": "", "blank": true, "after": "mano", "answer": "la" },
+        { "before": "lo zuccher", "blank": true, "after": "", "answer": "o" },
+        { "before": "la carn", "blank": true, "after": "", "answer": "e" },
+        { "before": "", "blank": true, "after": "videogioco", "answer": "il" },
+        { "before": "", "blank": true, "after": "giovedì", "answer": "il" },
+        { "before": "la soluzion", "blank": true, "after": "", "answer": "e" },
+        { "before": "", "blank": true, "after": "pilota", "answer": "il" },
+        { "before": "", "blank": true, "after": "parrucchiera", "answer": "la" },
+        { "before": "", "blank": true, "after": "salame", "answer": "il" },
+        { "before": "il pomodor", "blank": true, "after": "", "answer": "o" },
+        { "before": "", "blank": true, "after": "clima", "answer": "il" },
+        { "before": "lo student", "blank": true, "after": "", "answer": "e" },
+        { "before": "", "blank": true, "after": "bontà", "answer": "la" }
+      ]
+    },
+    {
+      "id": "5-ex2",
+      "number": 2,
+      "type": "multiple-choice",
+      "instruction": "Per ogni nome, scegli il genere corretto: maschile o femminile.",
+      "items": [
+        { "prompt": "incidente", "options": ["maschile", "femminile"], "answer": "maschile" },
+        { "prompt": "aeroporto", "options": ["maschile", "femminile"], "answer": "maschile" },
+        { "prompt": "cammello", "options": ["maschile", "femminile"], "answer": "maschile" },
+        { "prompt": "pista", "options": ["maschile", "femminile"], "answer": "femminile" },
+        { "prompt": "pilota", "options": ["maschile", "femminile"], "answer": "maschile" },
+        { "prompt": "sabbia", "options": ["maschile", "femminile"], "answer": "femminile" },
+        { "prompt": "pancia", "options": ["maschile", "femminile"], "answer": "femminile" },
+        { "prompt": "carrello", "options": ["maschile", "femminile"], "answer": "maschile" },
+        { "prompt": "carovana", "options": ["maschile", "femminile"], "answer": "femminile" },
+        { "prompt": "animale", "options": ["maschile", "femminile"], "answer": "maschile" },
+        { "prompt": "manovra", "options": ["maschile", "femminile"], "answer": "femminile" },
+        { "prompt": "traffico", "options": ["maschile", "femminile"], "answer": "maschile" }
+      ]
+    },
+    {
+      "id": "5-ex3",
+      "number": 3,
+      "type": "matching",
+      "instruction": "Inserisci i seguenti nomi nella categoria corretta, in base al genere grammaticale.",
+      "items": [
+        { "term": "cugino", "definition": "maschile - persona" },
+        { "term": "impiegato", "definition": "maschile - persona" },
+        { "term": "medico", "definition": "maschile - persona" },
+        { "term": "zia", "definition": "femminile - persona" },
+        { "term": "segretaria", "definition": "femminile - persona" },
+        { "term": "elefante", "definition": "maschile - animale" },
+        { "term": "asino", "definition": "maschile - animale" },
+        { "term": "gallina", "definition": "femminile - animale" },
+        { "term": "leonessa", "definition": "femminile - animale" },
+        { "term": "corpo", "definition": "maschile - grammaticale" },
+        { "term": "cervello", "definition": "maschile - grammaticale" },
+        { "term": "foglio", "definition": "maschile - grammaticale" },
+        { "term": "calore", "definition": "maschile - grammaticale" },
+        { "term": "televisione", "definition": "femminile - grammaticale" },
+        { "term": "sete", "definition": "femminile - grammaticale" },
+        { "term": "pioggia", "definition": "femminile - grammaticale" }
+      ]
+    }
+  ]
+}

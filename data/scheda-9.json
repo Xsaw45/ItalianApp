@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "id": "9",
+    "title": "Gli Aggettivi Qualificativi",
+    "subtitle": "Forma, concordanza e uso",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "Gli aggettivi sono parole che servono a descrivere meglio il nome, spiegando le sue qualità e caratteristiche. Buono, cattivo, stupido, intelligente, giovane, vecchio sono aggettivi."
+      },
+      {
+        "type": "paragraph",
+        "content": "Gli aggettivi qualificativi non solo descrivono, ma **specificano** meglio il nome, che da generico diventa più preciso."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Devo stirare le camicie. (le camicie in generale)", "highlight": null },
+          { "italian": "Devo stirare le camicie nuove. (solo quelle nuove)", "highlight": "nuove" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Gli aggettivi devono sempre **concordare con il nome** al quale si riferiscono: se mettiamo insieme un articolo, un nome e un aggettivo, essi devono essere tutti e tre maschili oppure tutti e tre femminili, e tutti e tre singolari o plurali."
+      },
+      {
+        "type": "heading",
+        "content": "La Forma"
+      },
+      {
+        "type": "table",
+        "caption": "I due gruppi di aggettivi",
+        "headers": ["Maschile sing.", "Femminile sing.", "Maschile plur.", "Femminile plur."],
+        "rows": [
+          ["-o (nuovo)", "-a (nuova)", "-i (nuovi)", "-e (nuove)"],
+          ["-e (intelligente)", "-e (intelligente)", "-i (intelligenti)", "-i (intelligenti)"]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "**Attenzione:** L'aggettivo *egoista* ha un solo singolare (egoista), ma due plurali: *egoisti* al maschile e *egoiste* al femminile."
+      },
+      {
+        "type": "heading",
+        "content": "L'Uso con più nomi"
+      },
+      {
+        "type": "list",
+        "items": [
+          "**Plurale maschile** se i nomi sono maschili: *Un libro e un quaderno nuovi*",
+          "**Plurale femminile** se i nomi sono femminili: *Una penna e una matita nuove*",
+          "**Plurale maschile** se i nomi sono uno maschile e uno femminile: *Una penna e un libro nuovi*"
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "9-ex1",
+      "number": 1,
+      "type": "transformation",
+      "instruction": "Trasforma dal singolare al plurale.",
+      "items": [
+        { "given": "giornata faticosa", "answer": "giornate faticose" },
+        { "given": "bella canzone", "answer": "belle canzoni" },
+        { "given": "alloggio piccolo", "answer": "alloggi piccoli" },
+        { "given": "occhio azzurro", "answer": "occhi azzurri" },
+        { "given": "stella luminosa", "answer": "stelle luminose" },
+        { "given": "stanza buia", "answer": "stanze buie" },
+        { "given": "donna noiosa", "answer": "donne noiose" },
+        { "given": "esercizio difficile", "answer": "esercizi difficili" }
+      ]
+    },
+    {
+      "id": "9-ex2",
+      "number": 2,
+      "type": "table-completion",
+      "instruction": "Completa la tabella con le forme mancanti dell'aggettivo concordato.",
+      "headers": ["Maschile sing.", "Femminile sing.", "Maschile plur.", "Femminile plur."],
+      "rows": [
+        {
+          "cells": [
+            { "value": "il nuovo compagno", "editable": false },
+            { "value": "la nuova compagna", "editable": false },
+            { "value": "i nuovi compagni", "editable": false },
+            { "value": "le nuove compagne", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "il ragazzo antipatico", "editable": false },
+            { "value": "la ragazza antipatica", "editable": true, "answer": "la ragazza antipatica" },
+            { "value": "i ragazzi antipatici", "editable": true, "answer": "i ragazzi antipatici" },
+            { "value": "le ragazze antipatiche", "editable": true, "answer": "le ragazze antipatiche" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "l'insegnante severo", "editable": true, "answer": "l'insegnante severo" },
+            { "value": "l'insegnante severa", "editable": false },
+            { "value": "gli insegnanti severi", "editable": true, "answer": "gli insegnanti severi" },
+            { "value": "le insegnanti severe", "editable": true, "answer": "le insegnanti severe" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "l'operaio puntuale", "editable": false },
+            { "value": "l'operaia puntuale", "editable": true, "answer": "l'operaia puntuale" },
+            { "value": "gli operai puntuali", "editable": true, "answer": "gli operai puntuali" },
+            { "value": "le operaie puntuali", "editable": true, "answer": "le operaie puntuali" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "il bambino allegro", "editable": true, "answer": "il bambino allegro" },
+            { "value": "la bambina allegra", "editable": true, "answer": "la bambina allegra" },
+            { "value": "i bambini allegri", "editable": false },
+            { "value": "le bambine allegre", "editable": true, "answer": "le bambine allegre" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "l'allievo intelligente", "editable": true, "answer": "l'allievo intelligente" },
+            { "value": "l'allieva intelligente", "editable": false },
+            { "value": "gli allievi intelligenti", "editable": true, "answer": "gli allievi intelligenti" },
+            { "value": "le allieve intelligenti", "editable": true, "answer": "le allieve intelligenti" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9-ex3",
+      "number": 3,
+      "type": "sentence-completion",
+      "instruction": "Completa le frasi inserendo l'aggettivo tra parentesi concordato al nome a cui si riferisce.",
+      "items": [
+        {
+          "segments": [
+            { "text": "1. Sul balcone ho molti vasi " },
+            { "blank": true, "answer": "pieni" },
+            { "text": " di fiori " },
+            { "blank": true, "answer": "rossi" },
+            { "text": "." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "2. Sono passati due camion molto " },
+            { "blank": true, "answer": "veloci" },
+            { "text": " e " },
+            { "blank": true, "answer": "rumorosi" },
+            { "text": "." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "3. Maddalena ha avuto delle occasioni " },
+            { "blank": true, "answer": "favorevoli" },
+            { "text": " di lavoro, ma non le ha accettate." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "4. Questi biscotti sono troppo " },
+            { "blank": true, "answer": "dolci" },
+            { "text": "." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "5. Francesca fa sempre delle telefonate così " },
+            { "blank": true, "answer": "lunghe" },
+            { "text": " che suo padre si arrabbia." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9-ex4",
+      "number": 4,
+      "type": "transformation",
+      "instruction": "Riscrivi le seguenti frasi, trasformando al femminile tutti gli elementi possibili (articoli, nomi, aggettivi).",
+      "items": [
+        { "given": "Mio cugino è un ragazzo intelligente, ma troppo vanitoso.", "answer": "Mia cugina è una ragazza intelligente, ma troppo vanitosa." },
+        { "given": "Il gatto di Bruno è piccolo, nero e molto affettuoso.", "answer": "La gatta di Bruno è piccola, nera e molto affettuosa." },
+        { "given": "Piero e Giovanni sono i compagni più simpatici e divertenti della classe.", "answer": "Piera e Giovanna sono le compagne più simpatiche e divertenti della classe." },
+        { "given": "Il fratello di Paolo fa il cassiere in banca.", "answer": "La sorella di Paolo fa la cassiera in banca." },
+        { "given": "Il dottor Pezzano è un pediatra molto competente e preparato.", "answer": "La dottoressa Pezzano è una pediatra molto competente e preparata." }
+      ]
+    }
+  ]
+}

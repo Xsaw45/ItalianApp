@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "id": "10",
+    "title": "I Gradi dell'Aggettivo",
+    "subtitle": "Positivo, comparativo e superlativo",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "Gli aggettivi qualificativi possono esprimere in modo generale come sono una persona o una cosa, ma anche precisare quanto la persona o la cosa sono in quel modo, cioè in quale misura e grado possiedono una certa qualità."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Questa casa è grande. → grado positivo", "highlight": "grande" },
+          { "italian": "Questa casa è più grande della casa di Rosi. → comparativo di maggioranza", "highlight": "più grande" },
+          { "italian": "Questa casa è meno grande della mia. → comparativo di minoranza", "highlight": "meno grande" },
+          { "italian": "Questa casa è grande come quella di papà. → comparativo di uguaglianza", "highlight": "grande come" },
+          { "italian": "Questa casa è grandissima. → superlativo assoluto", "highlight": "grandissima" },
+          { "italian": "Questa casa è la più grande del paese. → superlativo relativo", "highlight": "la più grande" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Il Comparativo"
+      },
+      {
+        "type": "paragraph",
+        "content": "Il grado comparativo si usa quando si fa il confronto tra due elementi (primo e secondo termine di paragone)."
+      },
+      {
+        "type": "list",
+        "items": [
+          "**Comparativo di maggioranza:** il primo termine possiede la qualità in misura maggiore → *Questa casa è **più grande** della casa di Rosi.*",
+          "**Comparativo di minoranza:** il primo termine possiede la qualità in misura minore → *Questa casa è **meno grande** della mia.*",
+          "**Comparativo di uguaglianza:** il primo termine possiede la qualità in misura uguale → *Questa casa è **grande come** quella di papà.*"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "I due termini sono collegati da **di** (se paragoniamo nomi o pronomi: *Emilia è più elegante **di** Adriana*) oppure **che** (se paragoniamo verbi o aggettivi: *Davide è più simpatico **che** bello*)."
+      },
+      {
+        "type": "heading",
+        "content": "Il Superlativo"
+      },
+      {
+        "type": "list",
+        "items": [
+          "**Superlativo relativo:** qualità al massimo o minimo grado rispetto a un gruppo → *Questa pizza è **la più buona** di tutte. Salvatore è **il meno simpatico** tra gli amici.*",
+          "**Superlativo assoluto:** qualità al massimo grado senza confronto → *Oggi è una giornata **freddissima**. Ugo era **simpaticissimo**.*"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Il superlativo assoluto si forma sostituendo alla desinenza la desinenza **-issimo** (caro → carissimo) oppure mettendo davanti **molto, estremamente, incredibilmente** (caro → molto caro)."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "10-ex1",
+      "number": 1,
+      "type": "transformation",
+      "instruction": "Scrivi il comparativo di maggioranza e il superlativo assoluto degli aggettivi seguenti. Esempio: amaro → più amaro, amarissimo.",
+      "items": [
+        { "given": "luminosa → comparativo:", "answer": "più luminosa" },
+        { "given": "luminosa → superlativo:", "answer": "luminosissima" },
+        { "given": "antichi → comparativo:", "answer": "più antichi" },
+        { "given": "antichi → superlativo:", "answer": "antichissimi" },
+        { "given": "strane → comparativo:", "answer": "più strane" },
+        { "given": "strane → superlativo:", "answer": "stranissime" },
+        { "given": "digeribile → comparativo:", "answer": "più digeribile" },
+        { "given": "digeribile → superlativo:", "answer": "digeribilissimo" },
+        { "given": "pesanti → comparativo:", "answer": "più pesanti" },
+        { "given": "pesanti → superlativo:", "answer": "pesantissimi" },
+        { "given": "faticosa → comparativo:", "answer": "più faticosa" },
+        { "given": "faticosa → superlativo:", "answer": "faticosissima" },
+        { "given": "lucido → comparativo:", "answer": "più lucido" },
+        { "given": "lucido → superlativo:", "answer": "lucidissimo" }
+      ]
+    },
+    {
+      "id": "10-ex2",
+      "number": 2,
+      "type": "transformation",
+      "instruction": "Scrivi il superlativo relativo dei seguenti aggettivi. Esempio: piccolo → il più piccolo.",
+      "items": [
+        { "given": "piccolo", "answer": "il più piccolo" },
+        { "given": "divertente", "answer": "il più divertente" },
+        { "given": "nera", "answer": "la più nera" },
+        { "given": "chiari", "answer": "i più chiari" },
+        { "given": "golose", "answer": "le più golose" },
+        { "given": "povera", "answer": "la più povera" },
+        { "given": "giovane", "answer": "il più giovane" },
+        { "given": "gustoso", "answer": "il più gustoso" },
+        { "given": "spiritosi", "answer": "i più spiritosi" },
+        { "given": "utili", "answer": "i più utili" }
+      ]
+    },
+    {
+      "id": "10-ex3",
+      "number": 3,
+      "type": "matching",
+      "instruction": "Unisci ogni nome della prima colonna ad un aggettivo e poi a un nome della terza colonna per formare frasi comparative logiche.",
+      "items": [
+        { "term": "il gatto / veloce / la tartaruga", "definition": "Il gatto è più veloce della tartaruga." },
+        { "term": "l'Everest / alto / il Cervino", "definition": "L'Everest è più alto del Cervino." },
+        { "term": "il sole / luminoso / la luna", "definition": "Il sole è più luminoso della luna." },
+        { "term": "l'erba / verde / le foglie", "definition": "L'erba è verde come le foglie." },
+        { "term": "il ghiaccio / freddo / l'acqua", "definition": "Il ghiaccio è più freddo dell'acqua." },
+        { "term": "l'Africa / popolosa / l'Oceania", "definition": "L'Africa è più popolosa dell'Oceania." },
+        { "term": "l'oro / prezioso / l'argento", "definition": "L'oro è più prezioso dell'argento." },
+        { "term": "l'uva / dolce / la banana", "definition": "L'uva è dolce come la banana." }
+      ]
+    },
+    {
+      "id": "10-ex4",
+      "number": 4,
+      "type": "open-ended",
+      "instruction": "Con le coppie di parole che seguono, inventa delle frasi facendo dei paragoni (comparativo di maggioranza e di minoranza): 1) Roma / Bologna  2) mio cugino / tuo fratello  3) Stefano / Piergiorgio  4) estate / primavera  5) mare / lago  6) ciliegia / mela",
+      "suggestedAnswer": "Esempio: Roma è più grande di Bologna. / Bologna è meno popolata di Roma."
+    }
+  ]
+}

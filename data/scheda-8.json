@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "id": "8",
+    "title": "La Struttura del Nome",
+    "subtitle": "Radice, desinenza, nomi primitivi e derivati",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "I nomi sono composti da parti che possiamo dividere e spiegare."
+      },
+      {
+        "type": "list",
+        "items": [
+          "La **radice** è la parte della parola che esprime il suo significato.",
+          "La **desinenza** è la parte della parola che indica le sue caratteristiche grammaticali (genere e numero)."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Ad esempio: **CAS**-A (radice + desinenza femminile singolare), **RAGAZZ**-O (radice + desinenza maschile singolare), **MAR**-E (radice + desinenza maschile singolare), **LIBR**-I (radice + desinenza maschile plurale)."
+      },
+      {
+        "type": "paragraph",
+        "content": "I nomi composti solo dalla radice e dalla desinenza si chiamano **nomi primitivi**."
+      },
+      {
+        "type": "heading",
+        "content": "Nomi derivati"
+      },
+      {
+        "type": "paragraph",
+        "content": "Partendo dai nomi primitivi si formano i **nomi derivati**, cioè nomi con prefissi e suffissi che li fanno diventare nomi nuovi con un altro significato."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Il **prefisso** è un elemento che si mette prima della radice.",
+          "Il **suffisso** è un elemento che si mette dopo la radice."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Ad esempio: **PORT-A** è un nome primitivo (radice + desinenza). **PORT-IER-E** è un nome derivato (radice + suffisso + desinenza). **S-PORT-ELL-O** è un nome derivato (prefisso + radice + suffisso + desinenza)."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "8-ex1",
+      "number": 1,
+      "type": "fill-in-blank",
+      "instruction": "Da quali nomi primitivi nascono i seguenti gruppi di nomi derivati?",
+      "items": [
+        { "before": "maglieria, maglifico, maglierista derivano da", "blank": true, "after": "", "answer": "maglia" },
+        { "before": "ventilatore, ventaglio, ventata derivano da", "blank": true, "after": "", "answer": "vento" },
+        { "before": "panettiere, panettone, panificio derivano da", "blank": true, "after": "", "answer": "pane" },
+        { "before": "cavalletto, cavaliere, cavalluccio derivano da", "blank": true, "after": "", "answer": "cavallo" },
+        { "before": "acquitrino, acquazzone, acquario derivano da", "blank": true, "after": "", "answer": "acqua" },
+        { "before": "scalone, scalinata, scalino derivano da", "blank": true, "after": "", "answer": "scala" },
+        { "before": "marinaio, mareggiata, maremoto derivano da", "blank": true, "after": "", "answer": "mare" },
+        { "before": "casolare, casato, casalinga derivano da", "blank": true, "after": "", "answer": "casa" }
+      ]
+    },
+    {
+      "id": "8-ex2",
+      "number": 2,
+      "type": "matching",
+      "instruction": "Unisci ogni nome primitivo con il suo derivato.",
+      "items": [
+        { "term": "dente", "definition": "dentista" },
+        { "term": "braccio", "definition": "braccialetto" },
+        { "term": "piede", "definition": "pedone" },
+        { "term": "occhio", "definition": "occhiali" },
+        { "term": "collo", "definition": "collana" },
+        { "term": "dito", "definition": "ditale" },
+        { "term": "barba", "definition": "barbiere" },
+        { "term": "testa", "definition": "testata" },
+        { "term": "mano", "definition": "maniglia" },
+        { "term": "orecchio", "definition": "orecchino" }
+      ]
+    },
+    {
+      "id": "8-ex3",
+      "number": 3,
+      "type": "open-ended",
+      "instruction": "Completa la tabella con l'aiuto del dizionario. Per ogni nome primitivo, scrivi tre nomi derivati: 1) fiore  2) lavoro  3) erba  4) carta  5) occhio  6) latte  7) pane  8) libro  9) dente. Esempio: città → cittadino, cittadinanza, concittadino.",
+      "suggestedAnswer": "Esempi: fiore → fiorista, fioraio, fioriera; lavoro → lavoratore, lavorazione, lavorante; erba → erbaccia, erbivoro, erboristeria; carta → cartoleria, cartolina, cartiera; occhio → occhiali, occhiata, occhiolino; latte → latteria, lattaio, latticini; pane → panettiere, panificio, panettone; libro → libreria, libraio, libretto; dente → dentista, dentiera, dentifricio."
+    }
+  ]
+}

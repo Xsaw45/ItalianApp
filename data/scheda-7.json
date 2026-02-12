@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "id": "7",
+    "title": "Il Numero del Nome",
+    "subtitle": "Singolare e plurale",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "Tutti i nomi in italiano hanno un numero grammaticale, cioè qualcosa che indica se sono singolari o plurali. L'elemento che indica il numero è la desinenza della parola."
+      },
+      {
+        "type": "paragraph",
+        "content": "Il numero è **singolare** quando il nome indica una sola persona o una sola cosa: *il fratello, il cane, la bambina, la matita*."
+      },
+      {
+        "type": "paragraph",
+        "content": "Il numero è **plurale** quando il nome indica più di una persona o più di una cosa: *i fratelli, i cani, le bambine, le matite*."
+      },
+      {
+        "type": "paragraph",
+        "content": "Ci sono però parecchi nomi che non cambiano, cioè hanno il singolare e il plurale uguali: si chiamano **nomi invariabili**: *il re / i re, la città / le città, il caffè / i caffè*."
+      },
+      {
+        "type": "heading",
+        "content": "Come si passa dal singolare al plurale"
+      },
+      {
+        "type": "table",
+        "caption": "Regole generali",
+        "headers": ["Desinenza singolare", "Desinenza plurale", "Esempi"],
+        "rows": [
+          ["-a", "-i (maschili) / -e (femminili)", "problema/problemi, donna/donne"],
+          ["-o", "-i", "libro/libri"],
+          ["-e", "-i", "cane/cani"],
+          ["-i", "-i (invariabile)", "crisi/crisi, analisi/analisi"]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Casi particolari"
+      },
+      {
+        "type": "table",
+        "caption": "Plurali particolari",
+        "headers": ["Singolare", "Plurale", "Esempi"],
+        "rows": [
+          ["-ca/-ga", "-chi/-ghi (M) / -che/-ghe (F)", "collega/colleghi, banca/banche"],
+          ["-co/-go (accento penultima)", "-chi/-ghi", "gioco/giochi, elenco/elenchi"],
+          ["-co/-go (accento terzultima)", "-ci/-gi", "sindaco/sindaci, medico/medici"],
+          ["-logo (cose)", "-loghi", "dialogo/dialoghi"],
+          ["-logo (persone)", "-logi", "psicologo/psicologi"],
+          ["-cia/-gia (dopo consonante)", "-ce/-ge", "mancia/mance, pioggia/piogge"],
+          ["-cia/-gia (dopo vocale)", "-cie/-gie", "valigia/valigie, camicia/camicie"],
+          ["-cìa/-gìa (accento sulla i)", "-cìe/-gìe", "farmacia/farmacie, bugia/bugie"],
+          ["-io", "-i", "figlio/figli, bacio/baci"],
+          ["-ìo (accento sulla i)", "-ii", "zio/zii, pendio/pendii"]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "**Nomi irregolari:** uomo/uomini, bue/buoi, paio/paia, dio/dei, uovo/uova, braccio/braccia."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "7-ex1",
+      "number": 1,
+      "type": "transformation",
+      "instruction": "Volgi al plurale i seguenti nomi singolari.",
+      "items": [
+        { "given": "l'omicida", "answer": "gli omicidi" },
+        { "given": "l'uomo", "answer": "gli uomini" },
+        { "given": "la borsetta", "answer": "le borsette" },
+        { "given": "il pino", "answer": "i pini" },
+        { "given": "la ciliegia", "answer": "le ciliegie" },
+        { "given": "la scodella", "answer": "le scodelle" },
+        { "given": "la pioggia", "answer": "le piogge" },
+        { "given": "il giornalista", "answer": "i giornalisti" },
+        { "given": "l'automobile", "answer": "le automobili" },
+        { "given": "il lampadario", "answer": "i lampadari" },
+        { "given": "la principessa", "answer": "le principesse" },
+        { "given": "il rubinetto", "answer": "i rubinetti" },
+        { "given": "lo zaino", "answer": "gli zaini" },
+        { "given": "il semaforo", "answer": "i semafori" },
+        { "given": "la goccia", "answer": "le gocce" },
+        { "given": "il guadagno", "answer": "i guadagni" },
+        { "given": "la lavatrice", "answer": "le lavatrici" },
+        { "given": "il giornale", "answer": "i giornali" },
+        { "given": "la freccia", "answer": "le frecce" },
+        { "given": "il dizionario", "answer": "i dizionari" },
+        { "given": "la pallina", "answer": "le palline" },
+        { "given": "il frigorifero", "answer": "i frigoriferi" },
+        { "given": "la ringhiera", "answer": "le ringhiere" },
+        { "given": "la scarpa", "answer": "le scarpe" }
+      ]
+    },
+    {
+      "id": "7-ex2",
+      "number": 2,
+      "type": "transformation",
+      "instruction": "Volgi al plurale i nomi singolari e al singolare i nomi plurali.",
+      "items": [
+        { "given": "il medico →", "answer": "i medici" },
+        { "given": "l'infermiera →", "answer": "le infermiere" },
+        { "given": "i dottori →", "answer": "il dottore" },
+        { "given": "l'infermiere →", "answer": "le infermiere" },
+        { "given": "la medicina →", "answer": "le medicine" },
+        { "given": "la farmacia →", "answer": "le farmacie" },
+        { "given": "il farmacista →", "answer": "i farmacisti" },
+        { "given": "i farmaci →", "answer": "il farmaco" },
+        { "given": "l'iniezione →", "answer": "le iniezioni" },
+        { "given": "lo sciroppo →", "answer": "gli sciroppi" },
+        { "given": "le pastiglie →", "answer": "la pastiglia" },
+        { "given": "la radiografia →", "answer": "le radiografie" },
+        { "given": "l'analisi →", "answer": "le analisi" },
+        { "given": "la goccia →", "answer": "le gocce" },
+        { "given": "l'ambulatorio →", "answer": "gli ambulatori" },
+        { "given": "gli ospedali →", "answer": "l'ospedale" },
+        { "given": "il pediatra →", "answer": "i pediatri" },
+        { "given": "i cardiologi →", "answer": "il cardiologo" }
+      ]
+    },
+    {
+      "id": "7-ex3",
+      "number": 3,
+      "type": "multiple-choice",
+      "instruction": "Indica il plurale corretto.",
+      "items": [
+        { "prompt": "doccia", "options": ["docce", "doccie"], "answer": "docce" },
+        { "prompt": "geologo", "options": ["geologi", "geologhi"], "answer": "geologi" },
+        { "prompt": "buccia", "options": ["bucce", "buccie"], "answer": "bucce" },
+        { "prompt": "portafoglio", "options": ["portafogli", "portafoglii"], "answer": "portafogli" },
+        { "prompt": "dizionario", "options": ["dizionarii", "dizionari"], "answer": "dizionari" },
+        { "prompt": "brontolio", "options": ["brontolii", "brontoli"], "answer": "brontolii" },
+        { "prompt": "traffico", "options": ["traffici", "traffichi"], "answer": "traffici" },
+        { "prompt": "focaccia", "options": ["focacce", "focaccie"], "answer": "focacce" },
+        { "prompt": "rasoio", "options": ["rasoi", "rasoii"], "answer": "rasoi" },
+        { "prompt": "vocabolario", "options": ["vocabolarii", "vocabolari"], "answer": "vocabolari" }
+      ]
+    }
+  ]
+}

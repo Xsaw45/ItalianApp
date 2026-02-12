@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "id": "4",
+    "title": "Il Nome",
+    "subtitle": "Classificazione dei nomi",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "I nomi sono le parole che servono per indicare quello che noi pensiamo e di cui parliamo: persone, animali, oggetti, pensieri, luoghi, idee, sensazioni, sentimenti..."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "compagno, cane, erba, pallone, cioccolato, libro, macchina, sole, giorno, malattia, Italia, libertà, fame, amicizia, matematica", "highlight": null }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "È possibile classificare i nomi in vari modi."
+      },
+      {
+        "type": "heading",
+        "content": "Nomi comuni e nomi propri"
+      },
+      {
+        "type": "paragraph",
+        "content": "I **nomi comuni** indicano una persona, un animale o una cosa in generale e si scrivono con la lettera iniziale minuscola."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "città, ragazzo, fiume, gatto, canarino", "highlight": null }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "I **nomi propri** indicano una persona, un animale o una cosa in modo particolare e che lo distingue; si scrivono con la lettera iniziale maiuscola."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Torino, Francesco, Po, Ulisse", "highlight": null }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Nomi concreti e nomi astratti"
+      },
+      {
+        "type": "paragraph",
+        "content": "I **nomi concreti** indicano una persona, un animale o una cosa reali, che si possono vedere, sentire o toccare."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "casa, tavolo, mamma, amico, sole, patata, ossigeno", "highlight": null }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "I **nomi astratti** indicano idee, concetti, pensieri, sentimenti che si possono solo pensare ma non si possono vedere, sentire o toccare."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "allegria, amicizia, velocità, paura, vecchiaia", "highlight": null }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Nomi individuali e nomi collettivi"
+      },
+      {
+        "type": "paragraph",
+        "content": "I **nomi individuali** indicano una sola persona o una sola cosa."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "studente, ladro, pecora, soldato, stella, isola", "highlight": null }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "I **nomi collettivi** indicano un insieme, un gruppo di persone o di cose."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "classe, banda, gregge (= gruppo di pecore), esercito, costellazione (= gruppo di stelle), arcipelago (= gruppo di isole)", "highlight": null }
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "4-ex1",
+      "number": 1,
+      "type": "sentence-completion",
+      "instruction": "Sottolinea nel brano i nomi comuni e metti la lettera maiuscola ai nomi propri. Riscrivi i nomi propri con la maiuscola.",
+      "items": [
+        {
+          "segments": [
+            { "text": "Il sindaco si mette alla guida dell'auto municipale per trasportare i concittadini non serviti dal trasporto pubblico. Sta succedendo a " },
+            { "blank": true, "answer": "Drezzo" },
+            { "text": " (" },
+            { "blank": true, "answer": "Como" },
+            { "text": "), comune di mille abitanti al confine con la " },
+            { "blank": true, "answer": "Svizzera" },
+            { "text": "." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "E dal momento che la " },
+            { "blank": true, "answer": "Spt" },
+            { "text": ", la società che gestisce la linea, non ha istituito un servizio navetta, è intervenuto il primo cittadino, " },
+            { "blank": true, "answer": "Lorenzo" },
+            { "text": " " },
+            { "blank": true, "answer": "Canepa" },
+            { "text": "." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Ha messo a disposizione la " },
+            { "blank": true, "answer": "Fiat" },
+            { "text": " uno del comune." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4-ex2",
+      "number": 2,
+      "type": "matching",
+      "instruction": "Inserisci i nomi nella colonna giusta: nomi comuni o nomi propri. Ricorda la lettera maiuscola per i nomi propri.",
+      "items": [
+        { "term": "bottiglia", "definition": "nome comune" },
+        { "term": "ferro", "definition": "nome comune" },
+        { "term": "luce", "definition": "nome comune" },
+        { "term": "unghia", "definition": "nome comune" },
+        { "term": "statua", "definition": "nome comune" },
+        { "term": "gamba", "definition": "nome comune" },
+        { "term": "arancia", "definition": "nome comune" },
+        { "term": "giocattolo", "definition": "nome comune" },
+        { "term": "informazione", "definition": "nome comune" },
+        { "term": "papà", "definition": "nome comune" },
+        { "term": "dizionario", "definition": "nome comune" },
+        { "term": "Alessandro Manzoni", "definition": "nome proprio" },
+        { "term": "Milano", "definition": "nome proprio" },
+        { "term": "Londra", "definition": "nome proprio" },
+        { "term": "Roberto", "definition": "nome proprio" },
+        { "term": "Vittorio Emanuele", "definition": "nome proprio" },
+        { "term": "Berlusconi", "definition": "nome proprio" },
+        { "term": "Africa", "definition": "nome proprio" },
+        { "term": "Rio delle Amazzoni", "definition": "nome proprio" },
+        { "term": "Appennini", "definition": "nome proprio" },
+        { "term": "Bologna", "definition": "nome proprio" },
+        { "term": "Vasco Rossi", "definition": "nome proprio" },
+        { "term": "Ralph Schumacher", "definition": "nome proprio" }
+      ]
+    },
+    {
+      "id": "4-ex3",
+      "number": 3,
+      "type": "fill-in-blank",
+      "instruction": "Scrivi vicino a ogni nome proprio il nome comune che lo spiega.",
+      "items": [
+        { "before": "Alessandro Del Piero →", "blank": true, "after": "", "answer": "calciatore" },
+        { "before": "Giacomo Leopardi →", "blank": true, "after": "", "answer": "poeta" },
+        { "before": "Venezia →", "blank": true, "after": "", "answer": "città" },
+        { "before": "Ferrari →", "blank": true, "after": "", "answer": "automobile" },
+        { "before": "Juventus →", "blank": true, "after": "", "answer": "squadra" },
+        { "before": "Danubio →", "blank": true, "after": "", "answer": "fiume" },
+        { "before": "Sicilia →", "blank": true, "after": "", "answer": "isola" }
+      ]
+    },
+    {
+      "id": "4-ex4",
+      "number": 4,
+      "type": "fill-in-blank",
+      "instruction": "Scrivi vicino a ogni nome collettivo da quali persone, animali o cose è formato.",
+      "items": [
+        { "before": "Lo sciame è un gruppo di", "blank": true, "after": "", "answer": "api" },
+        { "before": "La flotta è formata da", "blank": true, "after": "", "answer": "navi" },
+        { "before": "La squadra è formata da", "blank": true, "after": "", "answer": "giocatori" },
+        { "before": "La mandria è formata da", "blank": true, "after": "", "answer": "mucche" },
+        { "before": "La risma è un insieme di", "blank": true, "after": "", "answer": "fogli" },
+        { "before": "La clientela è formata da", "blank": true, "after": "", "answer": "clienti" },
+        { "before": "La giuria è un gruppo di", "blank": true, "after": "", "answer": "giudici" },
+        { "before": "Il fogliame è formato da", "blank": true, "after": "", "answer": "foglie" },
+        { "before": "Il bosco è formato da", "blank": true, "after": "", "answer": "alberi" },
+        { "before": "L'orchestra è un gruppo di", "blank": true, "after": "", "answer": "musicisti" }
+      ]
+    }
+  ]
+}
