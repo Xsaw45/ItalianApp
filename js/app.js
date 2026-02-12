@@ -131,6 +131,11 @@ function setupMobileMenu() {
   hamburger.addEventListener('click', toggleMenu);
   overlay.addEventListener('click', closeMenu);
 
+  // Close menu when clicking any sidebar link
+  sidebar.addEventListener('click', (e) => {
+    if (e.target.closest('a')) closeMenu();
+  });
+
   // Close menu on navigation
   window.addEventListener('hashchange', closeMenu);
 }
