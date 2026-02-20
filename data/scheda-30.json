@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "id": "30",
+    "title": "Il congiuntivo",
+    "subtitle": "Forma e uso del modo congiuntivo",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "**Il congiuntivo è un altro dei modi verbali della lingua italiana (nelle schede precedenti è stato presentato il modo indicativo).**"
+      },
+      {
+        "type": "paragraph",
+        "content": "Il congiuntivo è il modo verbale che serve per esprimere **incertezza**, **dubbio**, **desiderio**. È importante capire la differenza di significato tra l'indicativo e il congiuntivo."
+      },
+      {
+        "type": "table",
+        "caption": "Indicativo vs Congiuntivo",
+        "headers": ["Indicativo", "Congiuntivo"],
+        "rows": [
+          ["Esprime un fatto presentato come vero, reale, sicuro", "Esprime un fatto presentato come possibile, o come solo pensato, desiderato, temuto"],
+          ["*Oggi c'è il sole.*", "*Che bello se oggi ci **fosse** il sole!*"],
+          ["*Sono sicuro che domani ci **sarà** il sole.*", "*Ho paura che domani non ci **sia** il sole.*"],
+          ["*So che Tobias **lavora** alla Fiat.*", "*Credo che Tobias **lavori** alla Fiat.*"],
+          ["*Clelia **arriva** sempre in ritardo.*", "*Può darsi che Clelia **arrivi** in ritardo.*"]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "La forma"
+      },
+      {
+        "type": "paragraph",
+        "content": "Il modo congiuntivo ha 4 tempi:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "2 semplici (formati da una sola parola): **presente** (*che io lavori*) e **imperfetto** (*che io lavorassi*)",
+          "2 composti (formati da due parole): **passato** (*che io abbia lavorato*) e **trapassato** (*che io avessi lavorato*)"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Per le coniugazioni regolari del congiuntivo **vedi *Tavole dei verbi*, pp. 324–31.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "Le forme irregolari riguardano il presente e a volte anche l'imperfetto di alcuni verbi. Ecco le più comuni."
+      },
+      {
+        "type": "table",
+        "caption": "Verbi irregolari al congiuntivo",
+        "headers": ["Infinito", "Congiuntivo presente", "Congiuntivo imperfetto", "Infinito", "Congiuntivo presente", "Congiuntivo imperfetto"],
+        "rows": [
+          ["andare", "vada", "andassi", "salire", "salga", "salissi"],
+          ["avere", "abbia", "avessi", "sapere", "sappia", "sapessi"],
+          ["bere", "beva", "bevessi", "scegliere", "scelga", "scegliessi"],
+          ["dare", "dia", "dessi", "stare", "stia", "stessi"],
+          ["dire", "dica", "dicessi", "tenere", "tenga", "tenessi"],
+          ["dovere", "debba", "dovessi", "togliere", "tolga", "togliessi"],
+          ["essere", "sia", "fossi", "tradurre", "traduca", "traducessi"],
+          ["fare", "faccia", "facessi", "uscire", "esca", "uscissi"],
+          ["potere", "possa", "potessi", "venire", "venga", "venissi"],
+          ["rimanere", "rimanga", "rimanessi", "volere", "voglia", "volessi"]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "L'uso"
+      },
+      {
+        "type": "paragraph",
+        "content": "Il congiuntivo può essere usato in frasi indipendenti o in frasi dipendenti da altre."
+      },
+      {
+        "type": "paragraph",
+        "content": "**a)** L'uso in frasi indipendenti non è molto frequente e si limita soprattutto ai seguenti casi:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "**ordine/invito/esortazione** (con il congiuntivo presente) rivolti a qualcuno a cui si dà del Lei",
+          "**desiderio** che si pensa non possibile, non realizzabile (con il congiuntivo imperfetto)"
+        ]
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Signora, **entri**, **si accomodi** pure qui. Dottor Fusco, mi **dica** la verità.", "highlight": "entri, si accomodi, dica" },
+          { "italian": "**Giri** al primo incrocio e poi **vada** sempre dritto.", "highlight": "Giri, vada" },
+          { "italian": "Ah, se **potessi** tornare al mio paese! Se mia madre **guarisse**! Se **avessi** un lavoro!", "highlight": "potessi, guarisse, avessi" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "**b)** Per l'uso del congiuntivo in frasi dipendenti **vedi Scheda 31.**"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "30-ex1",
+      "number": 1,
+      "type": "table-completion",
+      "instruction": "Completa la tabella.",
+      "headers": ["Indicativo Presente", "Indicativo Imperfetto", "Congiuntivo Presente", "Congiuntivo Imperfetto"],
+      "rows": [
+        {
+          "cells": [
+            { "value": "io vado", "editable": false },
+            { "value": "io andavo", "editable": false },
+            { "value": "io vada", "editable": false },
+            { "value": "io andassi", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "tu dai", "editable": true, "answer": "tu dai" },
+            { "value": "tu davi", "editable": false },
+            { "value": "tu dia", "editable": true, "answer": "tu dia" },
+            { "value": "tu dessi", "editable": true, "answer": "tu dessi" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "lui dice", "editable": true, "answer": "lui dice" },
+            { "value": "lui diceva", "editable": true, "answer": "lui diceva" },
+            { "value": "lui dica", "editable": true, "answer": "lui dica" },
+            { "value": "lui dicesse", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "lui fa", "editable": true, "answer": "lui fa" },
+            { "value": "lui faceva", "editable": true, "answer": "lui faceva" },
+            { "value": "lui faccia", "editable": false },
+            { "value": "lui facesse", "editable": true, "answer": "lui facesse" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "voi uscite", "editable": false },
+            { "value": "voi uscivate", "editable": true, "answer": "voi uscivate" },
+            { "value": "voi usciate", "editable": true, "answer": "voi usciate" },
+            { "value": "voi usciste", "editable": true, "answer": "voi usciste" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30-ex2",
+      "number": 2,
+      "type": "table-completion",
+      "instruction": "Completa la tabella. Per le forme del trapassato prossimo, consulta le tavole dei verbi (pp. 324-31).",
+      "headers": ["Indicativo Passato prossimo", "Indicativo Trapassato prossimo", "Congiuntivo Passato", "Congiuntivo Trapassato"],
+      "rows": [
+        {
+          "cells": [
+            { "value": "io sono venuto", "editable": false },
+            { "value": "io ero venuto", "editable": false },
+            { "value": "io sia venuto", "editable": false },
+            { "value": "io fossi venuto", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "lei è uscita", "editable": false },
+            { "value": "lei era uscita", "editable": true, "answer": "lei era uscita" },
+            { "value": "lei sia uscita", "editable": true, "answer": "lei sia uscita" },
+            { "value": "lei fosse uscita", "editable": true, "answer": "lei fosse uscita" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "noi abbiamo voluto", "editable": true, "answer": "noi abbiamo voluto" },
+            { "value": "noi avevamo voluto", "editable": true, "answer": "noi avevamo voluto" },
+            { "value": "noi abbiamo voluto", "editable": true, "answer": "noi abbiamo voluto" },
+            { "value": "noi avessimo voluto", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "voi avete saputo", "editable": true, "answer": "voi avete saputo" },
+            { "value": "voi avevate saputo", "editable": true, "answer": "voi avevate saputo" },
+            { "value": "voi abbiate saputo", "editable": true, "answer": "voi abbiate saputo" },
+            { "value": "voi aveste saputo", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "lui è andato", "editable": false },
+            { "value": "lui era andato", "editable": true, "answer": "lui era andato" },
+            { "value": "lui sia andato", "editable": true, "answer": "lui sia andato" },
+            { "value": "lui fosse andato", "editable": true, "answer": "lui fosse andato" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30-ex3",
+      "number": 3,
+      "type": "transformation",
+      "instruction": "Trasforma le seguenti frasi usando il congiuntivo presente al posto delle espressioni in neretto.\n\n*Esempio: Signora, **dovrebbe ritelefonare** domani. → Signora, ritelefoni domani.*",
+      "items": [
+        {
+          "given": "Signorina, **può aspettare** un momento?",
+          "answer": "Signorina, aspetti un momento."
+        },
+        {
+          "given": "Professore, **perché non viene** a mangiare la pizza con noi?",
+          "answer": "Professore, venga a mangiare la pizza con noi."
+        },
+        {
+          "given": "Signorina, **le dispiace chiudere** la porta?",
+          "answer": "Signorina, chiuda la porta."
+        },
+        {
+          "given": "Signor Borello, **potrebbe portarmi** i suoi documenti?",
+          "answer": "Signor Borello, mi porti i suoi documenti."
+        }
+      ]
+    },
+    {
+      "id": "30-ex4",
+      "number": 4,
+      "type": "open-ended",
+      "instruction": "Nella seguente lettera sottolinea in blu i verbi all'indicativo e in rosso i verbi al congiuntivo.",
+      "items": [
+        {
+          "sentence": "Cara Maria, non ho più ricevuto tue notizie. Come stai? Come stanno gli zii? Spero che vada tutto bene e che siate contenti della casa nuova. Immagino che traslocare sia stato molto faticoso. Mi ricordo che quando abbiamo cambiato casa noi otto anni fa era stato terribile. Appena ti è possibile, vorrei che tu ti ricordassi di parlare a Franco, come ti avevo chiesto, per sapere se è sempre d'accordo di venderci la macchina quando gli arriverà quella nuova. Se gli arrivasse entro la fine del prossimo mese, potremmo venire ad Asti e fare l'atto di vendita. Se invece avesse cambiato idea, dimmelo, e ci regoleremo diversamente. Tanti saluti agli zii e a te un forte abbraccio. Chiara.",
+          "suggestedAnswer": "Indicativo: ho ricevuto, stai, stanno, ricordo, abbiamo cambiato, era stato, è possibile, è, arriverà, potremmo, dimmelo, regoleremo. Congiuntivo: vada, siate, sia stato, ti ricordassi, arrivasse, avesse cambiato."
+        }
+      ]
+    }
+  ]
+}

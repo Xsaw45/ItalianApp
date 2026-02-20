@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "id": "34",
+    "title": "Il gerundio",
+    "subtitle": "Forma, uso e forma perifrastica",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "Il gerundio è un modo del verbo che esprime un'azione mettendola in rapporto con il verbo della frase principale dal punto di vista **causale**, **temporale** e **modale**."
+      },
+      {
+        "type": "list",
+        "items": [
+          "**Rapporto di causa** — **Mangiando** troppo, ingrassi. (*Dato che mangi troppo, ingrassi*)",
+          "**Rapporto di tempo** — **Andando** a casa, ho visto Roby. (*Mentre andavo a casa, ho visto Roby*)",
+          "**Rapporto di modo** — Jacopo studia **pensando** ad altro. (*Jacopo studia in modo distratto*)"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "La forma"
+      },
+      {
+        "type": "paragraph",
+        "content": "Il gerundio ha 2 tempi:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "uno **semplice** (formato da una sola parola), che indica un'azione contemporanea a quella della frase principale",
+          "uno **composto** (formato da due parole), che indica un'azione anteriore (avvenuta prima) a quella della frase principale"
+        ]
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "**presente** — Annibale, **attraversando** le Alpi con l'esercito e con gli elefanti, trovò molta neve.", "highlight": "attraversando" },
+          { "italian": "**passato** — Annibale, **avendo attraversato** le Alpi, arrivò nella pianura Padana.", "highlight": "avendo attraversato" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Per le coniugazioni regolari del gerundio, **vedi *Tavole dei verbi*, pp. 324–31.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "Indichiamo di seguito il gerundio presente dei più importanti verbi irregolari."
+      },
+      {
+        "type": "table",
+        "caption": "Gerundio presente dei verbi irregolari",
+        "headers": ["fare", "bere", "dire"],
+        "rows": [
+          ["facendo", "bevendo", "dicendo"]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "**Attenzione:** Se con il gerundio c'è un **pronome personale** diretto o indiretto, questo si mette dopo il gerundio e forma con esso una sola parola: vedendo**lo**, guardando**ti**…"
+      },
+      {
+        "type": "heading",
+        "content": "L'uso"
+      },
+      {
+        "type": "paragraph",
+        "content": "Oltre che nei casi spiegati finora, il gerundio si usa molto spesso preceduto dal verbo **stare** (all'indicativo **presente** o **imperfetto**) per indicare un'azione che è in svolgimento:"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "sto mangiando, stanno studiando, stavano andando", "highlight": "sto mangiando, stanno studiando, stavano andando" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Osserva la differenza tra l'uso del verbo nella forma normale e in questa forma con il gerundio, detta **perifrastica**."
+      },
+      {
+        "type": "table",
+        "caption": "Forma normale vs. forma perifrastica",
+        "headers": ["Forma normale", "Forma perifrastica"],
+        "rows": [
+          [
+            "In primavera piove spesso. (piove indica un evento naturale, una cosa che succede in generale)",
+            "Sta piovendo. (sta piovendo indica che c'è la pioggia in questo momento)"
+          ],
+          [
+            "I bambini dormono molto. (dormono indica un'abitudine, un fatto generale che succede sempre)",
+            "I bambini stanno dormendo. (stanno dormendo indica che i bambini in questo momento sono a letto e dormono)"
+          ]
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "34-ex1",
+      "number": 1,
+      "type": "transformation",
+      "instruction": "Trasforma al gerundio presente le espressioni in neretto delle seguenti frasi.",
+      "items": [
+        {
+          "given": "**Dato che pago** con la carta di credito, tengo pochi soldi nel portafoglio.",
+          "answer": "Pagando con la carta di credito, tengo pochi soldi nel portafoglio."
+        },
+        {
+          "given": "**Mentre scendeva** le scale, Paola è scivolata e si è fatta male.",
+          "answer": "Scendendo le scale, Paola è scivolata e si è fatta male."
+        },
+        {
+          "given": "La poveretta è stata investita dalla macchina, **mentre attraversava** la strada sulle strisce pedonali.",
+          "answer": "La poveretta è stata investita dalla macchina, attraversando la strada sulle strisce pedonali."
+        },
+        {
+          "given": "**Mentre pensava** a lei, Peter era felice.",
+          "answer": "Pensando a lei, Peter era felice."
+        },
+        {
+          "given": "**Quando mi lavo** i capelli, mi accorgo che ne perdo molti.",
+          "answer": "Lavandomi i capelli, mi accorgo che ne perdo molti."
+        }
+      ]
+    },
+    {
+      "id": "34-ex2",
+      "number": 2,
+      "type": "transformation",
+      "instruction": "Trasforma al gerundio passato le espressioni in neretto delle seguenti frasi.",
+      "items": [
+        {
+          "given": "Il nostro esercito ha vinto la battaglia, **dopo aver combattuto** a lungo.",
+          "answer": "Il nostro esercito ha vinto la battaglia, avendo combattuto a lungo."
+        },
+        {
+          "given": "**Quando ho sentito** come stavano le cose, ho preferito andarmene.",
+          "answer": "Avendo sentito come stavano le cose, ho preferito andarmene."
+        },
+        {
+          "given": "**Dato che ha fatto** molti straordinari, mio padre questo mese ha guadagnato più del solito.",
+          "answer": "Avendo fatto molti straordinari, mio padre questo mese ha guadagnato più del solito."
+        },
+        {
+          "given": "**Dopo aver pagato** tutti i debiti, loro si sentono più tranquilli.",
+          "answer": "Avendo pagato tutti i debiti, loro si sentono più tranquilli."
+        },
+        {
+          "given": "**Dato che ha visto** che c'era poca gente, Andrea si è offeso ed è andato via.",
+          "answer": "Avendo visto che c'era poca gente, Andrea si è offeso ed è andato via."
+        }
+      ]
+    },
+    {
+      "id": "34-ex3",
+      "number": 3,
+      "type": "fill-in-blank",
+      "instruction": "Completa le seguenti frasi unendo al gerundio il pronome personale adatto.",
+      "items": [
+        { "before": "Vedendo", "blank": true, "after": "ho capito che Francesca e Sandra sono molto amiche.", "answer": "le" },
+        { "before": "Questi esercizi diventano più chiari rifacendo", "blank": true, "after": ".", "answer": "li" },
+        { "before": "Le mie magliette sono diventate troppo strette lavando", "blank": true, "after": ".", "answer": "le" },
+        { "before": "Questa merendina sembrava buona, ma mangiando", "blank": true, "after": "ho sentito un gusto cattivo.", "answer": "la" },
+        { "before": "Leggendo", "blank": true, "after": "ho visto che questo libro è abbastanza interessante.", "answer": "lo" }
+      ]
+    },
+    {
+      "id": "34-ex4",
+      "number": 4,
+      "type": "fill-in-blank",
+      "instruction": "Completa le seguenti frasi usando il gerundio nella forma perifrastica dei verbi indicati tra parentesi.",
+      "items": [
+        { "before": "Fatima", "blank": true, "after": "(preparare) il cous-cous.", "answer": "sta preparando" },
+        { "before": "Alla radio", "blank": true, "after": "(trasmettere) il Festival di Sanremo.", "answer": "stanno trasmettendo" },
+        { "before": "In questo momento", "blank": true, "after": "(tuonare) e", "answer": "sta tuonando" },
+        { "before": "", "blank": true, "after": "(piovere) a dirotto.", "answer": "sta piovendo" },
+        { "before": "Mentre io", "blank": true, "after": "(fare) colazione, è arrivata mia sorella piangendo.", "answer": "stavo facendo" },
+        { "before": "Questo film", "blank": true, "after": "(avere) molto successo.", "answer": "sta avendo" },
+        { "before": "Che cosa", "blank": true, "after": "(fare) Ahmed quando l'hai incontrato?", "answer": "stava facendo" },
+        { "before": "A chi", "blank": true, "after": "(telefonare) Carlo?", "answer": "stava telefonando" },
+        { "before": "Il Presidente della Repubblica", "blank": true, "after": "(parlare) in televisione.", "answer": "sta parlando" }
+      ]
+    }
+  ]
+}

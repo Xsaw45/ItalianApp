@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "id": "35",
+    "title": "I verbi servili e fraseologici",
+    "subtitle": "Verbi uniti all'infinito con o senza preposizione",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "I verbi che si usano generalmente **uniti a un verbo all'infinito** si chiamano:\n- **servili**: *dovere*, *potere*, *volere*;\n- **fraseologici**: *cominciare*, *smettere*, *cercare*…"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Non **vuole** studiare.", "highlight": "vuole" },
+          { "italian": "**Incominciano** a capire l'inglese.", "highlight": "Incominciano" },
+          { "italian": "**Smetti** di gridare!", "highlight": "Smetti" },
+          { "italian": "**Cerchiamo** di fare attenzione.", "highlight": "Cerchiamo" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Questi verbi sono uniti all'infinito:"
+      },
+      {
+        "type": "heading",
+        "content": "Direttamente (senza preposizione)"
+      },
+      {
+        "type": "table",
+        "caption": "Verbi seguiti direttamente dall'infinito",
+        "headers": ["Verbo", "Esempio"],
+        "rows": [
+          ["volere", "Vorrei andare a dormire."],
+          ["potere", "Posso telefonare io, se vuoi."],
+          ["dovere", "Devo studiare dieci pagine di geografia."],
+          ["piacere", "Mi piace molto stare qui."],
+          ["preferire", "Preferisco andare a casa."],
+          ["fare", "Queste notizie mi fanno stare male."],
+          ["lasciare", "Lascia perdere."]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "(Si costruiscono unendosi direttamente all'infinito senza alcuna preposizione anche le espressioni verbo *essere* + aggettivo: è bello, è facile, è inutile…)"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "È difficile imparare questa lezione.", "highlight": "È difficile" },
+          { "italian": "Sarebbe bellissimo prendere il sole.", "highlight": "Sarebbe bellissimo" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Con la preposizione a"
+      },
+      {
+        "type": "table",
+        "caption": "Verbi seguiti da a + infinito",
+        "headers": ["Verbo", "Esempio"],
+        "rows": [
+          ["incominciare", "Paola ha incominciato **a** studiare l'inglese."],
+          ["continuare", "Continua **a** leggere."],
+          ["divertirsi", "Silvio si diverte **a** collezionare francobolli."],
+          ["decidersi", "Vincenzo si è deciso **a** sposarsi."],
+          ["mettersi", "Mettiti **a** studiare."],
+          ["insistere", "Beatrice insiste **a** chiedergli dei soldi, ma è inutile."],
+          ["provare", "Prova **a** telefonare di nuovo."],
+          ["riuscire", "Non riesco **a** capire questo problema di geometria."]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Con la preposizione di"
+      },
+      {
+        "type": "table",
+        "caption": "Verbi seguiti da di + infinito",
+        "headers": ["Verbo", "Esempio"],
+        "rows": [
+          ["finire", "Ho finito **di** studiare."],
+          ["pensare", "Penso **di** preparare una bella frittata per cena."],
+          ["credere", "Credo **di** aver studiato abbastanza."],
+          ["decidere", "Stefan ha deciso **di** tornare in Romania."],
+          ["cercare", "Cerca **di** parlare più forte."],
+          ["ricordarsi", "Ricordiamoci **di** restituire il quaderno a Sara."],
+          ["dimenticarsi", "Ti sei dimenticato **di** portare la giustificazione?"],
+          ["accettare", "Jonas ha accettato **di** fare quel lavoro, anche se non gli piace."],
+          ["tentare", "Tenterò **di** spiegarti che cosa è successo."],
+          ["rifiutare", "Mi rifiuto **di** tornare da quel medico."],
+          ["far finta/fingere", "Raffaella fa finta **di** essere d'accordo, ma poi fa quello che vuole."],
+          ["sforzarsi", "Sforzati **di** fare più attenzione."]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "**Attenzione:** I verbi *pensare* e *credere* sono seguiti da **di + infinito** quando il soggetto di *pensare/credere* e il soggetto dell'infinito sono uguali:"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Io penso **di** partire (**io** penso – **io** parto).", "highlight": "di" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Quando il soggetto è diverso, *pensare* e *credere* sono seguiti da **che + indicativo** o **congiuntivo**:"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Io penso **che** partiremo (**io** penso – **noi** partiremo)", "highlight": "che" },
+          { "italian": "Io penso **che** loro partano (**io** penso – **loro** partano)", "highlight": "che" }
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "35-ex1",
+      "number": 1,
+      "type": "fill-in-blank",
+      "instruction": "Completa le seguenti frasi con la preposizione giusta (se occorre).",
+      "items": [
+        { "before": "Sforzati", "blank": true, "after": "fare più attenzione.", "answer": "di" },
+        { "before": "Giorgio e Pina continuano", "blank": true, "after": "uscire insieme.", "answer": "a" },
+        { "before": "Provo di nuovo", "blank": true, "after": "telefonargli.", "answer": "a" },
+        { "before": "Se non sono arrivati tutti, non metterti", "blank": true, "after": "mangiare.", "answer": "a" },
+        { "before": "Vorrei", "blank": true, "after": "ritrovare il berretto che ho perso.", "answer": "—" },
+        { "before": "Mio zio si diverte", "blank": true, "after": "scrivere canzoni e", "answer": "a" },
+        { "before": "", "blank": true, "after": "suonarle con la chitarra.", "answer": "a" },
+        { "before": "Mio padre ha deciso", "blank": true, "after": "cambiare casa.", "answer": "di" },
+        { "before": "È inutile che insistiamo", "blank": true, "after": "invitarla.", "answer": "a" },
+        { "before": "È impossibile", "blank": true, "after": "arrivare in tempo.", "answer": "—" },
+        { "before": "Incominceremo", "blank": true, "after": "verniciare le porte domani.", "answer": "a" }
+      ]
+    },
+    {
+      "id": "35-ex2",
+      "number": 2,
+      "type": "fill-in-blank",
+      "instruction": "Completa le seguenti frasi con la preposizione giusta (se occorre).",
+      "items": [
+        { "before": "Finite", "blank": true, "after": "fare l'esercizio, poi potete", "answer": "di" },
+        { "before": "", "blank": true, "after": "fare l'intervallo.", "answer": "—" },
+        { "before": "Non riesco", "blank": true, "after": "capire le equazioni.", "answer": "a" },
+        { "before": "Continua", "blank": true, "after": "suonare, finché risponde.", "answer": "a" },
+        { "before": "Preferisco", "blank": true, "after": "ascoltare musica che ballare.", "answer": "—" },
+        { "before": "Lucia pensava", "blank": true, "after": "iscriversi a un corso di karate.", "answer": "di" },
+        { "before": "Ricordiamoci", "blank": true, "after": "andare a ritirare le fotografie.", "answer": "di" },
+        { "before": "I nostri vicini di casa si rifiutano", "blank": true, "after": "spostare la macchina.", "answer": "di" },
+        { "before": "Tenteremo ancora", "blank": true, "after": "convincerli.", "answer": "di" },
+        { "before": "Dora deve", "blank": true, "after": "partire per la Germania.", "answer": "—" },
+        { "before": "I signori Traversa hanno deciso", "blank": true, "after": "traslocare.", "answer": "di" }
+      ]
+    },
+    {
+      "id": "35-ex3",
+      "number": 3,
+      "type": "multiple-choice",
+      "instruction": "Indica (✓) l'alternativa corretta.",
+      "items": [
+        {
+          "sentence": "_____ domani a tagliarmi i capelli.",
+          "options": [
+            "a. Penso andare domani a tagliarmi i capelli.",
+            "b. Penso di andare domani a tagliarmi i capelli.",
+            "c. Penso a andare domani a tagliarmi i capelli."
+          ],
+          "answer": "b. Penso di andare domani a tagliarmi i capelli."
+        },
+        {
+          "sentence": "_____ capire l'italiano?",
+          "options": [
+            "a. È difficile a capire l'italiano?",
+            "b. È difficile capire l'italiano?",
+            "c. È difficile di capire l'italiano?"
+          ],
+          "answer": "b. È difficile capire l'italiano?"
+        },
+        {
+          "sentence": "Lui preferisce _____ il panino.",
+          "options": [
+            "a. Lui preferisce di mangiare il panino.",
+            "b. Lui preferisce a mangiare il panino.",
+            "c. Lui preferisce mangiare il panino."
+          ],
+          "answer": "c. Lui preferisce mangiare il panino."
+        },
+        {
+          "sentence": "Mi ricorderò _____ portarti le cassette.",
+          "options": [
+            "a. Mi ricorderò portarti le cassette.",
+            "b. Mi ricorderò di portarti le cassette.",
+            "c. Mi ricorderò a portarti le cassette."
+          ],
+          "answer": "b. Mi ricorderò di portarti le cassette."
+        }
+      ]
+    },
+    {
+      "id": "35-ex4",
+      "number": 4,
+      "type": "transformation",
+      "instruction": "Costruisci le frasi, secondo il modello, e scrivile sul tuo quaderno.\n\n*Io penso / io studio fino alle sei. → Io penso di studiare fino alle sei.*",
+      "items": [
+        {
+          "given": "Lui crede / lui è intelligente",
+          "answer": "Lui crede di essere intelligente."
+        },
+        {
+          "given": "Lui crede / suo fratello è intelligente",
+          "answer": "Lui crede che suo fratello sia intelligente."
+        },
+        {
+          "given": "Noi pensiamo / noi andiamo in vacanza in Marocco",
+          "answer": "Noi pensiamo di andare in vacanza in Marocco."
+        },
+        {
+          "given": "Noi pensiamo / loro vanno in vacanza in Marocco",
+          "answer": "Noi pensiamo che loro vadano in vacanza in Marocco."
+        },
+        {
+          "given": "Io pensavo / io compravo un paio di scarpe da ginnastica",
+          "answer": "Io pensavo di comprare un paio di scarpe da ginnastica."
+        },
+        {
+          "given": "Io pensavo / tu compravi un paio di scarpe da ginnastica",
+          "answer": "Io pensavo che tu comprassi un paio di scarpe da ginnastica."
+        }
+      ]
+    }
+  ]
+}

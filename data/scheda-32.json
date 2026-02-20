@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "id": "32",
+    "title": "Il condizionale",
+    "subtitle": "Forma e uso del modo condizionale",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "**Il condizionale è un altro dei modi verbali della lingua italiana (nelle schede precedenti sono già stati presentati il modo indicativo e il modo congiuntivo).**"
+      },
+      {
+        "type": "paragraph",
+        "content": "Il condizionale è il modo del verbo che indica che un'azione avviene a condizione che se ne verifichi un'altra."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "**Mangerei**, se ci fosse qualcosa di buono.", "highlight": "Mangerei" },
+          { "italian": "Se facesse meno freddo, **mi laverei** i capelli.", "highlight": "mi laverei" },
+          { "italian": "**Verrei** volentieri a trovarti, se i miei mi lasciassero.", "highlight": "Verrei" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "La forma"
+      },
+      {
+        "type": "paragraph",
+        "content": "Il modo condizionale ha 2 tempi:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "uno **semplice** (formato da una sola parola), che serve per esprimere un evento che potrebbe accadere nel **presente** a condizione che ne accada un altro: *Se studiassi di più, **prenderei** un bel voto.*",
+          "uno **composto** (formato da due parole), che serve per esprimere un evento che sarebbe accaduto nel **passato** a condizione che – sempre nel passato – ne fosse accaduto un altro: *Se avessi studiato di più, **avrei preso** un bel voto.*"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Per le coniugazioni regolari del condizionale, **vedi *Tavole dei verbi*, pp. 324–31.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "Indichiamo di seguito il condizionale presente dei più importanti verbi irregolari."
+      },
+      {
+        "type": "table",
+        "caption": "Verbi irregolari al condizionale (gruppo 1)",
+        "headers": ["Avere", "Essere", "Andare", "Dare", "Fare"],
+        "rows": [
+          ["io avrei", "io sarei", "io andrei", "io darei", "io farei"],
+          ["tu avresti", "tu saresti", "tu andresti", "tu daresti", "tu faresti"],
+          ["lui avrebbe", "lui sarebbe", "lui andrebbe", "lui darebbe", "lui farebbe"],
+          ["noi avremmo", "noi saremmo", "noi andremmo", "noi daremmo", "noi faremmo"],
+          ["voi avreste", "voi sareste", "voi andreste", "voi dareste", "voi fareste"],
+          ["loro avrebbero", "loro sarebbero", "loro andrebbero", "loro darebbero", "loro farebbero"]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Verbi irregolari al condizionale (gruppo 2)",
+        "headers": ["Sapere", "Potere", "Dovere", "Volere", "Venire"],
+        "rows": [
+          ["io saprei", "io potrei", "io dovrei", "io vorrei", "io verrei"],
+          ["tu sapresti", "tu potresti", "tu dovresti", "tu vorresti", "tu verresti"],
+          ["lui saprebbe", "lui potrebbe", "lui dovrebbe", "lui vorrebbe", "lui verrebbe"],
+          ["noi sapremmo", "noi potremmo", "noi dovremmo", "noi vorremmo", "noi verremmo"],
+          ["voi sapreste", "voi potreste", "voi dovreste", "voi vorreste", "voi verreste"],
+          ["loro saprebbero", "loro potrebbero", "loro dovrebbero", "loro vorrebbero", "loro verrebbero"]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "L'uso"
+      },
+      {
+        "type": "paragraph",
+        "content": "Il condizionale si usa:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "**da solo** – per esprimere un **desiderio**: *Vorrei andare al cinema.* / *Mi piacerebbe avere un telefonino nuovo.*",
+          "**da solo** – per esprimere una **richiesta gentile**: *Mi daresti un po' d'acqua?* / *Mi compreresti un gelato?*",
+          "**in coppia con il congiuntivo** – nelle **frasi ipotetiche**: *Se potessi, partirei subito.* → **vedi Scheda 40, *Il periodo ipotetico*.**"
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "32-ex1",
+      "number": 1,
+      "type": "transformation",
+      "instruction": "Trasforma le seguenti frasi, usando il condizionale presente, secondo il modello.\n\n*Esempio: Mangio una pizza. → Mangerei volentieri una pizza.*",
+      "items": [
+        {
+          "given": "Luca smette di lavorare.",
+          "answer": "Luca smetterebbe volentieri di lavorare."
+        },
+        {
+          "given": "Noi andiamo in palestra.",
+          "answer": "Noi andremmo volentieri in palestra."
+        },
+        {
+          "given": "Suo padre lavora in un negozio.",
+          "answer": "Suo padre lavorerebbe volentieri in un negozio."
+        },
+        {
+          "given": "Johnny cambia casa.",
+          "answer": "Johnny cambierebbe volentieri casa."
+        },
+        {
+          "given": "Facciamo un giorno di vacanza.",
+          "answer": "Faremmo volentieri un giorno di vacanza."
+        },
+        {
+          "given": "Mi metto i pantaloni nuovi.",
+          "answer": "Mi metterei volentieri i pantaloni nuovi."
+        }
+      ]
+    },
+    {
+      "id": "32-ex2",
+      "number": 2,
+      "type": "transformation",
+      "instruction": "Trasforma le seguenti frasi, usando il condizionale passato, secondo il modello.\n\n*Esempio: Sono andato alla partita. → Sarei andato volentieri alla partita.*",
+      "items": [
+        {
+          "given": "Ho fatto molte fotografie a Francesco e Anna.",
+          "answer": "Avrei fatto volentieri molte fotografie a Francesco e Anna."
+        },
+        {
+          "given": "Loro hanno visto l'ultimo film di 007.",
+          "answer": "Loro avrebbero visto volentieri l'ultimo film di 007."
+        },
+        {
+          "given": "Ho mangiato la pasta ai quattro formaggi.",
+          "answer": "Avrei mangiato volentieri la pasta ai quattro formaggi."
+        },
+        {
+          "given": "La zia Anita ha preso il caffè.",
+          "answer": "La zia Anita avrebbe preso volentieri il caffè."
+        },
+        {
+          "given": "Sono partito ieri.",
+          "answer": "Sarei partito volentieri ieri."
+        },
+        {
+          "given": "Siamo andati al matrimonio di Massimo e Stefania.",
+          "answer": "Saremmo andati volentieri al matrimonio di Massimo e Stefania."
+        }
+      ]
+    },
+    {
+      "id": "32-ex3",
+      "number": 3,
+      "type": "fill-in-blank",
+      "instruction": "Rispondi alle domande usando il condizionale passato, secondo il modello.\n\n*Esempio: Perché non sei venuto al cinema con noi? → Sarei venuto, ma non avevo i soldi.*",
+      "items": [
+        {
+          "before": "Perché non hai telefonato a Maria? – Le",
+          "blank": true,
+          "after": ", ma ho perso il suo numero.",
+          "answer": "avrei telefonato"
+        },
+        {
+          "before": "Perché non avete innaffiato i vasi sul terrazzo? – Li",
+          "blank": true,
+          "after": ", ma non c'era acqua.",
+          "answer": "avremmo innaffiati"
+        },
+        {
+          "before": "Perché non hai guardato il telegiornale? – Lo",
+          "blank": true,
+          "after": ", ma dovevo fare una telefonata urgente.",
+          "answer": "avrei guardato"
+        },
+        {
+          "before": "Perché non hai fatto merenda? – La",
+          "blank": true,
+          "after": ", ma dovevo andare in piscina.",
+          "answer": "avrei fatta"
+        },
+        {
+          "before": "",
+          "blank": true,
+          "after": ", ma ho preso il tram perché ero in ritardo.",
+          "answer": "Sarei andato a piedi"
+        },
+        {
+          "before": "",
+          "blank": true,
+          "after": ", ma il tempo era brutto.",
+          "answer": "Saremmo andati al mare domenica"
+        }
+      ]
+    },
+    {
+      "id": "32-ex4",
+      "number": 4,
+      "type": "fill-in-blank",
+      "instruction": "Completa le seguenti frasi, usando il condizionale del verbo indicato tra parentesi.",
+      "items": [
+        {
+          "before": "Ti",
+          "blank": true,
+          "after": "(portare) alla stazione, ma non ho la macchina.",
+          "answer": "avrei portato"
+        },
+        {
+          "before": "I signori Gaidano",
+          "blank": true,
+          "after": "(volere) tornare a Torino, ma per ora continuano a lavorare in Svizzera.",
+          "answer": "vorrebbero"
+        },
+        {
+          "before": "Zia, ti",
+          "blank": true,
+          "after": "(piacere) venire con noi al concerto?",
+          "answer": "piacerebbe"
+        },
+        {
+          "before": "Mi dispiace, io ti",
+          "blank": true,
+          "after": "(accompagnare) volentieri dal medico, ma alle 9 devo essere in ufficio.",
+          "answer": "avrei accompagnato"
+        },
+        {
+          "before": "Enrico e Fabiola",
+          "blank": true,
+          "after": "(sposarsi) ma non hanno ancora trovato casa.",
+          "answer": "si sposerebbero"
+        }
+      ]
+    }
+  ]
+}

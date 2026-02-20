@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "id": "33",
+    "title": "L'imperativo",
+    "subtitle": "Forma, uso e imperativo negativo",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "**L'imperativo è un altro dei modi verbali della lingua italiana (nelle schede precedenti sono già stati presentati il modo indicativo, il modo congiuntivo e il modo condizionale).**"
+      },
+      {
+        "type": "paragraph",
+        "content": "L'imperativo è il modo del verbo che serve per esprimere un **ordine**, un **comando**."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "**Sta'** zitto!", "highlight": "Sta'" },
+          { "italian": "**Esci** immediatamente!", "highlight": "Esci" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "L'imperativo può anche esprimere un **suggerimento**, un **invito**."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Per favore, **ascolta** quello che dico.", "highlight": "ascolta" },
+          { "italian": "Su, **prendi** ancora un po' di pollo!", "highlight": "prendi" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "La forma"
+      },
+      {
+        "type": "paragraph",
+        "content": "L'imperativo ha solo il tempo presente e ha solo due persone: **tu** e **voi**. Per le coniugazioni regolari dell'imperativo, **vedi *Tavole dei verbi*, pp. 324–31.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "Indichiamo di seguito l'imperativo dei più importanti verbi irregolari."
+      },
+      {
+        "type": "table",
+        "caption": "Imperativo dei verbi irregolari",
+        "headers": ["andare", "dare", "stare", "dire", "fare", "avere", "essere"],
+        "rows": [
+          ["va' (vai)", "da' (dai)", "sta' (stai)", "di'", "fa' (fai)", "abbi", "sii"],
+          ["andate", "date", "state", "dite", "fate", "abbiate", "siate"]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Quando si usa l'imperativo con un pronome personale diretto o indiretto, questo si mette dopo l'imperativo e forma con esso una sola parola."
+      },
+      {
+        "type": "table",
+        "caption": "Imperativo con pronomi personali",
+        "headers": ["Indicativo", "Imperativo"],
+        "rows": [
+          ["Tu lo compri", "Compralo!"],
+          ["Tu li guardi", "Guardali!"],
+          ["Tu ci porti", "Portaci!"],
+          ["Voi le pagate", "Pagatele!"]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "**Attenzione:** Con i cinque verbi *andare*, *dare*, *dire*, *fare*, *stare*, se l'imperativo di 2ª persona singolare (tu) è unito a un pronome personale, la consonante di questo pronome raddoppia:"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "vacci, dillo, dille, dammi, facci, fammi, dalle, falle, stammi…", "highlight": "vacci, dillo, dille, dammi, facci, fammi, dalle, falle, stammi" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "L'uso"
+      },
+      {
+        "type": "paragraph",
+        "content": "L'imperativo si usa per dare un ordine; per essere gentili, bisogna sempre aggiungere l'espressione *per favore* o *per piacere*."
+      },
+      {
+        "type": "paragraph",
+        "content": "Quando si vogliono dare ordini/inviti/suggerimenti a una persona a cui diamo del Lei, dobbiamo usare la 3ª persona singolare del presente congiuntivo."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Signora, **venga**.", "highlight": "venga" },
+          { "italian": "Dottore, **dica** pure.", "highlight": "dica" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "L'imperativo negativo"
+      },
+      {
+        "type": "paragraph",
+        "content": "L'imperativo negativo si forma nel seguente modo:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "per il **tu**: con **non + infinito** → Vieni! → Non venire!",
+          "per il **Lei**: con **non + congiuntivo presente** → Venga! → Non venga!",
+          "per il **voi**: con **non + imperativo** → Venite! → Non venite!"
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "33-ex1",
+      "number": 1,
+      "type": "table-completion",
+      "instruction": "Completa la tabella.",
+      "headers": ["Infinito", "Imperativo Tu", "Imperativo Voi"],
+      "rows": [
+        {
+          "cells": [
+            { "value": "scrivere", "editable": false },
+            { "value": "scrivi", "editable": true, "answer": "scrivi" },
+            { "value": "scrivete", "editable": true, "answer": "scrivete" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "ritornare", "editable": false },
+            { "value": "ritorna", "editable": true, "answer": "ritorna" },
+            { "value": "ritornate", "editable": true, "answer": "ritornate" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "studiare", "editable": false },
+            { "value": "studia", "editable": true, "answer": "studia" },
+            { "value": "studiate", "editable": true, "answer": "studiate" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "dormire", "editable": false },
+            { "value": "dormi", "editable": true, "answer": "dormi" },
+            { "value": "dormite", "editable": true, "answer": "dormite" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "telefonare", "editable": false },
+            { "value": "telefona", "editable": true, "answer": "telefona" },
+            { "value": "telefonate", "editable": true, "answer": "telefonate" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "fare", "editable": false },
+            { "value": "fa' (fai)", "editable": true, "answer": "fa' (fai)" },
+            { "value": "fate", "editable": true, "answer": "fate" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "andare", "editable": false },
+            { "value": "va' (vai)", "editable": true, "answer": "va' (vai)" },
+            { "value": "andate", "editable": true, "answer": "andate" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "ascoltare", "editable": false },
+            { "value": "ascolta", "editable": true, "answer": "ascolta" },
+            { "value": "ascoltate", "editable": true, "answer": "ascoltate" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "tagliare", "editable": false },
+            { "value": "taglia", "editable": true, "answer": "taglia" },
+            { "value": "tagliate", "editable": true, "answer": "tagliate" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "pagare", "editable": false },
+            { "value": "paga", "editable": true, "answer": "paga" },
+            { "value": "pagate", "editable": true, "answer": "pagate" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "33-ex2",
+      "number": 2,
+      "type": "fill-in-blank",
+      "instruction": "Completa le seguenti frasi con l'imperativo del verbo indicato tra parentesi.",
+      "items": [
+        { "before": "Franca,", "blank": true, "after": "(portare) qui il cane!", "answer": "porta" },
+        { "before": "(Voi)", "blank": true, "after": "(leggere) più lentamente!", "answer": "leggete" },
+        { "before": "Zia,", "blank": true, "after": "(sentire), mi fai un favore?", "answer": "senti" },
+        { "before": "Ragazzi,", "blank": true, "after": "(pulire) la vostra camera.", "answer": "pulite" },
+        { "before": "Bobby,", "blank": true, "after": "(mangiare) la zuppa!", "answer": "mangia" },
+        { "before": "Se ci tieni alla salute,", "blank": true, "after": "(smettere) di fumare.", "answer": "smetti" }
+      ]
+    },
+    {
+      "id": "33-ex3",
+      "number": 3,
+      "type": "transformation",
+      "instruction": "Trasforma le seguenti frasi all'imperativo negativo.",
+      "items": [
+        { "given": "Smetti di studiare.", "answer": "Non smettere di studiare." },
+        { "given": "Compra i francobolli.", "answer": "Non comprare i francobolli." },
+        { "given": "Andate al supermercato.", "answer": "Non andate al supermercato." },
+        { "given": "Butta la pasta.", "answer": "Non buttare la pasta." },
+        { "given": "Mangia il cioccolato.", "answer": "Non mangiare il cioccolato." }
+      ]
+    },
+    {
+      "id": "33-ex4",
+      "number": 4,
+      "type": "transformation",
+      "instruction": "Trasforma le seguenti frasi dalla forma amichevole (tu) alla **forma di cortesia** (Lei).",
+      "items": [
+        { "given": "Jennifer, cerca di arrivare puntuale! → Signorina,", "answer": "cerchi di arrivare puntuale!" },
+        { "given": "Mamma, rispondi al telefono! → Signora,", "answer": "risponda al telefono!" },
+        { "given": "Luca, telefona all'avvocato! → Dottor Giovanardi,", "answer": "telefoni all'avvocato!" },
+        { "given": "Carlotta, riportami il libro! → Signorina Buzzi,", "answer": "mi riporti il libro!" },
+        { "given": "Giovanni, compila questo modulo! → Signor Golzio,", "answer": "compili questo modulo!" }
+      ]
+    },
+    {
+      "id": "33-ex5",
+      "number": 5,
+      "type": "fill-in-blank",
+      "instruction": "Completa le seguenti frasi con l'imperativo e il pronome personale.",
+      "items": [
+        { "before": "Federica,", "blank": true, "after": "(darmi) il tuo indirizzo, per favore.", "answer": "dammi" },
+        { "before": "Ragazze,", "blank": true, "after": "(telefonargli) subito, altrimenti esce.", "answer": "telefonategli" },
+        { "before": "Antonio,", "blank": true, "after": "(svegliarsi),", "answer": "svegliati" },
+        { "before": "", "blank": true, "after": "(sbrigarsi), è tardi.", "answer": "sbrigati" },
+        { "before": "Paola,", "blank": true, "after": "(mettersi) la gonna lilla, che ti sta così bene!", "answer": "mettiti" },
+        { "before": "Daniele,", "blank": true, "after": "(farmi) un cappuccino, per favore.", "answer": "fammi" },
+        { "before": "Ester,", "blank": true, "after": "(dirmi) la verità: hai pianto?", "answer": "dimmi" },
+        { "before": "Bambini,", "blank": true, "after": "(alzarsi) e", "answer": "alzatevi" },
+        { "before": "", "blank": true, "after": "(venire) a fare colazione.", "answer": "venite" },
+        { "before": "Andate da Carlo e", "blank": true, "after": "(portagli) le medicine.", "answer": "portategli" }
+      ]
+    }
+  ]
+}

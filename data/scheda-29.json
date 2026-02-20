@@ -1,0 +1,276 @@
+{
+  "meta": {
+    "id": "29",
+    "title": "La forma riflessiva",
+    "subtitle": "Verbi riflessivi, reciproci e pronominali",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "paragraph",
+        "content": "Molti verbi si possono coniugare in forma riflessiva, per esprimere un'azione che ricade, si riflette sul soggetto stesso che la compie."
+      },
+      {
+        "type": "paragraph",
+        "content": "Osserviamo questi esempi:"
+      },
+      {
+        "type": "table",
+        "caption": "Tipi di forma verbale",
+        "headers": ["Frase", "Tipo"],
+        "rows": [
+          ["Io lavo i piatti", "forma normale **attiva**"],
+          ["Io mi lavo", "forma **riflessiva diretta**"],
+          ["Io mi lavo i denti", "forma **riflessiva indiretta**"]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Nelle frasi del tipo 2 l'azione di lavare non riguarda una cosa esterna (come i piatti della frase 1), ma riguarda me stesso che faccio l'azione."
+      },
+      {
+        "type": "paragraph",
+        "content": "I verbi nella forma riflessiva si coniugano normalmente, ma sono **sempre** accompagnati dal **pronome riflessivo**: **mi**, **ti**, **si**, **ci**, **vi**, **si**."
+      },
+      {
+        "type": "table",
+        "caption": "Coniugazione del verbo riflessivo lavarsi",
+        "headers": ["Presente", "Futuro", "Imperfetto", "Passato prossimo"],
+        "rows": [
+          ["io mi lavo", "io mi laverò", "io mi lavavo", "io mi sono lavato"],
+          ["tu ti lavi", "tu ti laverai", "tu ti lavavi", "tu ti sei lavato"],
+          ["lui si lava", "lui si laverà", "lui si lavava", "lui si è lavato"],
+          ["noi ci laviamo", "noi ci laveremo", "noi ci lavavamo", "noi ci siamo lavati"],
+          ["voi vi lavate", "voi vi laverete", "voi vi lavavate", "voi vi siete lavati"],
+          ["loro si lavano", "loro si laveranno", "loro si lavavano", "loro si sono lavati"]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Come si vede dall'esempio, i verbi riflessivi al participio passato usano sempre l'ausiliare **essere** e non l'ausiliare **avere**."
+      },
+      {
+        "type": "table",
+        "caption": "Forma attiva vs forma riflessiva",
+        "headers": ["Forma attiva", "Forma riflessiva"],
+        "rows": [
+          ["Ho lavato le calze.", "Mi sono lavato – Mi sono lavato le mani."],
+          ["Ho asciugato i bicchieri.", "Mi sono asciugato – Mi sono asciugato i capelli."],
+          ["Ho guardato la televisione.", "Mi sono guardato allo specchio."]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Esiste anche la **forma riflessiva reciproca**, quando il pronome personale non ha significato riflessivo, ma significa *tra noi*, *tra voi*, *tra loro*, *l'un l'altro* e il verbo indica un'azione che due o più persone fanno a vicenda, scambievolmente."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "I bambini **si picchiano**.", "highlight": "si picchiano" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Non vuol dire i bambini picchiano loro stessi (forma riflessiva), ma ogni bambino picchia un altro bambino, si picchiano tra loro."
+      },
+      {
+        "type": "heading",
+        "content": "Attenzione"
+      },
+      {
+        "type": "paragraph",
+        "content": "Esistono anche i **verbi pronominali**, che sembrano uguali ai verbi riflessivi e si coniugano con le stesse regole:"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "*accorgersi*, *pentirsi*, *vergognarsi*, *sedersi*, *arrabbiarsi*, *addormentarsi*…", "highlight": "" }
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "29-ex1",
+      "number": 1,
+      "type": "open-ended",
+      "instruction": "Rispondi alle domande.",
+      "items": [
+        {
+          "sentence": "A che ora ti svegli?",
+          "suggestedAnswer": "Mi sveglio alle (ora)."
+        },
+        {
+          "sentence": "A che ora ti alzi?",
+          "suggestedAnswer": "Mi alzo alle (ora)."
+        },
+        {
+          "sentence": "E poi che cosa fai?",
+          "suggestedAnswer": "Mi lavo, mi pettino, mi vesto e mi preparo per uscire."
+        },
+        {
+          "sentence": "Come fai a lavarti la faccia?",
+          "suggestedAnswer": "Mi lavo con il sapone, mi sciacquo con l'acqua, mi asciugo con l'asciugamano."
+        },
+        {
+          "sentence": "Che cosa ti diverte fare?",
+          "suggestedAnswer": "Mi diverto a (attività personale)."
+        },
+        {
+          "sentence": "Che cosa ti annoia?",
+          "suggestedAnswer": "Mi annoio quando (situazione personale)."
+        },
+        {
+          "sentence": "Che cosa ti fa arrabbiare?",
+          "suggestedAnswer": "Io mi arrabbio se (situazione personale)."
+        }
+      ]
+    },
+    {
+      "id": "29-ex2",
+      "number": 2,
+      "type": "fill-in-blank",
+      "instruction": "Completa le frasi con i verbi indicati tra parentesi.",
+      "items": [
+        {
+          "before": "L'autobus che va a scuola",
+          "blank": true,
+          "after": "(fermarsi) proprio davanti a casa mia.",
+          "answer": "si ferma"
+        },
+        {
+          "before": "Andrea in genere",
+          "blank": true,
+          "after": "(svegliarsi) alle sette, ma stamattina",
+          "answer": "si sveglia"
+        },
+        {
+          "before": "",
+          "blank": true,
+          "after": "(svegliarsi) tardi e così è arrivato in classe alle nove.",
+          "answer": "si è svegliato"
+        },
+        {
+          "before": "Ho dimenticato l'ombrello e così",
+          "blank": true,
+          "after": "(bagnarsi) dalla testa ai piedi.",
+          "answer": "mi sono bagnato"
+        },
+        {
+          "before": "Vincenzo per andare al matrimonio di suo fratello",
+          "blank": true,
+          "after": "(mettersi) un vestito nero.",
+          "answer": "si è messo"
+        },
+        {
+          "before": "Piero",
+          "blank": true,
+          "after": "(farsi) la barba con il rasoio elettrico.",
+          "answer": "si fa"
+        }
+      ]
+    },
+    {
+      "id": "29-ex3",
+      "number": 3,
+      "type": "table-completion",
+      "instruction": "Completa la tabella.",
+      "headers": ["Presente (Forma attiva)", "Presente (Forma riflessiva)", "Passato prossimo (Forma attiva)", "Passato prossimo (Forma riflessiva)"],
+      "rows": [
+        {
+          "cells": [
+            { "value": "io lavo", "editable": false },
+            { "value": "io mi lavo", "editable": false },
+            { "value": "io ho lavato", "editable": false },
+            { "value": "io mi sono lavato", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "lui alza", "editable": false },
+            { "value": "lui si alza", "editable": true, "answer": "lui si alza" },
+            { "value": "lui ha alzato", "editable": true, "answer": "lui ha alzato" },
+            { "value": "lui si è alzato", "editable": true, "answer": "lui si è alzato" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "tu svegli", "editable": true, "answer": "tu svegli" },
+            { "value": "tu ti svegli", "editable": true, "answer": "tu ti svegli" },
+            { "value": "tu hai svegliato", "editable": false },
+            { "value": "tu ti sei svegliato", "editable": true, "answer": "tu ti sei svegliato" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "noi pettiniamo", "editable": true, "answer": "noi pettiniamo" },
+            { "value": "noi ci pettiniamo", "editable": false },
+            { "value": "noi abbiamo pettinato", "editable": true, "answer": "noi abbiamo pettinato" },
+            { "value": "noi ci siamo pettinati", "editable": true, "answer": "noi ci siamo pettinati" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "loro feriscono", "editable": true, "answer": "loro feriscono" },
+            { "value": "loro si feriscono", "editable": true, "answer": "loro si feriscono" },
+            { "value": "loro hanno ferito", "editable": false },
+            { "value": "loro si sono feriti", "editable": true, "answer": "loro si sono feriti" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "voi mettete", "editable": false },
+            { "value": "voi vi mettete", "editable": true, "answer": "voi vi mettete" },
+            { "value": "voi avete messo", "editable": true, "answer": "voi avete messo" },
+            { "value": "voi vi siete messi", "editable": true, "answer": "voi vi siete messi" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "tu pulisci", "editable": false },
+            { "value": "tu ti pulisci", "editable": true, "answer": "tu ti pulisci" },
+            { "value": "tu hai pulito", "editable": true, "answer": "tu hai pulito" },
+            { "value": "tu ti sei pulito", "editable": true, "answer": "tu ti sei pulito" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "loro sentono", "editable": true, "answer": "loro sentono" },
+            { "value": "loro si sentono", "editable": false },
+            { "value": "loro hanno sentito", "editable": true, "answer": "loro hanno sentito" },
+            { "value": "loro si sono sentiti", "editable": true, "answer": "loro si sono sentiti" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "noi allontaniamo", "editable": false },
+            { "value": "noi ci allontaniamo", "editable": true, "answer": "noi ci allontaniamo" },
+            { "value": "noi abbiamo allontanato", "editable": true, "answer": "noi abbiamo allontanato" },
+            { "value": "noi ci siamo allontanati", "editable": true, "answer": "noi ci siamo allontanati" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "lui muove", "editable": true, "answer": "lui muove" },
+            { "value": "lui si muove", "editable": true, "answer": "lui si muove" },
+            { "value": "lui ha mosso", "editable": true, "answer": "lui ha mosso" },
+            { "value": "lui si è mosso", "editable": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29-ex4",
+      "number": 4,
+      "type": "transformation",
+      "instruction": "Riscrivi il seguente testo trasformando i verbi dal presente al passato prossimo.",
+      "items": [
+        {
+          "given": "Lucia si sveglia alle sette meno un quarto, si alza dopo pochi minuti e va in bagno. Si toglie il pigiama, si lava, si asciuga, si veste, si spazzola i capelli. Poi va in cucina e fa colazione. Prima di uscire si lava i denti, si pettina, si dà un po' di profumo. Poi si infila le scarpe, si mette la giacca ed esce.",
+          "answer": "Lucia si è svegliata alle sette meno un quarto, si è alzata dopo pochi minuti ed è andata in bagno. Si è tolta il pigiama, si è lavata, si è asciugata, si è vestita, si è spazzolata i capelli. Poi è andata in cucina e ha fatto colazione. Prima di uscire si è lavata i denti, si è pettinata, si è data un po' di profumo. Poi si è infilata le scarpe, si è messa la giacca ed è uscita."
+        }
+      ]
+    }
+  ]
+}

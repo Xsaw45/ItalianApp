@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "id": "31",
+    "title": "Il congiuntivo nelle frasi dipendenti",
+    "subtitle": "Uso dei tempi del congiuntivo nelle frasi dipendenti",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "**Il congiuntivo è quasi sempre usato in frasi dipendenti.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "La parola *congiuntivo* vuol dire *che congiunge*. Il congiuntivo unisce infatti due frasi di cui una dipendente dall'altra (principale e dipendente)."
+      },
+      {
+        "type": "paragraph",
+        "content": "I casi più importanti di uso del congiuntivo sono:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "nelle **frasi dichiarative** (dopo il **che**) quando con il verbo che c'è nella frase principale si vuole esprimere un'opinione personale, un desiderio, una preoccupazione, un'attesa, una probabilità, cioè pensieri, sensazioni, sentimenti. Quando invece nella frase principale si esprime certezza, si usa l'indicativo.",
+          "nelle **frasi ipotetiche** (dopo il **se**) quando si vuole esprimere una possibilità."
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Indicativo vs Congiuntivo nelle frasi dichiarative",
+        "headers": ["Indicativo", "Congiuntivo"],
+        "rows": [
+          ["So che Maria **è partita** domenica.", "Penso che Maria **sia partita** domenica."],
+          ["**Sono sicuro** che mio fratello **arriverà** oggi.", "**Immagino** che mio fratello **arrivi** oggi."],
+          ["**Ho saputo** che Angelo **è guarito** bene.", "**Spero** che Angelo **sia guarito** bene."],
+          ["**So** che Manuel **ha perso** il lavoro.", "**Ho paura** che Manuel **abbia perso** il lavoro."]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Si usa il congiuntivo anche quando nella principale ci sono verbi come: **volere**, **preferire**, **piacere**, **dispiacere**, **aspettare**, **bisognare**, **essere necessario/essere probabile/possibile/difficile**…"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Voglio che tu **vada** subito a casa. (e non: Voglio che tu *vai*)", "highlight": "vada" },
+          { "italian": "Mi piacerebbe che **venissero** a trovarci. (e non: Mi piacerebbe che *venivano*)", "highlight": "venissero" },
+          { "italian": "Aspetto che Luisa mi **scriva**. (e non: Aspetto che mi *scrive*)", "highlight": "scriva" },
+          { "italian": "Bisogna che Simone **traduca** questo. (e non: Bisogna che Simone *traduce*)", "highlight": "traduca" }
+        ]
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Se **studiassi** di più, **imparerei** l'italiano e l'inglese.", "highlight": "studiassi" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Per l'uso del congiuntivo nelle frasi ipotetiche **vedi Scheda 40, *Il periodo ipotetico*.**"
+      },
+      {
+        "type": "heading",
+        "content": "L'uso dei tempi"
+      },
+      {
+        "type": "paragraph",
+        "content": "**Se nella frase principale c'è il presente** (*Penso che…*) si usa:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "il **congiuntivo presente** per esprimere la contemporaneità (oggi → oggi): *Penso che Tobias **lavori** alla Fiat*",
+          "il **congiuntivo passato** per esprimere l'anteriorità (oggi → in passato): *Penso che Tobias **abbia lavorato** alla Fiat*"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "**Se nella frase principale c'è il passato** (imperfetto o passato prossimo) (*Pensavo che…* / *Ho pensato che…*) si usa:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "il **congiuntivo imperfetto** per esprimere la contemporaneità (ieri → ieri): *Pensavo che Tobias **lavorasse** alla Fiat*",
+          "il **congiuntivo trapassato** per esprimere l'anteriorità (ieri → in passato): *Pensavo che Tobias **avesse lavorato** alla Fiat*"
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "31-ex1",
+      "number": 1,
+      "type": "fill-in-blank",
+      "instruction": "Completa le frasi con il congiuntivo presente, usando il verbo indicato tra parentesi.",
+      "items": [
+        {
+          "before": "Voglio che tu",
+          "blank": true,
+          "after": "(smettere) assolutamente di dire parolacce.",
+          "answer": "smetta"
+        },
+        {
+          "before": "Spero proprio che Elena",
+          "blank": true,
+          "after": "(passare) l'esame.",
+          "answer": "passi"
+        },
+        {
+          "before": "È difficile che mia sorella",
+          "blank": true,
+          "after": "(tornare) tardi alla sera.",
+          "answer": "torni"
+        },
+        {
+          "before": "Non credo che questa",
+          "blank": true,
+          "after": "(essere) la soluzione migliore.",
+          "answer": "sia"
+        },
+        {
+          "before": "Immagino che tu non",
+          "blank": true,
+          "after": "(avere) i soldi per pagare il dizionario.",
+          "answer": "abbia"
+        },
+        {
+          "before": "Silvia pensa che sua cugina",
+          "blank": true,
+          "after": "(trovarsi) male a Genova.",
+          "answer": "si trovi"
+        },
+        {
+          "before": "Tutti pensano che quel ragazzo",
+          "blank": true,
+          "after": "(rubare).",
+          "answer": "rubi"
+        }
+      ]
+    },
+    {
+      "id": "31-ex2",
+      "number": 2,
+      "type": "fill-in-blank",
+      "instruction": "Completa le seguenti frasi con il congiuntivo passato, usando il verbo indicato tra parentesi.",
+      "items": [
+        {
+          "before": "Mi dispiace che Paola",
+          "blank": true,
+          "after": "(perdere) il portafoglio.",
+          "answer": "abbia perso"
+        },
+        {
+          "before": "È probabile che tu",
+          "blank": true,
+          "after": "(lasciare) l'ombrello in treno.",
+          "answer": "abbia lasciato"
+        },
+        {
+          "before": "Non credo che voi",
+          "blank": true,
+          "after": "(fare) da soli questo lavoro.",
+          "answer": "abbiate fatto"
+        },
+        {
+          "before": "Ho paura che il dottor Pennisi già",
+          "blank": true,
+          "after": "(uscire).",
+          "answer": "sia uscito"
+        },
+        {
+          "before": "La mamma è preoccupata che papà non ancora",
+          "blank": true,
+          "after": "(arrivare).",
+          "answer": "sia arrivato"
+        },
+        {
+          "before": "Immagino che ieri in montagna",
+          "blank": true,
+          "after": "(piovere) tutto il giorno.",
+          "answer": "abbia piovuto"
+        },
+        {
+          "before": "Spero che tu",
+          "blank": true,
+          "after": "(ricordarsi) di comprare le arance.",
+          "answer": "ti sia ricordato"
+        }
+      ]
+    },
+    {
+      "id": "31-ex3",
+      "number": 3,
+      "type": "fill-in-blank",
+      "instruction": "Completa le seguenti frasi con il congiuntivo imperfetto, usando il verbo indicato tra parentesi.",
+      "items": [
+        {
+          "before": "Credevo che Renata e Carla",
+          "blank": true,
+          "after": "(venire) a trovarci.",
+          "answer": "venissero"
+        },
+        {
+          "before": "Speravo che tu ormai",
+          "blank": true,
+          "after": "(stare) un po' meglio.",
+          "answer": "stessi"
+        },
+        {
+          "before": "Non immaginavamo che il direttore",
+          "blank": true,
+          "after": "(essere) così gentile.",
+          "answer": "fosse"
+        },
+        {
+          "before": "Carla aveva paura che i bambini",
+          "blank": true,
+          "after": "(rompere) i bicchieri.",
+          "answer": "rompessero"
+        },
+        {
+          "before": "Speravo proprio che lei",
+          "blank": true,
+          "after": "(divertirsi) alla festa.",
+          "answer": "si divertisse"
+        },
+        {
+          "before": "Non credevo che la polizia lo",
+          "blank": true,
+          "after": "(arrestare).",
+          "answer": "arrestasse"
+        },
+        {
+          "before": "Lucio voleva che Rosaria",
+          "blank": true,
+          "after": "(cambiare) lavoro.",
+          "answer": "cambiasse"
+        }
+      ]
+    },
+    {
+      "id": "31-ex4",
+      "number": 4,
+      "type": "transformation",
+      "instruction": "Trasforma le frasi usando il tempo del congiuntivo più appropriato.",
+      "items": [
+        {
+          "given": "Ho saputo che la sposa si veste di bianco. → Immagino che…",
+          "answer": "Immagino che la sposa si vesta di bianco."
+        },
+        {
+          "given": "Ho sentito che gli zii hanno l'influenza. → Ho paura che…",
+          "answer": "Ho paura che gli zii abbiano l'influenza."
+        },
+        {
+          "given": "Sono certo che siete felici. → Desidero che…",
+          "answer": "Desidero che siate felici."
+        },
+        {
+          "given": "Ho visto che tutti si sono dimenticati di telefonarmi. → Mi dispiace che…",
+          "answer": "Mi dispiace che tutti si siano dimenticati di telefonarmi."
+        },
+        {
+          "given": "So che la signora Fiamma ha divorziato. → Suppongo che…",
+          "answer": "Suppongo che la signora Fiamma abbia divorziato."
+        },
+        {
+          "given": "Mi hanno detto che Ugo ha cambiato lavoro. → È probabile che…",
+          "answer": "È probabile che Ugo abbia cambiato lavoro."
+        },
+        {
+          "given": "Sapevo che Rosi abitava qui. → Credevo che…",
+          "answer": "Credevo che Rosi abitasse qui."
+        }
+      ]
+    }
+  ]
+}
