@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "id": "20",
+    "title": "Gli aggettivi e i pronomi interrogativi",
+    "subtitle": "Che, quale, quanto, chi, che cosa",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "**Gli interrogativi servono per introdurre una domanda.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "Anche gli interrogativi possono essere **aggettivi** (se accompagnano un nome) o **pronomi** (se sostituiscono o sottintendono un nome)."
+      },
+      {
+        "type": "heading",
+        "content": "Gli aggettivi interrogativi"
+      },
+      {
+        "type": "list",
+        "items": [
+          "**che** e **quale**: per chiedere la **qualità** o l'**identità** del nome a cui si riferiscono",
+          "**quanto**: per chiedere la **quantità** del nome a cui si riferiscono"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "**Che** e **quale** sono intercambiabili quando si chiede la qualità o l'identità:"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "**Che** numero di telefono hai? = **Quale** numero di telefono hai?", "highlight": "Che / Quale" },
+          { "italian": "In **che** città sei nato? = In **quale** città sei nato?", "highlight": "che / quale" },
+          { "italian": "**Che** programmi hai per domani? = **Quali** programmi hai per domani?", "highlight": "Che / Quali" },
+          { "italian": "Di **che** ragazze parli? = Di **quali** ragazze parli?", "highlight": "che / quali" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "**Quanto** concorda con il nome a cui si riferisce, sia nel **numero** sia nel **genere**:"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Da **quanto** tempo sei in Italia?", "highlight": "quanto" },
+          { "italian": "**Quanta** acqua devo mettere nella pentola?", "highlight": "Quanta" },
+          { "italian": "**Quanti** compagni hai?", "highlight": "Quanti" },
+          { "italian": "**Quante** valigie stanno in macchina?", "highlight": "Quante" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "I pronomi interrogativi"
+      },
+      {
+        "type": "list",
+        "items": [
+          "**chi**: per fare una domanda riguardante una **persona**",
+          "**che cosa**: per fare una domanda riguardante una **cosa**"
+        ]
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "**Chi** sei?", "highlight": "Chi" },
+          { "italian": "**Chi** di voi parla bene il cinese?", "highlight": "Chi" },
+          { "italian": "**Che cosa** vuoi?", "highlight": "Che cosa" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Attenzione: chi"
+      },
+      {
+        "type": "paragraph",
+        "content": "**Chi** è invariabile (cioè è sempre uguale al maschile, femminile, singolare o plurale) e vuole il verbo alla **3ª persona singolare**."
+      },
+      {
+        "type": "heading",
+        "content": "Aggettivi interrogativi usati anche come pronomi"
+      },
+      {
+        "type": "paragraph",
+        "content": "Anche gli aggettivi interrogativi **che**, **quale**, **quanto** possono essere pronomi quando sostituiscono un nome."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Ci sono due dolci in frigo. **Quale** (dolce) vuoi?", "highlight": "Quale" },
+          { "italian": "In cortile ci sono molti ragazzi. **Quale** (ragazzo) è tuo fratello?", "highlight": "Quale" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Interrogativa diretta e interrogativa indiretta"
+      },
+      {
+        "type": "paragraph",
+        "content": "È facile accorgersi che gli aggettivi e i pronomi interrogativi introducono una domanda, cioè una frase **interrogativa diretta**, con il punto interrogativo:"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "**Chi** è?", "highlight": "Chi" },
+          { "italian": "**Che cosa** fa?", "highlight": "Che cosa" },
+          { "italian": "**Quanto** guadagna?", "highlight": "Quanto" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Gli interrogativi possono però introdurre anche frasi che non hanno il punto interrogativo, ma che contengono un elemento di dubbio, di domanda. Queste frasi si chiamano **interrogative indirette**."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Non so **chi** è.", "highlight": "chi" },
+          { "italian": "Vorrei sapere **che cosa** fa.", "highlight": "che cosa" },
+          { "italian": "Chissà **quanto** guadagna.", "highlight": "quanto" }
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "20-ex1",
+      "number": 1,
+      "type": "fill-in-blank",
+      "instruction": "Completa le seguenti frasi con gli aggettivi interrogativi corretti (più risposte sono possibili).",
+      "items": [
+        { "before": "", "blank": true, "after": "latte bevi al mattino?", "answer": "Quanto / Che" },
+        { "before": "", "blank": true, "after": "frutta preferisci?", "answer": "Che / Quale" },
+        { "before": "", "blank": true, "after": "colore ti piace di più?", "answer": "Che / Quale" },
+        { "before": "", "blank": true, "after": "ragazzi vanno alla gita?", "answer": "Quanti / Quali" },
+        { "before": "In", "blank": true, "after": "via abiti?", "answer": "che / quale" },
+        { "before": "A", "blank": true, "after": "piano abiti?", "answer": "che / quale" },
+        { "before": "", "blank": true, "after": "progetti hai per le vacanze?", "answer": "Che / Quali" },
+        { "before": "In", "blank": true, "after": "giorni riceve il medico?", "answer": "quali / quanti" }
+      ]
+    },
+    {
+      "id": "20-ex2",
+      "number": 2,
+      "type": "fill-in-blank",
+      "instruction": "Completa le seguenti frasi con i pronomi interrogativi corretti (più risposte sono possibili).",
+      "items": [
+        { "before": "", "blank": true, "after": "è successo?", "answer": "Che cosa / Cosa" },
+        { "before": "Di", "blank": true, "after": "stai parlando?", "answer": "chi / cosa" },
+        { "before": "", "blank": true, "after": "conosci a questa festa?", "answer": "Chi" },
+        { "before": "Non so", "blank": true, "after": "ha pagato e", "answer": "chi" },
+        { "before": "", "blank": true, "after": "no.", "answer": "chi" },
+        { "before": "Dimmi", "blank": true, "after": "vuoi per pranzo.", "answer": "che cosa / cosa" },
+        { "before": "Non c'è più aranciata.", "blank": true, "after": "l'ha bevuta?", "answer": "Chi" },
+        { "before": "Il prosciutto è finito.", "blank": true, "after": "ne devo comprare?", "answer": "Quanto" },
+        { "before": "", "blank": true, "after": "ha detto che oggi avrebbe fatto caldo?", "answer": "Chi" }
+      ]
+    },
+    {
+      "id": "20-ex3",
+      "number": 3,
+      "type": "transformation",
+      "instruction": "Trasforma le seguenti frasi in domande.",
+      "items": [
+        { "given": "Dimmi che cosa vuoi.", "answer": "Che cosa vuoi?" },
+        { "given": "Non riesco a capire che cosa stai facendo.", "answer": "Che cosa stai facendo?" },
+        { "given": "Vorrei sapere quanto costano questi pantaloni.", "answer": "Quanto costano questi pantaloni?" },
+        { "given": "Dimmi che ore sono.", "answer": "Che ore sono?" },
+        { "given": "Ti ho chiesto a chi stavi telefonando.", "answer": "A chi stavi telefonando?" },
+        { "given": "Chissà quanti amici ha Beppe.", "answer": "Quanti amici ha Beppe?" },
+        { "given": "Fammi sapere a che ora arrivi.", "answer": "A che ora arrivi?" },
+        { "given": "Non so quante uova devo mettere nella crema.", "answer": "Quante uova devo mettere nella crema?" }
+      ]
+    },
+    {
+      "id": "20-ex4",
+      "number": 4,
+      "type": "open-ended",
+      "instruction": "Inventa una domanda adatta a ciascuna delle seguenti risposte, usando aggettivi o pronomi interrogativi.",
+      "items": [
+        { "answer": "Piove e fa freddo.", "suggestedAnswer": "Che tempo fa?" },
+        { "answer": "Spaghetti al pomodoro.", "suggestedAnswer": "Che cosa mangi? / Che cosa vuoi per pranzo?" },
+        { "answer": "Due euro al chilo.", "suggestedAnswer": "Quanto costa?" },
+        { "answer": "Credo che verrà alle nove.", "suggestedAnswer": "A che ora verrà?" },
+        { "answer": "Mi piacerebbe fare la parrucchiera.", "suggestedAnswer": "Che lavoro vorresti fare?" },
+        { "answer": "Quella rosa a righe blu.", "suggestedAnswer": "Quale maglia preferisci?" },
+        { "answer": "Le otto meno venti.", "suggestedAnswer": "Che ore sono?" }
+      ]
+    }
+  ]
+}

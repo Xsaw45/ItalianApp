@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "id": "19",
+    "title": "Gli aggettivi e i pronomi indefiniti",
+    "subtitle": "Prima parte e Seconda parte",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "**Gli indefiniti indicano in modo generico, non definito, non preciso la qualità o l'identità di ciò a cui si riferiscono.**"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Ho **molti** amici.", "highlight": "molti" },
+          { "italian": "Anch'io ne ho **tanti**.", "highlight": "tanti" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "**Molti** è un **aggettivo** (perché accompagna il nome *amici*) **indefinito** perché non indica con precisione il numero degli amici che ho: cinque? dieci? venti?\n\n**Tanti** è un **pronome** (perché sottintende il nome *amici* che non viene detto) **indefinito** perché non indica con precisione quanti: cinque? dieci? venti?"
+      },
+      {
+        "type": "paragraph",
+        "content": "Gli aggettivi e i pronomi indefiniti sono **variabili**, cioè cambiano al maschile, femminile, singolare e plurale, a seconda del nome che accompagnano (se sono aggettivi) o del nome a cui si riferiscono (se sono pronomi)."
+      },
+      {
+        "type": "heading",
+        "content": "Prima parte – Indefiniti che indicano quantità non determinata"
+      },
+      {
+        "type": "table",
+        "caption": "Indefiniti di quantità: forme e uso",
+        "headers": ["La forma – maschile sing.", "La forma – femminile sing.", "La forma – maschile pl.", "La forma – femminile pl.", "Come aggettivo", "Come pronome"],
+        "rows": [
+          ["poco", "poca", "pochi", "poche", "Mangio **poca** carne.", "Ne mangio **poca**."],
+          ["diverso", "diversa", "diversi", "diverse", "Ho visto **diverse** persone", "Ci sono dei bar? Sì, ce ne sono **diversi**."],
+          ["parecchio", "parecchia", "parecchi", "parecchie", "C'era **parecchia** gente.", "Erano **parecchi**."],
+          ["tanto", "tanta", "tanti", "tante", "Oggi c'è **tanto** sole.", "Mi vuoi bene? Sì, **tanto**."],
+          ["altrettanto", "altrettanta", "altrettanti", "altrettante", "Ti auguro **altrettanta** fortuna.", "Io ho molti libri e tu ne hai **altrettanti**."],
+          ["molto", "molta", "molti", "molte", "Tu hai **molti** vestiti.", "Anche io ne ho **molti**."],
+          ["troppo", "troppa", "troppi", "troppe", "Ci sono **troppi** errori.", "Siete **troppi**!"],
+          ["tutto", "tutta", "tutti", "tutte", "**Tutti** i miei amici sono simpatici.", "Sono venuti **tutti**."]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Attenzione"
+      },
+      {
+        "type": "paragraph",
+        "content": "**Diverso** è:\n- un **aggettivo indefinito** se si trova *prima* del nome: *Ho **diversi** libri di storia dell'arte.* (= parecchi libri)\n- un **aggettivo qualificativo** se si trova *dopo* il nome: *Cerco dei libri **diversi** da quelli che ho già.* (= libri differenti)"
+      },
+      {
+        "type": "paragraph",
+        "content": "**Poco**, **tanto** e **molto** usati sia come aggettivi sia come pronomi indefiniti possono avere il comparativo e il superlativo:\n- *poco* — comparativo: **meno** — superlativo: **pochissimo**\n- *tanto* — comparativo: **più** — superlativo: **tantissimo**\n- *molto* — comparativo: **più** — superlativo: **moltissimo**"
+      },
+      {
+        "type": "heading",
+        "content": "Seconda parte – Indefiniti che indicano qualità o identità non determinata"
+      },
+      {
+        "type": "table",
+        "caption": "Indefiniti di qualità/identità: forme e uso",
+        "headers": ["La forma – maschile sing.", "La forma – femminile sing.", "La forma – maschile pl.", "La forma – femminile pl.", "Come aggettivo", "Come pronome"],
+        "rows": [
+          ["nessuno", "nessuna", "*non esiste il plurale*", "*non esiste il plurale*", "Non ho **nessuno** zio.", "Non c'era **nessuno**."],
+          ["alcuno", "alcuna", "alcuni", "alcune", "**Alcuni** libri sono noiosi.", "**Alcuni** erano assenti."],
+          ["ciascuno", "ciascuna", "*non esiste il plurale*", "*non esiste il plurale*", "**Ciascuna** allieva vada in direzione.", "**Ciascuno** è libero di decidere."],
+          ["certo", "certa", "certi", "certe", "In **certi** casi mi arrabbio.", "**Certi** non pagano le tasse."],
+          ["tale", "tale", "tali", "tali", "Fa un **tale** freddo!", "È venuto un **tale**."],
+          ["altro", "altra", "altri", "altre", "Non c'erano **altri** fiori?", "Sì, ce n'erano **altri**."]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Attenzione: nessuno e alcuno"
+      },
+      {
+        "type": "paragraph",
+        "content": "**Nessuno** e **alcuno**, quando sono aggettivi, diventano **nessun** e **alcun** davanti a parola che inizia con vocale o con consonante diversa da *z*, *s + consonante*, *ps*, *gn*."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "**Nessun** amico, **nessun** libro", "highlight": "nessun" },
+          { "italian": "però: **nessuno** studente", "highlight": "nessuno" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Attenzione: alcuno"
+      },
+      {
+        "type": "paragraph",
+        "content": "**Alcuno** al singolare si usa nelle **frasi negative** e significa *nessuno*:"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Non si sentiva **alcun** rumore. (= non si sentiva **nessun** rumore).", "highlight": "alcun" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Al plurale significa *qualche*, *dei*:"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "C'erano **alcuni** ragazzi che giocavano. (= C'era **qualche** ragazzo che giocava – C'erano **dei** ragazzi che giocavano)", "highlight": "alcuni" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Indefiniti solo singolari con forma diversa come aggettivo e come pronome"
+      },
+      {
+        "type": "paragraph",
+        "content": "I seguenti indefiniti sono **solo singolari** e hanno una forma diversa se sono aggettivi o se sono pronomi."
+      },
+      {
+        "type": "table",
+        "caption": "Indefiniti solo singolari",
+        "headers": ["Come aggettivo (maschile e femminile)", "Uso come aggettivo", "Come pronome (maschile)", "Come pronome (femminile)", "Uso come pronome"],
+        "rows": [
+          ["ogni", "**Ogni** giorno studio un po'.", "ognuno", "ognuna", "**Ognuno** pensa a sé."],
+          ["qualche", "Vorrei **qualche** banana.", "qualcuno", "qualcuna", "È venuto **qualcuno**?"],
+          ["qualsiasi", "Leggo **qualunque** giornale.", "chicchessia", "chicchessia", "Possiamo chiedere a **chicchessia**."],
+          ["qualunque", "Puoi venire a **qualsiasi** ora.", "chiunque", "chiunque", "**Chiunque** potrebbe entrare."]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "I seguenti indefiniti sono usati **solo** come **pronomi**: **qualcosa**, **niente**, **nulla**."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "19-ex1",
+      "number": 1,
+      "type": "fill-in-blank",
+      "instruction": "Completa le frasi usando gli aggettivi indefiniti elencati.",
+      "wordBank": ["alcuni", "troppo", "altrettanta", "parecchi", "pochi", "tutta", "tutto"],
+      "items": [
+        { "before": "Per fare un caffè bastano", "blank": true, "after": "minuti.", "answer": "alcuni" },
+        { "before": "Mio cugino lavora nell'informatica e guadagna", "blank": true, "after": "soldi.", "answer": "parecchi" },
+        { "before": "In questo periodo mi va", "blank": true, "after": "male.", "answer": "tutto" },
+        { "before": "Non posso pulire", "blank": true, "after": "la casa in dieci minuti.", "answer": "tutta" },
+        { "before": "Qui c'è", "blank": true, "after": "rumore, andiamo via.", "answer": "troppo" },
+        { "before": "Abbiamo molta fame e voi ne avete", "blank": true, "after": ".", "answer": "altrettanta" }
+      ]
+    },
+    {
+      "id": "19-ex2",
+      "number": 2,
+      "type": "multiple-choice",
+      "instruction": "Scrivi se nelle seguenti frasi l'indefinito è usato come aggettivo (A) o come pronome (P).",
+      "items": [
+        { "sentence": "Hai dimenticato qualcosa per il viaggio? No, ho preso **tutto**.", "options": ["A", "P"], "answer": "P" },
+        { "sentence": "Pagate **molti** soldi di affitto? Sì, 600 euro.", "options": ["A", "P"], "answer": "A" },
+        { "sentence": "**Tutti** i miei cugini ormai lavorano, perché sono grandi.", "options": ["A", "P"], "answer": "A" },
+        { "sentence": "Oggi ho **parecchio** da fare, non venite a disturbarmi.", "options": ["A", "P"], "answer": "P" },
+        { "sentence": "Ci sono **parecchie** cose di cui vorrei discutere con te.", "options": ["A", "P"], "answer": "A" },
+        { "sentence": "C'è **tantissimo** da studiare.", "options": ["A", "P"], "answer": "P" },
+        { "sentence": "Abbiamo preso **tantissimo** sole.", "options": ["A", "P"], "answer": "A" }
+      ]
+    },
+    {
+      "id": "19-ex3",
+      "number": 3,
+      "type": "open-ended",
+      "instruction": "Scrivi una frase per ognuno dei seguenti aggettivi indefiniti.",
+      "items": [
+        { "word": "molte", "suggestedAnswer": "Ho molte amiche simpatiche." },
+        { "word": "troppi", "suggestedAnswer": "Ci sono troppi errori in questo testo." },
+        { "word": "alcuni", "suggestedAnswer": "Alcuni ragazzi non sono venuti a scuola." },
+        { "word": "diverse", "suggestedAnswer": "Ho diverse cose da fare oggi." },
+        { "word": "parecchie", "suggestedAnswer": "Parecchie persone erano in fila." },
+        { "word": "tanti", "suggestedAnswer": "Ho tanti libri sul comodino." },
+        { "word": "moltissime", "suggestedAnswer": "Ho moltissime cose da dirti." }
+      ]
+    },
+    {
+      "id": "19-ex4",
+      "number": 4,
+      "type": "open-ended",
+      "instruction": "Per ognuna delle seguenti domande inventa una risposta adatta che contenga un aggettivo o un pronome indefinito di quantità.",
+      "items": [
+        { "question": "C'è ancora dello zucchero?", "suggestedAnswer": "Sì, ce n'è ancora poco." },
+        { "question": "Quante ragazze partecipano alla gara?", "suggestedAnswer": "Partecipano parecchie ragazze." },
+        { "question": "Ci sono monumenti in Sicilia?", "suggestedAnswer": "Sì, ce ne sono moltissimi." },
+        { "question": "Hai dei pennarelli rossi?", "suggestedAnswer": "Sì, ne ho alcuni." },
+        { "question": "Quante ore hai dormito stanotte?", "suggestedAnswer": "Ho dormito poche ore." }
+      ]
+    },
+    {
+      "id": "19-ex5",
+      "number": 5,
+      "type": "transformation",
+      "instruction": "In ogni frase sostituisci all'aggettivo *diverso* una delle espressioni dell'elenco (a seconda che *diverso* sia un aggettivo qualificativo o indefinito).",
+      "wordBank": ["parecchie", "differente", "di un altro genere", "che non coincidono per niente", "molti"],
+      "items": [
+        { "given": "Mi dispiace, abbiamo idee troppo **diverse**.", "answer": "Mi dispiace, abbiamo idee troppo che non coincidono per niente." },
+        { "given": "Ho **diverse** idee su come ristrutturare questa casa.", "answer": "Ho parecchie idee su come ristrutturare questa casa." },
+        { "given": "Alla festa di Carnevale ogni bambino aveva una maschera **diversa**.", "answer": "Alla festa di Carnevale ogni bambino aveva una maschera di un altro genere." },
+        { "given": "Questo film non mi è piaciuto. Pensavo che fosse **diverso**.", "answer": "Questo film non mi è piaciuto. Pensavo che fosse differente." },
+        { "given": "Ho aspettato **diversi** giorni, poi gli ho telefonato.", "answer": "Ho aspettato molti giorni, poi gli ho telefonato." }
+      ]
+    },
+    {
+      "id": "19-ex6",
+      "number": 6,
+      "type": "table-completion",
+      "instruction": "Gli aggettivi indefiniti **qualche** e **alcuni/alcune** significano la stessa cosa; però: *qualche* è invariabile e vuole il nome sempre al **singolare**; *alcuni/alcune* è variabile e vuole il nome al **plurale**. Completa la tabella.",
+      "headers": ["qualche + singolare", "alcuni/alcune + plurale"],
+      "rows": [
+        {
+          "cells": [
+            { "value": "qualche quaderno", "editable": false },
+            { "value": "alcuni quaderni", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "qualche giorno", "editable": true, "answer": "qualche giorno" },
+            { "value": "alcuni giorni", "editable": true, "answer": "alcuni giorni" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "qualche ragazza", "editable": true, "answer": "qualche ragazza" },
+            { "value": "alcune ragazze", "editable": true, "answer": "alcune ragazze" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "qualche pagina", "editable": true, "answer": "qualche pagina" },
+            { "value": "alcune pagine", "editable": true, "answer": "alcune pagine" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "qualche cane", "editable": true, "answer": "qualche cane" },
+            { "value": "alcuni cani", "editable": true, "answer": "alcuni cani" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19-ex7",
+      "number": 7,
+      "type": "multiple-choice",
+      "instruction": "Gli aggettivi indefiniti **nessuno** e **ciascuno** possono essere solo singolari e cambiano davanti al nome con le stesse regole dell'articolo indeterminativo: *un, uno, una, un'*. Indica la forma corretta.",
+      "items": [
+        {
+          "sentence": "Non ho ___ amico.",
+          "options": ["nessuno amico", "nessun amico", "nessuni amico"],
+          "answer": "nessun amico"
+        },
+        {
+          "sentence": "Non ho ___ amiche.",
+          "options": ["nessune amiche", "nessun amica", "nessun'amica"],
+          "answer": "nessun'amica"
+        },
+        {
+          "sentence": "Igor in Italia non ha ___ zio.",
+          "options": ["nessun zio", "nessuno zio"],
+          "answer": "nessuno zio"
+        },
+        {
+          "sentence": "Igor in Italia non ha ___ sorelle.",
+          "options": ["nessune sorelle", "nessuna sorella"],
+          "answer": "nessuna sorella"
+        }
+      ]
+    },
+    {
+      "id": "19-ex8",
+      "number": 8,
+      "type": "transformation",
+      "instruction": "Gli indefiniti **nessuno**, **niente**, **nulla** quando si trovano dopo il verbo vogliono anche il **non** prima del verbo. Correggi le seguenti frasi, se sono sbagliate.",
+      "items": [
+        { "given": "Carlo aveva nessuna scusa per non venire.", "answer": "Carlo non aveva nessuna scusa per non venire." },
+        { "given": "Niente gli fa paura.", "answer": "Niente gli fa paura. (corretta)" },
+        { "given": "Ho visto nessuno, la strada era deserta.", "answer": "Non ho visto nessuno, la strada era deserta." },
+        { "given": "C'è nessuno?", "answer": "C'è nessuno? (corretta – nessuno precede il verbo)" },
+        { "given": "Jason ha due sorelle ma ha nessun fratello.", "answer": "Jason ha due sorelle ma non ha nessun fratello." },
+        { "given": "Digli niente, tanto non capisce.", "answer": "Non dirgli niente, tanto non capisce." }
+      ]
+    },
+    {
+      "id": "19-ex9",
+      "number": 9,
+      "type": "fill-in-blank",
+      "instruction": "Completa le frasi inserendo gli aggettivi o i pronomi indefiniti adatti, scegliendoli tra quelli elencati.",
+      "wordBank": ["qualcosa", "troppo", "molti", "alcune", "qualsiasi", "qualcuno", "poca", "ogni"],
+      "items": [
+        { "before": "In questa scuola ci sono", "blank": true, "after": "allievi stranieri.", "answer": "molti" },
+        { "before": "Suo figlio mangia", "blank": true, "after": "frutta e verdura e così gli mancano", "answer": "poca" },
+        { "before": "", "blank": true, "after": "vitamine.", "answer": "alcune" },
+        { "before": "", "blank": true, "after": "ha visto i fratelli Chang?", "answer": "qualcuno" },
+        { "before": "Sergio è sempre in ritardo perché ha", "blank": true, "after": "da fare.", "answer": "troppo" },
+        { "before": "In questa frase c'è", "blank": true, "after": "che non va.", "answer": "qualcosa" },
+        { "before": "Fa' più attenzione: in", "blank": true, "after": "esercizio ci sono almeno dieci errori!", "answer": "ogni" },
+        { "before": "Vieni pure a trovarmi in un giorno", "blank": true, "after": ": sono sempre a casa.", "answer": "qualsiasi" }
+      ]
+    }
+  ]
+}

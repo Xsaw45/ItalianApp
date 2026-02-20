@@ -1,0 +1,372 @@
+{
+  "meta": {
+    "id": "18",
+    "title": "Gli aggettivi e i pronomi dimostrativi",
+    "subtitle": "Questo, quello, stesso, medesimo",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "**I dimostrativi servono a mostrare, a indicare la posizione in cui si trova qualcosa rispetto a chi parla.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "**Questo** indica una persona o una cosa **vicina** (= qui, vicino a me):"
+      },
+      {
+        "type": "list",
+        "items": [
+          "vicina nello spazio: **Questo** libro è pieno di disegni.",
+          "vicina nel tempo: **Questa** settimana fa caldo."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "**Quello** indica una persona o una cosa **lontana** (= là, lontano da me):"
+      },
+      {
+        "type": "list",
+        "items": [
+          "lontana nello spazio: **Quella** casa sulla collina è del sindaco.",
+          "lontana nel tempo: **Quell'**anno siamo andati in vacanza in Portogallo."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Nei casi visti finora i dimostrativi sono **aggettivi dimostrativi**, perché accompagnano un nome."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "questo libro, questa settimana, quella casa, quell'anno", "highlight": "aggettivi dimostrativi" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "I dimostrativi possono anche essere **pronomi dimostrativi** quando stanno al posto del nome, lo sostituiscono per non ripeterlo."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Questa penna non scrive, dammi per favore quella penna.", "highlight": "" },
+          { "italian": "Questa penna non scrive, dammi per favore **quella**.", "highlight": "quella" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "*Quella*, in questo caso, è un pronome dimostrativo."
+      },
+      {
+        "type": "heading",
+        "content": "LA FORMA"
+      },
+      {
+        "type": "paragraph",
+        "content": "**Questo** e **quello** concordano con il nome a cui si riferiscono, e cioè possono essere maschili, femminili, singolari, plurali."
+      },
+      {
+        "type": "table",
+        "caption": "Aggettivi dimostrativi",
+        "headers": ["", "Singolare maschile", "Singolare femminile", "Plurale maschile", "Plurale femminile"],
+        "rows": [
+          ["questo", "questo", "questa", "questi", "queste"],
+          ["quello", "quel / quello / quell'", "quella / quell'", "quei / quegli", "quelle"]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Pronomi dimostrativi",
+        "headers": ["", "Maschile singolare", "Femminile singolare", "Maschile plurale", "Femminile plurale"],
+        "rows": [
+          ["questo", "questo", "questa", "questi", "queste"],
+          ["quello", "quello", "quella", "quelli", "quelle"]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Attenzione: le forme di quello"
+      },
+      {
+        "type": "paragraph",
+        "content": "Esistono varie forme di **quello** (maschile) a seconda di come inizia la parola che segue, come per l'articolo **il**:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "se inizia per **consonante normale**, la forma è quella dell'articolo *il* (il bambino, **quel** bambino; i bambini, **quei** bambini);",
+          "se inizia per **z**, **s + consonante**, **ps**, **pn**, la forma è quella dell'articolo *lo* (lo studente, **quello** studente; gli studenti, **quegli** studenti);",
+          "se inizia per **vocale**, la forma è quella dell'articolo *l'* (l'uomo, **quell'**uomo; gli uomini, **quegli** uomini)."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Stesso e medesimo"
+      },
+      {
+        "type": "paragraph",
+        "content": "Esistono altri due aggettivi e pronomi dimostrativi (chiamati anche identificativi), **stesso** e **medesimo**, che indicano somiglianza o identità."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Faccio sempre lo **stesso** lavoro.", "highlight": "stesso" },
+          { "italian": "Questa maglia ha il **medesimo** colore dei pantaloni.", "highlight": "medesimo" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "oppure significano **persino**, **anche**, **in persona**."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Gli amici **stessi** non credevano a quello che Luigi raccontava.", "highlight": "stessi" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "**Stesso** e **medesimo** sono sempre preceduti dall'articolo."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "18-ex1",
+      "number": 1,
+      "type": "table-completion",
+      "instruction": "Completa la tabella.",
+      "headers": ["Singolare maschile", "Singolare femminile", "Plurale maschile", "Plurale femminile"],
+      "rows": [
+        {
+          "cells": [
+            { "value": "questo compagno", "editable": false },
+            { "value": "questa compagna", "editable": false },
+            { "value": "questi compagni", "editable": false },
+            { "value": "queste compagne", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "questo amico", "editable": false },
+            { "value": "questa amica", "editable": true, "answer": "questa amica" },
+            { "value": "questi amici", "editable": true, "answer": "questi amici" },
+            { "value": "queste amiche", "editable": true, "answer": "queste amiche" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "questo operaio", "editable": true, "answer": "questo operaio" },
+            { "value": "questa operaia", "editable": false },
+            { "value": "questi operai", "editable": true, "answer": "questi operai" },
+            { "value": "queste operaie", "editable": true, "answer": "queste operaie" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "quel professore", "editable": false },
+            { "value": "quella professoressa", "editable": true, "answer": "quella professoressa" },
+            { "value": "quei professori", "editable": true, "answer": "quei professori" },
+            { "value": "quelle professoresse", "editable": true, "answer": "quelle professoresse" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "quell'insegnante", "editable": true, "answer": "quell'insegnante" },
+            { "value": "quella insegnante", "editable": false },
+            { "value": "quegli insegnanti", "editable": true, "answer": "quegli insegnanti" },
+            { "value": "quelle insegnanti", "editable": true, "answer": "quelle insegnanti" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "quell'uomo", "editable": false },
+            { "value": "quella donna", "editable": true, "answer": "quella donna" },
+            { "value": "quegli uomini", "editable": true, "answer": "quegli uomini" },
+            { "value": "quelle donne", "editable": true, "answer": "quelle donne" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "quel ragazzo", "editable": true, "answer": "quel ragazzo" },
+            { "value": "quella ragazza", "editable": true, "answer": "quella ragazza" },
+            { "value": "quei ragazzi", "editable": false },
+            { "value": "quelle ragazze", "editable": true, "answer": "quelle ragazze" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "quello studente", "editable": true, "answer": "quello studente" },
+            { "value": "quella studentessa", "editable": true, "answer": "quella studentessa" },
+            { "value": "quegli studenti", "editable": true, "answer": "quegli studenti" },
+            { "value": "quelle studentesse", "editable": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18-ex2",
+      "number": 2,
+      "type": "sentence-completion",
+      "instruction": "Completa le seguenti frasi usando la forma corretta dell'aggettivo dimostrativo **quello**.",
+      "items": [
+        {
+          "segments": [
+            { "text": "Ti ricordi il nome di " },
+            { "blank": true, "answer": "quell'" },
+            { "text": "albergo dove abbiano dormito a Roma?" }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Non trovo più " },
+            { "blank": true, "answer": "quella" },
+            { "text": " bolletta della luce da pagare." }
+          ]
+        },
+        {
+          "segments": [
+            { "blank": true, "answer": "Quel" },
+            { "text": " cameriere ha le unghie sporche." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "L'avvocato Ardusso lavora in " },
+            { "blank": true, "answer": "quel" },
+            { "text": " palazzo bianco e grigio." }
+          ]
+        },
+        {
+          "segments": [
+            { "blank": true, "answer": "Quei" },
+            { "text": " ragazzi credono di essere in gamba, ma sono solo dei pasticcioni." }
+          ]
+        },
+        {
+          "segments": [
+            { "blank": true, "answer": "Quell'" },
+            { "text": "ananas è maturo?" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18-ex3",
+      "number": 3,
+      "type": "sentence-completion",
+      "instruction": "Completa le seguenti frasi usando la forma corretta dell'aggettivo o del pronome dimostrativo, scegliendo tra **questo** e **quello**.",
+      "items": [
+        {
+          "segments": [
+            { "text": "Questo vestito è " },
+            { "blank": true, "answer": "quello" },
+            { "text": " che hai messo al matrimonio di Clara?" }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Questo colore non va bene. Proviamo " },
+            { "blank": true, "answer": "quello" },
+            { "text": "." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Mia madre è uscita dall'ospedale e " },
+            { "blank": true, "answer": "questo" },
+            { "text": " è " },
+            { "blank": true, "answer": "quello" },
+            { "text": " che conta." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "I cugini di Sandro non verranno al matrimonio e " },
+            { "blank": true, "answer": "questo" },
+            { "text": " mi dispiace molto." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Se comprerò delle scarpe nuove, butterò via " },
+            { "blank": true, "answer": "queste" },
+            { "text": " vecchie." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Ti regalo una mia fotografia. Quale vuoi? – Prendo " },
+            { "blank": true, "answer": "questa" },
+            { "text": "." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18-ex4",
+      "number": 4,
+      "type": "sentence-completion",
+      "instruction": "Completa le frasi con l'aggettivo o il pronome identificativo corretti.",
+      "items": [
+        {
+          "segments": [
+            { "text": "Da quando è morta sua moglie, Gino non è più " },
+            { "blank": true, "answer": "lo stesso" },
+            { "text": "." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Al cinema Lux danno sempre " },
+            { "blank": true, "answer": "gli stessi" },
+            { "text": " film." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Che noia! Sempre " },
+            { "blank": true, "answer": "gli stessi" },
+            { "text": " discorsi!" }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Luisa si mette " },
+            { "blank": true, "answer": "lo stesso" },
+            { "text": " vestito tutti i giorni." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Fa' quello che vuoi, per me è " },
+            { "blank": true, "answer": "la stessa" },
+            { "text": " cosa." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "I medici " },
+            { "blank": true, "answer": "stessi" },
+            { "text": " si sono stupiti di una guarigione così rapida." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Le sorelle Gigliotti vanno nello " },
+            { "blank": true, "answer": "stesso" },
+            { "text": " albergo da dieci anni." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Purtroppo la salute non è più " },
+            { "blank": true, "answer": "la stessa" },
+            { "text": " di quando ero giovane." }
+          ]
+        }
+      ]
+    }
+  ]
+}

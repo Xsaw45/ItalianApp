@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "id": "17",
+    "title": "Gli aggettivi e i pronomi possessivi",
+    "subtitle": "Mio, tuo, suo, nostro, vostro, loro",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "**I possessivi servono per indicare a chi appartiene una persona o una cosa.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "Nella frase *La **tua** camicia è celeste*, **tua** indica che **tu** sei il proprietario della camicia, che la camicia appartiene a te."
+      },
+      {
+        "type": "heading",
+        "content": "LA FORMA"
+      },
+      {
+        "type": "table",
+        "caption": "Forme dei possessivi",
+        "headers": ["Persona", "Singolare maschile", "Singolare femminile", "Plurale maschile", "Plurale femminile"],
+        "rows": [
+          ["1ª sing. (io)", "mio", "mia", "miei", "mie"],
+          ["2ª sing. (tu)", "tuo", "tua", "tuoi", "tue"],
+          ["3ª sing. (lui/lei)", "suo", "sua", "suoi", "sue"],
+          ["1ª pl. (noi)", "nostro", "nostra", "nostri", "nostre"],
+          ["2ª pl. (voi)", "vostro", "vostra", "vostri", "vostre"],
+          ["3ª pl. (loro)", "loro", "loro", "loro", "loro"]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "I possessivi possono essere:\n• **aggettivi** possessivi, quando accompagnano il nome\n• **pronomi** possessivi, quando il nome non c'è, perché il pronome sta al posto del nome"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "il **mio** orologio, la **tua** bicicletta, il **suo** ufficio, la **nostra** scuola, la **vostra** insegnante, il **loro** alloggio", "highlight": "aggettivi possessivi" },
+          { "italian": "Quest'ombrello è di Nerina; il **mio** invece è blu. (il mio significa *il mio ombrello*)", "highlight": "pronome possessivo" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Uso dell'articolo davanti ai possessivi"
+      },
+      {
+        "type": "table",
+        "caption": "Quando si mette l'articolo davanti ai possessivi",
+        "headers": ["Davanti ai…", "Sì / No", "Esempi"],
+        "rows": [
+          ["pronomi possessivi", "si mette sempre", "Che macchina prendiamo? La mia?"],
+          ["aggettivi possessivi – con i nomi non di famiglia", "si mette sempre", "Il suo lavoro, la nostra amicizia, i miei capelli, le tue idee"],
+          ["aggettivi possessivi – con i nomi di famiglia – nome singolare", "non si mette", "mia sorella, tua cugina, suo zio, nostra madre, vostra cognata"],
+          ["aggettivi possessivi – con i nomi di famiglia – nome plurale", "si mette", "le mie sorelle, le tue cugine, i suoi zii, le nostre zie"],
+          ["aggettivi possessivi – con loro", "si mette sempre", "il loro zio, la loro mamma, i loro nonni, le loro sorelle"],
+          ["aggettivi possessivi – con un nome alterato (anche se sing.)", "si mette", "il mio fratellino, la sua cuginetta"],
+          ["aggettivi possessivi – con un nome modificato: da un aggettivo o da una specificazione", "si mette", "il mio caro papà, i miei zii di Verona"]
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "17-ex1",
+      "number": 1,
+      "type": "table-completion",
+      "instruction": "Completa la tabella.",
+      "headers": ["Singolare maschile", "Singolare femminile", "Plurale maschile", "Plurale femminile"],
+      "rows": [
+        {
+          "cells": [
+            { "value": "il mio gatto", "editable": false },
+            { "value": "la mia gatta", "editable": false },
+            { "value": "i miei gatti", "editable": false },
+            { "value": "le mie gatte", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "il tuo amico", "editable": false },
+            { "value": "la tua amica", "editable": true, "answer": "la tua amica" },
+            { "value": "i tuoi amici", "editable": true, "answer": "i tuoi amici" },
+            { "value": "le tue amiche", "editable": true, "answer": "le tue amiche" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "il suo compagno", "editable": true, "answer": "il suo compagno" },
+            { "value": "la sua compagna", "editable": false },
+            { "value": "i suoi compagni", "editable": true, "answer": "i suoi compagni" },
+            { "value": "le sue compagne", "editable": true, "answer": "le sue compagne" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "il nostro insegnante", "editable": true, "answer": "il nostro insegnante" },
+            { "value": "la nostra insegnante", "editable": true, "answer": "la nostra insegnante" },
+            { "value": "i nostri insegnanti", "editable": true, "answer": "i nostri insegnanti" },
+            { "value": "le nostre insegnanti", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "vostro figlio", "editable": false },
+            { "value": "vostra figlia", "editable": true, "answer": "vostra figlia" },
+            { "value": "i vostri figli", "editable": true, "answer": "i vostri figli" },
+            { "value": "le vostre figlie", "editable": true, "answer": "le vostre figlie" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "il loro collega", "editable": true, "answer": "il loro collega" },
+            { "value": "la loro collega", "editable": true, "answer": "la loro collega" },
+            { "value": "i loro colleghi", "editable": false },
+            { "value": "le loro colleghe", "editable": true, "answer": "le loro colleghe" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17-ex2",
+      "number": 2,
+      "type": "sentence-completion",
+      "instruction": "Completa le seguenti frasi, inserendo l'aggettivo o il pronome possessivo corretti. Poi scrivi accanto a ogni frase se i possessivi sono aggettivi (A) oppure pronomi (P).",
+      "items": [
+        {
+          "segments": [
+            { "text": "Per favore, dammi la " },
+            { "blank": true, "answer": "mia (A)" },
+            { "text": " borsa." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Nella " },
+            { "blank": true, "answer": "mia (A)" },
+            { "text": " famiglia siamo tutti bruni." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "La " },
+            { "blank": true, "answer": "mia (A)" },
+            { "text": " insegnante di scienze è abbastanza brava. La " },
+            { "blank": true, "answer": "tua (P)" },
+            { "text": " invece mi sembra più severa." }
+          ]
+        },
+        {
+          "segments": [
+            { "blank": true, "answer": "Mio (A)" },
+            { "text": " nonno è nato in Egitto." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "I genitori di Ester mi hanno invitato nella " },
+            { "blank": true, "answer": "loro (A)" },
+            { "text": " casa al mare." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17-ex3",
+      "number": 3,
+      "type": "transformation",
+      "instruction": "Riscrivi le frasi correggendo gli errori.",
+      "items": [
+        { "given": "La sua sorella si chiama Kristin.", "answer": "Sua sorella si chiama Kristin." },
+        { "given": "Suoi fratelli non sono ancora arrivati.", "answer": "I suoi fratelli non sono ancora arrivati." },
+        { "given": "Mio cuginetto fa sempre i capricci.", "answer": "Il mio cuginetto fa sempre i capricci." },
+        { "given": "Suo vestito è tutto macchiato.", "answer": "Il suo vestito è tutto macchiato." },
+        { "given": "Mamma, hai visto mie scarpe nuove?", "answer": "Mamma, hai visto le mie scarpe nuove?" }
+      ]
+    },
+    {
+      "id": "17-ex4",
+      "number": 4,
+      "type": "sentence-completion",
+      "instruction": "Completa le seguenti frasi, inserendo l'aggettivo o il pronome possessivo corretti. Inserisci anche l'articolo quando è necessario.",
+      "items": [
+        {
+          "segments": [
+            { "text": "Marco, " },
+            { "blank": true, "answer": "tuo" },
+            { "text": " figlio si chiama Matteo?" }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Luisa, " },
+            { "blank": true, "answer": "i tuoi" },
+            { "text": " figli si chiamano Matteo e Anna?" }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Carlo, " },
+            { "blank": true, "answer": "il tuo" },
+            { "text": " vocabolario di inglese è più completo del " },
+            { "blank": true, "answer": "mio" },
+            { "text": "." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Vuoi vedere " },
+            { "blank": true, "answer": "la mia" },
+            { "text": " casa?" }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Ho comprato un gelato anche per " },
+            { "blank": true, "answer": "tuo" },
+            { "text": " fratello." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17-ex5",
+      "number": 5,
+      "type": "transformation",
+      "instruction": "Sostituisci le espressioni in corsivo con l'aggettivo possessivo corrispondente.",
+      "items": [
+        { "given": "La macchina *che abbiamo noi*.", "answer": "la nostra macchina" },
+        { "given": "La segretaria *che lavora per te*.", "answer": "la tua segretaria" },
+        { "given": "Il sogno *che ho sempre avuto*.", "answer": "il mio sogno" },
+        { "given": "La dieta *che stai facendo*.", "answer": "la tua dieta" },
+        { "given": "Le pantofole *che uso in casa*.", "answer": "le mie pantofole" },
+        { "given": "I giocattoli *con cui gioca Sara*.", "answer": "i suoi giocattoli" },
+        { "given": "Il gatto *che abbiamo noi*.", "answer": "il nostro gatto" },
+        { "given": "I vestiti *che Luisa mette*.", "answer": "i suoi vestiti" },
+        { "given": "I discorsi *che fate*.", "answer": "i vostri discorsi" }
+      ]
+    }
+  ]
+}
