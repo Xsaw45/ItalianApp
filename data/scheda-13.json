@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "id": "13",
+    "title": "I Pronomi Personali Complemento Indiretto",
+    "subtitle": "Mi, ti, gli, le, ci, vi — forma debole e forte",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "Ecco la forma dei pronomi personali quando si usano come complemento indiretto."
+      },
+      {
+        "type": "heading",
+        "content": "La Forma"
+      },
+      {
+        "type": "table",
+        "caption": "Pronomi complemento indiretto — forma debole e forte",
+        "headers": ["Persona", "Forma debole", "Forma forte"],
+        "rows": [
+          ["1ª singolare", "mi (= a me)", "me (a me, di me, con me...)"],
+          ["2ª singolare", "ti (= a te)", "te (a te, di te, con te...)"],
+          ["3ª singolare M.", "gli (= a lui)", "lui/sé (a lui, a sé, di lui...)"],
+          ["3ª singolare F.", "le (= a lei)", "lei/sé (a lei, a sé, di lei...)"],
+          ["1ª plurale", "ci (= a noi)", "noi (a noi, di noi, con noi...)"],
+          ["2ª plurale", "vi (= a voi)", "voi (a voi, di voi, con voi...)"],
+          ["3ª plurale", "gli (= a loro)", "loro (a loro, di loro, con loro...)"]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "L'Uso"
+      },
+      {
+        "type": "paragraph",
+        "content": "La **forma debole** si usa solo per indicare il complemento di termine (a chi?): *Telefonerò a voi domani → Vi telefonerò domani.*"
+      },
+      {
+        "type": "paragraph",
+        "content": "La **forma forte** si usa per tutti i complementi introdotti da una preposizione: *Vengo con te. / Abbiamo parlato molto di voi. / Questo regalo è per lei.*"
+      },
+      {
+        "type": "list",
+        "items": [
+          "**Prima del verbo** (staccati) se il verbo è all'indicativo, congiuntivo o condizionale: *gli dico / se gli dicessi / gli direi*",
+          "**Dopo il verbo** (uniti) se il verbo è all'infinito, imperativo o gerundio: *dirgli / digli / dicendogli*"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "**Attenzione:** Alla 3ª persona si usa **sé** (invece di lui/lei) quando il pronome si riferisce al soggetto della frase: *Michele pensa solo a sé.* (= a se stesso, è egoista). Invece: *Michele pensa solo a lui.* (= a un'altra persona)"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "13-ex1",
+      "number": 1,
+      "type": "multiple-choice",
+      "instruction": "Completa le frasi scegliendo il pronome giusto tra le alternative proposte.",
+      "items": [
+        { "prompt": "Il dottore non c'è. Quando torna, ___ dirò che hai telefonato.", "options": ["gli", "le", "li"], "answer": "gli" },
+        { "prompt": "Vorrei una maglietta. ___ piacerebbe viola.", "options": ["Me", "Mi", "Te"], "answer": "Mi" },
+        { "prompt": "È arrivato lo zio. ___ hai già parlato?", "options": ["Le", "Gli", "Li"], "answer": "Gli" },
+        { "prompt": "Sono andato dalla professoressa e ___ ho raccontato tutto.", "options": ["le", "gli", "ci"], "answer": "le" },
+        { "prompt": "Luca è offeso con te. Devi ___ scusa.", "options": ["chiedergli", "chiederle", "chiederci"], "answer": "chiedergli" },
+        { "prompt": "Se volete ___ impresto le mie cassette.", "options": ["vi", "ve", "ci"], "answer": "vi" },
+        { "prompt": "Giulia è insopportabile. Parla di ___ continuamente.", "options": ["lei", "sé", "lui"], "answer": "sé" },
+        { "prompt": "Tutti vogliono venire con ___ perché sei molto simpatico.", "options": ["te", "ti", "tu"], "answer": "te" }
+      ]
+    },
+    {
+      "id": "13-ex2",
+      "number": 2,
+      "type": "fill-in-blank",
+      "instruction": "Completa le frasi con il pronome personale complemento indiretto corretto.",
+      "items": [
+        { "before": "Sono andato dal tabaccaio e", "blank": true, "after": "ho portato i soldi che mancavano.", "answer": "gli" },
+        { "before": "José è tornato dal farmacista e", "blank": true, "after": "ha detto che le medicine non andavano bene.", "answer": "gli" },
+        { "before": "Se venite a casa mia,", "blank": true, "after": "faccio provare il mio computer nuovo.", "answer": "vi" },
+        { "before": "", "blank": true, "after": "restituisci i soldi che ti ho imprestato?", "answer": "Mi" },
+        { "before": "", "blank": true, "after": "telefono domani per sapere se puoi venire al cinema.", "answer": "Ti" },
+        { "before": "Siamo molto contenti perché la professoressa Tallone", "blank": true, "after": "accompagna in gita.", "answer": "ci" }
+      ]
+    },
+    {
+      "id": "13-ex3",
+      "number": 3,
+      "type": "fill-in-blank",
+      "instruction": "Completa le frasi con il pronome personale complemento (unito al verbo all'infinito o all'imperativo).",
+      "items": [
+        { "before": "Se vuoi parlare con Federico, telefona", "blank": true, "after": "subito, perché poi va via.", "answer": "gli" },
+        { "before": "La mamma compie gli anni. Regaliamo", "blank": true, "after": "un profumo.", "answer": "le" },
+        { "before": "Se avete deciso di chiedere scusa a Fatima, parlate", "blank": true, "after": "ora.", "answer": "le" },
+        { "before": "Se continuate a dir", "blank": true, "after": "un mucchio di bugie, come posso fidarmi di voi?", "answer": "vi" },
+        { "before": "Posso telefonar", "blank": true, "after": "verso le sette o dormite ancora?", "answer": "vi" },
+        { "before": "Dicendo", "blank": true, "after": "queste cose, lo hai fatto arrabbiare.", "answer": "gli" }
+      ]
+    },
+    {
+      "id": "13-ex4",
+      "number": 4,
+      "type": "transformation",
+      "instruction": "Riscrivi le seguenti frasi sostituendo alle parole sottolineate i pronomi personali complemento adatti.",
+      "items": [
+        { "given": "Giovanna ha quattro figli e parla sempre dei quattro figli.", "answer": "Giovanna ha quattro figli e ne parla sempre." },
+        { "given": "Ho telefonato a Rosa e ho detto a Rosa che passerò domani a trovarla.", "answer": "Ho telefonato a Rosa e le ho detto che passerò domani a trovarla." },
+        { "given": "Mettiti d'accordo con Mario per andare al cinema con Mario.", "answer": "Mettiti d'accordo con Mario per andare al cinema con lui." },
+        { "given": "Alina ha salutato Olga, ma lei non ha risposto a Alina.", "answer": "Alina ha salutato Olga, ma lei non le ha risposto." },
+        { "given": "L'avvocato ha convocato il cliente per spiegare al cliente a che punto è la causa.", "answer": "L'avvocato ha convocato il cliente per spiegargli a che punto è la causa." },
+        { "given": "Matteo è venuto da me per dire a me che c'era una telefonata urgente.", "answer": "Matteo è venuto da me per dirmi che c'era una telefonata urgente." },
+        { "given": "Angelo è andato a trovare Paola perché voleva parlare a Paola.", "answer": "Angelo è andato a trovare Paola perché voleva parlarle." },
+        { "given": "Quando vai dal medico, spiega al medico i tuoi sintomi.", "answer": "Quando vai dal medico, spiegagli i tuoi sintomi." }
+      ]
+    }
+  ]
+}

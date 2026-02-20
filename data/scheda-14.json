@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "id": "14",
+    "title": "Ci e Ne",
+    "subtitle": "Usi e significati",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "Ci e Ne sono due parole particolari, che hanno vari usi e vari significati."
+      },
+      {
+        "type": "heading",
+        "content": "CI"
+      },
+      {
+        "type": "table",
+        "caption": "Usi di CI",
+        "headers": ["Che cos'è?", "Che cosa significa?", "Esempio"],
+        "rows": [
+          ["pronome personale diretto", "noi (oggetto)", "Roby ci ha visti sull'autobus."],
+          ["pronome personale indiretto", "a noi", "Ci impresti il tuo dizionario?"],
+          ["particella avverbiale di luogo", "qui, lì, là", "Nello zaino c'è il portapenne. / Come vai a scuola? – Ci vado a piedi."],
+          ["particella pronominale", "a questo, con questo, di questo", "Sono interessato a questo lavoro, ci tengo molto. / Sei riuscito a trovare i biglietti? Sì, ci sono riuscito."]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "NE"
+      },
+      {
+        "type": "table",
+        "caption": "Usi di NE",
+        "headers": ["Che cos'è?", "Che cosa significa?", "Esempio"],
+        "rows": [
+          ["pronome personale indiretto", "di lui, di lei, di loro / da lui, da lei, da loro", "Beppe è molto affezionato ai figli. Ne parla sempre. / Ho fatto questo lavoro ma non ne ho guadagnato niente."],
+          ["pronome partitivo", "di questo, di questa, di questi — una parte di qualcosa", "Vuoi del gelato? Sì, ne vorrei un po'. / Mangi tutta la pasta? No, ne prendo solo un piatto."]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "**Attenzione:** *Lo, la, li, le* significano **tutto**. *Ne* invece significa **un po'**, ed è necessario specificare la quantità: *Vuoi le arance? – Sì, le voglio.* (tutte) / *Vuoi le arance? – Sì, ne vorrei tre.* (solo alcune)"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "14-ex1",
+      "number": 1,
+      "type": "transformation",
+      "instruction": "Riscrivi le frasi sostituendo ci alle espressioni in neretto. Attenzione alla posizione di ci nella frase.",
+      "items": [
+        { "given": "Porta a noi una birra.", "answer": "Portaci una birra." },
+        { "given": "Luisa ha telefonato a noi?", "answer": "Luisa ci ha telefonato?" },
+        { "given": "Ho la febbre, vado a letto e resto a letto fino a domani.", "answer": "Ho la febbre, vado a letto e ci resto fino a domani." },
+        { "given": "Mario ha regalato a noi una scatola di cioccolatini.", "answer": "Mario ci ha regalato una scatola di cioccolatini." },
+        { "given": "La dottoressa oggi è in studio e sarà in studio anche venerdì.", "answer": "La dottoressa oggi è in studio e ci sarà anche venerdì." },
+        { "given": "Tutti vanno alla festa, ma io non posso andare alla festa.", "answer": "Tutti vanno alla festa, ma io non ci posso andare." },
+        { "given": "Restituisci a noi gli sci.", "answer": "Restituiscici gli sci." }
+      ]
+    },
+    {
+      "id": "14-ex2",
+      "number": 2,
+      "type": "transformation",
+      "instruction": "Riscrivi le frasi sostituendo ne alle espressioni in neretto. Attenzione alla posizione di ne nella frase.",
+      "items": [
+        { "given": "Non mi importa niente di lui.", "answer": "Non me ne importa niente." },
+        { "given": "Non gli importa niente di studiare.", "answer": "Non gliene importa niente." },
+        { "given": "Tanta gente parla male di Manuela.", "answer": "Tanta gente ne parla male." },
+        { "given": "Ho troppe banane. Vuoi un po' di banane?", "answer": "Ho troppe banane. Ne vuoi un po'?" },
+        { "given": "A Fausto piace molto il calcio. Parla sempre di calcio.", "answer": "A Fausto piace molto il calcio. Ne parla sempre." }
+      ]
+    },
+    {
+      "id": "14-ex3",
+      "number": 3,
+      "type": "fill-in-blank",
+      "instruction": "Completa le seguenti frasi usando ci o ne.",
+      "items": [
+        { "before": "Quando", "blank": true, "after": "porti le fotografie delle vacanze?", "answer": "ci" },
+        { "before": "Domani vai a Milano in macchina? No,", "blank": true, "after": "vado in treno.", "answer": "ci" },
+        { "before": "I miei fratelli sono in America e", "blank": true, "after": "sento molto la mancanza.", "answer": "ne" },
+        { "before": "Avete visto il fidanzato di Valeria? Che cosa", "blank": true, "after": "dite?", "answer": "ne" },
+        { "before": "Mi mancavano molti colori e allora", "blank": true, "after": "ho comprato una scatola.", "answer": "ne" },
+        { "before": "Non ho voglia di andare a quel pranzo. E tu", "blank": true, "after": "vuoi andare?", "answer": "ci" },
+        { "before": "Ti piace questo agnello arrosto?", "blank": true, "after": "vuoi ancora?", "answer": "Ne" }
+      ]
+    },
+    {
+      "id": "14-ex4",
+      "number": 4,
+      "type": "sentence-completion",
+      "instruction": "Completa le frasi usando ne e un'espressione di quantità adatta (un cucchiaino, un chilo, una dozzina, una fetta, dieci litri, una forma grossa, un pizzico).",
+      "items": [
+        {
+          "segments": [
+            { "text": "Vuoi lo zucchero nel caffè? – Sì, ne metto " },
+            { "blank": true, "answer": "un cucchiaino" },
+            { "text": "." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Che belle pere! Ne vorrei " },
+            { "blank": true, "answer": "un chilo" },
+            { "text": "." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Quante uova ti servono? Comprane " },
+            { "blank": true, "answer": "una dozzina" },
+            { "text": "." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Che buona questa torta! Posso averne ancora " },
+            { "blank": true, "answer": "una fetta" },
+            { "text": "?" }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Sono quasi senza benzina. Me ne metta " },
+            { "blank": true, "answer": "dieci litri" },
+            { "text": "." }
+          ]
+        }
+      ]
+    }
+  ]
+}

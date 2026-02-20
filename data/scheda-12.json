@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "id": "12",
+    "title": "I Pronomi Personali Complemento Diretto",
+    "subtitle": "Lo, la, li, le, mi, ti, ci, vi",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "Quando i pronomi personali si usano come complemento diretto hanno la funzione di complemento oggetto della frase."
+      },
+      {
+        "type": "heading",
+        "content": "La Forma"
+      },
+      {
+        "type": "table",
+        "caption": "Pronomi personali complemento diretto",
+        "headers": ["Persona", "Pronome"],
+        "rows": [
+          ["1ª persona singolare", "mi"],
+          ["2ª persona singolare", "ti"],
+          ["3ª persona singolare (M)", "lo"],
+          ["3ª persona singolare (F)", "la"],
+          ["1ª persona plurale", "ci"],
+          ["2ª persona plurale", "vi"],
+          ["3ª persona plurale (M)", "li"],
+          ["3ª persona plurale (F)", "le"]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "I pronomi di 3ª persona singolare **lo/la** diventano **l'** quando sono seguiti dal verbo *avere*: *Lo ho fatto → L'ho fatto, La hanno sentita → L'hanno sentita*."
+      },
+      {
+        "type": "heading",
+        "content": "L'Uso"
+      },
+      {
+        "type": "list",
+        "items": [
+          "**Prima del verbo** (staccati) se il verbo è all'indicativo, congiuntivo o condizionale: *Mangio il panino → Lo mangio.*",
+          "**Dopo il verbo** (uniti) se il verbo è all'infinito, all'imperativo o al gerundio: *Posso mangiare il panino → Posso mangiarlo. / Mangia il panino! → Mangialo!*"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "**Attenzione:** È possibile usare le forme *me, te, lui/lei, noi, voi, loro* per dare molto risalto al pronome: *Noi vediamo lei.* (= vediamo proprio lei, non altri)"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "12-ex1",
+      "number": 1,
+      "type": "fill-in-blank",
+      "instruction": "Completa le seguenti frasi con il pronome personale complemento diretto corretto. (Facciamo una festa a scuola...)",
+      "items": [
+        { "before": "Chi porta la coca-cola e l'aranciata?", "blank": true, "after": "porta Youssef.", "answer": "La" },
+        { "before": "Chi porta i bicchieri?", "blank": true, "after": "porta Vittoria.", "answer": "Li" },
+        { "before": "Chi porta i tovaglioli di carta?", "blank": true, "after": "porta Cristina.", "answer": "Li" },
+        { "before": "Chi porta le patatine?", "blank": true, "after": "porta Florina.", "answer": "Le" },
+        { "before": "Chi porta la torta?", "blank": true, "after": "porta Daniela.", "answer": "La" },
+        { "before": "Chi porta le pizzette e le frittelle?", "blank": true, "after": "porta Rafael.", "answer": "Le" },
+        { "before": "Chi porta il gelato?", "blank": true, "after": "porta Karen.", "answer": "Lo" }
+      ]
+    },
+    {
+      "id": "12-ex2",
+      "number": 2,
+      "type": "sentence-completion",
+      "instruction": "Completa le frasi con un pronome personale complemento di 3ª persona, facendo attenzione alla differenza tra uso al presente e al passato prossimo.",
+      "items": [
+        {
+          "segments": [
+            { "text": "Mangi il pesce? No, non " },
+            { "blank": true, "answer": "lo" },
+            { "text": " mangio mai. Sì, " },
+            { "blank": true, "answer": "l'" },
+            { "text": "ho mangiato domenica." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Mangi la pasta? Sì, " },
+            { "blank": true, "answer": "la" },
+            { "text": " mangio quasi tutti i giorni. Oggi no, ma " },
+            { "blank": true, "answer": "l'" },
+            { "text": "ho mangiata ieri." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Mangi le banane? Sì, " },
+            { "blank": true, "answer": "le" },
+            { "text": " mangio. Sì, " },
+            { "blank": true, "answer": "le" },
+            { "text": "ho mangiate oggi a merenda." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Mangi i cioccolatini? Sì, " },
+            { "blank": true, "answer": "li" },
+            { "text": " mangio tutte le volte che posso. Sì, " },
+            { "blank": true, "answer": "li" },
+            { "text": "ho mangiati tutti io." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12-ex3",
+      "number": 3,
+      "type": "fill-in-blank",
+      "instruction": "Completa le seguenti frasi con il pronome personale complemento diretto corretto.",
+      "items": [
+        { "before": "Matteo e Simone dipingono con le tempere. Io invece non", "blank": true, "after": "ho mai usate.", "answer": "le" },
+        { "before": "Non so fare le equazioni. Non", "blank": true, "after": "abbiamo ancora studiate.", "answer": "le" },
+        { "before": "Non ho portato il vocabolario,", "blank": true, "after": "dimentico sempre.", "answer": "lo" },
+        { "before": "Ruth ha sbagliato il problema. Non", "blank": true, "after": "ha proprio capito.", "answer": "lo" },
+        { "before": "Joseph ha le scarpe da ginnastica nuove.", "blank": true, "after": "ha comprate ieri.", "answer": "Le" }
+      ]
+    },
+    {
+      "id": "12-ex4",
+      "number": 4,
+      "type": "fill-in-blank",
+      "instruction": "Completa le frasi con il pronome personale complemento corretto (imperativo).",
+      "items": [
+        { "before": "Se ti piace quella maglietta, compra", "blank": true, "after": "!", "answer": "la" },
+        { "before": "Se hai bisogno di un quaderno, compra", "blank": true, "after": "!", "answer": "lo" },
+        { "before": "Se manca il latte, compriamo", "blank": true, "after": "!", "answer": "lo" },
+        { "before": "Se volete dei pennarelli nuovi, comprate", "blank": true, "after": "!", "answer": "li" },
+        { "before": "Se hai dimenticato il biglietto, compra", "blank": true, "after": "!", "answer": "lo" }
+      ]
+    },
+    {
+      "id": "12-ex5",
+      "number": 5,
+      "type": "fill-in-blank",
+      "instruction": "Completa le frasi con il pronome personale complemento adatto (pronome attaccato all'infinito).",
+      "items": [
+        { "before": "Sono ammalata e mia mamma vuole portar", "blank": true, "after": "dal medico.", "answer": "mi" },
+        { "before": "Il gatto è in casa, ma io non riesco a trovar", "blank": true, "after": ".", "answer": "lo" },
+        { "before": "Perché i vostri genitori vogliono portar", "blank": true, "after": "in montagna, se non vi piace?", "answer": "vi" },
+        { "before": "Non ho capito questa spiegazione anche se la professoressa", "blank": true, "after": "ha ripetuta due volte.", "answer": "la" },
+        { "before": "Le rose erano appassite e", "blank": true, "after": "ho buttate via.", "answer": "le" }
+      ]
+    }
+  ]
+}

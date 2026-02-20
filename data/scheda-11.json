@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "id": "11",
+    "title": "I Pronomi",
+    "subtitle": "Tipi e pronomi personali soggetto",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "Il pronome è una parola che si usa al posto di un nome per non ripeterlo e rendere la frase più semplice e scorrevole."
+      },
+      {
+        "type": "paragraph",
+        "content": "I pronomi possono sostituire non solo un nome, ma anche altre parole o addirittura delle frasi intere: un aggettivo, un altro pronome, un verbo o una frase intera."
+      },
+      {
+        "type": "paragraph",
+        "content": "Ci sono molti tipi di pronomi: **personali**, **possessivi**, **dimostrativi**, **indefiniti**, **relativi**, **interrogativi**."
+      },
+      {
+        "type": "heading",
+        "content": "I Pronomi Personali Soggetto"
+      },
+      {
+        "type": "paragraph",
+        "content": "I **pronomi personali** indicano le persone del discorso: *io, me, mi, noi, ci* si riferiscono a chi parla; *tu, te, ti, voi, vi* si riferiscono a chi ascolta; *egli, lui, ella, lei, essi, esse, loro, li* si riferiscono alla persona o cosa di cui si parla."
+      },
+      {
+        "type": "table",
+        "caption": "Pronomi personali soggetto",
+        "headers": ["Persona", "Pronome"],
+        "rows": [
+          ["1ª persona singolare", "io"],
+          ["2ª persona singolare", "tu"],
+          ["3ª persona singolare (M)", "egli, lui, esso"],
+          ["3ª persona singolare (F)", "ella, lei, essa"],
+          ["1ª persona plurale", "noi"],
+          ["2ª persona plurale", "voi"],
+          ["3ª persona plurale (M)", "essi, loro"],
+          ["3ª persona plurale (F)", "esse, loro"]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "**Attenzione:** Nella 3ª persona le forme egli/ella e essi/esse sono oggi sostituite — nella lingua parlata — da lui, lei, loro."
+      },
+      {
+        "type": "paragraph",
+        "content": "In italiano non è obbligatorio indicare sempre il pronome soggetto; molto spesso — quando è chiaro di chi si parla — non si dice, cioè si lascia sottinteso."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "11-ex1",
+      "number": 1,
+      "type": "fill-in-blank",
+      "instruction": "Inserisci il pronome personale soggetto adatto davanti a ogni forma verbale.",
+      "items": [
+        { "before": "", "blank": true, "after": "andavo", "answer": "io" },
+        { "before": "", "blank": true, "after": "ha studiato", "answer": "lui" },
+        { "before": "", "blank": true, "after": "ridono", "answer": "loro" },
+        { "before": "", "blank": true, "after": "è stato", "answer": "lui" },
+        { "before": "", "blank": true, "after": "scrivete", "answer": "voi" },
+        { "before": "", "blank": true, "after": "siamo partiti", "answer": "noi" },
+        { "before": "", "blank": true, "after": "andiamo", "answer": "noi" },
+        { "before": "", "blank": true, "after": "bevo", "answer": "io" },
+        { "before": "", "blank": true, "after": "abbiamo dormito", "answer": "noi" },
+        { "before": "", "blank": true, "after": "mangi", "answer": "tu" },
+        { "before": "", "blank": true, "after": "balla", "answer": "lui" },
+        { "before": "", "blank": true, "after": "ho scritto", "answer": "io" },
+        { "before": "", "blank": true, "after": "avevano", "answer": "loro" },
+        { "before": "", "blank": true, "after": "siete", "answer": "voi" },
+        { "before": "", "blank": true, "after": "siete ritornati", "answer": "voi" },
+        { "before": "", "blank": true, "after": "scrive", "answer": "lui" },
+        { "before": "", "blank": true, "after": "hai fatto", "answer": "tu" },
+        { "before": "", "blank": true, "after": "facevo", "answer": "io" },
+        { "before": "", "blank": true, "after": "dorme", "answer": "lui" },
+        { "before": "", "blank": true, "after": "fanno", "answer": "loro" },
+        { "before": "", "blank": true, "after": "studia", "answer": "lui" },
+        { "before": "", "blank": true, "after": "andava", "answer": "lui" },
+        { "before": "", "blank": true, "after": "sono andato", "answer": "io" },
+        { "before": "", "blank": true, "after": "beve", "answer": "lui" }
+      ]
+    },
+    {
+      "id": "11-ex2",
+      "number": 2,
+      "type": "fill-in-blank",
+      "instruction": "Sostituisci ai nomi comuni o propri in neretto il pronome personale soggetto corrispondente.",
+      "items": [
+        { "before": "L'oculista", "blank": true, "after": "mi ha visitato l'altro ieri.", "answer": "lui" },
+        { "before": "Giulia", "blank": true, "after": "ci ha invitati a pranzo per domenica.", "answer": "lei" },
+        { "before": "Franco e sua moglie", "blank": true, "after": "hanno più di ottant'anni.", "answer": "loro" },
+        { "before": "In questo periodo il muratore", "blank": true, "after": "non lavora.", "answer": "lui" },
+        { "before": "Rocky è il cane del benzinaio: Rocky", "blank": true, "after": "sta tutto il giorno al distributore.", "answer": "lui" },
+        { "before": "Il presidente", "blank": true, "after": "ha fatto un'importante dichiarazione.", "answer": "lui" },
+        { "before": "Luisa", "blank": true, "after": "è mia amica da vent'anni.", "answer": "lei" },
+        { "before": "I sindacati", "blank": true, "after": "hanno deciso di continuare lo sciopero.", "answer": "loro" },
+        { "before": "Marco", "blank": true, "after": "fa il cameriere in un albergo al mare.", "answer": "lui" },
+        { "before": "I miei genitori", "blank": true, "after": "sono in pensione.", "answer": "loro" }
+      ]
+    },
+    {
+      "id": "11-ex3",
+      "number": 3,
+      "type": "multiple-choice",
+      "instruction": "Completa le seguenti frasi con il pronome personale soggetto adatto.",
+      "items": [
+        { "prompt": "______ gli ha promesso un lavoro.", "options": ["lui", "lei", "loro"], "answer": "lui" },
+        { "prompt": "Avevo perso i documenti, ma ______ li ha trovati nell'atrio.", "options": ["lui", "lei", "loro"], "answer": "lui" },
+        { "prompt": "______ non so proprio più che cosa fare per convincerlo.", "options": ["io", "tu", "lui"], "answer": "io" },
+        { "prompt": "I carabinieri hanno cercato di inseguire il ladro, ma ______ è riuscito a scappare.", "options": ["lui", "lei", "loro"], "answer": "lui" },
+        { "prompt": "______ è intelligente e simpatica, mentre ______ è veramente uno stupido.", "options": ["lei/lui", "lui/lei", "io/tu"], "answer": "lei/lui" },
+        { "prompt": "Sono stufo di mettere in ordine sempre io; oggi fatelo ______.", "options": ["voi", "loro", "noi"], "answer": "voi" }
+      ]
+    },
+    {
+      "id": "11-ex4",
+      "number": 4,
+      "type": "multiple-choice",
+      "instruction": "In italiano il pronome soggetto spesso non è necessario. In quale frase il pronome soggetto è indispensabile?",
+      "items": [
+        { "prompt": "Oggi ___ devo lavare i piatti. (io)", "options": ["necessario", "non necessario"], "answer": "non necessario" },
+        { "prompt": "Sono stufo di farlo sempre ___; oggi fatelo voi! (io)", "options": ["necessario", "non necessario"], "answer": "necessario" },
+        { "prompt": "___ ho portato il caffè a Stefano e lui mi ha ringraziata. (io)", "options": ["necessario", "non necessario"], "answer": "non necessario" },
+        { "prompt": "Non è ___ che ha vinto la gara, ma quel ragazzo biondo. (lui)", "options": ["necessario", "non necessario"], "answer": "necessario" }
+      ]
+    }
+  ]
+}

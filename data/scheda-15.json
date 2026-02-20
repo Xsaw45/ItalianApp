@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "id": "15",
+    "title": "I Pronomi Combinati",
+    "subtitle": "Me lo, te la, glielo, ce ne...",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "Quando i pronomi personali indiretti mi, ti, gli, ci, vi sono usati insieme con i pronomi personali diretti lo, la, li, le e con il pronome ne si trasformano in forme combinate."
+      },
+      {
+        "type": "heading",
+        "content": "La Forma"
+      },
+      {
+        "type": "table",
+        "caption": "Pronomi combinati",
+        "headers": ["Indiretto", "Diretto lo", "Diretto la", "Diretto li", "Diretto le", "Ne"],
+        "rows": [
+          ["mi → me", "me lo", "me la", "me li", "me le", "me ne"],
+          ["ti → te", "te lo", "te la", "te li", "te le", "te ne"],
+          ["gli / le → gli", "glielo", "gliela", "glieli", "gliele", "gliene"],
+          ["ci → ce", "ce lo", "ce la", "ce li", "ce le", "ce ne"],
+          ["vi → ve", "ve lo", "ve la", "ve li", "ve le", "ve ne"]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "**Attenzione:** Nei pronomi combinati, le forme deboli mi, ti, ci, vi diventano **me, te, ce, ve**. Per la 3ª persona (gli/le) e per il plurale (gli), le forme combinate sono scritte **unite** in una sola parola: *glielo, gliela, glieli, gliele, gliene*."
+      },
+      {
+        "type": "heading",
+        "content": "L'Uso"
+      },
+      {
+        "type": "list",
+        "items": [
+          "**Prima del verbo** (staccati) se il verbo è all'indicativo, congiuntivo o condizionale: *te lo dico / se te lo dicessi / te lo direi*",
+          "**Dopo il verbo** (uniti) se il verbo è all'infinito, all'imperativo o al gerundio: *non posso dirtelo / diglielo / dicendotelo*"
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "15-ex1",
+      "number": 1,
+      "type": "fill-in-blank",
+      "instruction": "Completa le risposte usando un pronome combinato.",
+      "items": [
+        { "before": "Chi porta le fotocopie al preside? –", "blank": true, "after": "porto io mentre vado in segreteria.", "answer": "Gliele" },
+        { "before": "Chi restituisce i soldi agli zii? –", "blank": true, "after": "restituiremo noi domenica.", "answer": "Glieli" },
+        { "before": "Chi scrive un biglietto di auguri a Marta? –", "blank": true, "after": "scrivo io volentieri.", "answer": "Glielo" },
+        { "before": "Chi prepara la merenda ai bambini? –", "blank": true, "after": "prepara mia mamma.", "answer": "Gliela" },
+        { "before": "Mi impresti il libro di geografia? – Oggi mi serve;", "blank": true, "after": "impresterò domani.", "answer": "te lo" },
+        { "before": "Ho sete, berrei una bibita. – Andiamo al bar,", "blank": true, "after": "offro io.", "answer": "te la" },
+        { "before": "Quando mi regali un videogioco nuovo? –", "blank": true, "after": "regalerò per il tuo compleanno.", "answer": "Te lo" }
+      ]
+    },
+    {
+      "id": "15-ex2",
+      "number": 2,
+      "type": "transformation",
+      "instruction": "Riscrivi le frasi usando un pronome combinato al posto delle parole in neretto.",
+      "items": [
+        { "given": "Vuoi conoscere Paola? Presenterò Paola a te stasera.", "answer": "Vuoi conoscere Paola? Te la presenterò stasera." },
+        { "given": "Ho finito il problema. Posso far vedere il problema alla professoressa?", "answer": "Ho finito il problema. Posso farmostarglielo?" },
+        { "given": "Mio fratello aveva dei francobolli e ha dato a me cinque francobolli.", "answer": "Mio fratello aveva dei francobolli e me ne ha dati cinque." },
+        { "given": "Se non ti piace come si comporta, dì questo a lui.", "answer": "Se non ti piace come si comporta, diglìelo." },
+        { "given": "Vittoria mi ha imprestato 5 euro. Devo ricordarmi di restituire 5 euro a lei.", "answer": "Vittoria mi ha imprestato 5 euro. Devo ricordarmi di restituirglieli." }
+      ]
+    },
+    {
+      "id": "15-ex3",
+      "number": 3,
+      "type": "transformation",
+      "instruction": "Riscrivi la seconda parte delle frasi, in corsivo, usando il pronome combinato adatto.",
+      "items": [
+        { "given": "Hai troppe prugne? Portale a noi.", "answer": "Portacele." },
+        { "given": "Non ti servono quei giornali? Portali a noi.", "answer": "Portaceli." },
+        { "given": "Ho fatto il gelato alla nocciola. Lo farò assaggiare a te.", "answer": "Te lo farò assaggiare." },
+        { "given": "Il direttore ha l'abitudine di cambiare gli orari senza dirlo a noi.", "answer": "Il direttore ha l'abitudine di cambiare gli orari senza dircelo." },
+        { "given": "Hai detto al macellaio che la carne non era buona? – No, mi sono dimenticato di questo.", "answer": "No, me ne sono dimenticato." }
+      ]
+    },
+    {
+      "id": "15-ex4",
+      "number": 4,
+      "type": "fill-in-blank",
+      "instruction": "Rispondi alle domande usando un pronome combinato.",
+      "items": [
+        { "before": "Hai fatto vedere le foto allo zio Lino? Sì,", "blank": true, "after": "ho fatte vedere.", "answer": "gliele" },
+        { "before": "Quando ti hanno fatto la multa?", "blank": true, "after": "hanno fatta oggi.", "answer": "Me la" },
+        { "before": "Gli hai preparato tu la cena? Sì,", "blank": true, "after": "ho preparata io.", "answer": "gliela" },
+        { "before": "Gli hai spiegato che qui non c'è lavoro? Sì,", "blank": true, "after": "ho spiegato.", "answer": "glielo" },
+        { "before": "Hai detto a Susanna che non voglio il dolce? Sì,", "blank": true, "after": "ho detto.", "answer": "glielo" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "id": "16",
+    "title": "I Pronomi Relativi",
+    "subtitle": "Che, cui, il quale",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "I pronomi relativi sostituiscono un nome, come tutti i pronomi, e in più mettono in relazione due frasi, unendole in una frase sola."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Non conosco quel ragazzo. + Quel ragazzo lavora nel bar. → Non conosco quel ragazzo che lavora nel bar.", "highlight": "che" },
+          { "italian": "La professoressa insegna matematica. + La professoressa si chiama Nebiolo. → La professoressa che insegna matematica si chiama Nebiolo.", "highlight": "che" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "CHE"
+      },
+      {
+        "type": "paragraph",
+        "content": "Il pronome relativo più importante è **che**: è **invariabile**, cioè non cambia mai: va bene per il maschile e per il femminile, sia al singolare sia al plurale. Può essere usato come soggetto o come oggetto."
+      },
+      {
+        "type": "paragraph",
+        "content": "In tutti i casi *che* può essere sostituito da *quale*; però, mentre *che* è invariabile, *quale* ha quattro forme: **il quale, la quale, i quali, le quali**."
+      },
+      {
+        "type": "heading",
+        "content": "CUI e IL QUALE (con preposizione)"
+      },
+      {
+        "type": "paragraph",
+        "content": "Quando il pronome relativo è preceduto da una preposizione, possiamo usare **cui** (invariabile) o **quale** (quattro forme)."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Questa è la casa in cui (= nella quale) vivo da sempre.", "highlight": "in cui" },
+          { "italian": "Questo è l'amico di cui (= del quale) ti ho parlato tanto.", "highlight": "di cui" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Le frasi che incominciano con un pronome relativo si chiamano **frasi** o **proposizioni relative**."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "16-ex1",
+      "number": 1,
+      "type": "multiple-choice",
+      "instruction": "Identifica il pronome relativo corretto nelle seguenti frasi.",
+      "items": [
+        { "prompt": "Il centralino mi ha dato un numero di interno ___ probabilmente era sbagliato.", "options": ["che", "cui", "il quale"], "answer": "che" },
+        { "prompt": "La legge ___ è stata proposta da alcuni partiti sarà approvata.", "options": ["che", "cui", "la quale"], "answer": "che" },
+        { "prompt": "Ti piace la canzone ___ ha vinto il festival?", "options": ["che", "cui", "la quale"], "answer": "che" },
+        { "prompt": "Aureliano, ___ è sempre stato benissimo, da qualche mese si ammala continuamente.", "options": ["che", "cui", "il quale"], "answer": "che" },
+        { "prompt": "Matteo gioca in una vasca ___ suo papà ha messo sul terrazzo.", "options": ["che", "cui", "la quale"], "answer": "che" }
+      ]
+    },
+    {
+      "id": "16-ex2",
+      "number": 2,
+      "type": "transformation",
+      "instruction": "Costruisci delle frasi relative, unendo con un pronome relativo le seguenti coppie di frasi.",
+      "items": [
+        { "given": "Ho venduto il motorino. Il motorino era vecchio.", "answer": "Ho venduto il motorino che era vecchio." },
+        { "given": "Ho messo le calze nel cassetto. Il cassetto è già pieno.", "answer": "Ho messo le calze nel cassetto che è già pieno." },
+        { "given": "Luisa è andata da un'amica. L'amica è ucraina.", "answer": "Luisa è andata da un'amica che è ucraina." },
+        { "given": "Ho telefonato a una zia. La zia abita nel Veneto.", "answer": "Ho telefonato a una zia che abita nel Veneto." },
+        { "given": "Ho consultato un sito Internet. Il sito è poco interessante.", "answer": "Ho consultato un sito Internet che è poco interessante." },
+        { "given": "Non trovo più i documenti. I documenti erano sul tavolo.", "answer": "Non trovo più i documenti che erano sul tavolo." }
+      ]
+    },
+    {
+      "id": "16-ex3",
+      "number": 3,
+      "type": "sentence-completion",
+      "instruction": "Completa le seguenti frasi, usando il pronome cui più la preposizione necessaria.",
+      "items": [
+        {
+          "segments": [
+            { "text": "La casa " },
+            { "blank": true, "answer": "in cui" },
+            { "text": " abito ora è molto più grande di quella di prima." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Le cugine " },
+            { "blank": true, "answer": "di cui" },
+            { "text": " ti ho parlato arriveranno in Italia il prossimo mese." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "La città " },
+            { "blank": true, "answer": "da cui" },
+            { "text": " vengo si trova nell'interno dell'Ecuador." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "La persona " },
+            { "blank": true, "answer": "a cui" },
+            { "text": " scrivo mi è molto cara." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Il computer " },
+            { "blank": true, "answer": "con cui" },
+            { "text": " scrivo è nuovissimo." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "I motivi " },
+            { "blank": true, "answer": "per cui" },
+            { "text": " mi arrabbio con Carlo sono sempre gli stessi." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16-ex4",
+      "number": 4,
+      "type": "fill-in-blank",
+      "instruction": "Inserisci nelle frasi il pronome relativo adatto (che o cui con preposizione).",
+      "items": [
+        { "before": "La pizza", "blank": true, "after": "fanno qui è la migliore della città.", "answer": "che" },
+        { "before": "Ti spiego il motivo per", "blank": true, "after": "sono qui.", "answer": "cui" },
+        { "before": "Franco è il ragazzo con", "blank": true, "after": "esce mia sorella.", "answer": "cui" },
+        { "before": "Ho già speso tutti i soldi", "blank": true, "after": "mi ha dato mio padre.", "answer": "che" },
+        { "before": "La sedia su", "blank": true, "after": "sei seduto sta per rompersi.", "answer": "cui" },
+        { "before": "Mi è piaciuto molto il libro", "blank": true, "after": "mi hai portato.", "answer": "che" },
+        { "before": "Il compito in classe", "blank": true, "after": "abbiamo fatto ieri era difficile.", "answer": "che" },
+        { "before": "Il motorino", "blank": true, "after": "ha investito Laura andava troppo veloce.", "answer": "che" }
+      ]
+    }
+  ]
+}
