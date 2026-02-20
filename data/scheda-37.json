@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "id": "37",
+    "title": "Le preposizioni",
+    "subtitle": "Forma e tipi delle preposizioni italiane",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "Le preposizioni sono delle parole che si mettono davanti a nomi, aggettivi, pronomi, avverbi e verbi all'infinito per collegarli e metterli in rapporto in vario modo."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "La macchina **di** Riccardo è qui.", "highlight": "di" },
+          { "italian": "Riccardo abita **in** una casa **tra** i boschi.", "highlight": "in, tra" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "(*di* unisce **la macchina** a **Riccardo** e serve per indicare chi è il padrone della macchina)\n(*in* unisce il verbo *abitare* alla *casa* e indica dove abita Riccardo; *tra* unisce *casa* con *boschi* e serve per indicare dov'è la casa)"
+      },
+      {
+        "type": "heading",
+        "content": "La forma"
+      },
+      {
+        "type": "paragraph",
+        "content": "Le preposizioni sono di quattro tipi:"
+      },
+      {
+        "type": "heading",
+        "content": "Preposizioni semplici"
+      },
+      {
+        "type": "list",
+        "items": ["di", "a", "da", "in", "con", "su", "per", "tra", "fra"]
+      },
+      {
+        "type": "heading",
+        "content": "Preposizioni articolate"
+      },
+      {
+        "type": "paragraph",
+        "content": "Si ottengono unendo le preposizioni semplici con gli articoli determinativi."
+      },
+      {
+        "type": "table",
+        "caption": "Preposizioni articolate",
+        "headers": ["", "di", "a", "da", "in", "con", "su", "per", "tra/fra"],
+        "rows": [
+          ["il", "del", "al", "dal", "nel", "con il", "sul", "per il", "tra il"],
+          ["lo", "dello", "allo", "dallo", "nello", "con lo", "sullo", "per lo", "tra lo"],
+          ["l'", "dell'", "all'", "dall'", "nell'", "con l'", "sull'", "per l'", "tra l'"],
+          ["i", "dei", "ai", "dai", "nei", "con i", "sui", "per i", "tra i"],
+          ["gli", "degli", "agli", "dagli", "negli", "con gli", "sugli", "per gli", "tra gli"],
+          ["la", "della", "alla", "dalla", "nella", "con la", "sulla", "per la", "tra la"],
+          ["l'", "dell'", "all'", "dall'", "nell'", "con l'", "sull'", "per la", "tra la"],
+          ["le", "delle", "alle", "dalle", "nelle", "con le", "sulle", "per le", "tra le"]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Per sapere quale preposizione articolata dobbiamo usare, bisogna pensare: davanti a questo nome che articolo usiamo?\n\nPartiamo dalla preposizione semplice **di**:\n- se dico *il cane* → la preposizione articolata sarà **del** cane\n- se dico *lo studente* → la preposizione articolata sarà **dello** studente\n- se dico *l'occhio* → la preposizione articolata sarà **dell'**occhio\n- se dico *la bambina* → la preposizione articolata sarà **della** bambina"
+      },
+      {
+        "type": "heading",
+        "content": "Preposizioni improprie"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sono parole che vengono usate come preposizioni, ma possono anche essere **avverbi** o **aggettivi**."
+      },
+      {
+        "type": "paragraph",
+        "content": "**Avverbi:** sopra, sotto, davanti, dietro, dentro, fuori, dopo, prima\n**Aggettivi:** vicino, lontano, salvo, lungo, secondo"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Vado **sopra**.", "highlight": "sopra" },
+          { "italian": "I piatti sono **sopra** il tavolo.", "highlight": "sopra" },
+          { "italian": "Questo libro è molto **lungo**.", "highlight": "lungo" },
+          { "italian": "Corso Casale si trova **lungo** il fiume Po.", "highlight": "lungo" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "(*sopra* è in questo caso un avverbio di luogo nel primo esempio; nel secondo è una preposizione che collega i piatti al tavolo)\n(*lungo* è in questo caso un aggettivo nel primo esempio; nel secondo è una preposizione che collega il verbo *trovarsi* con il *fiume*)"
+      },
+      {
+        "type": "heading",
+        "content": "Locuzioni prepositive"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sono preposizioni formate da più di una parola: **a causa di**, **di fronte a**, **in compagnia di**, **per mezzo di**…"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "È morto **a causa di** un infarto.", "highlight": "a causa di" }
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "37-ex1",
+      "number": 1,
+      "type": "fill-in-blank",
+      "instruction": "Completa ogni espressione inserendo la preposizione semplice o articolata corretta. Parti dalla preposizione semplice **di**.\n\n*il professore → La casa **del** professore*",
+      "items": [
+        { "before": "1. l'infermiera → La casa", "blank": true, "after": "infermiera", "answer": "dell'" },
+        { "before": "2. la padrona → La casa", "blank": true, "after": "padrona", "answer": "della" },
+        { "before": "3. l'avvocato → La casa", "blank": true, "after": "avvocato", "answer": "dell'" },
+        { "before": "4. i figli di Claudio → La casa", "blank": true, "after": "figli di Claudio", "answer": "dei" },
+        { "before": "5. mio fratello → La casa", "blank": true, "after": "mio fratello", "answer": "di" },
+        { "before": "6. Carmen → La casa", "blank": true, "after": "Carmen", "answer": "di" },
+        { "before": "7. lo scrittore → La casa", "blank": true, "after": "scrittore", "answer": "dello" },
+        { "before": "8. le mie amiche → La casa", "blank": true, "after": "mie amiche", "answer": "delle" },
+        { "before": "9. il sindaco → La casa", "blank": true, "after": "sindaco", "answer": "del" },
+        { "before": "10. gli studenti → La casa", "blank": true, "after": "studenti", "answer": "degli" }
+      ]
+    },
+    {
+      "id": "37-ex2",
+      "number": 2,
+      "type": "fill-in-blank",
+      "instruction": "Completa le seguenti espressioni con la preposizione adatta: **a**, **in**, **da** (semplici o articolate).",
+      "items": [
+        { "before": "1. Io vado", "blank": true, "after": "scuola", "answer": "a" },
+        { "before": "Io vado", "blank": true, "after": "stazione", "answer": "alla" },
+        { "before": "Io vado", "blank": true, "after": "partita", "answer": "alla" },
+        { "before": "2. Io vado", "blank": true, "after": "cinema", "answer": "al" },
+        { "before": "Io vado", "blank": true, "after": "supermercato", "answer": "al" },
+        { "before": "Io vado", "blank": true, "after": "stadio", "answer": "allo" },
+        { "before": "3. Io vado", "blank": true, "after": "pizzeria", "answer": "in" },
+        { "before": "Io vado", "blank": true, "after": "giardini", "answer": "ai" },
+        { "before": "Io vado", "blank": true, "after": "piscina", "answer": "in" },
+        { "before": "4. Io vado", "blank": true, "after": "farmacia", "answer": "in" },
+        { "before": "Io vado", "blank": true, "after": "farmacista", "answer": "dal" },
+        { "before": "Io vado", "blank": true, "after": "dentista", "answer": "dal" },
+        { "before": "5. Io vado", "blank": true, "after": "dottore", "answer": "dal" },
+        { "before": "Io vado", "blank": true, "after": "bar", "answer": "al" },
+        { "before": "Io vado", "blank": true, "after": "pronto soccorso", "answer": "al" },
+        { "before": "6. Io vado", "blank": true, "after": "ospedale", "answer": "in" },
+        { "before": "Io vado", "blank": true, "after": "banca", "answer": "in" },
+        { "before": "Io vado", "blank": true, "after": "posta", "answer": "in" },
+        { "before": "7. Io vado", "blank": true, "after": "mensa", "answer": "in" },
+        { "before": "Io vado", "blank": true, "after": "centro", "answer": "in" },
+        { "before": "Io vado", "blank": true, "after": "segreteria", "answer": "in" },
+        { "before": "8. Io vado", "blank": true, "after": "mio zio", "answer": "da" },
+        { "before": "Io vado", "blank": true, "after": "lui", "answer": "da" },
+        { "before": "Io vado", "blank": true, "after": "Beppe", "answer": "da" }
+      ]
+    },
+    {
+      "id": "37-ex3",
+      "number": 3,
+      "type": "fill-in-blank",
+      "instruction": "Completa le seguenti frasi con le preposizioni semplici o articolate necessarie.",
+      "items": [
+        { "before": "1. Sono stanca", "blank": true, "after": "studiare; ho voglia", "answer": "di" },
+        { "before": "", "blank": true, "after": "uscire", "answer": "di" },
+        { "before": "", "blank": true, "after": "fare una passeggiata.", "answer": "a" },
+        { "before": "2. L'aereo è partito", "blank": true, "after": "Roma", "answer": "da" },
+        { "before": "", "blank": true, "after": "9.05 ed è arrivato", "answer": "alle" },
+        { "before": "", "blank": true, "after": "Zurigo", "answer": "a" },
+        { "before": "", "blank": true, "after": "10.35.", "answer": "alle" },
+        { "before": "3. Le chiavi", "blank": true, "after": "cantina sono", "answer": "della" },
+        { "before": "", "blank": true, "after": "tasca", "answer": "nella" },
+        { "before": "", "blank": true, "after": "giacca", "answer": "della" },
+        { "before": "", "blank": true, "after": "papà.", "answer": "di" },
+        { "before": "4. Giulio andrà", "blank": true, "after": "scuola superiore e poi", "answer": "a" },
+        { "before": "", "blank": true, "after": "università", "answer": "all'" },
+        { "before": "", "blank": true, "after": "Bologna.", "answer": "a" },
+        { "before": "5. Il pavimento", "blank": true, "after": "cucina è sporco", "answer": "della" },
+        { "before": "", "blank": true, "after": "sugo", "answer": "di" },
+        { "before": "", "blank": true, "after": "pomodoro.", "answer": "di" }
+      ]
+    },
+    {
+      "id": "37-ex4",
+      "number": 4,
+      "type": "fill-in-blank",
+      "instruction": "Completa le frasi con le preposizioni o le locuzioni prepositive adatte, scegliendole nell'elenco.\n\n**di • alla • salvo • intorno al • a • del • di • secondo • di • nella • per • a • di fronte alla • di • alle**",
+      "items": [
+        { "before": "1. Una piccola folla di curiosi si è radunata", "blank": true, "after": "corpo della vittima.", "answer": "intorno al" },
+        { "before": "2.", "blank": true, "after": "imprevisti, arriveremo", "answer": "Salvo" },
+        { "before": "", "blank": true, "after": "casa tua", "answer": "a" },
+        { "before": "", "blank": true, "after": "dieci", "answer": "alle" },
+        { "before": "", "blank": true, "after": "mattino.", "answer": "di" },
+        { "before": "3.", "blank": true, "after": "partita", "answer": "Nella" },
+        { "before": "", "blank": true, "after": "pallavolo tutti facevano il tifo", "answer": "di" },
+        { "before": "", "blank": true, "after": "la loro squadra.", "answer": "per" },
+        { "before": "4. Ho comprato un libro", "blank": true, "after": "poesie", "answer": "di" },
+        { "before": "", "blank": true, "after": "libreria", "answer": "nella" },
+        { "before": "", "blank": true, "after": "via Po.", "answer": "di" },
+        { "before": "5.", "blank": true, "after": "me, continuando", "answer": "Secondo" },
+        { "before": "", "blank": true, "after": "non studiare, Enrico sarà bocciato.", "answer": "a" },
+        { "before": "6.", "blank": true, "after": "farmacia c'è un negozio di occhiali,", "answer": "Di fronte alla" },
+        { "before": "", "blank": true, "after": "cui è proprietario mio cugino.", "answer": "del" }
+      ]
+    }
+  ]
+}

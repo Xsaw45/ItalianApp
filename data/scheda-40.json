@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "id": "40",
+    "title": "Il periodo ipotetico",
+    "subtitle": "Ipotesi reali, possibili e impossibili nel presente, passato e futuro",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "Si chiama **periodo ipotetico** l'insieme di due frasi, che contengono un'**ipotesi** e la sua **conseguenza**."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "**Se continua a piovere** | **resto a casa**", "highlight": "Se continua a piovere" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Si chiama **protasi** la frase che contiene l'*ipotesi* e che incomincia con le congiunzioni: **se, qualora, nel caso che, a condizione che**.\n\nSi chiama **apodosi** la frase che contiene la *conseguenza*."
+      },
+      {
+        "type": "paragraph",
+        "content": "Noi possiamo fare ipotesi nel presente, nel passato e nel futuro. Le nostre ipotesi, inoltre, possono essere **reali**, **possibili**, **impossibili**. Vediamo allora quali modi e tempi del verbo dobbiamo usare nei diversi casi."
+      },
+      {
+        "type": "table",
+        "caption": "Il periodo ipotetico: tipi, modi e tempi",
+        "headers": ["Ipotesi", "Tipo di ipotesi", "Verbo nella protasi", "Verbo nell'apodosi"],
+        "rows": [
+          [
+            "Nel presente",
+            "REALE\n(è qualcosa di vero, di sicuro, di molto probabile)",
+            "Indicativo presente\nSe piove\nSe mi fai un dolce",
+            "Indicativo presente\nrimango a casa.\nlo mangio volentieri."
+          ],
+          [
+            "Nel presente",
+            "POSSIBILE\n(è qualcosa che potrebbe succedere, ma non lo so ancora)",
+            "Congiuntivo imperfetto\nSe studiassi\nSe trovassi lavoro",
+            "Condizionale presente\nprenderei un bel voto.\nguadagnerei dei soldi."
+          ],
+          [
+            "Nel presente",
+            "IMPOSSIBILE\n(è qualcosa che non può succedere, che è – o che io penso che sia – al di fuori della realtà)",
+            "Congiuntivo imperfetto\nSe fossi Batman\nSe abitassi al Polo Nord",
+            "Condizionale presente\nvolerei.\nvivrei in una casa di ghiaccio."
+          ],
+          [
+            "Nel passato",
+            "IMPOSSIBILE-IRREALE\n(è qualcosa di ormai impossibile, perché è passata e il passato non si può cambiare)\n(se la conseguenza era nel passato)",
+            "Congiuntivo trapassato\nSe mi avessi telefonato",
+            "Condizionale passato\nti avrei invitato."
+          ],
+          [
+            "Nel passato",
+            "IMPOSSIBILE-IRREALE\n(se la conseguenza è nel presente)",
+            "Congiuntivo trapassato\nSe non avessi perso il treno",
+            "Condizionale presente\nora sarei già a Milano."
+          ],
+          [
+            "Nel futuro",
+            "REALE-POSSIBILE\n(è qualcosa ritenuto comunque reale o possibile)",
+            "Indicativo futuro\nSe farà bello",
+            "Indicativo futuro\nandrò al mare."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Attenzione"
+      },
+      {
+        "type": "paragraph",
+        "content": "Due errori sono molto comuni nella lingua parlata:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "L'uso del condizionale presente sia nella protasi sia nell'apodosi, in caso di ipotesi nel presente:\nnon si dice: *Se potrei, verrei.*\nma si dice: **Se potessi, verrei.**",
+          "L'uso dell'imperfetto indicativo sia nella protasi sia nell'apodosi, in caso di ipotesi nel passato:\nnon si dice: *Se potevo venivo.*\nma si dice: **Se avessi potuto, sarei venuto.**"
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "40-ex1",
+      "number": 1,
+      "type": "transformation",
+      "instruction": "Forma delle frasi ipotetiche nel presente usando le seguenti coppie di espressioni. Considera le ipotesi come **reali**.",
+      "items": [
+        {
+          "given": "studiare / prendere un bel voto",
+          "answer": "Se studi, prendi un bel voto."
+        },
+        {
+          "given": "mangiare troppo / fare indigestione",
+          "answer": "Se mangi troppo, fai indigestione."
+        },
+        {
+          "given": "nevicare / giocare a palle di neve",
+          "answer": "Se nevica, giochiamo a palle di neve."
+        },
+        {
+          "given": "fare bel tempo / andare a passeggio",
+          "answer": "Se fa bel tempo, andiamo a passeggio."
+        },
+        {
+          "given": "perdere tempo / non finire il lavoro",
+          "answer": "Se perdi tempo, non finisci il lavoro."
+        }
+      ]
+    },
+    {
+      "id": "40-ex2",
+      "number": 2,
+      "type": "transformation",
+      "instruction": "Forma delle frasi ipotetiche nel presente usando le seguenti coppie di espressioni. Considera le ipotesi come **possibili**.",
+      "items": [
+        {
+          "given": "avere tanti soldi / fare il giro del mondo",
+          "answer": "Se avessi tanti soldi, farei il giro del mondo."
+        },
+        {
+          "given": "essere un calciatore / guadagnare molto",
+          "answer": "Se fossi un calciatore, guadagnerei molto."
+        },
+        {
+          "given": "abitare in Francia / imparare il francese",
+          "answer": "Se abitassi in Francia, imparerei il francese."
+        },
+        {
+          "given": "ammalarsi / chiamare il medico",
+          "answer": "Se mi ammalassi, chiamerei il medico."
+        },
+        {
+          "given": "potere / invitare tutti al ristorante",
+          "answer": "Se potessi, inviterei tutti al ristorante."
+        }
+      ]
+    },
+    {
+      "id": "40-ex3",
+      "number": 3,
+      "type": "transformation",
+      "instruction": "Forma delle frasi ipotetiche nel passato usando le seguenti coppie di espressioni. Considera le ipotesi come **impossibili**.",
+      "items": [
+        {
+          "given": "andare a casa degli zii / vedere Adriana",
+          "answer": "Se fossi andato a casa degli zii, avrei visto Adriana."
+        },
+        {
+          "given": "esserci il sole / abbronzarsi",
+          "answer": "Se ci fosse stato il sole, mi sarei abbronzato/a."
+        },
+        {
+          "given": "essere promosso / essere più contento",
+          "answer": "Se fossi stato promosso, sarei stato più contento."
+        },
+        {
+          "given": "aver mangiato di meno / digerire",
+          "answer": "Se avessi mangiato di meno, avrei digerito."
+        },
+        {
+          "given": "non comportarsi male / non essere punito dall'insegnante",
+          "answer": "Se non mi fossi comportato male, non sarei stato punito dall'insegnante."
+        }
+      ]
+    },
+    {
+      "id": "40-ex4",
+      "number": 4,
+      "type": "transformation",
+      "instruction": "Riscrivi correttamente le frasi.",
+      "items": [
+        {
+          "given": "Se studierei di più, prenderei dei bei voti.",
+          "answer": "Se studiassi di più, prenderei dei bei voti."
+        },
+        {
+          "given": "Se studiavo, stavo promosso.",
+          "answer": "Se avessi studiato, sarei stato promosso."
+        },
+        {
+          "given": "Se mi telefonavi, venivo a prenderti.",
+          "answer": "Se mi avessi telefonato, sarei venuto a prenderti."
+        },
+        {
+          "given": "Se avrò i soldi, mi comprerei gli occhiali da sole come Elsi.",
+          "answer": "Se avessi i soldi, mi comprerei gli occhiali da sole come Elsi."
+        },
+        {
+          "given": "Se papà lo lasciasse, andasse a casa.",
+          "answer": "Se papà lo lasciasse, andrebbe a casa."
+        }
+      ]
+    },
+    {
+      "id": "40-ex5",
+      "number": 5,
+      "type": "matching",
+      "instruction": "Unisci con una freccia ogni frase della prima colonna con una frase della seconda colonna, in base al senso.",
+      "items": [
+        { "term": "1. Se riesco a finire in tempo questo lavoro,", "definition": "e. mi rilasso e guardo un po' la televisione con voi." },
+        { "term": "2. Se i miei trovassero un appartamento più grande,", "definition": "f. la zia potrebbe venire a stare con noi." },
+        { "term": "3. Se suo padre non fosse morto,", "definition": "a. Rita non avrebbe avuto un'infanzia così triste." },
+        { "term": "4. Se nascessi un'altra volta,", "definition": "b. vorrei essere un pescatore dei mari del Sud." },
+        { "term": "5. Se domani mi interroga di geografia,", "definition": "c. non so niente." },
+        { "term": "6. Se Giovanna ci invitasse a cena,", "definition": "d. potremmo portarle una bottiglia di spumante." }
+      ]
+    }
+  ]
+}

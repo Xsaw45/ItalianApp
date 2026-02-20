@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "id": "39",
+    "title": "I connettori (congiunzioni)",
+    "subtitle": "Parole che servono per congiungere e unire frasi o parole",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "**I connettori (congiunzioni) sono parole che servono per congiungere, cioè per unire.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "I connettori possono unire:\n- due **parole**\n- due **frasi**"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Anna **e** Stefania hanno quindici anni.", "highlight": "e" },
+          { "italian": "Faccio la doccia **e** mi lavo i capelli.", "highlight": "e" },
+          { "italian": "Vado a dormire **perché** sono molto stanco.", "highlight": "perché" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Ci sono moltissimi tipi di connettori, che legano le parole o le frasi in modo diverso e con significati diversi. Esse possono essere **coordinanti** o **subordinanti**."
+      },
+      {
+        "type": "heading",
+        "content": "I connettori coordinanti"
+      },
+      {
+        "type": "paragraph",
+        "content": "I connettori **coordinanti** mettono in relazione due elementi ugualmente importanti, sullo stesso piano. Essi possono essere:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "**copulativi** perché *uniscono*. I più importanti sono: **e, anche, inoltre, né, neanche, nemmeno, neppure**",
+          "**disgiuntivi** perché *escludono*. I più importanti sono: **o, oppure, ossia**",
+          "**avversativi** perché *contrappongono*. I più importanti sono: **ma, invece, però, anzi, tuttavia, eppure, al contrario**",
+          "**esplicativi** perché *spiegano*. I più importanti sono: **cioè, infatti, ossia, vale a dire**",
+          "**conclusivi** perché *concludono*. I più importanti sono: **perciò, quindi, pertanto, dunque, insomma**",
+          "**correlativi** perché *mettono in relazione*. I più importanti sono: **sia… sia, né… né, così… come, non solo… ma anche**"
+        ]
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Andrea mangia **e** beve tantissimo.", "highlight": "e" },
+          { "italian": "Vieni al cinema **oppure** resti a casa?", "highlight": "oppure" },
+          { "italian": "È intelligente, **ma** molto antipatico.", "highlight": "ma" },
+          { "italian": "Questa rivista è trimestrale, **cioè** esce una volta ogni tre mesi.", "highlight": "cioè" },
+          { "italian": "Ho lavorato tutto il giorno, **perciò** me ne torno a casa.", "highlight": "perciò" },
+          { "italian": "**Non solo** mi ha invitato a pranzo, **ma** mi ha **anche** fatto un bellissimo regalo.", "highlight": "Non solo… ma… anche" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "I connettori subordinanti"
+      },
+      {
+        "type": "paragraph",
+        "content": "I connettori **subordinanti** uniscono due elementi: una **frase principale** e una **frase secondaria**, meno importante. Si chiamano in vari modi, a seconda della funzione che ha la frase secondaria."
+      },
+      {
+        "type": "list",
+        "items": [
+          "**causali** quando la secondaria spiega la causa. I più importanti sono: **perché, poiché, siccome, dato che, visto che, dal momento che**",
+          "**finali** quando la secondaria indica lo scopo. I più importanti sono: **affinché, perché, al fine di, per**",
+          "**temporali** quando la secondaria indica il tempo. I più importanti sono: **quando, mentre, finché, prima che, dopo che, appena**",
+          "**dichiarativi** quando la secondaria dichiara qualcosa. Il più importante è: **che**",
+          "**condizionali** quando la secondaria indica la condizione. I più importanti sono: **se, purché, qualora, supposto che, nel caso che**",
+          "**modali** quando la secondaria indica il modo. I più importanti sono: **come, come quando, in modo che**",
+          "**concessivi** quando la secondaria concede qualcosa. I più importanti sono: **sebbene, anche se, benché, nonostante che**",
+          "**eccettuativi** e **limitativi** quando la secondaria esprime un'eccezione o limitazione. I più importanti sono: **fuorché, tranne, tranne che, eccetto che, per quanto**"
+        ]
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Mangio il cioccolato **perché** mi piace.", "highlight": "perché" },
+          { "italian": "Te lo ripeto, **affinché** tu non te lo dimentichi.", "highlight": "affinché" },
+          { "italian": "**Mentre** ascolto la musica, penso.", "highlight": "Mentre" },
+          { "italian": "Penso **che** Paola sia andata a scuola.", "highlight": "che" },
+          { "italian": "**Se** finisco presto i compiti, vengo a trovarti.", "highlight": "Se" },
+          { "italian": "Fa' **come** ti dico.", "highlight": "come" },
+          { "italian": "Giovanni ha molti problemi, **anche se** ride sempre.", "highlight": "anche se" },
+          { "italian": "**Per quanto** ne so, la gita è stata annullata.", "highlight": "Per quanto" }
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "39-ex1",
+      "number": 1,
+      "type": "open-ended",
+      "instruction": "Completa le seguenti frasi.",
+      "suggestedAnswer": "1. Ho mangiato molto, però non ho ancora fame. / 2. Ho mangiato molto, e allora adesso ho mal di stomaco. / 3. Ho mangiato molto, perché avevo una fame enorme. / 4. Ho mangiato molto, anche se non avevo fame. / 5. Ho mangiato molto, come faccio sempre. / 6. Ho mangiato molto, fino a che non ce la facevo più. / 7. Vado a dormire, se sono stanco. / 8. Vado a dormire, perché sono esausto. / 9. Vado a dormire, purché ci sia silenzio. / 10. Vado a dormire, dopo che mi sono lavato i denti. / 11. Vado a dormire, anche se non ho sonno. / 12. Vado a dormire, quindi spegni la luce."
+    },
+    {
+      "id": "39-ex2",
+      "number": 2,
+      "type": "matching",
+      "instruction": "Collega con una freccia ogni frase della prima colonna con la frase della seconda colonna che la completa.",
+      "items": [
+        { "term": "1. Verrò in montagna con voi", "definition": "b. purché ci sia neve." },
+        { "term": "2. Non vinciamo la partita", "definition": "c. se non corriamo di più." },
+        { "term": "3. Mi ha guardato male", "definition": "d. come se fosse colpa mia." },
+        { "term": "4. Loredana mangia troppo", "definition": "e. anche se le fa male." },
+        { "term": "5. Compro la frutta al mercato", "definition": "a. perché costa meno." }
+      ]
+    },
+    {
+      "id": "39-ex3",
+      "number": 3,
+      "type": "fill-in-blank",
+      "instruction": "Completa le frasi inserendo il connettore adatto.",
+      "items": [
+        { "before": "1. Ho letto e riletto questa lezione,", "blank": true, "after": "non ho capito niente.", "answer": "eppure" },
+        { "before": "2. Vuoi la maglia rossa", "blank": true, "after": "quella grigia?", "answer": "o" },
+        { "before": "3. Davide è bravissimo", "blank": true, "after": "in inglese,", "answer": "sia" },
+        { "before": "", "blank": true, "after": "in matematica.", "answer": "sia" },
+        { "before": "4. Signora, preferisce questo formaggio fresco", "blank": true, "after": "questo più stagionato?", "answer": "o" },
+        { "before": "5. Questo dolce è molto grasso", "blank": true, "after": "piuttosto difficile da digerire.", "answer": "e" },
+        { "before": "6. Nel dopoguerra,", "blank": true, "after": "dal 1945 al 1950, l'Italia era in gravi difficoltà economiche.", "answer": "cioè" },
+        { "before": "7.", "blank": true, "after": "ti decidi a comportarti bene", "answer": "Se non" },
+        { "before": "", "blank": true, "after": "non verrai più con noi.", "answer": "," },
+        { "before": "8.", "blank": true, "after": "tu vada,", "answer": "Che" },
+        { "before": "", "blank": true, "after": "tu non vada, telefonagli.", "answer": "che" }
+      ]
+    }
+  ]
+}

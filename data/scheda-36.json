@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "id": "36",
+    "title": "Gli avverbi",
+    "subtitle": "Parole o espressioni che modificano o precisano altre parole",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "**Gli avverbi sono parole o espressioni che servono per modificare o per precisare meglio altre parole.**"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Silvano è **molto** intelligente.", "highlight": "molto" },
+          { "italian": "Maria cammina **in fretta**.", "highlight": "in fretta" },
+          { "italian": "Il tabaccaio è **là**.", "highlight": "là" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "(*molto* precisa l'aggettivo *intelligente*, cioè spiega quanto Silvano è intelligente)\n(*in fretta* precisa il verbo *camminare*, cioè spiega come cammina Maria)\n(*là* precisa il verbo *essere*, cioè spiega dove si trova il tabaccaio)"
+      },
+      {
+        "type": "paragraph",
+        "content": "Ci sono molti tipi di avverbio, che servono per indicare:"
+      },
+      {
+        "type": "heading",
+        "content": "Il modo"
+      },
+      {
+        "type": "paragraph",
+        "content": "Il **modo** in cui un'azione viene fatta:\n**bene, male, facilmente, lentamente, velocemente, in fretta, di corsa, dolcemente, ingiustamente…**"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Omar impara **lentamente**.", "highlight": "lentamente" },
+          { "italian": "Questa camicia è stirata **male**.", "highlight": "male" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Per formare un avverbio di modo, bisogna aggiungere **-mente** alla forma femminile dell'aggettivo:\n*attento* → *attenta* → **attentamente**\n\nSe l'aggettivo finisce in **-le**, la **-e** cade:\n*facile* → **facilmente**"
+      },
+      {
+        "type": "heading",
+        "content": "Il tempo"
+      },
+      {
+        "type": "paragraph",
+        "content": "Il **tempo** in cui avviene l'azione:\n**ora, poi, mai, sempre, spesso, qualche volta, subito, prima, dopo, presto, tardi, oggi, domani…**"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Gli vorrò **sempre** bene.", "highlight": "sempre" },
+          { "italian": "**Qualche volta** mangio le carote.", "highlight": "Qualche volta" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Il luogo"
+      },
+      {
+        "type": "paragraph",
+        "content": "Il **luogo** in cui avviene l'azione o dove si trova qualcuno/qualcosa:\n**qui, qua, lì, là, vicino, lontano, sopra, sotto, dentro, davanti, giù, lassù, nei dintorni, dappertutto…**"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Io abito **lontano**, la professoressa invece abita **qui**, **nei dintorni**.", "highlight": "lontano" },
+          { "italian": "C'è sporcizia **dappertutto**.", "highlight": "dappertutto" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "La quantità"
+      },
+      {
+        "type": "paragraph",
+        "content": "La **quantità** di ciò che esprime un verbo o un aggettivo:\n**molto, poco, abbastanza, troppo, tanto, altrettanto, di più, di meno, parecchio…**"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "È **troppo** pigro per riuscire a fare qualcosa di buono.", "highlight": "troppo" },
+          { "italian": "Ne vorrei **di più**.", "highlight": "di più" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Gli avverbi interrogativi"
+      },
+      {
+        "type": "paragraph",
+        "content": "Gli avverbi **interrogativi**, che servono per introdurre una domanda: **Come? Quando? Dove? Perché? Quanto?**"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "**Quanto** costa?", "highlight": "Quanto" },
+          { "italian": "**Quando** verrete a trovarci?", "highlight": "Quando" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Gli avverbi di valutazione"
+      },
+      {
+        "type": "paragraph",
+        "content": "Gli avverbi di **valutazione**, che servono per esprimere un giudizio, un parere:\n**sì, no, non, di sicuro, forse, magari, senza dubbio, certamente, neppure, nemmeno, neanche, eventualmente, probabilmente…**"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "**Forse** la prossima settimana ci sarà un compito in classe di italiano.", "highlight": "Forse" },
+          { "italian": "Faresti un giorno di vacanza? - **Magari**!", "highlight": "Magari" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Gli avverbi sono **invariabili**, non concordano con le altre parole e servono a precisare un'informazione."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "36-ex1",
+      "number": 1,
+      "type": "table-completion",
+      "instruction": "Completa la tabella.",
+      "headers": ["Aggettivo qualificativo", "Avverbio di modo"],
+      "rows": [
+        {
+          "cells": [
+            { "value": "1. dolce", "editable": false },
+            { "value": "dolcemente", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "2. forte", "editable": false },
+            { "value": "fortemente", "editable": true, "answer": "fortemente" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "3. rumoroso", "editable": false },
+            { "value": "rumorosamente", "editable": true, "answer": "rumorosamente" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "4. allegro", "editable": false },
+            { "value": "allegramente", "editable": true, "answer": "allegramente" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "5. completo", "editable": false },
+            { "value": "completamente", "editable": true, "answer": "completamente" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "6. silenzioso", "editable": false },
+            { "value": "silenziosamente", "editable": true, "answer": "silenziosamente" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "7. sicuro", "editable": false },
+            { "value": "sicuramente", "editable": true, "answer": "sicuramente" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "8. giusto", "editable": false },
+            { "value": "giustamente", "editable": true, "answer": "giustamente" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "9. confuso", "editable": false },
+            { "value": "confusamente", "editable": true, "answer": "confusamente" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "10. felice", "editable": false },
+            { "value": "felicemente", "editable": true, "answer": "felicemente" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "11. parziale", "editable": false },
+            { "value": "parzialmente", "editable": true, "answer": "parzialmente" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "12. normale", "editable": false },
+            { "value": "normalmente", "editable": true, "answer": "normalmente" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "36-ex2",
+      "number": 2,
+      "type": "matching",
+      "instruction": "Collega con una freccia gli avverbi che hanno significato uguale o molto simile.",
+      "items": [
+        { "term": "1. davanti", "definition": "i. dinanzi" },
+        { "term": "2. tanto", "definition": "e. molto" },
+        { "term": "3. raramente", "definition": "f. di rado" },
+        { "term": "4. di sicuro", "definition": "b. certamente" },
+        { "term": "5. altrove", "definition": "g. in un altro posto" },
+        { "term": "6. talvolta", "definition": "c. ogni tanto" },
+        { "term": "7. spesso", "definition": "d. sovente" },
+        { "term": "8. qui", "definition": "a. qua" },
+        { "term": "9. neanche", "definition": "h. nemmeno" }
+      ]
+    },
+    {
+      "id": "36-ex3",
+      "number": 3,
+      "type": "fill-in-blank",
+      "instruction": "Completa le seguenti frasi utilizzando un avverbio scelto dall'elenco.\n\n**appena • domani • tardi • mai • poi • ora • subito • oggi • presto • qualche volta • mai • spesso • sempre**",
+      "items": [
+        { "before": "1. Se ti alzi", "blank": true, "after": ", hai tempo per fare colazione con calma.", "answer": "presto" },
+        { "before": "2.", "blank": true, "after": "possibile l'amministratore manderà un idraulico a riparare il tubo.", "answer": "Oggi" },
+        { "before": "3. Non vado", "blank": true, "after": "a ballare, ma vado", "answer": "mai" },
+        { "before": "", "blank": true, "after": "al cinema.", "answer": "qualche volta" },
+        { "before": "4. Riccardo viene", "blank": true, "after": "a trovarci.", "answer": "spesso" },
+        { "before": "5. Ormai è", "blank": true, "after": ", i negozi sono chiusi.", "answer": "tardi" },
+        { "before": "6. Stefania è", "blank": true, "after": "in ritardo e non chiede", "answer": "sempre" },
+        { "before": "", "blank": true, "after": "scusa.", "answer": "mai" },
+        { "before": "7. Vieni", "blank": true, "after": "perché poi devo uscire.", "answer": "subito" },
+        { "before": "8.", "blank": true, "after": "andrò dal dentista.", "answer": "Domani" },
+        { "before": "9. Non so spiegarmi il motivo, ma", "blank": true, "after": "sono veramente stanco.", "answer": "ora" },
+        { "before": "10.", "blank": true, "after": "studio,", "answer": "Prima" },
+        { "before": "", "blank": true, "after": "telefono a Marta.", "answer": "poi" }
+      ]
+    },
+    {
+      "id": "36-ex4",
+      "number": 4,
+      "type": "multiple-choice",
+      "instruction": "In ogni gruppo cancella l'avverbio o l'espressione avverbiale che non c'entra.",
+      "items": [
+        {
+          "sentence": "**Avverbi di modo:** malissimo, di più, gentilmente, benino, educatamente, fortemente.",
+          "options": ["malissimo", "di più", "gentilmente", "benino", "educatamente", "fortemente"],
+          "answer": "di più"
+        },
+        {
+          "sentence": "**Avverbi di tempo:** ora, adesso, forse, stamattina, domani, tardi.",
+          "options": ["ora", "adesso", "forse", "stamattina", "domani", "tardi"],
+          "answer": "forse"
+        },
+        {
+          "sentence": "**Avverbi di luogo:** di sopra, da tutte le parti, nelle vicinanze, più o meno, lontano, di fianco.",
+          "options": ["di sopra", "da tutte le parti", "nelle vicinanze", "più o meno", "lontano", "di fianco"],
+          "answer": "più o meno"
+        },
+        {
+          "sentence": "**Avverbi di quantità:** abbastanza, moltissimo, un po', tanto, troppo, presto.",
+          "options": ["abbastanza", "moltissimo", "un po'", "tanto", "troppo", "presto"],
+          "answer": "presto"
+        },
+        {
+          "sentence": "**Avverbi interrogativi:** perché?, quanto?, quando?, come mai?, dove?, sotto.",
+          "options": ["perché?", "quanto?", "quando?", "come mai?", "dove?", "sotto"],
+          "answer": "sotto"
+        },
+        {
+          "sentence": "**Avverbi di valutazione:** molto, neanche, niente affatto, non, forse, sì.",
+          "options": ["molto", "neanche", "niente affatto", "non", "forse", "sì"],
+          "answer": "molto"
+        }
+      ]
+    }
+  ]
+}

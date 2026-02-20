@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "id": "38",
+    "title": "L'uso delle preposizioni",
+    "subtitle": "Significati e usi delle preposizioni per esprimere complementi",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "Tutti i tipi di preposizioni si usano per esprimere delle relazioni e per formare dei **complementi**."
+      },
+      {
+        "type": "table",
+        "caption": "Uso delle preposizioni italiane",
+        "headers": ["Preposizione", "Significato", "Esempi"],
+        "rows": [
+          [
+            "Di",
+            "Indica le caratteristiche di qualcuno o di qualcosa:\n• possesso\n• materia\n• qualità\n• argomento\nTalvolta indica anche:\n• tempo\n• modo",
+            "Il quaderno di Paola.\nUn foglio di carta.\nUna ragazza di buon carattere.\nParlare di politica.\n\nD'inverno nevica.\nAndare di corsa."
+          ],
+          [
+            "A",
+            "Indica la direzione di un'azione:\n• termine (verso qualcuno)\n• moto a luogo\nPuò anche indicare:\n• stato in luogo\n• età\n• tempo",
+            "Regalo i fiori a Laura.\nVado a Genova.\n\nRimango a casa.\nSono venuto in Italia a 12 anni.\nNoi mangiamo a mezzogiorno."
+          ],
+          [
+            "Da",
+            "Indica la provenienza di qualcuno/qualcosa:\n• moto da luogo\no la provenienza di un'azione:\n• agente\nPuò anche indicare:\n• moto a luogo (se si va da una persona)\n• fine",
+            "Arrivo da Venezia.\n\nÈ stato ucciso da un ladro.\n\nVado da Marinella.\nTazzina da caffè."
+          ],
+          [
+            "In",
+            "Indica la posizione:\n• nello spazio\n  * moto a luogo\n  * stato in luogo\n• nel tempo\nTalvolta indica anche:\n• mezzo\n• modo",
+            "È andato in Francia.\nLavora in ufficio.\nCi vediamo in serata.\n\nVado a lavorare in autobus.\nState in silenzio!"
+          ],
+          [
+            "Con",
+            "Indica:\n• compagnia\n• mezzo\n• modo",
+            "Sono in classe con Linda.\nTaglia il pane con il coltello.\nTi vedo con molto piacere."
+          ],
+          [
+            "Su",
+            "Indica la posizione nello spazio con un'idea di contatto.\nTalvolta indica anche:\n• argomento\n• approssimazione",
+            "I vasi sono sul pavimento.\n\nÈ un libro su Garibaldi.\nCristina è sui cinquant'anni."
+          ],
+          [
+            "Per",
+            "Indica un passaggio:\n  * attraverso lo spazio\n  * attraverso il tempo\nPuò anche indicare:\n• la destinazione\n• il fine\n• la causa",
+            "Passiamo per piazza San Carlo.\nÈ stato ammalato per molti mesi.\n\nParti per Roma?\nSi è sposato per interesse.\nÈ svenuto per il caldo."
+          ],
+          [
+            "Tra / Fra",
+            "Indicano una posizione intermedia:\n  * nello spazio\n  * nel tempo\nPossono anche indicare:\n• un tempo determinato finale",
+            "Abito tra Via Po e Via Principe Amedeo.\nTi telefono tra le sei e le otto.\n\nVerrò tra qualche giorno."
+          ]
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "38-ex1",
+      "number": 1,
+      "type": "fill-in-blank",
+      "instruction": "Completa le frasi secondo il modello, inserendo le preposizioni semplici o articolate.\n\n*Ho letto un libro **di** fantascienza.*\n*Ho letto un libro **con** molta curiosità.*\n*Ho letto un libro **dall'**inizio alla fine.*\n*Ho letto un libro **per** due ore.*",
+      "items": [
+        { "before": "1. Anna lavora", "blank": true, "after": "un negozio.", "answer": "in" },
+        { "before": "Anna lavora", "blank": true, "after": "Milano.", "answer": "a" },
+        { "before": "Anna lavora", "blank": true, "after": "sua zia.", "answer": "da" },
+        { "before": "Anna lavora", "blank": true, "after": "dieci", "answer": "dalle" },
+        { "before": "", "blank": true, "after": "diciotto.", "answer": "alle" },
+        { "before": "2. Vado dalla nonna", "blank": true, "after": "domenica.", "answer": "di" },
+        { "before": "Vado dalla nonna", "blank": true, "after": "i miei fratelli.", "answer": "con" },
+        { "before": "Vado dalla nonna", "blank": true, "after": "pranzare con lei.", "answer": "per" },
+        { "before": "Vado dalla nonna", "blank": true, "after": "campagna.", "answer": "in" },
+        { "before": "3. Francesco ride", "blank": true, "after": "la barzelletta.", "answer": "della" },
+        { "before": "Francesco ride", "blank": true, "after": "solo.", "answer": "da" },
+        { "before": "Francesco ride", "blank": true, "after": "gli amici.", "answer": "con" },
+        { "before": "Francesco ride", "blank": true, "after": "tutto.", "answer": "di" },
+        { "before": "4. Bevo il latte", "blank": true, "after": "la cioccolata.", "answer": "con" },
+        { "before": "Bevo il latte", "blank": true, "after": "fare colazione.", "answer": "per" },
+        { "before": "Bevo il latte", "blank": true, "after": "cucina.", "answer": "in" },
+        { "before": "Bevo il latte", "blank": true, "after": "mucca.", "answer": "di" }
+      ]
+    },
+    {
+      "id": "38-ex2",
+      "number": 2,
+      "type": "matching",
+      "instruction": "Collega con una freccia ciascuna delle preposizioni con il significato che esprime.",
+      "items": [
+        { "term": "1. Sono morto **di** stanchezza.", "definition": "b. causa" },
+        { "term": "2. **A** Valerio piace disegnare.", "definition": "d. termine" },
+        { "term": "3. È uscito **con** i tuoi amici?", "definition": "g. compagnia" },
+        { "term": "4. Ho visto un nido **tra** le foglie.", "definition": "a. luogo" },
+        { "term": "5. La professoressa ha parlato **della** seconda guerra mondiale.", "definition": "f. argomento" },
+        { "term": "6. Non riesco a dormire **di** giorno.", "definition": "e. tempo" },
+        { "term": "7. Il marito **di** Franca si chiama Claudio.", "definition": "c. possesso" },
+        { "term": "8. Studio **per** poter andare a lavorare.", "definition": "h. fine" }
+      ]
+    },
+    {
+      "id": "38-ex3",
+      "number": 3,
+      "type": "multiple-choice",
+      "instruction": "Indica (✓) che significato hanno le preposizioni sottolineate nelle seguenti frasi.",
+      "items": [
+        {
+          "sentence": "1. Appena puoi, passa **da** me.",
+          "options": ["agente", "causa", "luogo"],
+          "answer": "luogo"
+        },
+        {
+          "sentence": "2. Ho visto un documentario **sui** leoni.",
+          "options": ["mezzo", "argomento", "luogo"],
+          "answer": "argomento"
+        },
+        {
+          "sentence": "3. Andiamo **a** piedi.",
+          "options": ["termine", "modo", "mezzo"],
+          "answer": "modo"
+        },
+        {
+          "sentence": "4. Fai le cose **con** troppa fretta.",
+          "options": ["compagnia", "causa", "modo"],
+          "answer": "modo"
+        },
+        {
+          "sentence": "5. L'aereo non è partito **per** la nebbia.",
+          "options": ["fine", "causa", "termine"],
+          "answer": "causa"
+        },
+        {
+          "sentence": "6. Esco ora **dall'**ospedale.",
+          "options": ["agente", "luogo", "mezzo"],
+          "answer": "luogo"
+        },
+        {
+          "sentence": "7. **Con** me puoi stare tranquillo.",
+          "options": ["agente", "causa", "compagnia"],
+          "answer": "compagnia"
+        },
+        {
+          "sentence": "8. La torta è stata portata **da** Jimmy.",
+          "options": ["agente", "causa", "luogo"],
+          "answer": "agente"
+        }
+      ]
+    }
+  ]
+}
