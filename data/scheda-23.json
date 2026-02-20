@@ -1,0 +1,232 @@
+{
+  "meta": {
+    "id": "23",
+    "title": "L'indicativo. Il presente",
+    "subtitle": "Il modo indicativo e il tempo presente",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "**L'indicativo è il modo del verbo che indica la realtà, la certezza.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "Si usa il **modo indicativo** per indicare un fatto vero, sicuro o presentato da chi parla come vero e sicuro:"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Oggi c'**è** il sole.   Vedo che oggi c'**è** il sole.", "highlight": "è" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Il modo indicativo ha **otto tempi**:"
+      },
+      {
+        "type": "table",
+        "caption": "I tempi dell'indicativo",
+        "headers": ["4 semplici (una sola parola)", "", "4 composti (due parole)", ""],
+        "rows": [
+          ["presente", "lavoro", "passato prossimo", "ho lavorato"],
+          ["imperfetto", "lavoravo", "trapassato prossimo", "avevo lavorato"],
+          ["passato remoto", "lavorai", "trapassato remoto", "ebbi lavorato"],
+          ["futuro", "lavorerò", "futuro anteriore", "avrò lavorato"]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Il presente"
+      },
+      {
+        "type": "intro",
+        "content": "**Il presente è un tempo del modo indicativo.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "L'indicativo **presente** indica:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "un'azione che avviene **ora, in questo momento** → *Oggi **piove**.*",
+          "un fatto, un'azione **abituale** → *Mio padre **lavora** in fabbrica.*"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "La forma"
+      },
+      {
+        "type": "paragraph",
+        "content": "Per le coniugazioni regolari del presente vedi **Tavole dei verbi, pp. 324–31.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "Indichiamo di seguito il presente indicativo dei più importanti verbi irregolari."
+      },
+      {
+        "type": "table",
+        "caption": "Avere e Essere",
+        "headers": ["Avere", "", "Essere", ""],
+        "rows": [
+          ["io", "ho", "io", "sono"],
+          ["tu", "hai", "tu", "sei"],
+          ["lui", "ha", "lui", "è"],
+          ["noi", "abbiamo", "noi", "siamo"],
+          ["voi", "avete", "voi", "siete"],
+          ["loro", "hanno", "loro", "sono"]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Fare, Dare e Andare",
+        "headers": ["Fare", "", "Dare", "", "Andare", ""],
+        "rows": [
+          ["io", "faccio", "io", "do", "io", "vado"],
+          ["tu", "fai", "tu", "dai", "tu", "vai"],
+          ["lui", "fa", "lui", "dà", "lui", "va"],
+          ["noi", "facciamo", "noi", "diamo", "noi", "andiamo"],
+          ["voi", "fate", "voi", "date", "voi", "andate"],
+          ["loro", "fanno", "loro", "danno", "loro", "vanno"]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Stare, Sapere e Potere",
+        "headers": ["Stare", "", "Sapere", "", "Potere", ""],
+        "rows": [
+          ["io", "sto", "io", "so", "io", "posso"],
+          ["tu", "stai", "tu", "sai", "tu", "puoi"],
+          ["lui", "sta", "lui", "sa", "lui", "può"],
+          ["noi", "stiamo", "noi", "sappiamo", "noi", "possiamo"],
+          ["voi", "state", "voi", "sapete", "voi", "potete"],
+          ["loro", "stanno", "loro", "sanno", "loro", "possono"]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Dovere e Volere",
+        "headers": ["Dovere", "", "Volere", ""],
+        "rows": [
+          ["io", "devo", "io", "voglio"],
+          ["tu", "devi", "tu", "vuoi"],
+          ["lui", "deve", "lui", "vuole"],
+          ["noi", "dobbiamo", "noi", "vogliamo"],
+          ["voi", "dovete", "voi", "volete"],
+          ["loro", "devono", "loro", "vogliono"]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Uscire, Capire e Dire",
+        "headers": ["Uscire", "", "Capire", "", "Dire", ""],
+        "rows": [
+          ["io", "esco", "io", "capisco", "io", "dico"],
+          ["tu", "esci", "tu", "capisci", "tu", "dici"],
+          ["lui", "esce", "lui", "capisce", "lui", "dice"],
+          ["noi", "usciamo", "noi", "capiamo", "noi", "diciamo"],
+          ["voi", "uscite", "voi", "capite", "voi", "dite"],
+          ["loro", "escono", "loro", "capiscono", "loro", "dicono"]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Venire e Salire",
+        "headers": ["Venire", "", "Salire", ""],
+        "rows": [
+          ["io", "vengo", "io", "salgo"],
+          ["tu", "vieni", "tu", "sali"],
+          ["lui", "viene", "lui", "sale"],
+          ["noi", "veniamo", "noi", "saliamo"],
+          ["voi", "venite", "voi", "salite"],
+          ["loro", "vengono", "loro", "salgono"]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "* Si coniugano come **CAPIRE** alcuni verbi come *FINIRE, PULIRE, COSTRUIRE, RESTITUIRE*."
+      },
+      {
+        "type": "heading",
+        "content": "Attenzione"
+      },
+      {
+        "type": "paragraph",
+        "content": "Oggi, specialmente nell'italiano parlato al Nord, si usa spesso il presente al posto del futuro."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Domenica **vado** al mare (invece di **andrò**).", "highlight": "vado, andrò" }
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "23-ex1",
+      "number": 1,
+      "type": "transformation",
+      "instruction": "Scrivi l'infinito delle seguenti forme verbali al presente.",
+      "items": [
+        { "given": "giocate", "answer": "giocare" },
+        { "given": "mangiamo", "answer": "mangiare" },
+        { "given": "fumano", "answer": "fumare" },
+        { "given": "vanno", "answer": "andare" },
+        { "given": "viene", "answer": "venire" },
+        { "given": "beve", "answer": "bere" },
+        { "given": "stanno", "answer": "stare" },
+        { "given": "salgono", "answer": "salire" },
+        { "given": "vuole", "answer": "volere" },
+        { "given": "puoi", "answer": "potere" },
+        { "given": "capisce", "answer": "capire" },
+        { "given": "ritorni", "answer": "ritornare" },
+        { "given": "paghiamo", "answer": "pagare" },
+        { "given": "escono", "answer": "uscire" },
+        { "given": "andate", "answer": "andare" },
+        { "given": "fa", "answer": "fare" },
+        { "given": "diciamo", "answer": "dire" },
+        { "given": "devono", "answer": "dovere" },
+        { "given": "possiamo", "answer": "potere" },
+        { "given": "fanno", "answer": "fare" },
+        { "given": "uscite", "answer": "uscire" }
+      ]
+    },
+    {
+      "id": "23-ex2",
+      "number": 2,
+      "type": "fill-in-blank",
+      "instruction": "Completa le frasi coniugando al presente i verbi indicati tra parentesi.",
+      "items": [
+        { "before": "Mia mamma", "blank": true, "after": "(*avere*) due sorelle.", "answer": "ha" },
+        { "before": "Gli studenti", "blank": true, "after": "(*essere*) tutti in classe.", "answer": "sono" },
+        { "before": "Tibor", "blank": true, "after": "(*parlare*) volentieri con tutti.", "answer": "parla" },
+        { "before": "Io", "blank": true, "after": "(*finire*) di studiare dopo cena.", "answer": "finisco" },
+        { "before": "Voi due", "blank": true, "after": "(*andare*) nella stessa scuola?", "answer": "andate" },
+        { "before": "Noi", "blank": true, "after": "(*leggere*) questo libro in classe.", "answer": "leggiamo" },
+        { "before": "Alberto", "blank": true, "after": "(*scrivere*) in modo poco chiaro.", "answer": "scrive" },
+        { "before": "Forse Marta non", "blank": true, "after": "(*sapere*) il mio indirizzo.", "answer": "sa" },
+        { "before": "Mio cugino", "blank": true, "after": "(*cercare*) lavoro, ma non lo (*trovare*).", "answer": "cerca / trova" },
+        { "before": "Gli zii", "blank": true, "after": "(*venire*) a trovarci tutte le domeniche.", "answer": "vengono" }
+      ]
+    },
+    {
+      "id": "23-ex3",
+      "number": 3,
+      "type": "matching",
+      "instruction": "Collega i soggetti della prima colonna con le frasi della seconda colonna. Poi scrivi l'infinito del verbo.",
+      "items": [
+        { "term": "Alberto", "definition": "studia matematica. → *studiare*" },
+        { "term": "Silvano e Giorgio", "definition": "passano le vacanze in California. → *passare*" },
+        { "term": "I miei cani", "definition": "abbaiano poco. → *abbaiare*" },
+        { "term": "Papà", "definition": "calcola le spese mensili. → *calcolare*" },
+        { "term": "Vittoria", "definition": "è una maestra in pensione. → *essere*" },
+        { "term": "Il giornale", "definition": "è pieno di brutte notizie. → *essere*" },
+        { "term": "Nerina e Maria Carla", "definition": "sono due sorelle. → *essere*" }
+      ]
+    }
+  ]
+}

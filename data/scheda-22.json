@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "id": "22",
+    "title": "Il verbo",
+    "subtitle": "Forma, coniugazioni, modi e tempi",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "**Il verbo è l'elemento della frase indispensabile per comunicare. Si riferisce al soggetto, cioè a chi fa o subisce l'azione.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "Il verbo dà molte informazioni sul soggetto. Ci dice ad esempio:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "che cosa fa → *Andrea gioca.*",
+          "com'è → *Andrea è simpatico.*",
+          "se compie o subisce l'azione → *Andrea chiama, Andrea è stato chiamato.*"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "La forma"
+      },
+      {
+        "type": "paragraph",
+        "content": "Il verbo è formato da **due parti**:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "la parte iniziale, che è invariabile, cioè non cambia: si chiama **radice** ed esprime il significato di base del verbo",
+          "la parte finale, che è variabile, cioè cambia: si chiama **desinenza** e comunica molte informazioni, come vedremo"
+        ]
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "LAVOR**IAMO** – RITORN**ERÒ**", "highlight": "IAMO, ERÒ" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "I verbi italiani si dividono in **tre gruppi**, che si chiamano **coniugazioni**."
+      },
+      {
+        "type": "list",
+        "items": [
+          "La **prima coniugazione** comprende i verbi che hanno la desinenza **-are**: *parlare, mangiare, pensare…*",
+          "La **seconda coniugazione** comprende i verbi che hanno la desinenza **-ere**: *scrivere, leggere, chiedere…*",
+          "La **terza coniugazione** comprende i verbi che hanno la desinenza **-ire**: *sentire, partire, dormire…*"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "La **desinenza** di un verbo fa capire:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "1. la **persona** che compie l'azione: 1ª persona: **io**, **noi** / 2ª persona: **tu**, **voi** / 3ª persona: **lui**, **lei**, **loro**",
+          "2. il **numero** delle persone: singolare: **io**, **tu**, **lui**, **lei** / plurale: **noi**, **voi**, **loro**",
+          "3. il **tempo** in cui accade l'azione: presente; passato; futuro.",
+          "4. il **modo** in cui l'azione viene presentata"
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "I modi del verbo",
+        "headers": ["Modo", "Descrizione", "Esempio"],
+        "rows": [
+          ["infinito", "nel suo significato generale, come sul dizionario", "lavorare"],
+          ["indicativo", "in modo reale", "lavoriamo"],
+          ["congiuntivo", "in modo possibile, dubitativo o come una opinione personale", "se lavorassi"],
+          ["condizionale", "in modo eventuale, basato su una condizione", "lavorerei, se…"],
+          ["imperativo", "come un ordine", "lavora!"]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Ogni modo comprende molti tempi."
+      },
+      {
+        "type": "paragraph",
+        "content": "Ad esempio, nella forma verbale **scriviamo** c'è: la radice **scriv-** del verbo **scrivere**; la desinenza **-iamo** che indica: la prima persona plurale; il modo indicativo; il tempo presente."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "22-ex1",
+      "number": 1,
+      "type": "table-completion",
+      "instruction": "Completa la tabella, inserendo le forme verbali elencate sotto.\n**studiano • lavora • conosce • gridano • camminate • ridiamo • mangia • laviamo • vincete • giocate • parli**",
+      "headers": ["Voce verbale", "Radice", "Desinenza", "Persona", "Numero"],
+      "rows": [
+        {
+          "cells": [
+            { "value": "andiamo", "editable": false },
+            { "value": "and-", "editable": false },
+            { "value": "-iamo", "editable": false },
+            { "value": "1ª", "editable": false },
+            { "value": "plurale", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "studiano", "editable": false },
+            { "value": "studi-", "editable": true, "answer": "studi-" },
+            { "value": "-ano", "editable": true, "answer": "-ano" },
+            { "value": "3ª", "editable": true, "answer": "3ª" },
+            { "value": "plurale", "editable": true, "answer": "plurale" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "lavora", "editable": false },
+            { "value": "lavor-", "editable": true, "answer": "lavor-" },
+            { "value": "-a", "editable": true, "answer": "-a" },
+            { "value": "3ª", "editable": true, "answer": "3ª" },
+            { "value": "singolare", "editable": true, "answer": "singolare" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "conosce", "editable": false },
+            { "value": "conosc-", "editable": true, "answer": "conosc-" },
+            { "value": "-e", "editable": true, "answer": "-e" },
+            { "value": "3ª", "editable": true, "answer": "3ª" },
+            { "value": "singolare", "editable": true, "answer": "singolare" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "gridano", "editable": false },
+            { "value": "grid-", "editable": true, "answer": "grid-" },
+            { "value": "-ano", "editable": true, "answer": "-ano" },
+            { "value": "3ª", "editable": true, "answer": "3ª" },
+            { "value": "plurale", "editable": true, "answer": "plurale" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "camminate", "editable": false },
+            { "value": "cammin-", "editable": true, "answer": "cammin-" },
+            { "value": "-ate", "editable": true, "answer": "-ate" },
+            { "value": "2ª", "editable": true, "answer": "2ª" },
+            { "value": "plurale", "editable": true, "answer": "plurale" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "ridiamo", "editable": false },
+            { "value": "rid-", "editable": true, "answer": "rid-" },
+            { "value": "-iamo", "editable": true, "answer": "-iamo" },
+            { "value": "1ª", "editable": true, "answer": "1ª" },
+            { "value": "plurale", "editable": true, "answer": "plurale" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "mangia", "editable": false },
+            { "value": "mangi-", "editable": true, "answer": "mangi-" },
+            { "value": "-a", "editable": true, "answer": "-a" },
+            { "value": "3ª", "editable": true, "answer": "3ª" },
+            { "value": "singolare", "editable": true, "answer": "singolare" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "laviamo", "editable": false },
+            { "value": "lav-", "editable": true, "answer": "lav-" },
+            { "value": "-iamo", "editable": true, "answer": "-iamo" },
+            { "value": "1ª", "editable": true, "answer": "1ª" },
+            { "value": "plurale", "editable": true, "answer": "plurale" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "vincete", "editable": false },
+            { "value": "vinc-", "editable": true, "answer": "vinc-" },
+            { "value": "-ete", "editable": true, "answer": "-ete" },
+            { "value": "2ª", "editable": true, "answer": "2ª" },
+            { "value": "plurale", "editable": true, "answer": "plurale" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "giocate", "editable": false },
+            { "value": "gioc-", "editable": true, "answer": "gioc-" },
+            { "value": "-ate", "editable": true, "answer": "-ate" },
+            { "value": "2ª", "editable": true, "answer": "2ª" },
+            { "value": "plurale", "editable": true, "answer": "plurale" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "parli", "editable": false },
+            { "value": "parl-", "editable": true, "answer": "parl-" },
+            { "value": "-i", "editable": true, "answer": "-i" },
+            { "value": "2ª", "editable": true, "answer": "2ª" },
+            { "value": "singolare", "editable": true, "answer": "singolare" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "22-ex2",
+      "number": 2,
+      "type": "multiple-choice",
+      "instruction": "Ci sono parole che finiscono in *-are*, *-ere*, *-ire* ma non sono verbi. Prova a cercarle e cerchiale.",
+      "items": [
+        {
+          "sentence": "andare - saltare - **singolare** - cercare - pagare",
+          "options": ["andare", "singolare", "cercare"],
+          "answer": "singolare"
+        },
+        {
+          "sentence": "spendere - convincere - **salumiere** - sapere - ridere",
+          "options": ["spendere", "salumiere", "sapere"],
+          "answer": "salumiere"
+        },
+        {
+          "sentence": "finire - blandire - costruire - **lire** - bollire",
+          "options": ["finire", "lire", "bollire"],
+          "answer": "lire"
+        }
+      ]
+    },
+    {
+      "id": "22-ex3",
+      "number": 3,
+      "type": "transformation",
+      "instruction": "Scrivi accanto a ogni verbo il suo contrario.",
+      "items": [
+        { "given": "arrivare", "answer": "partire" },
+        { "given": "incominciare", "answer": "finire" },
+        { "given": "continuare", "answer": "smettere / interrompere" },
+        { "given": "risparmiare", "answer": "spendere" },
+        { "given": "salire", "answer": "scendere" },
+        { "given": "vivere", "answer": "morire" },
+        { "given": "ricordare", "answer": "dimenticare" },
+        { "given": "pulire", "answer": "sporcare" },
+        { "given": "aprire", "answer": "chiudere" },
+        { "given": "entrare", "answer": "uscire" }
+      ]
+    },
+    {
+      "id": "22-ex4",
+      "number": 4,
+      "type": "open-ended",
+      "instruction": "Sottolinea tutte le forme verbali presenti in questo brano.",
+      "suggestedAnswer": "Siamo andati, torniamo, vende, raccogliamo, era, era, siamo arrampicati, abbiamo scosso, cadevano, rotolavano, si nascondevano, coprivano, si sentiva, arrivava, eravamo, ha accolti, è, parla, offre, racconta, era, era, sono, crescono"
+    }
+  ]
+}

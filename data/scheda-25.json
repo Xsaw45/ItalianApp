@@ -1,0 +1,277 @@
+{
+  "meta": {
+    "id": "25",
+    "title": "Il passato prossimo",
+    "subtitle": "Tempo composto con avere o essere",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "**Il passato prossimo è un tempo composto del modo indicativo.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "Il **passato prossimo** indica un'azione **passata**. Le azioni al passato prossimo sono avvenute in un passato **vicino**:"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Stamattina **ho mangiato** pane e marmellata.", "highlight": "ho mangiato" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "oppure in un passato lontano, ma i cui effetti durano ancora nel presente:"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "**Sono nato** nel 1989.", "highlight": "Sono nato" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Il passato prossimo è un **tempo composto**, cioè è fatto di due parole:"
+      },
+      {
+        "type": "table",
+        "caption": "Struttura del passato prossimo",
+        "headers": ["Ausiliare", "Participio passato", "Ausiliare", "Participio passato"],
+        "rows": [
+          ["HO", "GIOCATO", "SONO", "ANDATO"]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "L'**ausiliare** del passato prossimo può essere il tempo presente di **avere**, oppure di **essere** (vedremo dopo quando si usa l'uno o l'altro)."
+      },
+      {
+        "type": "paragraph",
+        "content": "Il **participio passato** è una forma verbale che si ottiene sostituendo la desinenza *-are*, *-ere*, *-ire* dell'infinito con la desinenza **-ato**, **-uto**, **-ito**:"
+      },
+      {
+        "type": "table",
+        "caption": "Formazione del participio passato regolare",
+        "headers": ["Infinito", "Participio passato"],
+        "rows": [
+          ["parl**are**", "parl**ato**"],
+          ["cred**ere**", "cred**uto**"],
+          ["sent**ire**", "sent**ito**"]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Esistono molti participi passati irregolari. Ecco un elenco di quelli più importanti."
+      },
+      {
+        "type": "table",
+        "caption": "Participi passati irregolari – 1ª e 2ª coniugazione",
+        "headers": ["1ª coniugazione", "", "2ª coniugazione", "", "", "", "", ""],
+        "rows": [
+          ["fare", "fatto", "accendere", "acceso", "leggere", "letto", "spendere", "speso"],
+          ["", "", "bere", "bevuto", "mettere", "messo", "togliere", "tolto"],
+          ["", "", "chiedere", "chiesto", "nascere", "nato", "vincere", "vinto"],
+          ["", "", "chiudere", "chiuso", "nascondere", "nascosto", "rompere", "rotto"],
+          ["", "", "decidere", "deciso", "prendere", "preso", "scegliere", "scelto"],
+          ["", "", "dipingere", "dipinto", "rimanere", "rimasto", "scendere", "sceso"],
+          ["", "", "dividere", "diviso", "rispondere", "risposto", "scrivere", "scritto"]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Participi passati irregolari – 3ª coniugazione",
+        "headers": ["3ª coniugazione", ""],
+        "rows": [
+          ["aprire", "aperto"],
+          ["dire", "detto"],
+          ["morire", "morto"],
+          ["venire", "venuto"]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "L'ausiliare: avere o essere?"
+      },
+      {
+        "type": "paragraph",
+        "content": "La maggioranza dei verbi vuole l'ausiliare **avere**. C'è però un gruppo di verbi (detti intransitivi) che vogliono l'ausiliare **essere**. Sono in genere verbi che indicano un movimento (*andare, arrivare, partire, tornare, venire*) o un cambiamento (*diventare, morire, nascere, crescere*). Dato però che le eccezioni sono numerose, è necessario imparare con l'uso e a memoria qual è l'ausiliare giusto e – in caso di dubbio – consultare il dizionario."
+      },
+      {
+        "type": "table",
+        "caption": "Passato prossimo con avere e con essere",
+        "headers": ["Mangiare (ausiliare avere)", "", "Andare (ausiliare essere)", ""],
+        "rows": [
+          ["io", "ho mangiato", "io", "sono andato (andata)"]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Attenzione"
+      },
+      {
+        "type": "paragraph",
+        "content": "Con l'ausiliare **avere** il participio passato non cambia. Con l'ausiliare **essere** cambia, cioè concorda in genere e numero con il soggetto."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Pierpaolo **è andato**.   Pierpaolo e Giorgio **sono andati**.", "highlight": "è andato, sono andati" },
+          { "italian": "Mariella **è andata**.   Mariella e Carla **sono andate**.", "highlight": "è andata, sono andate" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Anche con l'ausiliare **avere** il participio passato cambia come genere e numero, quando il passato prossimo è preceduto dal pronome personale *lo, la, li, le*."
+      },
+      {
+        "type": "paragraph",
+        "content": "Vedi **Scheda 11, *I pronomi*.**"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Hai mangiato il pane? – Sì, **l'ho mangiato**.", "highlight": "l'ho mangiato" },
+          { "italian": "Hai mangiato la pizza? – Sì, **l'ho mangiata**.", "highlight": "l'ho mangiata" },
+          { "italian": "Hai mangiato i pomodori? – Sì, **li ho mangiati**.", "highlight": "li ho mangiati" },
+          { "italian": "Hai mangiato le patate? – Sì, **le ho mangiate**.", "highlight": "le ho mangiate" }
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "25-ex1",
+      "number": 1,
+      "type": "table-completion",
+      "instruction": "Completa la tabella.",
+      "headers": ["Infinito", "Presente", "Imperfetto", "Passato prossimo"],
+      "rows": [
+        {
+          "cells": [
+            { "value": "scrivere", "editable": false },
+            { "value": "io scrivo", "editable": false },
+            { "value": "io scrivevo", "editable": false },
+            { "value": "io ho scritto", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "pensare", "editable": false },
+            { "value": "io penso", "editable": true, "answer": "io penso" },
+            { "value": "io pensavo", "editable": true, "answer": "io pensavo" },
+            { "value": "io ho pensato", "editable": true, "answer": "io ho pensato" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "pagare", "editable": true, "answer": "pagare" },
+            { "value": "tu paghi", "editable": true, "answer": "tu paghi" },
+            { "value": "tu pagavi", "editable": true, "answer": "tu pagavi" },
+            { "value": "tu hai pagato", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "rispondere", "editable": true, "answer": "rispondere" },
+            { "value": "lei risponde", "editable": false },
+            { "value": "lei rispondeva", "editable": true, "answer": "lei rispondeva" },
+            { "value": "lei ha risposto", "editable": true, "answer": "lei ha risposto" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "aiutare", "editable": false },
+            { "value": "voi aiutate", "editable": true, "answer": "voi aiutate" },
+            { "value": "voi aiutavate", "editable": true, "answer": "voi aiutavate" },
+            { "value": "voi avete aiutato", "editable": true, "answer": "voi avete aiutato" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "tornare", "editable": false },
+            { "value": "loro tornano", "editable": true, "answer": "loro tornano" },
+            { "value": "loro tornavano", "editable": true, "answer": "loro tornavano" },
+            { "value": "loro sono tornati", "editable": true, "answer": "loro sono tornati" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "venire", "editable": true, "answer": "venire" },
+            { "value": "lui viene", "editable": false },
+            { "value": "lui veniva", "editable": true, "answer": "lui veniva" },
+            { "value": "lui è venuto", "editable": true, "answer": "lui è venuto" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "leggere", "editable": true, "answer": "leggere" },
+            { "value": "noi leggiamo", "editable": true, "answer": "noi leggiamo" },
+            { "value": "noi leggevamo", "editable": true, "answer": "noi leggevamo" },
+            { "value": "noi abbiamo letto", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "ascoltare", "editable": true, "answer": "ascoltare" },
+            { "value": "io ascolto", "editable": false },
+            { "value": "io ascoltavo", "editable": true, "answer": "io ascoltavo" },
+            { "value": "io ho ascoltato", "editable": true, "answer": "io ho ascoltato" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "ripetere", "editable": true, "answer": "ripetere" },
+            { "value": "tu ripeti", "editable": true, "answer": "tu ripeti" },
+            { "value": "tu ripetevi", "editable": false },
+            { "value": "tu hai ripetuto", "editable": true, "answer": "tu hai ripetuto" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "25-ex2",
+      "number": 2,
+      "type": "transformation",
+      "instruction": "Trasforma i verbi delle seguenti frasi dal presente al passato prossimo.",
+      "items": [
+        { "given": "La mamma esce di casa al mattino presto.", "answer": "La mamma è uscita di casa al mattino presto." },
+        { "given": "Accompagna me a scuola.", "answer": "Ha accompagnato me a scuola." },
+        { "given": "Porta Angela alla scuola materna.", "answer": "Ha portato Angela alla scuola materna." },
+        { "given": "Va a fare la spesa al mercato.", "answer": "È andata a fare la spesa al mercato." },
+        { "given": "Torna a casa verso le dieci.", "answer": "È tornata a casa verso le dieci." },
+        { "given": "Fa le pulizie, lava e stira.", "answer": "Ha fatto le pulizie, ha lavato e ha stirato." },
+        { "given": "Prepara il pranzo.", "answer": "Ha preparato il pranzo." }
+      ]
+    },
+    {
+      "id": "25-ex3",
+      "number": 3,
+      "type": "fill-in-blank",
+      "instruction": "Completa le seguenti frasi scrivendo il passato prossimo dei verbi tra parentesi.",
+      "items": [
+        { "before": "Luca mi", "blank": true, "after": "(*dire*) che Pietro (*partire*) ieri.", "answer": "ha detto / è partito" },
+        { "before": "Questa mattina il signor Gallo", "blank": true, "after": "(*portare*) la macchina dal meccanico e poi (*andare*) a lavorare in tram.", "answer": "ha portato / è andato" },
+        { "before": "Che cosa (voi)", "blank": true, "after": "(*mangiare*) ieri sera a casa di Fausto?", "answer": "avete mangiato" },
+        { "before": "Lo zio Ivan", "blank": true, "after": "(*fumare*) troppe sigarette, così poi (*stare*) male e (*tossire*) tutta la notte.", "answer": "ha fumato / è stato / ha tossito" },
+        { "before": "Il treno", "blank": true, "after": "(*arrivare*) alle 11.", "answer": "è arrivato" }
+      ]
+    },
+    {
+      "id": "25-ex4",
+      "number": 4,
+      "type": "fill-in-blank",
+      "instruction": "Rispondi alle domande, facendo attenzione alla concordanza del participio passato dopo il pronome diretto.",
+      "items": [
+        { "before": "Hai comprato le mele? –", "blank": true, "after": "", "answer": "Sì, le ho comprate." },
+        { "before": "Hai comprato le arance? – No, non le ho", "blank": true, "after": "", "answer": "comprate." },
+        { "before": "Hai comprato i peperoni? – Sì, li ho", "blank": true, "after": "", "answer": "comprati." },
+        { "before": "Hai comprato la torta? – Sì, l'ho", "blank": true, "after": "", "answer": "comprata." },
+        { "before": "Hai comprato il pane? – Sì, l'ho", "blank": true, "after": "", "answer": "comprato." },
+        { "before": "Hai comprato la carne? – Sì, l'ho", "blank": true, "after": "", "answer": "comprata." },
+        { "before": "Hai comprato le merendine? – No, non le ho", "blank": true, "after": "", "answer": "comprate." }
+      ]
+    }
+  ]
+}

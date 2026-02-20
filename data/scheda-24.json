@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "id": "24",
+    "title": "L'imperfetto",
+    "subtitle": "Forma, uso e verbi irregolari",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "**L'imperfetto è un tempo del modo indicativo.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "L'indicativo **imperfetto** indica un'azione **passata** che ha avuto una certa **durata** e **continuità**."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Ieri **pioveva**.", "highlight": "pioveva" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "La forma"
+      },
+      {
+        "type": "paragraph",
+        "content": "Per le coniugazioni regolari dell'imperfetto vedi **Tavole dei verbi, pp. 324–31.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "Indichiamo di seguito l'imperfetto indicativo dei più importanti verbi irregolari."
+      },
+      {
+        "type": "table",
+        "caption": "Imperfetto dei verbi irregolari",
+        "headers": ["Avere", "", "Essere", "", "Fare", "", "Dire", ""],
+        "rows": [
+          ["io", "avevo", "io", "ero", "io", "facevo", "io", "dicevo"],
+          ["tu", "avevi", "tu", "eri", "tu", "facevi", "tu", "dicevi"],
+          ["lui", "aveva", "lui", "era", "lui", "faceva", "lui", "diceva"],
+          ["noi", "avevamo", "noi", "eravamo", "noi", "facevamo", "noi", "dicevamo"],
+          ["voi", "avevate", "voi", "eravate", "voi", "facevate", "voi", "dicevate"],
+          ["loro", "avevano", "loro", "erano", "loro", "facevano", "loro", "dicevano"]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "L'uso"
+      },
+      {
+        "type": "paragraph",
+        "content": "L'imperfetto si usa:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "per fare una **descrizione** al passato",
+          "per esprimere un'azione **abituale** e **ripetitiva** nel passato",
+          "per indicare che un'azione passata è avvenuta nello stesso momento di un'altra anche passata (e che tutte e due le azioni hanno avuto la stessa durata)"
+        ]
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "La mia casa **era** piccola, ma **aveva** un bel giardino tutto intorno.", "highlight": "era, aveva" },
+          { "italian": "Da bambino **correvo** e **saltavo** tutto il giorno.", "highlight": "correvo, saltavo" },
+          { "italian": "Mentre **mangiavo**, **guardavo** la televisione.", "highlight": "mangiavo, guardavo" }
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "24-ex1",
+      "number": 1,
+      "type": "table-completion",
+      "instruction": "Completa la tabella.",
+      "headers": ["Infinito", "Indicativo presente", "Indicativo imperfetto"],
+      "rows": [
+        {
+          "cells": [
+            { "value": "lavorare", "editable": false },
+            { "value": "io lavoro", "editable": false },
+            { "value": "io lavoravo", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "andare", "editable": true, "answer": "andare" },
+            { "value": "io vado", "editable": false },
+            { "value": "io andavo", "editable": true, "answer": "io andavo" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "ridere", "editable": false },
+            { "value": "lui ride", "editable": true, "answer": "lui ride" },
+            { "value": "lui rideva", "editable": true, "answer": "lui rideva" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "vedere", "editable": true, "answer": "vedere" },
+            { "value": "noi vediamo", "editable": true, "answer": "noi vediamo" },
+            { "value": "noi vedevamo", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "giocare", "editable": true, "answer": "giocare" },
+            { "value": "tu giochi", "editable": false },
+            { "value": "tu giocavi", "editable": true, "answer": "tu giocavi" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "finire", "editable": false },
+            { "value": "voi finite", "editable": true, "answer": "voi finite" },
+            { "value": "voi finivate", "editable": true, "answer": "voi finivate" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "comprare", "editable": true, "answer": "comprare" },
+            { "value": "tu compri", "editable": true, "answer": "tu compri" },
+            { "value": "tu compravi", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "vendere", "editable": false },
+            { "value": "lei vende", "editable": true, "answer": "lei vende" },
+            { "value": "lei vendeva", "editable": true, "answer": "lei vendeva" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "preparare", "editable": true, "answer": "preparare" },
+            { "value": "io preparo", "editable": false },
+            { "value": "io preparavo", "editable": true, "answer": "io preparavo" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "uscire", "editable": false },
+            { "value": "tu esci", "editable": true, "answer": "tu esci" },
+            { "value": "tu uscivi", "editable": true, "answer": "tu uscivi" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24-ex2",
+      "number": 2,
+      "type": "fill-in-blank",
+      "instruction": "Completa le frasi coniugando all'imperfetto i verbi indicati tra parentesi.",
+      "items": [
+        { "before": "Mirella", "blank": true, "after": "(*essere*) una ragazza intelligente, che (*imparare*) subito tutto.", "answer": "era / imparava" },
+        { "before": "In montagna noi", "blank": true, "after": "(*fare*) delle gite molto faticose, (*camminare*) anche cinque o sei ore.", "answer": "facevamo / camminavamo" },
+        { "before": "Elena", "blank": true, "after": "(*avere*) la brutta abitudine di arrabbiarsi subito e di gridare.", "answer": "aveva" },
+        { "before": "Al mio paese io", "blank": true, "after": "(*abitare*) con la mia famiglia in una casa vicina al mare.", "answer": "abitavo" },
+        { "before": "Queste case una volta non c'", "blank": true, "after": "(*essere*). La strada (*passare*) in mezzo ai prati e mio zio laggiù (*avere*) un orto.", "answer": "erano / passava / aveva" },
+        { "before": "Mentre io", "blank": true, "after": "(*fare*) i compiti, mio fratello (*parlare*) e mi (*disturbare*).", "answer": "facevo / parlava / disturbava" },
+        { "before": "Mio nonno", "blank": true, "after": "(*fare*) il macellaio.", "answer": "faceva" }
+      ]
+    },
+    {
+      "id": "24-ex3",
+      "number": 3,
+      "type": "open-ended",
+      "instruction": "Completa le frasi trasformando il verbo dal presente all'imperfetto. Parla di te: descrivi com'era la tua vita al tuo paese d'origine.",
+      "suggestedAnswer": "Esempio: Ora abito in Italia. Prima abitavo al mio paese. / Ora vado nella scuola italiana. Al mio paese andavo in una scuola diversa. / In Italia i miei compagni sono italiani. Al mio paese i miei compagni erano del mio paese. / Qui la mia casa è in città. Al mio paese la mia casa era in campagna. / Ora mio padre fa un altro lavoro. Prima mio padre faceva un lavoro diverso. / Il tempo qui è diverso. Al mio paese il tempo era più caldo / freddo. / In Italia mangio cibo italiano. Al mio paese mangiavo cibo del mio paese."
+    }
+  ]
+}

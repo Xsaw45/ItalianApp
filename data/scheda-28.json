@@ -1,0 +1,270 @@
+{
+  "meta": {
+    "id": "28",
+    "title": "Il futuro",
+    "subtitle": "Futuro semplice e futuro anteriore",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "**Il futuro è un tempo del modo indicativo.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "L'indicativo **futuro** indica un'azione futura, che **deve ancora avvenire** rispetto al momento in cui si parla o si scrive."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Domani **pioverà**.", "highlight": "pioverà" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "La forma"
+      },
+      {
+        "type": "paragraph",
+        "content": "Per le coniugazioni regolari del futuro **vedi *Tavole dei verbi*, pp. 324–31.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "Indichiamo di seguito il futuro dei più importanti verbi irregolari."
+      },
+      {
+        "type": "table",
+        "caption": "Verbi irregolari al futuro (gruppo 1)",
+        "headers": ["Avere", "Essere", "Andare", "Dare", "Fare"],
+        "rows": [
+          ["io avrò", "io sarò", "io andrò", "io darò", "io farò"],
+          ["tu avrai", "tu sarai", "tu andrai", "tu darai", "tu farai"],
+          ["lui avrà", "lui sarà", "lui andrà", "lui darà", "lui farà"],
+          ["noi avremo", "noi saremo", "noi andremo", "noi daremo", "noi faremo"],
+          ["voi avrete", "voi sarete", "voi andrete", "voi darete", "voi farete"],
+          ["loro avranno", "loro saranno", "loro andranno", "loro daranno", "loro faranno"]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Verbi irregolari al futuro (gruppo 2)",
+        "headers": ["Sapere", "Potere", "Dovere", "Volere", "Venire"],
+        "rows": [
+          ["io saprò", "io potrò", "io dovrò", "io vorrò", "io verrò"],
+          ["tu saprai", "tu potrai", "tu dovrai", "tu vorrai", "tu verrai"],
+          ["lui saprà", "lui potrà", "lui dovrà", "lui vorrà", "lui verrà"],
+          ["noi sapremo", "noi potremo", "noi dovremo", "noi vorremo", "noi verremo"],
+          ["voi saprete", "voi potrete", "voi dovrete", "voi vorrete", "voi verrete"],
+          ["loro sapranno", "loro potranno", "loro dovranno", "loro vorranno", "loro verranno"]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "L'uso"
+      },
+      {
+        "type": "paragraph",
+        "content": "Il futuro ha due tempi: il **futuro semplice** e il **futuro anteriore**."
+      },
+      {
+        "type": "paragraph",
+        "content": "Il **futuro semplice** si usa soprattutto:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "per indicare un'azione che si realizzerà in futuro, in un momento successivo al momento presente",
+          "per esprimere un **dubbio**",
+          "per esprimere una **concessione**",
+          "per esprimere un'**ipotesi approssimativa**"
+        ]
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Domenica **partiremo** con il treno delle 9.30.", "highlight": "partiremo" },
+          { "italian": "Papà a quest'ora **sarà** in ufficio?", "highlight": "sarà" },
+          { "italian": "Queste scarpe **saranno** anche di moda, ma a me non piacciono.", "highlight": "saranno" },
+          { "italian": "Per questa casa i Ferraris **pagheranno** almeno due milioni di affitto al mese.", "highlight": "pagheranno" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Oggi il futuro è spesso sostituito dal semplice presente, soprattutto nell'italiano familiare e parlato nell'Italia del Nord."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Domani **arriva** mio cugino (invece di *arriverà*).", "highlight": "arriva" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Il **futuro anteriore** è un tempo composto dal futuro dell'ausiliare avere-essere (*avrò*, *sarò*) + il participio passato del verbo."
+      },
+      {
+        "type": "paragraph",
+        "content": "Si usa quando ci sono due azioni future e l'una avviene prima dell'altra."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "**Deciderò** che sport fare e poi **andrò** a iscrivermi in palestra o in piscina.", "highlight": "Deciderò, andrò" },
+          { "italian": "Quando **avrò deciso** che sport fare, **andrò** a iscrivermi in palestra o in piscina.", "highlight": "avrò deciso, andrò" }
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "28-ex1",
+      "number": 1,
+      "type": "table-completion",
+      "instruction": "Completa la tabella.",
+      "headers": ["Infinito", "Presente", "Futuro", "Futuro anteriore"],
+      "rows": [
+        {
+          "cells": [
+            { "value": "mangiare", "editable": false },
+            { "value": "tu mangi", "editable": false },
+            { "value": "tu mangerai", "editable": false },
+            { "value": "tu avrai mangiato", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "fare", "editable": false },
+            { "value": "io faccio", "editable": true, "answer": "io faccio" },
+            { "value": "io farò", "editable": true, "answer": "io farò" },
+            { "value": "io avrò fatto", "editable": true, "answer": "io avrò fatto" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "vendere", "editable": true, "answer": "vendere" },
+            { "value": "lei vende", "editable": false },
+            { "value": "lei venderà", "editable": true, "answer": "lei venderà" },
+            { "value": "lei avrà venduto", "editable": true, "answer": "lei avrà venduto" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "comprare", "editable": false },
+            { "value": "noi compriamo", "editable": true, "answer": "noi compriamo" },
+            { "value": "noi compreremo", "editable": true, "answer": "noi compreremo" },
+            { "value": "noi avremo comprato", "editable": true, "answer": "noi avremo comprato" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "pensare", "editable": true, "answer": "pensare" },
+            { "value": "io penso", "editable": false },
+            { "value": "io penserò", "editable": true, "answer": "io penserò" },
+            { "value": "io avrò pensato", "editable": true, "answer": "io avrò pensato" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "decidere", "editable": true, "answer": "decidere" },
+            { "value": "voi decidete", "editable": false },
+            { "value": "voi deciderete", "editable": true, "answer": "voi deciderete" },
+            { "value": "voi avrete deciso", "editable": true, "answer": "voi avrete deciso" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "venire", "editable": true, "answer": "venire" },
+            { "value": "tu vieni", "editable": true, "answer": "tu vieni" },
+            { "value": "tu verrai", "editable": false },
+            { "value": "tu sarai venuto", "editable": true, "answer": "tu sarai venuto" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "regalare", "editable": false },
+            { "value": "voi regalate", "editable": true, "answer": "voi regalate" },
+            { "value": "voi regalerete", "editable": true, "answer": "voi regalerete" },
+            { "value": "voi avrete regalato", "editable": true, "answer": "voi avrete regalato" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "andare", "editable": true, "answer": "andare" },
+            { "value": "noi andiamo", "editable": false },
+            { "value": "noi andremo", "editable": true, "answer": "noi andremo" },
+            { "value": "noi saremo andati", "editable": true, "answer": "noi saremo andati" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "vedere", "editable": true, "answer": "vedere" },
+            { "value": "io vedo", "editable": true, "answer": "io vedo" },
+            { "value": "io vedrò", "editable": true, "answer": "io vedrò" },
+            { "value": "io avrò visto", "editable": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "28-ex2",
+      "number": 2,
+      "type": "fill-in-blank",
+      "instruction": "Coniuga al futuro i verbi indicati tra parentesi.",
+      "items": [
+        { "before": "Che cosa", "blank": true, "after": "(fare) quando sarai grande?", "answer": "farai" },
+        { "before": "Quando arriveremo a Roma, dove", "blank": true, "after": "(andare)?", "answer": "andremo" },
+        { "before": "Il medico", "blank": true, "after": "(venire) a visitare Paola domani mattina.", "answer": "verrà" },
+        { "before": "A luglio Cristina", "blank": true, "after": "(tornare) in Romania a prendere la figlia.", "answer": "tornerà" },
+        { "before": "Appena", "blank": true, "after": "(potere), io", "answer": "potrò" },
+        { "before": "", "blank": true, "after": "(andare) dal parrucchiere.", "answer": "andrò" }
+      ]
+    },
+    {
+      "id": "28-ex3",
+      "number": 3,
+      "type": "fill-in-blank",
+      "instruction": "Coniuga al futuro i verbi indicati tra parentesi.",
+      "items": [
+        { "before": "Questa sera noi", "blank": true, "after": "(mangiare) le castagne.", "answer": "mangeremo" },
+        { "before": "Mia sorella", "blank": true, "after": "(venire) al cinema con voi, se dopo voi la", "answer": "verrà" },
+        { "before": "", "blank": true, "after": "(riaccompagnare) a casa.", "answer": "riaccompagnerete" },
+        { "before": "Se io", "blank": true, "after": "(prendere) gli antibiotici", "answer": "prenderò" },
+        { "before": "", "blank": true, "after": "(guarire) presto.", "answer": "guarirò" },
+        { "before": "La signora Fortisi", "blank": true, "after": "(pagare) l'affitto dopodomani.", "answer": "pagherà" }
+      ]
+    },
+    {
+      "id": "28-ex4",
+      "number": 4,
+      "type": "transformation",
+      "instruction": "Trasforma le frasi secondo il modello.\n\n*Prima dormirò, poi ricomincerò a studiare. → Quando avrò dormito, ricomincerò a studiare.*",
+      "items": [
+        {
+          "given": "Eric comprerà gli sci e poi verrà in montagna.",
+          "answer": "Quando Eric avrà comprato gli sci, verrà in montagna."
+        },
+        {
+          "given": "Venderò la moto e poi ne comprerò una più bella.",
+          "answer": "Quando avrò venduto la moto, ne comprerò una più bella."
+        },
+        {
+          "given": "Finirò gli esercizi di inglese e poi guarderò la televisione.",
+          "answer": "Quando avrò finito gli esercizi di inglese, guarderò la televisione."
+        },
+        {
+          "given": "L'avvocato esaminerà la proposta e poi vedrà se accettarla.",
+          "answer": "Quando l'avvocato avrà esaminato la proposta, vedrà se accettarla."
+        },
+        {
+          "given": "Vedremo gli orari del treno e poi decideremo a che ora partire.",
+          "answer": "Quando avremo visto gli orari del treno, decideremo a che ora partire."
+        },
+        {
+          "given": "Mario arriverà in albergo e poi ci telefonerà.",
+          "answer": "Quando Mario sarà arrivato in albergo, ci telefonerà."
+        }
+      ]
+    }
+  ]
+}

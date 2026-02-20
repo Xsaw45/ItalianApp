@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "id": "26",
+    "title": "La differenza tra imperfetto e passato prossimo",
+    "subtitle": "L'uso dei due tempi del passato a confronto",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "**L'imperfetto e il passato prossimo sono due tempi del passato molto usati in italiano.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "Nelle Schede 24 e 25 abbiamo già visto quando si usano, ma è molto importante metterli a confronto per capirne bene le differenze di significato."
+      },
+      {
+        "type": "heading",
+        "content": "L'uso"
+      },
+      {
+        "type": "table",
+        "caption": "Differenza di uso tra imperfetto e passato prossimo",
+        "headers": ["Imperfetto", "Passato prossimo"],
+        "rows": [
+          [
+            "azione **abituale**, che si faceva sempre\n\n*Da bambino **andavo** al mare tutte le domeniche.*",
+            "azione **non abituale**, che è stata fatta una sola volta\n\n*Da bambino una volta **sono andato** al mare.*"
+          ],
+          [
+            "azione **ripetitiva**, che si faceva tante volte\n\n*Mia zia **faceva** sempre dei dolci buonissimi.*",
+            "azione **puntuale**, avvenuta una volta\n\n*Mia zia ieri **ha fatto** dei dolci buonissimi.*"
+          ],
+          [
+            "azione **durativa**, che è durata per un certo tempo\n\n*Ieri **pioveva**.*",
+            "azione **momentanea**, breve, che è durata o è avvenuta in un momento\n\n*Ieri **è piovuto** un po'.*"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Quando nella stessa frase ci sono **due azioni passate che sono avvenute contemporaneamente**, possiamo avere tre casi:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "due azioni ugualmente lunghe (durative):",
+          "due azioni ugualmente puntuali o momentanee:",
+          "un'azione durativa durante la quale avviene un'azione momentanea:"
+        ]
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "- imperfetto + imperfetto: Mentre **studiavo**, mia sorella **preparava** la cena.", "highlight": "studiavo, preparava" },
+          { "italian": "- passato prossimo + passato prossimo: Quando Fulvio **è arrivato**, lo **abbiamo salutato**.", "highlight": "è arrivato, abbiamo salutato" },
+          { "italian": "- imperfetto + passato prossimo: Mentre **mangiavo**, **è suonato** il telefono.", "highlight": "mangiavo, è suonato" }
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "26-ex1",
+      "number": 1,
+      "type": "multiple-choice",
+      "instruction": "Imperfetto o passato prossimo? Cerchia l'alternativa corretta.",
+      "items": [
+        {
+          "sentence": "Una volta qui ___ una pizzeria.",
+          "options": ["c'era", "c'è stata"],
+          "answer": "c'era"
+        },
+        {
+          "sentence": "___ i compiti per domani?",
+          "options": ["Facevi", "Hai fatto"],
+          "answer": "Hai fatto"
+        },
+        {
+          "sentence": "Sabato ___ al cinema.",
+          "options": ["andavo", "sono andato"],
+          "answer": "sono andato"
+        },
+        {
+          "sentence": "Finalmente ___ l'ultimo giorno di scuola.",
+          "options": ["arrivava", "è arrivato"],
+          "answer": "è arrivato"
+        },
+        {
+          "sentence": "In Perù ___ in molte città.",
+          "options": ["abitavo", "ho abitato"],
+          "answer": "ho abitato"
+        },
+        {
+          "sentence": "In passato gli Italiani ___ di più.",
+          "options": ["fumavano", "hanno fumato"],
+          "answer": "fumavano"
+        },
+        {
+          "sentence": "L'anno scorso ___ in piscina tutti i giorni.",
+          "options": ["andavo", "sono andato"],
+          "answer": "sono andato"
+        },
+        {
+          "sentence": "Giovedì ___ in piscina con Bruno.",
+          "options": ["andavo", "sono andato"],
+          "answer": "sono andato"
+        },
+        {
+          "sentence": "Da piccolo ___ paura dei tuoni.",
+          "options": ["avevo", "ho avuto"],
+          "answer": "avevo"
+        },
+        {
+          "sentence": "Da piccolo ___ il morbillo.",
+          "options": ["avevo", "ho avuto"],
+          "answer": "ho avuto"
+        }
+      ]
+    },
+    {
+      "id": "26-ex2",
+      "number": 2,
+      "type": "multiple-choice",
+      "instruction": "Imperfetto o passato prossimo? Cerchia l'alternativa corretta.",
+      "items": [
+        {
+          "sentence": "Mentre ___, Paola ___.",
+          "options": ["telefonavo / arrivava", "ho telefonato / è arrivata"],
+          "answer": "telefonavo / è arrivata"
+        },
+        {
+          "sentence": "Mentre il marito ___ la tavola, la moglie ___.",
+          "options": ["preparava / cucinava", "ha preparato / ha cucinato"],
+          "answer": "preparava / cucinava"
+        },
+        {
+          "sentence": "Quando ___, ___.",
+          "options": ["uscivo / pioveva", "sono uscito / pioveva"],
+          "answer": "sono uscito / pioveva"
+        },
+        {
+          "sentence": "Andando a scuola, ___ un incidente stradale.",
+          "options": ["vedevo", "ho visto"],
+          "answer": "ho visto"
+        },
+        {
+          "sentence": "Andando a scuola, ___ tutti i giorni tua sorella alla fermata dell'autobus.",
+          "options": ["vedevo", "ho visto"],
+          "answer": "vedevo"
+        },
+        {
+          "sentence": "Sergio non ___ niente, perché ___ male.",
+          "options": ["mangiava / stava", "ha mangiato / è stato"],
+          "answer": "ha mangiato / stava"
+        },
+        {
+          "sentence": "Quando ___ in Cile, ___ a scuola da febbraio a novembre.",
+          "options": ["abitavo / andavo", "ho abitato / sono andato"],
+          "answer": "abitavo / andavo"
+        },
+        {
+          "sentence": "Quando Rosa ___ per la famiglia D'Angelo, ___ abbastanza bene.",
+          "options": ["lavorava / guadagnava", "ha lavorato / ha guadagnato"],
+          "answer": "lavorava / guadagnava"
+        },
+        {
+          "sentence": "Mentre la professoressa ___, Martin ___ a gridare.",
+          "options": ["spiegava / si metteva", "ha spiegato / si è messo"],
+          "answer": "spiegava / si è messo"
+        },
+        {
+          "sentence": "Visto che ___ bel tempo, ___ presto per il mare.",
+          "options": ["faceva / partivamo", "ha fatto / siamo partiti"],
+          "answer": "faceva / siamo partiti"
+        }
+      ]
+    },
+    {
+      "id": "26-ex3",
+      "number": 3,
+      "type": "fill-in-blank",
+      "instruction": "Completa le seguenti frasi con l'imperfetto o il passato prossimo del verbo indicato tra parentesi.",
+      "items": [
+        { "before": "Stamattina Lino", "blank": true, "after": "(andare) al mercato.", "answer": "è andato" },
+        { "before": "Lino", "blank": true, "after": "(andare) al mercato tutti i giorni.", "answer": "andava" },
+        { "before": "Ieri noi", "blank": true, "after": "(studiare) italiano, storia e geometria.", "answer": "abbiamo studiato" },
+        { "before": "Da piccoli noi", "blank": true, "after": "(studiare) l'aritmetica.", "answer": "studiavamo" },
+        { "before": "Al mare io", "blank": true, "after": "(mangiare) pesce a pranzo e a cena.", "answer": "mangiavo" },
+        { "before": "Domenica io", "blank": true, "after": "(mangiare) il pesce al forno.", "answer": "ho mangiato" },
+        { "before": "Mio nonno da giovane", "blank": true, "after": "(leggere) il giornale senza occhiali.", "answer": "leggeva" },
+        { "before": "Mio nonno ieri", "blank": true, "after": "(leggere) il giornale tutta la sera.", "answer": "ha letto" }
+      ]
+    },
+    {
+      "id": "26-ex4",
+      "number": 4,
+      "type": "sentence-completion",
+      "instruction": "Completa le seguenti frasi con l'imperfetto o il passato prossimo del verbo indicato tra parentesi.",
+      "items": [
+        {
+          "segments": [
+            { "text": "Michele" },
+            { "blank": true, "answer": "ha cambiato" },
+            { "text": "(cambiare) la macchina perché" },
+            { "blank": true, "answer": "era" },
+            { "text": "(essere) troppo vecchia." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Ieri" },
+            { "blank": true, "answer": "è stata" },
+            { "text": "(essere) una bella giornata di sole, ma" },
+            { "blank": true, "answer": "faceva" },
+            { "text": "(fare) abbastanza freddo." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Di solito alla domenica" },
+            { "blank": true, "answer": "andavo" },
+            { "text": "(andare) a pescare con mio padre e mio fratello Joseph." }
+          ]
+        },
+        {
+          "segments": [
+            { "text": "Quando tu" },
+            { "blank": true, "answer": "hai telefonato" },
+            { "text": "(telefonare), io" },
+            { "blank": true, "answer": "stavo" },
+            { "text": "(stare) ancora dormendo." }
+          ]
+        }
+      ]
+    }
+  ]
+}

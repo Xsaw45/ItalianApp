@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "id": "27",
+    "title": "Il passato remoto",
+    "subtitle": "Forma e uso del passato remoto",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "**Il passato remoto è un tempo del modo indicativo.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "Il passato remoto indica un'azione passata, che è avvenuta in un passato lontano e che è completamente finita."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Cristoforo Colombo **arrivò** in America nel 1492.", "highlight": "arrivò" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "La forma"
+      },
+      {
+        "type": "paragraph",
+        "content": "Per le coniugazioni regolari del passato remoto **vedi *Tavole dei verbi*, pp. 324–31.**"
+      },
+      {
+        "type": "paragraph",
+        "content": "Indichiamo di seguito il passato remoto dei più importanti verbi irregolari."
+      },
+      {
+        "type": "paragraph",
+        "content": "La **prima coniugazione** ha solo 3 verbi irregolari al passato remoto e la **terza** ne ha solo 2:"
+      },
+      {
+        "type": "table",
+        "caption": "Verbi irregolari della prima e terza coniugazione",
+        "headers": ["Prima coniugazione: Dare", "Prima: Fare", "Prima: Stare", "Terza: Dire", "Terza: Venire"],
+        "rows": [
+          ["io diedi", "io feci", "io stetti", "io dissi", "io venni"],
+          ["tu desti", "tu facesti", "tu stesti", "tu dicesti", "tu venisti"],
+          ["lui diede", "lui fece", "lui stette", "lui disse", "lui venne"],
+          ["noi demmo", "noi facemmo", "noi stemmo", "noi dicemmo", "noi venimmo"],
+          ["voi deste", "voi faceste", "voi steste", "voi diceste", "voi veniste"],
+          ["loro diedero", "loro fecero", "loro stettero", "loro dissero", "loro vennero"]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Ecco i verbi irregolari più importanti della **seconda coniugazione**:"
+      },
+      {
+        "type": "table",
+        "caption": "Verbi irregolari della seconda coniugazione (gruppo 1)",
+        "headers": ["Avere", "Essere", "Chiudere", "Conoscere", "Decidere"],
+        "rows": [
+          ["io ebbi", "io fui", "io chiusi", "io conobbi", "io decisi"],
+          ["tu avesti", "tu fosti", "tu chiudesti", "tu conoscesti", "tu decidesti"],
+          ["lui ebbe", "lui fu", "lui chiuse", "lui conobbe", "lui decise"],
+          ["noi avemmo", "noi fummo", "noi chiudemmo", "noi conoscemmo", "noi decidemmo"],
+          ["voi aveste", "voi foste", "voi chiudeste", "voi conosceste", "voi decideste"],
+          ["loro ebbero", "loro furono", "loro chiusero", "loro conobbero", "loro decisero"]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Verbi irregolari della seconda coniugazione (gruppo 2)",
+        "headers": ["Leggere", "Mettere", "Prendere", "Sapere", "Scrivere"],
+        "rows": [
+          ["io lessi", "io misi", "io presi", "io seppi", "io scrissi"],
+          ["tu leggesti", "tu mettesti", "tu prendesti", "tu sapesti", "tu scrivesti"],
+          ["lui lesse", "lui mise", "lui prese", "lui seppe", "lui scrisse"],
+          ["noi leggemmo", "noi mettemmo", "noi prendemmo", "noi sapemmo", "noi scrivemmo"],
+          ["voi leggeste", "voi metteste", "voi prendeste", "voi sapeste", "voi scriveste"],
+          ["loro lessero", "loro misero", "loro presero", "loro seppero", "loro scrissero"]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Verbi irregolari della seconda coniugazione (gruppo 3)",
+        "headers": ["Spendere", "Tenere", "Vedere", "Vivere", "Volere"],
+        "rows": [
+          ["io spesi", "io tenni", "io vidi", "io vissi", "io volli"],
+          ["tu spendesti", "tu tenesti", "tu vedesti", "tu vivesti", "tu volesti"],
+          ["lui spese", "lui tenne", "lui vide", "lui visse", "lui volle"],
+          ["noi spendemmo", "noi tenemmo", "noi vedemmo", "noi vivemmo", "noi volemmo"],
+          ["voi spendeste", "voi teneste", "voi vedeste", "voi viveste", "voi voleste"],
+          ["loro spesero", "loro tennero", "loro videro", "loro vissero", "loro vollero"]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "L'uso"
+      },
+      {
+        "type": "paragraph",
+        "content": "Nell'italiano parlato oggi il passato remoto è usato soltanto in alcune regioni italiane (Toscana e alcune zone del Sud); nelle altre è sostituito dal passato prossimo."
+      },
+      {
+        "type": "paragraph",
+        "content": "È però importante studiare il passato remoto per poter capire i libri di storia e i romanzi, che sono normalmente scritti con questo tempo."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "27-ex1",
+      "number": 1,
+      "type": "table-completion",
+      "instruction": "Completa la tabella.",
+      "headers": ["Infinito", "Presente", "Passato prossimo", "Passato remoto"],
+      "rows": [
+        {
+          "cells": [
+            { "value": "venire", "editable": false },
+            { "value": "io vengo", "editable": false },
+            { "value": "io sono venuto", "editable": false },
+            { "value": "io venni", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "vedere", "editable": false },
+            { "value": "tu vedi", "editable": true, "answer": "tu vedi" },
+            { "value": "tu hai visto", "editable": true, "answer": "tu hai visto" },
+            { "value": "tu vedesti", "editable": true, "answer": "tu vedesti" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "vivere", "editable": false },
+            { "value": "lui vive", "editable": true, "answer": "lui vive" },
+            { "value": "lui è vissuto", "editable": true, "answer": "lui è vissuto" },
+            { "value": "lui visse", "editable": true, "answer": "lui visse" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "mettere", "editable": true, "answer": "mettere" },
+            { "value": "loro mettono", "editable": true, "answer": "loro mettono" },
+            { "value": "loro hanno messo", "editable": true, "answer": "loro hanno messo" },
+            { "value": "loro misero", "editable": false }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "volere", "editable": true, "answer": "volere" },
+            { "value": "noi vogliamo", "editable": true, "answer": "noi vogliamo" },
+            { "value": "noi abbiamo voluto", "editable": false },
+            { "value": "noi volemmo", "editable": true, "answer": "noi volemmo" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "tenere", "editable": true, "answer": "tenere" },
+            { "value": "lui tiene", "editable": false },
+            { "value": "lui ha tenuto", "editable": true, "answer": "lui ha tenuto" },
+            { "value": "lui tenne", "editable": true, "answer": "lui tenne" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "dare", "editable": true, "answer": "dare" },
+            { "value": "voi date", "editable": true, "answer": "voi date" },
+            { "value": "voi avete dato", "editable": false },
+            { "value": "voi deste", "editable": true, "answer": "voi deste" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "fare", "editable": false },
+            { "value": "lui fa", "editable": true, "answer": "lui fa" },
+            { "value": "lui ha fatto", "editable": true, "answer": "lui ha fatto" },
+            { "value": "lui fece", "editable": true, "answer": "lui fece" }
+          ]
+        },
+        {
+          "cells": [
+            { "value": "stare", "editable": true, "answer": "stare" },
+            { "value": "lui sta", "editable": false },
+            { "value": "lui è stato", "editable": true, "answer": "lui è stato" },
+            { "value": "lui stette", "editable": true, "answer": "lui stette" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "27-ex2",
+      "number": 2,
+      "type": "fill-in-blank",
+      "instruction": "Completa le seguenti frasi usando i verbi elencati sotto.\n**scoppiò • scrisse • fu • morirono • scoprì • dipinse**",
+      "items": [
+        { "before": "Alessandro Manzoni", "blank": true, "after": "I Promessi sposi.", "answer": "scrisse" },
+        { "before": "La seconda guerra mondiale", "blank": true, "after": "nel 1939.", "answer": "scoppiò" },
+        { "before": "Nel 1492 Cristoforo Colombo", "blank": true, "after": "l'America.", "answer": "scoprì" },
+        { "before": "Costantino", "blank": true, "after": "un imperatore romano.", "answer": "fu" },
+        { "before": "Decine di migliaia di persone", "blank": true, "after": "a Hiroshima per la bomba atomica.", "answer": "morirono" },
+        { "before": "Leonardo da Vinci", "blank": true, "after": "la Gioconda.", "answer": "dipinse" }
+      ]
+    },
+    {
+      "id": "27-ex3",
+      "number": 3,
+      "type": "fill-in-blank",
+      "instruction": "Completa le frasi inserendo il passato remoto dei verbi tra parentesi.",
+      "items": [
+        { "before": "L'anno scorso noi", "blank": true, "after": "(visitare) il Perù e", "answer": "visitammo" },
+        { "before": "", "blank": true, "after": "(vedere) molti luoghi interessanti.", "answer": "vedemmo" },
+        { "before": "Molti anni fa i miei genitori", "blank": true, "after": "(decidere) di andare a vivere in campagna.", "answer": "decisero" },
+        { "before": "Quando Giovanni", "blank": true, "after": "(dire) che aveva deciso di andare a lavorare all'estero, sua madre non", "answer": "disse" },
+        { "before": "", "blank": true, "after": "(essere) affatto contenta.", "answer": "fu" },
+        { "before": "A Natale, l'anno scorso,", "blank": true, "after": "(nevicare) molto.", "answer": "nevicò" },
+        { "before": "Michele non", "blank": true, "after": "(sapere) rispondere a quella domanda.", "answer": "seppe" }
+      ]
+    },
+    {
+      "id": "27-ex4",
+      "number": 4,
+      "type": "transformation",
+      "instruction": "Trasforma le seguenti frasi dal passato prossimo al passato remoto.",
+      "items": [
+        {
+          "given": "Il re Vittorio Emanuele II è vissuto a Torino e a Roma.",
+          "answer": "Il re Vittorio Emanuele II visse a Torino e a Roma."
+        },
+        {
+          "given": "Dante ha scritto la Divina Commedia.",
+          "answer": "Dante scrisse la Divina Commedia."
+        },
+        {
+          "given": "Il giorno di Ferragosto di vent'anni fa è morta mia zia.",
+          "answer": "Il giorno di Ferragosto di vent'anni fa morì mia zia."
+        },
+        {
+          "given": "Napoleone è nato nel secolo diciottesimo.",
+          "answer": "Napoleone nacque nel secolo diciottesimo."
+        },
+        {
+          "given": "La signora Cheng è venuta ad abitare in Italia quasi trent'anni fa.",
+          "answer": "La signora Cheng venne ad abitare in Italia quasi trent'anni fa."
+        }
+      ]
+    }
+  ]
+}
