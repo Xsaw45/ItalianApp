@@ -1,4 +1,4 @@
-const CACHE_NAME = 'italienapp-v2';
+const CACHE_NAME = 'italienapp-v4';
 
 const ASSETS_TO_CACHE = [
   './',
@@ -32,7 +32,44 @@ const ASSETS_TO_CACHE = [
   './data/manifest.json',
   './data/scheda-1.json',
   './data/scheda-2.json',
-  './data/scheda-3.json'
+  './data/scheda-3.json',
+  './data/scheda-4.json',
+  './data/scheda-5.json',
+  './data/scheda-6.json',
+  './data/scheda-7.json',
+  './data/scheda-8.json',
+  './data/scheda-9.json',
+  './data/scheda-10.json',
+  './data/scheda-11.json',
+  './data/scheda-12.json',
+  './data/scheda-13.json',
+  './data/scheda-14.json',
+  './data/scheda-15.json',
+  './data/scheda-16.json',
+  './data/scheda-17.json',
+  './data/scheda-18.json',
+  './data/scheda-19.json',
+  './data/scheda-20.json',
+  './data/scheda-21.json',
+  './data/scheda-22.json',
+  './data/scheda-23.json',
+  './data/scheda-24.json',
+  './data/scheda-25.json',
+  './data/scheda-26.json',
+  './data/scheda-27.json',
+  './data/scheda-28.json',
+  './data/scheda-29.json',
+  './data/scheda-30.json',
+  './data/scheda-31.json',
+  './data/scheda-32.json',
+  './data/scheda-33.json',
+  './data/scheda-34.json',
+  './data/scheda-35.json',
+  './data/scheda-36.json',
+  './data/scheda-37.json',
+  './data/scheda-38.json',
+  './data/scheda-39.json',
+  './data/scheda-40.json'
 ];
 
 self.addEventListener('install', (event) => {
