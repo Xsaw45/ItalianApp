@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "id": "19bis",
+    "title": "Aggettivi e Pronomi Indefiniti (Parte 2)",
+    "subtitle": "Pronomi invariabili e costruzioni speciali",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "**Alcuni indefiniti si usano soltanto come pronomi** (non accompagnano mai un nome) e sono **invariabili**."
+      },
+      {
+        "type": "heading",
+        "content": "Pronomi indefiniti invariabili"
+      },
+      {
+        "type": "table",
+        "caption": "Indefiniti usati solo come pronomi",
+        "headers": ["Pronome", "Significato", "Esempio"],
+        "rows": [
+          ["qualcosa", "una cosa non precisata", "C'è **qualcosa** che non va."],
+          ["niente / nulla", "nessuna cosa (sinonimi)", "Non ho capito **niente**. / Non ho capito **nulla**."],
+          ["ognuno / ognuna", "ciascuna persona (=ogni persona)", "**Ognuno** è responsabile delle proprie azioni."],
+          ["chiunque", "qualsiasi persona", "**Chiunque** può partecipare alla gara."],
+          ["chicchessia", "qualsiasi persona (formale)", "Puoi chiedere a **chicchessia**."]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Attenzione: niente e nulla"
+      },
+      {
+        "type": "paragraph",
+        "content": "**Niente** e **nulla** sono sinonimi e si usano nelle **frasi negative**.\n\nQuando si trovano **dopo** il verbo, vogliono **non** prima del verbo:"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "**Niente** è cambiato. (niente precede il verbo → no 'non')", "highlight": "Niente" },
+          { "italian": "Non ho visto **niente**. (niente segue il verbo → 'non' è obbligatorio)", "highlight": "niente" },
+          { "italian": "**Nulla** è andato bene. → Non è andato bene **nulla**.", "highlight": "Nulla" }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "La costruzione 'qualcosa di / niente di + aggettivo'"
+      },
+      {
+        "type": "paragraph",
+        "content": "Quando **qualcosa**, **niente** o **nulla** sono seguiti da un **aggettivo**, si usa la preposizione **di**.\n\nL'aggettivo è sempre al **maschile singolare**:"
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Ho mangiato qualcosa di **buono**.", "highlight": "buono" },
+          { "italian": "Non c'è niente di **interessante** in TV stasera.", "highlight": "interessante" },
+          { "italian": "Cerco qualcosa di **speciale** per il suo compleanno.", "highlight": "speciale" },
+          { "italian": "Non ha detto nulla di **importante**.", "highlight": "importante" }
+        ]
+      },
+      {
+        "type": "rule",
+        "content": "qualcosa / niente / nulla + **di** + aggettivo maschile singolare"
+      },
+      {
+        "type": "heading",
+        "content": "Ognuno e chiunque"
+      },
+      {
+        "type": "paragraph",
+        "content": "**Ognuno / ognuna** si riferisce a persone di un gruppo già noto:\n*Ognuno degli studenti ha ricevuto un premio.* (= ciascuno degli studenti)\n\n**Chiunque** si riferisce a una persona qualsiasi, indeterminata:\n*Chiunque abbia il biglietto può entrare.* (= qualsiasi persona)\n\nDopo **chiunque** si usa spesso il **congiuntivo**."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "**Ognuna** delle ragazze ha presentato il proprio progetto.", "highlight": "Ognuna" },
+          { "italian": "**Chiunque** voglia partecipare deve iscriversi entro venerdì.", "highlight": "Chiunque" }
+        ]
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "19bis-ex1",
+      "number": 1,
+      "type": "fill-in-blank",
+      "instruction": "Completa le frasi con il pronome indefinito corretto: *qualcosa*, *niente*, *nulla*, *qualcuno*, *ognuno*, *chiunque*.",
+      "wordBank": ["qualcosa", "niente", "nulla", "qualcuno", "ognuno", "chiunque"],
+      "items": [
+        { "before": "C'è", "blank": true, "after": "che ti aspetta fuori dalla porta.", "answer": "qualcuno" },
+        { "before": "Non ho mangiato", "blank": true, "after": "da stamattina, ho fame!", "answer": "niente" },
+        { "before": "", "blank": true, "after": "di noi ha una responsabilità diversa nel gruppo.", "answer": "Ognuno" },
+        { "before": "Ho sentito", "blank": true, "after": "di strano in quella storia.", "answer": "qualcosa" },
+        { "before": "", "blank": true, "after": "può sbagliare, fa parte della vita.", "answer": "Chiunque" },
+        { "before": "Non ha detto", "blank": true, "after": "di importante durante la riunione.", "answer": "nulla" },
+        { "before": "Stai bene? Hai", "blank": true, "after": "da dirmi?", "answer": "qualcosa" }
+      ]
+    },
+    {
+      "id": "19bis-ex2",
+      "number": 2,
+      "type": "multiple-choice",
+      "instruction": "Scegli la forma corretta per completare ogni frase.",
+      "items": [
+        {
+          "sentence": "Ho visto ___ di straordinario al museo.",
+          "options": ["qualcosa", "qualcuno", "qualche"],
+          "answer": "qualcosa"
+        },
+        {
+          "sentence": "Non c'è ___ da fare, dobbiamo aspettare.",
+          "options": ["nessuno", "niente", "qualcosa"],
+          "answer": "niente"
+        },
+        {
+          "sentence": "___ deve pulire la propria stanza.",
+          "options": ["Chiunque", "Ognuno", "Qualcosa"],
+          "answer": "Ognuno"
+        },
+        {
+          "sentence": "Cerco ___ di originale per il regalo di Natale.",
+          "options": ["qualcosa", "qualcuno", "niente"],
+          "answer": "qualcosa"
+        },
+        {
+          "sentence": "___ voglia candidarsi deve consegnare il modulo entro lunedì.",
+          "options": ["Ognuno", "Qualcuno", "Chiunque"],
+          "answer": "Chiunque"
+        },
+        {
+          "sentence": "Non ho capito ___ di quello che hai detto.",
+          "options": ["nessuno", "nulla", "qualcosa"],
+          "answer": "nulla"
+        }
+      ]
+    },
+    {
+      "id": "19bis-ex3",
+      "number": 3,
+      "type": "sentence-completion",
+      "instruction": "Completa le frasi con la costruzione 'qualcosa di / niente di + aggettivo' usando l'aggettivo suggerito.",
+      "items": [
+        {
+          "template": "Stasera voglio guardare qualcosa di ___.",
+          "hint": "(divertente)",
+          "answer": "divertente"
+        },
+        {
+          "template": "Non ho detto niente di ___ durante l'esame.",
+          "hint": "(sbagliato)",
+          "answer": "sbagliato"
+        },
+        {
+          "template": "Hai qualcosa di ___ da mangiare? Ho fame.",
+          "hint": "(dolce)",
+          "answer": "dolce"
+        },
+        {
+          "template": "Non c'è nulla di ___ in quello che hai fatto.",
+          "hint": "(strano)",
+          "answer": "strano"
+        },
+        {
+          "template": "Vorrei comprare qualcosa di ___ per la nuova casa.",
+          "hint": "(utile)",
+          "answer": "utile"
+        },
+        {
+          "template": "Non trovo niente di ___ da leggere in questa libreria.",
+          "hint": "(interessante)",
+          "answer": "interessante"
+        }
+      ]
+    },
+    {
+      "id": "19bis-ex4",
+      "number": 4,
+      "type": "open-ended",
+      "instruction": "Rispondi a queste domande usando un pronome indefinito (qualcosa, niente, nulla, qualcuno, ognuno, chiunque).",
+      "items": [
+        { "question": "Hai voglia di mangiare qualcosa di speciale stasera?", "suggestedAnswer": "Sì, vorrei mangiare qualcosa di buono. / No, non ho voglia di niente." },
+        { "question": "Chi può partecipare alla maratona della città?", "suggestedAnswer": "Chiunque voglia partecipare può iscriversi." },
+        { "question": "Cosa devono fare gli studenti per superare l'esame?", "suggestedAnswer": "Ognuno deve studiare e fare gli esercizi." },
+        { "question": "Hai sentito qualcosa di interessante nelle notizie oggi?", "suggestedAnswer": "No, non ho sentito niente di interessante. / Sì, ho sentito qualcosa di importante." }
+      ]
+    }
+  ]
+}

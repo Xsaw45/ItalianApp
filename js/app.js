@@ -5,6 +5,8 @@ import { registerRoutes, initRouter, navigate } from './router.js';
 import { loadManifest } from './data-loader.js';
 import { renderHomeView } from './views/home.js';
 import { renderSchedaView } from './views/scheda.js';
+import { renderStatsView } from './views/stats.js';
+import { renderVocabView } from './views/vocab.js';
 import { getSettings, updateSettings, getSchedaProgress } from './state.js';
 import { el, clearElement } from './utils/dom.js';
 
@@ -19,6 +21,14 @@ function handleScheda(params) {
 
 function handleSchedaExercises(params) {
   renderSchedaView(params.id, 'exercises');
+}
+
+function handleStats() {
+  renderStatsView();
+}
+
+function handleVocab() {
+  renderVocabView('list');
 }
 
 // Initialize
@@ -41,6 +51,8 @@ async function init() {
   // Register routes
   registerRoutes({
     '/home': handleHome,
+    '/stats': handleStats,
+    '/vocab': handleVocab,
     '/scheda/:id': handleScheda,
     '/scheda/:id/exercises': handleSchedaExercises,
   });
@@ -70,6 +82,36 @@ async function buildSidebar() {
       }
     }, '\u2302 Home');
     nav.appendChild(homeLink);
+
+    // Stats link
+    const statsLink = el('a', {
+      href: '#/stats',
+      className: 'sidebar-scheda-link',
+      style: {
+        paddingLeft: 'var(--space-sm)',
+        fontWeight: '600',
+        marginBottom: 'var(--space-md)',
+        display: 'flex',
+        alignItems: 'center',
+        gap: 'var(--space-sm)'
+      }
+    }, '\u2211 Statistiche');
+    nav.appendChild(statsLink);
+
+    // Vocab link
+    const vocabLink = el('a', {
+      href: '#/vocab',
+      className: 'sidebar-scheda-link',
+      style: {
+        paddingLeft: 'var(--space-sm)',
+        fontWeight: '600',
+        marginBottom: 'var(--space-xl)',
+        display: 'flex',
+        alignItems: 'center',
+        gap: 'var(--space-sm)'
+      }
+    }, 'A-Z Vocabolario');
+    nav.appendChild(vocabLink);
 
     // Categories
     for (const category of manifest.categories) {

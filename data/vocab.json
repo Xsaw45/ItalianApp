@@ -1,0 +1,166 @@
+{
+  "categories": [
+    {
+      "id": "verbi",
+      "name": "Verbi",
+      "words": [
+        { "id": "essere",    "it": "essere",    "fr": "être" },
+        { "id": "avere",     "it": "avere",     "fr": "avoir" },
+        { "id": "fare",      "it": "fare",      "fr": "faire" },
+        { "id": "andare",    "it": "andare",    "fr": "aller" },
+        { "id": "venire",    "it": "venire",    "fr": "venir" },
+        { "id": "dire",      "it": "dire",      "fr": "dire" },
+        { "id": "sapere",    "it": "sapere",    "fr": "savoir" },
+        { "id": "potere",    "it": "potere",    "fr": "pouvoir" },
+        { "id": "volere",    "it": "volere",    "fr": "vouloir" },
+        { "id": "dovere",    "it": "dovere",    "fr": "devoir" },
+        { "id": "vedere",    "it": "vedere",    "fr": "voir" },
+        { "id": "sentire",   "it": "sentire",   "fr": "entendre / sentir" },
+        { "id": "partire",   "it": "partire",   "fr": "partir" },
+        { "id": "arrivare",  "it": "arrivare",  "fr": "arriver" },
+        { "id": "mangiare",  "it": "mangiare",  "fr": "manger" },
+        { "id": "bere",      "it": "bere",      "fr": "boire" },
+        { "id": "dormire",   "it": "dormire",   "fr": "dormir" },
+        { "id": "lavorare",  "it": "lavorare",  "fr": "travailler" },
+        { "id": "studiare",  "it": "studiare",  "fr": "étudier" },
+        { "id": "leggere",   "it": "leggere",   "fr": "lire" },
+        { "id": "scrivere",  "it": "scrivere",  "fr": "écrire" },
+        { "id": "parlare",   "it": "parlare",   "fr": "parler" },
+        { "id": "capire",    "it": "capire",    "fr": "comprendre" },
+        { "id": "aprire",    "it": "aprire",    "fr": "ouvrir" },
+        { "id": "chiudere",  "it": "chiudere",  "fr": "fermer" },
+        { "id": "uscire",    "it": "uscire",    "fr": "sortir" },
+        { "id": "comprare",  "it": "comprare",  "fr": "acheter" },
+        { "id": "chiedere",  "it": "chiedere",  "fr": "demander" },
+        { "id": "rispondere","it": "rispondere","fr": "répondre" },
+        { "id": "aiutare",   "it": "aiutare",   "fr": "aider" }
+      ]
+    },
+    {
+      "id": "nomi-persone",
+      "name": "Nomi – Persone",
+      "words": [
+        { "id": "persona",    "it": "la persona",    "fr": "la personne" },
+        { "id": "uomo",       "it": "l'uomo",        "fr": "l'homme" },
+        { "id": "donna",      "it": "la donna",      "fr": "la femme" },
+        { "id": "bambino",    "it": "il bambino",    "fr": "l'enfant (garçon)" },
+        { "id": "ragazzo",    "it": "il ragazzo",    "fr": "le garçon / le jeune homme" },
+        { "id": "ragazza",    "it": "la ragazza",    "fr": "la fille / la jeune femme" },
+        { "id": "amico",      "it": "l'amico",       "fr": "l'ami" },
+        { "id": "famiglia",   "it": "la famiglia",   "fr": "la famille" },
+        { "id": "padre",      "it": "il padre",      "fr": "le père" },
+        { "id": "madre",      "it": "la madre",      "fr": "la mère" },
+        { "id": "figlio",     "it": "il figlio",     "fr": "le fils" },
+        { "id": "figlia",     "it": "la figlia",     "fr": "la fille" },
+        { "id": "studente",   "it": "lo studente",   "fr": "l'étudiant" },
+        { "id": "professore", "it": "il professore", "fr": "le professeur" },
+        { "id": "collega",    "it": "il/la collega", "fr": "le/la collègue" }
+      ]
+    },
+    {
+      "id": "nomi-luoghi",
+      "name": "Nomi – Luoghi",
+      "words": [
+        { "id": "citta",       "it": "la città",       "fr": "la ville" },
+        { "id": "casa",        "it": "la casa",        "fr": "la maison" },
+        { "id": "scuola",      "it": "la scuola",      "fr": "l'école" },
+        { "id": "ufficio",     "it": "l'ufficio",      "fr": "le bureau" },
+        { "id": "negozio",     "it": "il negozio",     "fr": "le magasin" },
+        { "id": "ristorante",  "it": "il ristorante",  "fr": "le restaurant" },
+        { "id": "strada",      "it": "la strada",      "fr": "la rue / la route" },
+        { "id": "piazza",      "it": "la piazza",      "fr": "la place" },
+        { "id": "stazione",    "it": "la stazione",    "fr": "la gare" },
+        { "id": "aeroporto",   "it": "l'aeroporto",    "fr": "l'aéroport" },
+        { "id": "biblioteca",  "it": "la biblioteca",  "fr": "la bibliothèque" },
+        { "id": "ospedale",    "it": "l'ospedale",     "fr": "l'hôpital" },
+        { "id": "mercato",     "it": "il mercato",     "fr": "le marché" },
+        { "id": "parco",       "it": "il parco",       "fr": "le parc" },
+        { "id": "banca",       "it": "la banca",       "fr": "la banque" }
+      ]
+    },
+    {
+      "id": "nomi-oggetti",
+      "name": "Nomi – Oggetti",
+      "words": [
+        { "id": "libro",      "it": "il libro",      "fr": "le livre" },
+        { "id": "tavolo",     "it": "il tavolo",     "fr": "la table" },
+        { "id": "sedia",      "it": "la sedia",      "fr": "la chaise" },
+        { "id": "porta",      "it": "la porta",      "fr": "la porte" },
+        { "id": "finestra",   "it": "la finestra",   "fr": "la fenêtre" },
+        { "id": "telefono",   "it": "il telefono",   "fr": "le téléphone" },
+        { "id": "computer",   "it": "il computer",   "fr": "l'ordinateur" },
+        { "id": "macchina",   "it": "la macchina",   "fr": "la voiture" },
+        { "id": "treno",      "it": "il treno",      "fr": "le train" },
+        { "id": "borsa",      "it": "la borsa",      "fr": "le sac" },
+        { "id": "chiave",     "it": "la chiave",     "fr": "la clé" },
+        { "id": "lettera",    "it": "la lettera",    "fr": "la lettre" },
+        { "id": "giornale",   "it": "il giornale",   "fr": "le journal" },
+        { "id": "caffe",      "it": "il caffè",      "fr": "le café" },
+        { "id": "acqua",      "it": "l'acqua",       "fr": "l'eau" },
+        { "id": "cibo",       "it": "il cibo",       "fr": "la nourriture" },
+        { "id": "vestito",    "it": "il vestito",    "fr": "le vêtement / la robe" },
+        { "id": "scarpa",     "it": "la scarpa",     "fr": "la chaussure" },
+        { "id": "orologio",   "it": "l'orologio",    "fr": "la montre / l'horloge" },
+        { "id": "penna",      "it": "la penna",      "fr": "le stylo" }
+      ]
+    },
+    {
+      "id": "aggettivi",
+      "name": "Aggettivi",
+      "words": [
+        { "id": "bello",      "it": "bello",      "fr": "beau" },
+        { "id": "brutto",     "it": "brutto",     "fr": "laid / mauvais" },
+        { "id": "grande",     "it": "grande",     "fr": "grand" },
+        { "id": "piccolo",    "it": "piccolo",    "fr": "petit" },
+        { "id": "buono",      "it": "buono",      "fr": "bon" },
+        { "id": "cattivo",    "it": "cattivo",    "fr": "mauvais / méchant" },
+        { "id": "nuovo",      "it": "nuovo",      "fr": "nouveau" },
+        { "id": "vecchio",    "it": "vecchio",    "fr": "vieux" },
+        { "id": "alto",       "it": "alto",       "fr": "grand / haut" },
+        { "id": "basso",      "it": "basso",      "fr": "petit / bas" },
+        { "id": "lungo",      "it": "lungo",      "fr": "long" },
+        { "id": "corto",      "it": "corto",      "fr": "court" },
+        { "id": "facile",     "it": "facile",     "fr": "facile" },
+        { "id": "difficile",  "it": "difficile",  "fr": "difficile" },
+        { "id": "caro",       "it": "caro",       "fr": "cher" },
+        { "id": "economico",  "it": "economico",  "fr": "pas cher / économique" },
+        { "id": "veloce",     "it": "veloce",     "fr": "rapide" },
+        { "id": "lento",      "it": "lento",      "fr": "lent" },
+        { "id": "simpatico",  "it": "simpatico",  "fr": "sympathique" },
+        { "id": "stanco",     "it": "stanco",     "fr": "fatigué" }
+      ]
+    },
+    {
+      "id": "avverbi",
+      "name": "Avverbi",
+      "words": [
+        { "id": "sempre",  "it": "sempre",  "fr": "toujours" },
+        { "id": "mai",     "it": "mai",     "fr": "jamais" },
+        { "id": "spesso",  "it": "spesso",  "fr": "souvent" },
+        { "id": "subito",  "it": "subito",  "fr": "tout de suite" },
+        { "id": "ancora",  "it": "ancora",  "fr": "encore / toujours" },
+        { "id": "gia",     "it": "già",     "fr": "déjà" },
+        { "id": "molto",   "it": "molto",   "fr": "très / beaucoup" },
+        { "id": "poco",    "it": "poco",    "fr": "peu" },
+        { "id": "bene",    "it": "bene",    "fr": "bien" },
+        { "id": "male",    "it": "male",    "fr": "mal" }
+      ]
+    },
+    {
+      "id": "connettori",
+      "name": "Connettori e Preposizioni",
+      "words": [
+        { "id": "ma",      "it": "ma",      "fr": "mais" },
+        { "id": "pero",    "it": "però",    "fr": "mais / pourtant" },
+        { "id": "quindi",  "it": "quindi",  "fr": "donc" },
+        { "id": "anche",   "it": "anche",   "fr": "aussi" },
+        { "id": "invece",  "it": "invece",  "fr": "au contraire / par contre" },
+        { "id": "cosi",    "it": "così",    "fr": "ainsi / comme ça" },
+        { "id": "allora",  "it": "allora",  "fr": "alors / à cette époque" },
+        { "id": "perche",  "it": "perché",  "fr": "parce que / pourquoi" },
+        { "id": "se",      "it": "se",      "fr": "si" },
+        { "id": "quando",  "it": "quando",  "fr": "quand" }
+      ]
+    }
+  ]
+}

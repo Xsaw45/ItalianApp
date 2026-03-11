@@ -153,3 +153,40 @@ export function getSchedaProgress(schedaId, exerciseCount) {
 export function getLastActive() {
   return loadState().lastActive;
 }
+
+/**
+ * Save the result of a vocabulary word attempt.
+ * @param {string} wordId
+ * @param {boolean} isCorrect
+ */
+export function saveVocabResult(wordId, isCorrect) {
+  const state = loadState();
+  if (!state.vocab) state.vocab = {};
+  const prev = state.vocab[wordId] || { attempts: 0, correct: 0 };
+  state.vocab[wordId] = {
+    attempts: prev.attempts + 1,
+    correct: prev.correct + (isCorrect ? 1 : 0),
+    lastAttempt: new Date().toISOString()
+  };
+  saveState(state);
+}
+
+/**
+ * Get the full vocabulary progress state.
+ * @returns {Object} Map of wordId → { attempts, correct, lastAttempt }
+ */
+export function getVocabState() {
+  return loadState().vocab || {};
+}
+
+/**
+ * Check if a word is mastered (>= 3 attempts AND >= 80% correct).
+ * @param {string} wordId
+ * @returns {boolean}
+ */
+export function isWordMastered(wordId) {
+  const state = loadState();
+  const w = state.vocab?.[wordId];
+  if (!w || w.attempts < 3) return false;
+  return (w.correct / w.attempts) >= 0.8;
+}
