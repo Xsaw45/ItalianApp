@@ -7,7 +7,7 @@ import { renderHomeView } from './views/home.js';
 import { renderSchedaView } from './views/scheda.js';
 import { renderStatsView } from './views/stats.js';
 import { renderVocabView } from './views/vocab.js';
-import { getSettings, updateSettings, getSchedaProgress } from './state.js';
+import { getSettings, updateSettings, getSchedaProgress, loadState, saveState } from './state.js';
 import { el, clearElement } from './utils/dom.js';
 
 // Route handlers
@@ -247,10 +247,59 @@ function showSettingsModal() {
     }
   }, 'Se attivo, "è" e "e" sono considerati diversi nelle risposte.'));
 
+  // Divider
+  modal.appendChild(el('hr', { style: { margin: 'var(--space-lg) 0', border: 'none', borderTop: '1px solid var(--color-border-light)' } }));
+
+  // Export progress button
+  modal.appendChild(el('button', {
+    className: 'btn btn-outline',
+    style: { width: '100%', marginBottom: 'var(--space-sm)' },
+    onClick: () => {
+      const state = loadState();
+      const blob = new Blob([JSON.stringify(state, null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `italienapp-progressione-${new Date().toISOString().slice(0, 10)}.json`;
+      a.click();
+      URL.revokeObjectURL(url);
+    }
+  }, 'Esporta progressione'));
+
+  // Import progress button
+  const importInput = el('input', { type: 'file', accept: '.json', style: { display: 'none' } });
+  importInput.addEventListener('change', () => {
+    const file = importInput.files[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = (e) => {
+      try {
+        const imported = JSON.parse(e.target.result);
+        if (!imported.version || !imported.schede) {
+          alert('File non valido.');
+          return;
+        }
+        saveState(imported);
+        overlay.remove();
+        window.location.reload();
+      } catch {
+        alert('Errore durante l\'importazione.');
+      }
+    };
+    reader.readAsText(file);
+  });
+  modal.appendChild(importInput);
+
+  modal.appendChild(el('button', {
+    className: 'btn btn-outline',
+    style: { width: '100%', marginBottom: 'var(--space-lg)' },
+    onClick: () => importInput.click()
+  }, 'Importa progressione'));
+
   // Close button
   const closeBtn = el('button', {
     className: 'btn btn-primary',
-    style: { marginTop: 'var(--space-lg)', width: '100%' },
+    style: { width: '100%' },
     onClick: () => overlay.remove()
   }, 'Chiudi');
   modal.appendChild(closeBtn);
