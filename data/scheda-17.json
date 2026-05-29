@@ -9,11 +9,13 @@
     "sections": [
       {
         "type": "intro",
-        "content": "**I possessivi servono per indicare a chi appartiene una persona o una cosa.**"
+        "content": "**I possessivi servono per indicare a chi appartiene una persona o una cosa.**",
+        "content_fr": "**Les possessifs servent à indiquer à qui appartient une personne ou une chose.**"
       },
       {
         "type": "paragraph",
-        "content": "Nella frase *La **tua** camicia è celeste*, **tua** indica che **tu** sei il proprietario della camicia, che la camicia appartiene a te."
+        "content": "Nella frase *La **tua** camicia è celeste*, **tua** indica che **tu** sei il proprietario della camicia, che la camicia appartiene a te.",
+        "content_fr": "Dans la phrase *La **tua** camicia è celeste*, **tua** indique que **tu** es le propriétaire de la chemise, que la chemise t'appartient."
       },
       {
         "type": "heading",
@@ -22,7 +24,9 @@
       {
         "type": "table",
         "caption": "Forme dei possessivi",
+        "caption_fr": "Formes des possessifs",
         "headers": ["Persona", "Singolare maschile", "Singolare femminile", "Plurale maschile", "Plurale femminile"],
+        "headers_fr": ["Personne", "Singulier masculin", "Singulier féminin", "Pluriel masculin", "Pluriel féminin"],
         "rows": [
           ["1ª sing. (io)", "mio", "mia", "miei", "mie"],
           ["2ª sing. (tu)", "tuo", "tua", "tuoi", "tue"],
@@ -30,11 +34,20 @@
           ["1ª pl. (noi)", "nostro", "nostra", "nostri", "nostre"],
           ["2ª pl. (voi)", "vostro", "vostra", "vostri", "vostre"],
           ["3ª pl. (loro)", "loro", "loro", "loro", "loro"]
+        ],
+        "rows_fr": [
+          ["1re pers. sing. (io)", "mio", "mia", "miei", "mie"],
+          ["2e pers. sing. (tu)", "tuo", "tua", "tuoi", "tue"],
+          ["3e pers. sing. (lui/lei)", "suo", "sua", "suoi", "sue"],
+          ["1re pers. pl. (noi)", "nostro", "nostra", "nostri", "nostre"],
+          ["2e pers. pl. (voi)", "vostro", "vostra", "vostri", "vostre"],
+          ["3e pers. pl. (loro)", "loro", "loro", "loro", "loro"]
         ]
       },
       {
         "type": "paragraph",
-        "content": "I possessivi possono essere:\n• **aggettivi** possessivi, quando accompagnano il nome\n• **pronomi** possessivi, quando il nome non c'è, perché il pronome sta al posto del nome"
+        "content": "I possessivi possono essere:\n• **aggettivi** possessivi, quando accompagnano il nome\n• **pronomi** possessivi, quando il nome non c'è, perché il pronome sta al posto del nome",
+        "content_fr": "Les possessifs peuvent être :\n• des **adjectifs** possessifs, lorsqu'ils accompagnent le nom\n• des **pronoms** possessifs, lorsque le nom est absent, parce que le pronom remplace le nom"
       },
       {
         "type": "example",
@@ -50,7 +63,9 @@
       {
         "type": "table",
         "caption": "Quando si mette l'articolo davanti ai possessivi",
+        "caption_fr": "Quand mettre l'article devant les possessifs",
         "headers": ["Davanti ai…", "Sì / No", "Esempi"],
+        "headers_fr": ["Devant les…", "Oui / Non", "Exemples"],
         "rows": [
           ["pronomi possessivi", "si mette sempre", "Che macchina prendiamo? La mia?"],
           ["aggettivi possessivi – con i nomi non di famiglia", "si mette sempre", "Il suo lavoro, la nostra amicizia, i miei capelli, le tue idee"],
@@ -59,6 +74,15 @@
           ["aggettivi possessivi – con loro", "si mette sempre", "il loro zio, la loro mamma, i loro nonni, le loro sorelle"],
           ["aggettivi possessivi – con un nome alterato (anche se sing.)", "si mette", "il mio fratellino, la sua cuginetta"],
           ["aggettivi possessivi – con un nome modificato: da un aggettivo o da una specificazione", "si mette", "il mio caro papà, i miei zii di Verona"]
+        ],
+        "rows_fr": [
+          ["pronoms possessifs", "on le met toujours", "Che macchina prendiamo? La mia?"],
+          ["adjectifs possessifs – avec les noms non liés à la famille", "on le met toujours", "Il suo lavoro, la nostra amicizia, i miei capelli, le tue idee"],
+          ["adjectifs possessifs – avec les noms de famille – nom singulier", "on ne le met pas", "mia sorella, tua cugina, suo zio, nostra madre, vostra cognata"],
+          ["adjectifs possessifs – avec les noms de famille – nom pluriel", "on le met", "le mie sorelle, le tue cugine, i suoi zii, le nostre zie"],
+          ["adjectifs possessifs – avec loro", "on le met toujours", "il loro zio, la loro mamma, i loro nonni, le loro sorelle"],
+          ["adjectifs possessifs – avec un nom altéré (même au singulier)", "on le met", "il mio fratellino, la sua cuginetta"],
+          ["adjectifs possessifs – avec un nom modifié : par un adjectif ou une spécification", "on le met", "il mio caro papà, i miei zii di Verona"]
         ]
       }
     ]

@@ -9,20 +9,25 @@
     "sections": [
       {
         "type": "intro",
-        "content": "**L'imperfetto e il passato prossimo sono due tempi del passato molto usati in italiano.**"
+        "content": "**L'imperfetto e il passato prossimo sono due tempi del passato molto usati in italiano.**",
+        "content_fr": "**L'imparfait et le passé composé sont deux temps du passé très utilisés en italien.**"
       },
       {
         "type": "paragraph",
-        "content": "Nelle Schede 24 e 25 abbiamo già visto quando si usano, ma è molto importante metterli a confronto per capirne bene le differenze di significato."
+        "content": "Nelle Schede 24 e 25 abbiamo già visto quando si usano, ma è molto importante metterli a confronto per capirne bene le differenze di significato.",
+        "content_fr": "Dans les Schede 24 et 25, nous avons déjà vu quand ils s'utilisent, mais il est très important de les mettre en contraste pour bien comprendre leurs différences de sens."
       },
       {
         "type": "heading",
-        "content": "L'uso"
+        "content": "L'uso",
+        "content_fr": "L'emploi"
       },
       {
         "type": "table",
         "caption": "Differenza di uso tra imperfetto e passato prossimo",
+        "caption_fr": "Différence d'emploi entre l'imparfait et le passé composé",
         "headers": ["Imperfetto", "Passato prossimo"],
+        "headers_fr": ["Imparfait", "Passé composé"],
         "rows": [
           [
             "azione **abituale**, che si faceva sempre\n\n*Da bambino **andavo** al mare tutte le domeniche.*",
@@ -36,11 +41,26 @@
             "azione **durativa**, che è durata per un certo tempo\n\n*Ieri **pioveva**.*",
             "azione **momentanea**, breve, che è durata o è avvenuta in un momento\n\n*Ieri **è piovuto** un po'.*"
           ]
+        ],
+        "rows_fr": [
+          [
+            "action **habituelle**, que l'on faisait toujours\n\n*Da bambino **andavo** al mare tutte le domeniche.*",
+            "action **non habituelle**, qui a été faite une seule fois\n\n*Da bambino una volta **sono andato** al mare.*"
+          ],
+          [
+            "action **répétitive**, que l'on faisait souvent\n\n*Mia zia **faceva** sempre dei dolci buonissimi.*",
+            "action **ponctuelle**, survenue une fois\n\n*Mia zia ieri **ha fatto** dei dolci buonissimi.*"
+          ],
+          [
+            "action **durative**, qui a duré pendant un certain temps\n\n*Ieri **pioveva**.*",
+            "action **momentanée**, brève, qui a duré ou s'est produite en un instant\n\n*Ieri **è piovuto** un po'.*"
+          ]
         ]
       },
       {
         "type": "paragraph",
-        "content": "Quando nella stessa frase ci sono **due azioni passate che sono avvenute contemporaneamente**, possiamo avere tre casi:"
+        "content": "Quando nella stessa frase ci sono **due azioni passate che sono avvenute contemporaneamente**, possiamo avere tre casi:",
+        "content_fr": "Lorsque dans la même phrase il y a **deux actions passées qui se sont produites simultanément**, nous pouvons avoir trois cas :"
       },
       {
         "type": "list",
@@ -48,6 +68,11 @@
           "due azioni ugualmente lunghe (durative):",
           "due azioni ugualmente puntuali o momentanee:",
           "un'azione durativa durante la quale avviene un'azione momentanea:"
+        ],
+        "items_fr": [
+          "deux actions également longues (duratives) :",
+          "deux actions également ponctuelles ou momentanées :",
+          "une action durative pendant laquelle se produit une action momentanée :"
         ]
       },
       {

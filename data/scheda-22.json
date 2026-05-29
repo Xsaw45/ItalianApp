@@ -9,11 +9,13 @@
     "sections": [
       {
         "type": "intro",
-        "content": "**Il verbo è l'elemento della frase indispensabile per comunicare. Si riferisce al soggetto, cioè a chi fa o subisce l'azione.**"
+        "content": "**Il verbo è l'elemento della frase indispensabile per comunicare. Si riferisce al soggetto, cioè a chi fa o subisce l'azione.**",
+        "content_fr": "**Le verbe est l'élément de la phrase indispensable pour communiquer. Il se réfère au sujet, c'est-à-dire à celui qui fait ou subit l'action.**"
       },
       {
         "type": "paragraph",
-        "content": "Il verbo dà molte informazioni sul soggetto. Ci dice ad esempio:"
+        "content": "Il verbo dà molte informazioni sul soggetto. Ci dice ad esempio:",
+        "content_fr": "Le verbe donne de nombreuses informations sur le sujet. Il nous dit par exemple :"
       },
       {
         "type": "list",
@@ -21,21 +23,32 @@
           "che cosa fa → *Andrea gioca.*",
           "com'è → *Andrea è simpatico.*",
           "se compie o subisce l'azione → *Andrea chiama, Andrea è stato chiamato.*"
+        ],
+        "items_fr": [
+          "ce qu'il fait → *Andrea gioca.*",
+          "comment il est → *Andrea è simpatico.*",
+          "s'il accomplit ou subit l'action → *Andrea chiama, Andrea è stato chiamato.*"
         ]
       },
       {
         "type": "heading",
-        "content": "La forma"
+        "content": "La forma",
+        "content_fr": "La forme"
       },
       {
         "type": "paragraph",
-        "content": "Il verbo è formato da **due parti**:"
+        "content": "Il verbo è formato da **due parti**:",
+        "content_fr": "Le verbe est formé de **deux parties** :"
       },
       {
         "type": "list",
         "items": [
           "la parte iniziale, che è invariabile, cioè non cambia: si chiama **radice** ed esprime il significato di base del verbo",
           "la parte finale, che è variabile, cioè cambia: si chiama **desinenza** e comunica molte informazioni, come vedremo"
+        ],
+        "items_fr": [
+          "la partie initiale, qui est invariable, c'est-à-dire qui ne change pas : elle s'appelle **radical** et exprime le sens de base du verbe",
+          "la partie finale, qui est variable, c'est-à-dire qui change : elle s'appelle **désinence** et communique de nombreuses informations, comme nous le verrons"
         ]
       },
       {
@@ -46,7 +59,8 @@
       },
       {
         "type": "paragraph",
-        "content": "I verbi italiani si dividono in **tre gruppi**, che si chiamano **coniugazioni**."
+        "content": "I verbi italiani si dividono in **tre gruppi**, che si chiamano **coniugazioni**.",
+        "content_fr": "Les verbes italiens se divisent en **trois groupes**, appelés **conjugaisons**."
       },
       {
         "type": "list",
@@ -54,11 +68,17 @@
           "La **prima coniugazione** comprende i verbi che hanno la desinenza **-are**: *parlare, mangiare, pensare…*",
           "La **seconda coniugazione** comprende i verbi che hanno la desinenza **-ere**: *scrivere, leggere, chiedere…*",
           "La **terza coniugazione** comprende i verbi che hanno la desinenza **-ire**: *sentire, partire, dormire…*"
+        ],
+        "items_fr": [
+          "La **première conjugaison** comprend les verbes ayant la désinence **-are** : *parlare, mangiare, pensare…*",
+          "La **deuxième conjugaison** comprend les verbes ayant la désinence **-ere** : *scrivere, leggere, chiedere…*",
+          "La **troisième conjugaison** comprend les verbes ayant la désinence **-ire** : *sentire, partire, dormire…*"
         ]
       },
       {
         "type": "paragraph",
-        "content": "La **desinenza** di un verbo fa capire:"
+        "content": "La **desinenza** di un verbo fa capire:",
+        "content_fr": "La **désinence** d'un verbe permet de comprendre :"
       },
       {
         "type": "list",
@@ -67,27 +87,44 @@
           "2. il **numero** delle persone: singolare: **io**, **tu**, **lui**, **lei** / plurale: **noi**, **voi**, **loro**",
           "3. il **tempo** in cui accade l'azione: presente; passato; futuro.",
           "4. il **modo** in cui l'azione viene presentata"
+        ],
+        "items_fr": [
+          "1. la **personne** qui accomplit l'action : 1ère personne : **io**, **noi** / 2ème personne : **tu**, **voi** / 3ème personne : **lui**, **lei**, **loro**",
+          "2. le **nombre** de personnes : singulier : **io**, **tu**, **lui**, **lei** / pluriel : **noi**, **voi**, **loro**",
+          "3. le **temps** auquel l'action se produit : présent ; passé ; futur.",
+          "4. le **mode** sous lequel l'action est présentée"
         ]
       },
       {
         "type": "table",
         "caption": "I modi del verbo",
+        "caption_fr": "Les modes du verbe",
         "headers": ["Modo", "Descrizione", "Esempio"],
+        "headers_fr": ["Mode", "Description", "Exemple"],
         "rows": [
           ["infinito", "nel suo significato generale, come sul dizionario", "lavorare"],
           ["indicativo", "in modo reale", "lavoriamo"],
           ["congiuntivo", "in modo possibile, dubitativo o come una opinione personale", "se lavorassi"],
           ["condizionale", "in modo eventuale, basato su una condizione", "lavorerei, se…"],
           ["imperativo", "come un ordine", "lavora!"]
+        ],
+        "rows_fr": [
+          ["infinitif", "dans son sens général, comme dans le dictionnaire", "lavorare"],
+          ["indicatif", "de façon réelle", "lavoriamo"],
+          ["subjonctif", "de façon possible, dubitative ou comme une opinion personnelle", "se lavorassi"],
+          ["conditionnel", "de façon éventuelle, basée sur une condition", "lavorerei, se…"],
+          ["impératif", "comme un ordre", "lavora!"]
         ]
       },
       {
         "type": "paragraph",
-        "content": "Ogni modo comprende molti tempi."
+        "content": "Ogni modo comprende molti tempi.",
+        "content_fr": "Chaque mode comprend de nombreux temps."
       },
       {
         "type": "paragraph",
-        "content": "Ad esempio, nella forma verbale **scriviamo** c'è: la radice **scriv-** del verbo **scrivere**; la desinenza **-iamo** che indica: la prima persona plurale; il modo indicativo; il tempo presente."
+        "content": "Ad esempio, nella forma verbale **scriviamo** c'è: la radice **scriv-** del verbo **scrivere**; la desinenza **-iamo** che indica: la prima persona plurale; il modo indicativo; il tempo presente.",
+        "content_fr": "Par exemple, dans la forme verbale **scriviamo**, on trouve : le radical **scriv-** du verbe **scrivere** ; la désinence **-iamo** qui indique : la première personne du pluriel ; le mode indicatif ; le temps présent."
       }
     ]
   },

@@ -9,7 +9,8 @@
     "sections": [
       {
         "type": "intro",
-        "content": "I pronomi relativi sostituiscono un nome, come tutti i pronomi, e in più mettono in relazione due frasi, unendole in una frase sola."
+        "content": "I pronomi relativi sostituiscono un nome, come tutti i pronomi, e in più mettono in relazione due frasi, unendole in una frase sola.",
+        "content_fr": "Les pronoms relatifs remplacent un nom, comme tous les pronoms, et en plus mettent en relation deux phrases, en les unissant en une seule phrase."
       },
       {
         "type": "example",
@@ -24,11 +25,13 @@
       },
       {
         "type": "paragraph",
-        "content": "Il pronome relativo più importante è **che**: è **invariabile**, cioè non cambia mai: va bene per il maschile e per il femminile, sia al singolare sia al plurale. Può essere usato come soggetto o come oggetto."
+        "content": "Il pronome relativo più importante è **che**: è **invariabile**, cioè non cambia mai: va bene per il maschile e per il femminile, sia al singolare sia al plurale. Può essere usato come soggetto o come oggetto.",
+        "content_fr": "Le pronom relatif le plus important est **che** : il est **invariable**, c'est-à-dire qu'il ne change jamais : il convient aussi bien au masculin qu'au féminin, aussi bien au singulier qu'au pluriel. Il peut être utilisé comme sujet ou comme complément d'objet."
       },
       {
         "type": "paragraph",
-        "content": "In tutti i casi *che* può essere sostituito da *quale*; però, mentre *che* è invariabile, *quale* ha quattro forme: **il quale, la quale, i quali, le quali**."
+        "content": "In tutti i casi *che* può essere sostituito da *quale*; però, mentre *che* è invariabile, *quale* ha quattro forme: **il quale, la quale, i quali, le quali**.",
+        "content_fr": "Dans tous les cas, *che* peut être remplacé par *quale* ; cependant, alors que *che* est invariable, *quale* a quatre formes : **il quale, la quale, i quali, le quali**."
       },
       {
         "type": "heading",
@@ -36,7 +39,8 @@
       },
       {
         "type": "paragraph",
-        "content": "Quando il pronome relativo è preceduto da una preposizione, possiamo usare **cui** (invariabile) o **quale** (quattro forme)."
+        "content": "Quando il pronome relativo è preceduto da una preposizione, possiamo usare **cui** (invariabile) o **quale** (quattro forme).",
+        "content_fr": "Lorsque le pronom relatif est précédé d'une préposition, on peut utiliser **cui** (invariable) ou **quale** (quatre formes)."
       },
       {
         "type": "example",
@@ -47,7 +51,8 @@
       },
       {
         "type": "paragraph",
-        "content": "Le frasi che incominciano con un pronome relativo si chiamano **frasi** o **proposizioni relative**."
+        "content": "Le frasi che incominciano con un pronome relativo si chiamano **frasi** o **proposizioni relative**.",
+        "content_fr": "Les propositions qui commencent par un pronom relatif s'appellent **propositions relatives**."
       }
     ]
   },

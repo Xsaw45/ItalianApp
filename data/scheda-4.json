@@ -2,14 +2,17 @@
   "meta": {
     "id": "4",
     "title": "Il Nome",
+    "title_fr": "Le Nom",
     "subtitle": "Classificazione dei nomi",
+    "subtitle_fr": "Classification des noms",
     "source": "Loescher Editore - L'italiano per studiare"
   },
   "theory": {
     "sections": [
       {
         "type": "intro",
-        "content": "I nomi sono le parole che servono per indicare quello che noi pensiamo e di cui parliamo: persone, animali, oggetti, pensieri, luoghi, idee, sensazioni, sentimenti..."
+        "content": "I nomi sono le parole che servono per indicare quello che noi pensiamo e di cui parliamo: persone, animali, oggetti, pensieri, luoghi, idee, sensazioni, sentimenti...",
+        "content_fr": "Les noms sont les mots qui servent à désigner ce que nous pensons et dont nous parlons : personnes, animaux, objets, pensées, lieux, idées, sensations, sentiments..."
       },
       {
         "type": "example",
@@ -19,15 +22,18 @@
       },
       {
         "type": "paragraph",
-        "content": "È possibile classificare i nomi in vari modi."
+        "content": "È possibile classificare i nomi in vari modi.",
+        "content_fr": "Il est possible de classer les noms de différentes manières."
       },
       {
         "type": "heading",
-        "content": "Nomi comuni e nomi propri"
+        "content": "Nomi comuni e nomi propri",
+        "content_fr": "Noms communs et noms propres"
       },
       {
         "type": "paragraph",
-        "content": "I **nomi comuni** indicano una persona, un animale o una cosa in generale e si scrivono con la lettera iniziale minuscola."
+        "content": "I **nomi comuni** indicano una persona, un animale o una cosa in generale e si scrivono con la lettera iniziale minuscola.",
+        "content_fr": "Les **noms communs** désignent une personne, un animal ou une chose en général et s'écrivent avec une lettre initiale minuscule."
       },
       {
         "type": "example",
@@ -37,7 +43,8 @@
       },
       {
         "type": "paragraph",
-        "content": "I **nomi propri** indicano una persona, un animale o una cosa in modo particolare e che lo distingue; si scrivono con la lettera iniziale maiuscola."
+        "content": "I **nomi propri** indicano una persona, un animale o una cosa in modo particolare e che lo distingue; si scrivono con la lettera iniziale maiuscola.",
+        "content_fr": "Les **noms propres** désignent une personne, un animal ou une chose de manière particulière et distinctive ; ils s'écrivent avec une lettre initiale majuscule."
       },
       {
         "type": "example",
@@ -47,11 +54,13 @@
       },
       {
         "type": "heading",
-        "content": "Nomi concreti e nomi astratti"
+        "content": "Nomi concreti e nomi astratti",
+        "content_fr": "Noms concrets et noms abstraits"
       },
       {
         "type": "paragraph",
-        "content": "I **nomi concreti** indicano una persona, un animale o una cosa reali, che si possono vedere, sentire o toccare."
+        "content": "I **nomi concreti** indicano una persona, un animale o una cosa reali, che si possono vedere, sentire o toccare.",
+        "content_fr": "Les **noms concrets** désignent une personne, un animal ou une chose réels, que l'on peut voir, sentir ou toucher."
       },
       {
         "type": "example",
@@ -61,7 +70,8 @@
       },
       {
         "type": "paragraph",
-        "content": "I **nomi astratti** indicano idee, concetti, pensieri, sentimenti che si possono solo pensare ma non si possono vedere, sentire o toccare."
+        "content": "I **nomi astratti** indicano idee, concetti, pensieri, sentimenti che si possono solo pensare ma non si possono vedere, sentire o toccare.",
+        "content_fr": "Les **noms abstraits** désignent des idées, des concepts, des pensées, des sentiments que l'on peut seulement penser mais que l'on ne peut pas voir, sentir ou toucher."
       },
       {
         "type": "example",
@@ -71,11 +81,13 @@
       },
       {
         "type": "heading",
-        "content": "Nomi individuali e nomi collettivi"
+        "content": "Nomi individuali e nomi collettivi",
+        "content_fr": "Noms individuels et noms collectifs"
       },
       {
         "type": "paragraph",
-        "content": "I **nomi individuali** indicano una sola persona o una sola cosa."
+        "content": "I **nomi individuali** indicano una sola persona o una sola cosa.",
+        "content_fr": "Les **noms individuels** désignent une seule personne ou une seule chose."
       },
       {
         "type": "example",
@@ -85,7 +97,8 @@
       },
       {
         "type": "paragraph",
-        "content": "I **nomi collettivi** indicano un insieme, un gruppo di persone o di cose."
+        "content": "I **nomi collettivi** indicano un insieme, un gruppo di persone o di cose.",
+        "content_fr": "Les **noms collectifs** désignent un ensemble, un groupe de personnes ou de choses."
       },
       {
         "type": "example",

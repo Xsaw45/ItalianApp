@@ -9,33 +9,45 @@
     "sections": [
       {
         "type": "intro",
-        "content": "**I dimostrativi servono a mostrare, a indicare la posizione in cui si trova qualcosa rispetto a chi parla.**"
+        "content": "**I dimostrativi servono a mostrare, a indicare la posizione in cui si trova qualcosa rispetto a chi parla.**",
+        "content_fr": "**Les démonstratifs servent à montrer, à indiquer la position dans laquelle se trouve quelque chose par rapport à celui qui parle.**"
       },
       {
         "type": "paragraph",
-        "content": "**Questo** indica una persona o una cosa **vicina** (= qui, vicino a me):"
+        "content": "**Questo** indica una persona o una cosa **vicina** (= qui, vicino a me):",
+        "content_fr": "**Questo** indique une personne ou une chose **proche** (= ici, près de moi) :"
       },
       {
         "type": "list",
         "items": [
           "vicina nello spazio: **Questo** libro è pieno di disegni.",
           "vicina nel tempo: **Questa** settimana fa caldo."
+        ],
+        "items_fr": [
+          "proche dans l'espace : **Questo** libro è pieno di disegni.",
+          "proche dans le temps : **Questa** settimana fa caldo."
         ]
       },
       {
         "type": "paragraph",
-        "content": "**Quello** indica una persona o una cosa **lontana** (= là, lontano da me):"
+        "content": "**Quello** indica una persona o una cosa **lontana** (= là, lontano da me):",
+        "content_fr": "**Quello** indique une personne ou une chose **éloignée** (= là-bas, loin de moi) :"
       },
       {
         "type": "list",
         "items": [
           "lontana nello spazio: **Quella** casa sulla collina è del sindaco.",
           "lontana nel tempo: **Quell'**anno siamo andati in vacanza in Portogallo."
+        ],
+        "items_fr": [
+          "éloignée dans l'espace : **Quella** casa sulla collina è del sindaco.",
+          "éloignée dans le temps : **Quell'**anno siamo andati in vacanza in Portogallo."
         ]
       },
       {
         "type": "paragraph",
-        "content": "Nei casi visti finora i dimostrativi sono **aggettivi dimostrativi**, perché accompagnano un nome."
+        "content": "Nei casi visti finora i dimostrativi sono **aggettivi dimostrativi**, perché accompagnano un nome.",
+        "content_fr": "Dans les cas vus jusqu'ici, les démonstratifs sont des **adjectifs démonstratifs**, parce qu'ils accompagnent un nom."
       },
       {
         "type": "example",
@@ -45,7 +57,8 @@
       },
       {
         "type": "paragraph",
-        "content": "I dimostrativi possono anche essere **pronomi dimostrativi** quando stanno al posto del nome, lo sostituiscono per non ripeterlo."
+        "content": "I dimostrativi possono anche essere **pronomi dimostrativi** quando stanno al posto del nome, lo sostituiscono per non ripeterlo.",
+        "content_fr": "Les démonstratifs peuvent aussi être des **pronoms démonstratifs** lorsqu'ils remplacent le nom, le substituent pour éviter de le répéter."
       },
       {
         "type": "example",
@@ -56,7 +69,8 @@
       },
       {
         "type": "paragraph",
-        "content": "*Quella*, in questo caso, è un pronome dimostrativo."
+        "content": "*Quella*, in questo caso, è un pronome dimostrativo.",
+        "content_fr": "*Quella*, dans ce cas, est un pronom démonstratif."
       },
       {
         "type": "heading",
@@ -64,13 +78,20 @@
       },
       {
         "type": "paragraph",
-        "content": "**Questo** e **quello** concordano con il nome a cui si riferiscono, e cioè possono essere maschili, femminili, singolari, plurali."
+        "content": "**Questo** e **quello** concordano con il nome a cui si riferiscono, e cioè possono essere maschili, femminili, singolari, plurali.",
+        "content_fr": "**Questo** et **quello** s'accordent avec le nom auquel ils se réfèrent, c'est-à-dire qu'ils peuvent être masculins, féminins, singuliers, pluriels."
       },
       {
         "type": "table",
         "caption": "Aggettivi dimostrativi",
+        "caption_fr": "Adjectifs démonstratifs",
         "headers": ["", "Singolare maschile", "Singolare femminile", "Plurale maschile", "Plurale femminile"],
+        "headers_fr": ["", "Singulier masculin", "Singulier féminin", "Pluriel masculin", "Pluriel féminin"],
         "rows": [
+          ["questo", "questo", "questa", "questi", "queste"],
+          ["quello", "quel / quello / quell'", "quella / quell'", "quei / quegli", "quelle"]
+        ],
+        "rows_fr": [
           ["questo", "questo", "questa", "questi", "queste"],
           ["quello", "quel / quello / quell'", "quella / quell'", "quei / quegli", "quelle"]
         ]
@@ -78,8 +99,14 @@
       {
         "type": "table",
         "caption": "Pronomi dimostrativi",
+        "caption_fr": "Pronoms démonstratifs",
         "headers": ["", "Maschile singolare", "Femminile singolare", "Maschile plurale", "Femminile plurale"],
+        "headers_fr": ["", "Masculin singulier", "Féminin singulier", "Masculin pluriel", "Féminin pluriel"],
         "rows": [
+          ["questo", "questo", "questa", "questi", "queste"],
+          ["quello", "quello", "quella", "quelli", "quelle"]
+        ],
+        "rows_fr": [
           ["questo", "questo", "questa", "questi", "queste"],
           ["quello", "quello", "quella", "quelli", "quelle"]
         ]
@@ -90,7 +117,8 @@
       },
       {
         "type": "paragraph",
-        "content": "Esistono varie forme di **quello** (maschile) a seconda di come inizia la parola che segue, come per l'articolo **il**:"
+        "content": "Esistono varie forme di **quello** (maschile) a seconda di come inizia la parola che segue, come per l'articolo **il**:",
+        "content_fr": "Il existe plusieurs formes de **quello** (masculin) selon comment commence le mot qui suit, comme pour l'article **il** :"
       },
       {
         "type": "list",
@@ -98,6 +126,11 @@
           "se inizia per **consonante normale**, la forma è quella dell'articolo *il* (il bambino, **quel** bambino; i bambini, **quei** bambini);",
           "se inizia per **z**, **s + consonante**, **ps**, **pn**, la forma è quella dell'articolo *lo* (lo studente, **quello** studente; gli studenti, **quegli** studenti);",
           "se inizia per **vocale**, la forma è quella dell'articolo *l'* (l'uomo, **quell'**uomo; gli uomini, **quegli** uomini)."
+        ],
+        "items_fr": [
+          "s'il commence par une **consonne normale**, la forme est celle de l'article *il* (il bambino, **quel** bambino ; i bambini, **quei** bambini) ;",
+          "s'il commence par **z**, **s + consonne**, **ps**, **pn**, la forme est celle de l'article *lo* (lo studente, **quello** studente ; gli studenti, **quegli** studenti) ;",
+          "s'il commence par une **voyelle**, la forme est celle de l'article *l'* (l'uomo, **quell'**uomo ; gli uomini, **quegli** uomini)."
         ]
       },
       {
@@ -106,7 +139,8 @@
       },
       {
         "type": "paragraph",
-        "content": "Esistono altri due aggettivi e pronomi dimostrativi (chiamati anche identificativi), **stesso** e **medesimo**, che indicano somiglianza o identità."
+        "content": "Esistono altri due aggettivi e pronomi dimostrativi (chiamati anche identificativi), **stesso** e **medesimo**, che indicano somiglianza o identità.",
+        "content_fr": "Il existe deux autres adjectifs et pronoms démonstratifs (également appelés identifiants), **stesso** et **medesimo**, qui indiquent une ressemblance ou une identité."
       },
       {
         "type": "example",
@@ -117,7 +151,8 @@
       },
       {
         "type": "paragraph",
-        "content": "oppure significano **persino**, **anche**, **in persona**."
+        "content": "oppure significano **persino**, **anche**, **in persona**.",
+        "content_fr": "ou bien ils signifient **même**, **aussi**, **en personne**."
       },
       {
         "type": "example",
@@ -127,7 +162,8 @@
       },
       {
         "type": "paragraph",
-        "content": "**Stesso** e **medesimo** sono sempre preceduti dall'articolo."
+        "content": "**Stesso** e **medesimo** sono sempre preceduti dall'articolo.",
+        "content_fr": "**Stesso** et **medesimo** sont toujours précédés de l'article."
       }
     ]
   },

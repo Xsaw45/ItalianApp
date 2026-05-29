@@ -9,11 +9,13 @@
     "sections": [
       {
         "type": "intro",
-        "content": "**L'indicativo è il modo del verbo che indica la realtà, la certezza.**"
+        "content": "**L'indicativo è il modo del verbo che indica la realtà, la certezza.**",
+        "content_fr": "**L'indicatif est le mode du verbe qui indique la réalité, la certitude.**"
       },
       {
         "type": "paragraph",
-        "content": "Si usa il **modo indicativo** per indicare un fatto vero, sicuro o presentato da chi parla come vero e sicuro:"
+        "content": "Si usa il **modo indicativo** per indicare un fatto vero, sicuro o presentato da chi parla come vero e sicuro:",
+        "content_fr": "On utilise le **mode indicatif** pour indiquer un fait vrai, certain ou présenté par le locuteur comme vrai et certain :"
       },
       {
         "type": "example",
@@ -23,55 +25,84 @@
       },
       {
         "type": "paragraph",
-        "content": "Il modo indicativo ha **otto tempi**:"
+        "content": "Il modo indicativo ha **otto tempi**:",
+        "content_fr": "Le mode indicatif a **huit temps** :"
       },
       {
         "type": "table",
         "caption": "I tempi dell'indicativo",
+        "caption_fr": "Les temps de l'indicatif",
         "headers": ["4 semplici (una sola parola)", "", "4 composti (due parole)", ""],
+        "headers_fr": ["4 simples (un seul mot)", "", "4 composés (deux mots)", ""],
         "rows": [
           ["presente", "lavoro", "passato prossimo", "ho lavorato"],
           ["imperfetto", "lavoravo", "trapassato prossimo", "avevo lavorato"],
           ["passato remoto", "lavorai", "trapassato remoto", "ebbi lavorato"],
           ["futuro", "lavorerò", "futuro anteriore", "avrò lavorato"]
+        ],
+        "rows_fr": [
+          ["présent", "lavoro", "passé composé", "ho lavorato"],
+          ["imparfait", "lavoravo", "plus-que-parfait", "avevo lavorato"],
+          ["passé simple", "lavorai", "passé antérieur", "ebbi lavorato"],
+          ["futur", "lavorerò", "futur antérieur", "avrò lavorato"]
         ]
       },
       {
         "type": "heading",
-        "content": "Il presente"
+        "content": "Il presente",
+        "content_fr": "Le présent"
       },
       {
         "type": "intro",
-        "content": "**Il presente è un tempo del modo indicativo.**"
+        "content": "**Il presente è un tempo del modo indicativo.**",
+        "content_fr": "**Le présent est un temps du mode indicatif.**"
       },
       {
         "type": "paragraph",
-        "content": "L'indicativo **presente** indica:"
+        "content": "L'indicativo **presente** indica:",
+        "content_fr": "L'indicatif **présent** indique :"
       },
       {
         "type": "list",
         "items": [
           "un'azione che avviene **ora, in questo momento** → *Oggi **piove**.*",
           "un fatto, un'azione **abituale** → *Mio padre **lavora** in fabbrica.*"
+        ],
+        "items_fr": [
+          "une action qui se produit **maintenant, en ce moment** → *Oggi **piove**.*",
+          "un fait, une action **habituelle** → *Mio padre **lavora** in fabbrica.*"
         ]
       },
       {
         "type": "heading",
-        "content": "La forma"
+        "content": "La forma",
+        "content_fr": "La forme"
       },
       {
         "type": "paragraph",
-        "content": "Per le coniugazioni regolari del presente vedi **Tavole dei verbi, pp. 324–31.**"
+        "content": "Per le coniugazioni regolari del presente vedi **Tavole dei verbi, pp. 324–31.**",
+        "content_fr": "Pour les conjugaisons régulières du présent, voir **Tableaux des verbes, pp. 324–31.**"
       },
       {
         "type": "paragraph",
-        "content": "Indichiamo di seguito il presente indicativo dei più importanti verbi irregolari."
+        "content": "Indichiamo di seguito il presente indicativo dei più importanti verbi irregolari.",
+        "content_fr": "Nous indiquons ci-dessous le présent de l'indicatif des verbes irréguliers les plus importants."
       },
       {
         "type": "table",
         "caption": "Avere e Essere",
+        "caption_fr": "Avere et Essere",
         "headers": ["Avere", "", "Essere", ""],
+        "headers_fr": ["Avere (avoir)", "", "Essere (être)", ""],
         "rows": [
+          ["io", "ho", "io", "sono"],
+          ["tu", "hai", "tu", "sei"],
+          ["lui", "ha", "lui", "è"],
+          ["noi", "abbiamo", "noi", "siamo"],
+          ["voi", "avete", "voi", "siete"],
+          ["loro", "hanno", "loro", "sono"]
+        ],
+        "rows_fr": [
           ["io", "ho", "io", "sono"],
           ["tu", "hai", "tu", "sei"],
           ["lui", "ha", "lui", "è"],
@@ -83,8 +114,18 @@
       {
         "type": "table",
         "caption": "Fare, Dare e Andare",
+        "caption_fr": "Fare, Dare et Andare",
         "headers": ["Fare", "", "Dare", "", "Andare", ""],
+        "headers_fr": ["Fare (faire)", "", "Dare (donner)", "", "Andare (aller)", ""],
         "rows": [
+          ["io", "faccio", "io", "do", "io", "vado"],
+          ["tu", "fai", "tu", "dai", "tu", "vai"],
+          ["lui", "fa", "lui", "dà", "lui", "va"],
+          ["noi", "facciamo", "noi", "diamo", "noi", "andiamo"],
+          ["voi", "fate", "voi", "date", "voi", "andate"],
+          ["loro", "fanno", "loro", "danno", "loro", "vanno"]
+        ],
+        "rows_fr": [
           ["io", "faccio", "io", "do", "io", "vado"],
           ["tu", "fai", "tu", "dai", "tu", "vai"],
           ["lui", "fa", "lui", "dà", "lui", "va"],
@@ -96,8 +137,18 @@
       {
         "type": "table",
         "caption": "Stare, Sapere e Potere",
+        "caption_fr": "Stare, Sapere et Potere",
         "headers": ["Stare", "", "Sapere", "", "Potere", ""],
+        "headers_fr": ["Stare (rester/être)", "", "Sapere (savoir)", "", "Potere (pouvoir)", ""],
         "rows": [
+          ["io", "sto", "io", "so", "io", "posso"],
+          ["tu", "stai", "tu", "sai", "tu", "puoi"],
+          ["lui", "sta", "lui", "sa", "lui", "può"],
+          ["noi", "stiamo", "noi", "sappiamo", "noi", "possiamo"],
+          ["voi", "state", "voi", "sapete", "voi", "potete"],
+          ["loro", "stanno", "loro", "sanno", "loro", "possono"]
+        ],
+        "rows_fr": [
           ["io", "sto", "io", "so", "io", "posso"],
           ["tu", "stai", "tu", "sai", "tu", "puoi"],
           ["lui", "sta", "lui", "sa", "lui", "può"],
@@ -109,8 +160,18 @@
       {
         "type": "table",
         "caption": "Dovere e Volere",
+        "caption_fr": "Dovere et Volere",
         "headers": ["Dovere", "", "Volere", ""],
+        "headers_fr": ["Dovere (devoir)", "", "Volere (vouloir)", ""],
         "rows": [
+          ["io", "devo", "io", "voglio"],
+          ["tu", "devi", "tu", "vuoi"],
+          ["lui", "deve", "lui", "vuole"],
+          ["noi", "dobbiamo", "noi", "vogliamo"],
+          ["voi", "dovete", "voi", "volete"],
+          ["loro", "devono", "loro", "vogliono"]
+        ],
+        "rows_fr": [
           ["io", "devo", "io", "voglio"],
           ["tu", "devi", "tu", "vuoi"],
           ["lui", "deve", "lui", "vuole"],
@@ -122,8 +183,18 @@
       {
         "type": "table",
         "caption": "Uscire, Capire e Dire",
+        "caption_fr": "Uscire, Capire et Dire",
         "headers": ["Uscire", "", "Capire", "", "Dire", ""],
+        "headers_fr": ["Uscire (sortir)", "", "Capire (comprendre)", "", "Dire (dire)", ""],
         "rows": [
+          ["io", "esco", "io", "capisco", "io", "dico"],
+          ["tu", "esci", "tu", "capisci", "tu", "dici"],
+          ["lui", "esce", "lui", "capisce", "lui", "dice"],
+          ["noi", "usciamo", "noi", "capiamo", "noi", "diciamo"],
+          ["voi", "uscite", "voi", "capite", "voi", "dite"],
+          ["loro", "escono", "loro", "capiscono", "loro", "dicono"]
+        ],
+        "rows_fr": [
           ["io", "esco", "io", "capisco", "io", "dico"],
           ["tu", "esci", "tu", "capisci", "tu", "dici"],
           ["lui", "esce", "lui", "capisce", "lui", "dice"],
@@ -135,8 +206,18 @@
       {
         "type": "table",
         "caption": "Venire e Salire",
+        "caption_fr": "Venire et Salire",
         "headers": ["Venire", "", "Salire", ""],
+        "headers_fr": ["Venire (venir)", "", "Salire (monter)", ""],
         "rows": [
+          ["io", "vengo", "io", "salgo"],
+          ["tu", "vieni", "tu", "sali"],
+          ["lui", "viene", "lui", "sale"],
+          ["noi", "veniamo", "noi", "saliamo"],
+          ["voi", "venite", "voi", "salite"],
+          ["loro", "vengono", "loro", "salgono"]
+        ],
+        "rows_fr": [
           ["io", "vengo", "io", "salgo"],
           ["tu", "vieni", "tu", "sali"],
           ["lui", "viene", "lui", "sale"],
@@ -147,15 +228,18 @@
       },
       {
         "type": "paragraph",
-        "content": "* Si coniugano come **CAPIRE** alcuni verbi come *FINIRE, PULIRE, COSTRUIRE, RESTITUIRE*."
+        "content": "* Si coniugano come **CAPIRE** alcuni verbi come *FINIRE, PULIRE, COSTRUIRE, RESTITUIRE*.",
+        "content_fr": "* Se conjuguent comme **CAPIRE** certains verbes tels que *FINIRE, PULIRE, COSTRUIRE, RESTITUIRE*."
       },
       {
         "type": "heading",
-        "content": "Attenzione"
+        "content": "Attenzione",
+        "content_fr": "Attention"
       },
       {
         "type": "paragraph",
-        "content": "Oggi, specialmente nell'italiano parlato al Nord, si usa spesso il presente al posto del futuro."
+        "content": "Oggi, specialmente nell'italiano parlato al Nord, si usa spesso il presente al posto del futuro.",
+        "content_fr": "Aujourd'hui, surtout dans l'italien parlé au Nord, on utilise souvent le présent à la place du futur."
       },
       {
         "type": "example",

@@ -1,0 +1,457 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "name": "Livello 1 — Presente",
+      "name_fr": "Niveau 1 — Présent",
+      "tenses": [
+        { "id": "presente", "name": "Indicativo Presente", "name_fr": "Présent de l'indicatif" }
+      ],
+      "verbs": [
+        {
+          "id": "essere", "it": "essere", "fr": "être", "group": "irr.",
+          "forms": {
+            "presente": { "io": "sono", "tu": "sei", "lui/lei": "è", "noi": "siamo", "voi": "siete", "loro": "sono" }
+          }
+        },
+        {
+          "id": "avere", "it": "avere", "fr": "avoir", "group": "irr.",
+          "forms": {
+            "presente": { "io": "ho", "tu": "hai", "lui/lei": "ha", "noi": "abbiamo", "voi": "avete", "loro": "hanno" }
+          }
+        },
+        {
+          "id": "parlare", "it": "parlare", "fr": "parler", "group": "-are",
+          "forms": {
+            "presente": { "io": "parlo", "tu": "parli", "lui/lei": "parla", "noi": "parliamo", "voi": "parlate", "loro": "parlano" }
+          }
+        },
+        {
+          "id": "mangiare", "it": "mangiare", "fr": "manger", "group": "-are",
+          "forms": {
+            "presente": { "io": "mangio", "tu": "mangi", "lui/lei": "mangia", "noi": "mangiamo", "voi": "mangiate", "loro": "mangiano" }
+          }
+        },
+        {
+          "id": "andare", "it": "andare", "fr": "aller", "group": "irr.",
+          "forms": {
+            "presente": { "io": "vado", "tu": "vai", "lui/lei": "va", "noi": "andiamo", "voi": "andate", "loro": "vanno" }
+          }
+        },
+        {
+          "id": "fare", "it": "fare", "fr": "faire", "group": "irr.",
+          "forms": {
+            "presente": { "io": "faccio", "tu": "fai", "lui/lei": "fa", "noi": "facciamo", "voi": "fate", "loro": "fanno" }
+          }
+        },
+        {
+          "id": "venire", "it": "venire", "fr": "venir", "group": "irr.",
+          "forms": {
+            "presente": { "io": "vengo", "tu": "vieni", "lui/lei": "viene", "noi": "veniamo", "voi": "venite", "loro": "vengono" }
+          }
+        },
+        {
+          "id": "potere", "it": "potere", "fr": "pouvoir", "group": "irr.",
+          "forms": {
+            "presente": { "io": "posso", "tu": "puoi", "lui/lei": "può", "noi": "possiamo", "voi": "potete", "loro": "possono" }
+          }
+        },
+        {
+          "id": "volere", "it": "volere", "fr": "vouloir", "group": "irr.",
+          "forms": {
+            "presente": { "io": "voglio", "tu": "vuoi", "lui/lei": "vuole", "noi": "vogliamo", "voi": "volete", "loro": "vogliono" }
+          }
+        },
+        {
+          "id": "dovere", "it": "dovere", "fr": "devoir", "group": "irr.",
+          "forms": {
+            "presente": { "io": "devo", "tu": "devi", "lui/lei": "deve", "noi": "dobbiamo", "voi": "dovete", "loro": "devono" }
+          }
+        },
+        {
+          "id": "sapere", "it": "sapere", "fr": "savoir", "group": "irr.",
+          "forms": {
+            "presente": { "io": "so", "tu": "sai", "lui/lei": "sa", "noi": "sappiamo", "voi": "sapete", "loro": "sanno" }
+          }
+        },
+        {
+          "id": "vedere", "it": "vedere", "fr": "voir", "group": "-ere",
+          "forms": {
+            "presente": { "io": "vedo", "tu": "vedi", "lui/lei": "vede", "noi": "vediamo", "voi": "vedete", "loro": "vedono" }
+          }
+        },
+        {
+          "id": "leggere", "it": "leggere", "fr": "lire", "group": "-ere",
+          "forms": {
+            "presente": { "io": "leggo", "tu": "leggi", "lui/lei": "legge", "noi": "leggiamo", "voi": "leggete", "loro": "leggono" }
+          }
+        },
+        {
+          "id": "scrivere", "it": "scrivere", "fr": "écrire", "group": "-ere",
+          "forms": {
+            "presente": { "io": "scrivo", "tu": "scrivi", "lui/lei": "scrive", "noi": "scriviamo", "voi": "scrivete", "loro": "scrivono" }
+          }
+        },
+        {
+          "id": "dormire", "it": "dormire", "fr": "dormir", "group": "-ire",
+          "forms": {
+            "presente": { "io": "dormo", "tu": "dormi", "lui/lei": "dorme", "noi": "dormiamo", "voi": "dormite", "loro": "dormono" }
+          }
+        },
+        {
+          "id": "partire", "it": "partire", "fr": "partir", "group": "-ire",
+          "forms": {
+            "presente": { "io": "parto", "tu": "parti", "lui/lei": "parte", "noi": "partiamo", "voi": "partite", "loro": "partono" }
+          }
+        },
+        {
+          "id": "capire", "it": "capire", "fr": "comprendre", "group": "-ire",
+          "forms": {
+            "presente": { "io": "capisco", "tu": "capisci", "lui/lei": "capisce", "noi": "capiamo", "voi": "capite", "loro": "capiscono" }
+          }
+        },
+        {
+          "id": "finire", "it": "finire", "fr": "finir", "group": "-ire",
+          "forms": {
+            "presente": { "io": "finisco", "tu": "finisci", "lui/lei": "finisce", "noi": "finiamo", "voi": "finite", "loro": "finiscono" }
+          }
+        },
+        {
+          "id": "aprire", "it": "aprire", "fr": "ouvrir", "group": "-ire",
+          "forms": {
+            "presente": { "io": "apro", "tu": "apri", "lui/lei": "apre", "noi": "apriamo", "voi": "aprite", "loro": "aprono" }
+          }
+        },
+        {
+          "id": "stare", "it": "stare", "fr": "rester / se trouver", "group": "irr.",
+          "forms": {
+            "presente": { "io": "sto", "tu": "stai", "lui/lei": "sta", "noi": "stiamo", "voi": "state", "loro": "stanno" }
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Livello 2 — Passato e Imperfetto",
+      "name_fr": "Niveau 2 — Passé et Imparfait",
+      "tenses": [
+        { "id": "passato-prossimo", "name": "Passato Prossimo", "name_fr": "Passé composé" },
+        { "id": "imperfetto", "name": "Imperfetto", "name_fr": "Imparfait" }
+      ],
+      "verbs": [
+        {
+          "id": "arrivare", "it": "arrivare", "fr": "arriver", "group": "-are",
+          "forms": {
+            "passato-prossimo": { "io": "sono arrivato", "tu": "sei arrivato", "lui/lei": "è arrivato", "noi": "siamo arrivati", "voi": "siete arrivati", "loro": "sono arrivati" },
+            "imperfetto":       { "io": "arrivavo", "tu": "arrivavi", "lui/lei": "arrivava", "noi": "arrivavamo", "voi": "arrivavate", "loro": "arrivavano" }
+          }
+        },
+        {
+          "id": "uscire", "it": "uscire", "fr": "sortir", "group": "irr.",
+          "forms": {
+            "passato-prossimo": { "io": "sono uscito", "tu": "sei uscito", "lui/lei": "è uscito", "noi": "siamo usciti", "voi": "siete usciti", "loro": "sono usciti" },
+            "imperfetto":       { "io": "uscivo", "tu": "uscivi", "lui/lei": "usciva", "noi": "uscivamo", "voi": "uscivate", "loro": "uscivano" }
+          }
+        },
+        {
+          "id": "entrare", "it": "entrare", "fr": "entrer", "group": "-are",
+          "forms": {
+            "passato-prossimo": { "io": "sono entrato", "tu": "sei entrato", "lui/lei": "è entrato", "noi": "siamo entrati", "voi": "siete entrati", "loro": "sono entrati" },
+            "imperfetto":       { "io": "entravo", "tu": "entravi", "lui/lei": "entrava", "noi": "entravamo", "voi": "entravate", "loro": "entravano" }
+          }
+        },
+        {
+          "id": "tornare", "it": "tornare", "fr": "rentrer / retourner", "group": "-are",
+          "forms": {
+            "passato-prossimo": { "io": "sono tornato", "tu": "sei tornato", "lui/lei": "è tornato", "noi": "siamo tornati", "voi": "siete tornati", "loro": "sono tornati" },
+            "imperfetto":       { "io": "tornavo", "tu": "tornavi", "lui/lei": "tornava", "noi": "tornavamo", "voi": "tornavate", "loro": "tornavano" }
+          }
+        },
+        {
+          "id": "lavorare", "it": "lavorare", "fr": "travailler", "group": "-are",
+          "forms": {
+            "passato-prossimo": { "io": "ho lavorato", "tu": "hai lavorato", "lui/lei": "ha lavorato", "noi": "abbiamo lavorato", "voi": "avete lavorato", "loro": "hanno lavorato" },
+            "imperfetto":       { "io": "lavoravo", "tu": "lavoravi", "lui/lei": "lavorava", "noi": "lavoravamo", "voi": "lavoravate", "loro": "lavoravano" }
+          }
+        },
+        {
+          "id": "studiare", "it": "studiare", "fr": "étudier", "group": "-are",
+          "forms": {
+            "passato-prossimo": { "io": "ho studiato", "tu": "hai studiato", "lui/lei": "ha studiato", "noi": "abbiamo studiato", "voi": "avete studiato", "loro": "hanno studiato" },
+            "imperfetto":       { "io": "studiavo", "tu": "studiavi", "lui/lei": "studiava", "noi": "studiavamo", "voi": "studiavate", "loro": "studiavano" }
+          }
+        },
+        {
+          "id": "abitare", "it": "abitare", "fr": "habiter", "group": "-are",
+          "forms": {
+            "passato-prossimo": { "io": "ho abitato", "tu": "hai abitato", "lui/lei": "ha abitato", "noi": "abbiamo abitato", "voi": "avete abitato", "loro": "hanno abitato" },
+            "imperfetto":       { "io": "abitavo", "tu": "abitavi", "lui/lei": "abitava", "noi": "abitavamo", "voi": "abitavate", "loro": "abitavano" }
+          }
+        },
+        {
+          "id": "comprare", "it": "comprare", "fr": "acheter", "group": "-are",
+          "forms": {
+            "passato-prossimo": { "io": "ho comprato", "tu": "hai comprato", "lui/lei": "ha comprato", "noi": "abbiamo comprato", "voi": "avete comprato", "loro": "hanno comprato" },
+            "imperfetto":       { "io": "compravo", "tu": "compravi", "lui/lei": "comprava", "noi": "compravamo", "voi": "compravate", "loro": "compravano" }
+          }
+        },
+        {
+          "id": "chiamare", "it": "chiamare", "fr": "appeler", "group": "-are",
+          "forms": {
+            "passato-prossimo": { "io": "ho chiamato", "tu": "hai chiamato", "lui/lei": "ha chiamato", "noi": "abbiamo chiamato", "voi": "avete chiamato", "loro": "hanno chiamato" },
+            "imperfetto":       { "io": "chiamavo", "tu": "chiamavi", "lui/lei": "chiamava", "noi": "chiamavamo", "voi": "chiamavate", "loro": "chiamavano" }
+          }
+        },
+        {
+          "id": "guardare", "it": "guardare", "fr": "regarder", "group": "-are",
+          "forms": {
+            "passato-prossimo": { "io": "ho guardato", "tu": "hai guardato", "lui/lei": "ha guardato", "noi": "abbiamo guardato", "voi": "avete guardato", "loro": "hanno guardato" },
+            "imperfetto":       { "io": "guardavo", "tu": "guardavi", "lui/lei": "guardava", "noi": "guardavamo", "voi": "guardavate", "loro": "guardavano" }
+          }
+        },
+        {
+          "id": "sentire", "it": "sentire", "fr": "sentir / entendre", "group": "-ire",
+          "forms": {
+            "passato-prossimo": { "io": "ho sentito", "tu": "hai sentito", "lui/lei": "ha sentito", "noi": "abbiamo sentito", "voi": "avete sentito", "loro": "hanno sentito" },
+            "imperfetto":       { "io": "sentivo", "tu": "sentivi", "lui/lei": "sentiva", "noi": "sentivamo", "voi": "sentivate", "loro": "sentivano" }
+          }
+        },
+        {
+          "id": "prendere", "it": "prendere", "fr": "prendre", "group": "-ere",
+          "forms": {
+            "passato-prossimo": { "io": "ho preso", "tu": "hai preso", "lui/lei": "ha preso", "noi": "abbiamo preso", "voi": "avete preso", "loro": "hanno preso" },
+            "imperfetto":       { "io": "prendevo", "tu": "prendevi", "lui/lei": "prendeva", "noi": "prendevamo", "voi": "prendevate", "loro": "prendevano" }
+          }
+        },
+        {
+          "id": "mettere", "it": "mettere", "fr": "mettre", "group": "-ere",
+          "forms": {
+            "passato-prossimo": { "io": "ho messo", "tu": "hai messo", "lui/lei": "ha messo", "noi": "abbiamo messo", "voi": "avete messo", "loro": "hanno messo" },
+            "imperfetto":       { "io": "mettevo", "tu": "mettevi", "lui/lei": "metteva", "noi": "mettevamo", "voi": "mettevate", "loro": "mettevano" }
+          }
+        },
+        {
+          "id": "dare", "it": "dare", "fr": "donner", "group": "irr.",
+          "forms": {
+            "passato-prossimo": { "io": "ho dato", "tu": "hai dato", "lui/lei": "ha dato", "noi": "abbiamo dato", "voi": "avete dato", "loro": "hanno dato" },
+            "imperfetto":       { "io": "davo", "tu": "davi", "lui/lei": "dava", "noi": "davamo", "voi": "davate", "loro": "davano" }
+          }
+        },
+        {
+          "id": "dire", "it": "dire", "fr": "dire", "group": "irr.",
+          "forms": {
+            "passato-prossimo": { "io": "ho detto", "tu": "hai detto", "lui/lei": "ha detto", "noi": "abbiamo detto", "voi": "avete detto", "loro": "hanno detto" },
+            "imperfetto":       { "io": "dicevo", "tu": "dicevi", "lui/lei": "diceva", "noi": "dicevamo", "voi": "dicevate", "loro": "dicevano" }
+          }
+        },
+        {
+          "id": "conoscere", "it": "conoscere", "fr": "connaître", "group": "-ere",
+          "forms": {
+            "passato-prossimo": { "io": "ho conosciuto", "tu": "hai conosciuto", "lui/lei": "ha conosciuto", "noi": "abbiamo conosciuto", "voi": "avete conosciuto", "loro": "hanno conosciuto" },
+            "imperfetto":       { "io": "conoscevo", "tu": "conoscevi", "lui/lei": "conosceva", "noi": "conoscevamo", "voi": "conoscevate", "loro": "conoscevano" }
+          }
+        },
+        {
+          "id": "credere", "it": "credere", "fr": "croire", "group": "-ere",
+          "forms": {
+            "passato-prossimo": { "io": "ho creduto", "tu": "hai creduto", "lui/lei": "ha creduto", "noi": "abbiamo creduto", "voi": "avete creduto", "loro": "hanno creduto" },
+            "imperfetto":       { "io": "credevo", "tu": "credevi", "lui/lei": "credeva", "noi": "credevamo", "voi": "credevate", "loro": "credevano" }
+          }
+        },
+        {
+          "id": "vivere", "it": "vivere", "fr": "vivre", "group": "-ere",
+          "forms": {
+            "passato-prossimo": { "io": "ho vissuto", "tu": "hai vissuto", "lui/lei": "ha vissuto", "noi": "abbiamo vissuto", "voi": "avete vissuto", "loro": "hanno vissuto" },
+            "imperfetto":       { "io": "vivevo", "tu": "vivevi", "lui/lei": "viveva", "noi": "vivevamo", "voi": "vivevate", "loro": "vivevano" }
+          }
+        },
+        {
+          "id": "chiedere", "it": "chiedere", "fr": "demander", "group": "-ere",
+          "forms": {
+            "passato-prossimo": { "io": "ho chiesto", "tu": "hai chiesto", "lui/lei": "ha chiesto", "noi": "abbiamo chiesto", "voi": "avete chiesto", "loro": "hanno chiesto" },
+            "imperfetto":       { "io": "chiedevo", "tu": "chiedevi", "lui/lei": "chiedeva", "noi": "chiedevamo", "voi": "chiedevate", "loro": "chiedevano" }
+          }
+        },
+        {
+          "id": "rispondere", "it": "rispondere", "fr": "répondre", "group": "-ere",
+          "forms": {
+            "passato-prossimo": { "io": "ho risposto", "tu": "hai risposto", "lui/lei": "ha risposto", "noi": "abbiamo risposto", "voi": "avete risposto", "loro": "hanno risposto" },
+            "imperfetto":       { "io": "rispondevo", "tu": "rispondevi", "lui/lei": "rispondeva", "noi": "rispondevamo", "voi": "rispondevate", "loro": "rispondevano" }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Livello 3 — Futuro e Modi",
+      "name_fr": "Niveau 3 — Futur et Modes",
+      "tenses": [
+        { "id": "futuro", "name": "Futuro Semplice", "name_fr": "Futur simple" },
+        { "id": "congiuntivo-presente", "name": "Congiuntivo Presente", "name_fr": "Subjonctif présent" },
+        { "id": "condizionale-presente", "name": "Condizionale Presente", "name_fr": "Conditionnel présent" }
+      ],
+      "verbs": [
+        {
+          "id": "pensare", "it": "pensare", "fr": "penser", "group": "-are",
+          "forms": {
+            "futuro":                { "io": "penserò", "tu": "penserai", "lui/lei": "penserà", "noi": "penseremo", "voi": "penserete", "loro": "penseranno" },
+            "congiuntivo-presente":  { "io": "pensi", "tu": "pensi", "lui/lei": "pensi", "noi": "pensiamo", "voi": "pensiate", "loro": "pensino" },
+            "condizionale-presente": { "io": "penserei", "tu": "penseresti", "lui/lei": "penserebbe", "noi": "penseremmo", "voi": "pensereste", "loro": "penserebbero" }
+          }
+        },
+        {
+          "id": "sperare", "it": "sperare", "fr": "espérer", "group": "-are",
+          "forms": {
+            "futuro":                { "io": "spererò", "tu": "spererai", "lui/lei": "spererà", "noi": "spereremo", "voi": "spererete", "loro": "spereranno" },
+            "congiuntivo-presente":  { "io": "speri", "tu": "speri", "lui/lei": "speri", "noi": "speriamo", "voi": "speriate", "loro": "sperino" },
+            "condizionale-presente": { "io": "spererei", "tu": "spereresti", "lui/lei": "spererebbe", "noi": "spereremmo", "voi": "sperereste", "loro": "spererebbero" }
+          }
+        },
+        {
+          "id": "cercare", "it": "cercare", "fr": "chercher", "group": "-are",
+          "forms": {
+            "futuro":                { "io": "cercherò", "tu": "cercherai", "lui/lei": "cercherà", "noi": "cercheremo", "voi": "cercherete", "loro": "cercheranno" },
+            "congiuntivo-presente":  { "io": "cerchi", "tu": "cerchi", "lui/lei": "cerchi", "noi": "cerchiamo", "voi": "cerchiate", "loro": "cerchino" },
+            "condizionale-presente": { "io": "cercherei", "tu": "cercheresti", "lui/lei": "cercherebbe", "noi": "cercheremmo", "voi": "cerchereste", "loro": "cercherebbero" }
+          }
+        },
+        {
+          "id": "trovare", "it": "trovare", "fr": "trouver", "group": "-are",
+          "forms": {
+            "futuro":                { "io": "troverò", "tu": "troverai", "lui/lei": "troverà", "noi": "troveremo", "voi": "troverete", "loro": "troveranno" },
+            "congiuntivo-presente":  { "io": "trovi", "tu": "trovi", "lui/lei": "trovi", "noi": "troviamo", "voi": "troviate", "loro": "trovino" },
+            "condizionale-presente": { "io": "troverei", "tu": "troveresti", "lui/lei": "troverebbe", "noi": "troveremmo", "voi": "trovereste", "loro": "troverebbero" }
+          }
+        },
+        {
+          "id": "lasciare", "it": "lasciare", "fr": "laisser", "group": "-are",
+          "forms": {
+            "futuro":                { "io": "lascerò", "tu": "lascerai", "lui/lei": "lascerà", "noi": "lasceremo", "voi": "lascerete", "loro": "lasceranno" },
+            "congiuntivo-presente":  { "io": "lasci", "tu": "lasci", "lui/lei": "lasci", "noi": "lasciamo", "voi": "lasciate", "loro": "lascino" },
+            "condizionale-presente": { "io": "lascerei", "tu": "lasceresti", "lui/lei": "lascerebbe", "noi": "lasceremmo", "voi": "lascereste", "loro": "lascerebbero" }
+          }
+        },
+        {
+          "id": "portare", "it": "portare", "fr": "porter / apporter", "group": "-are",
+          "forms": {
+            "futuro":                { "io": "porterò", "tu": "porterai", "lui/lei": "porterà", "noi": "porteremo", "voi": "porterete", "loro": "porteranno" },
+            "congiuntivo-presente":  { "io": "porti", "tu": "porti", "lui/lei": "porti", "noi": "portiamo", "voi": "portiate", "loro": "portino" },
+            "condizionale-presente": { "io": "porterei", "tu": "porteresti", "lui/lei": "porterebbe", "noi": "porteremmo", "voi": "portereste", "loro": "porterebbero" }
+          }
+        },
+        {
+          "id": "tenere", "it": "tenere", "fr": "tenir", "group": "irr.",
+          "forms": {
+            "futuro":                { "io": "terrò", "tu": "terrai", "lui/lei": "terrà", "noi": "terremo", "voi": "terrete", "loro": "terranno" },
+            "congiuntivo-presente":  { "io": "tenga", "tu": "tenga", "lui/lei": "tenga", "noi": "teniamo", "voi": "teniate", "loro": "tengano" },
+            "condizionale-presente": { "io": "terrei", "tu": "terresti", "lui/lei": "terrebbe", "noi": "terremmo", "voi": "terreste", "loro": "terrebbero" }
+          }
+        },
+        {
+          "id": "rimanere", "it": "rimanere", "fr": "rester", "group": "irr.",
+          "forms": {
+            "futuro":                { "io": "rimarrò", "tu": "rimarrai", "lui/lei": "rimarrà", "noi": "rimarremo", "voi": "rimarrete", "loro": "rimarranno" },
+            "congiuntivo-presente":  { "io": "rimanga", "tu": "rimanga", "lui/lei": "rimanga", "noi": "rimaniamo", "voi": "rimaniate", "loro": "rimangano" },
+            "condizionale-presente": { "io": "rimarrei", "tu": "rimarresti", "lui/lei": "rimarrebbe", "noi": "rimarremmo", "voi": "rimarreste", "loro": "rimarrebbero" }
+          }
+        },
+        {
+          "id": "nascere", "it": "nascere", "fr": "naître", "group": "-ere",
+          "forms": {
+            "futuro":                { "io": "nascerò", "tu": "nascerai", "lui/lei": "nascerà", "noi": "nasceremo", "voi": "nascerete", "loro": "nasceranno" },
+            "congiuntivo-presente":  { "io": "nasca", "tu": "nasca", "lui/lei": "nasca", "noi": "nasciamo", "voi": "nasciate", "loro": "nascano" },
+            "condizionale-presente": { "io": "nascerei", "tu": "nasceresti", "lui/lei": "nascerebbe", "noi": "nasceremmo", "voi": "nascereste", "loro": "nascerebbero" }
+          }
+        },
+        {
+          "id": "morire", "it": "morire", "fr": "mourir", "group": "irr.",
+          "forms": {
+            "futuro":                { "io": "morirò", "tu": "morirai", "lui/lei": "morirà", "noi": "moriremo", "voi": "morirete", "loro": "moriranno" },
+            "congiuntivo-presente":  { "io": "muoia", "tu": "muoia", "lui/lei": "muoia", "noi": "moriamo", "voi": "moriate", "loro": "muoiano" },
+            "condizionale-presente": { "io": "morirei", "tu": "moriresti", "lui/lei": "morirebbe", "noi": "moriremmo", "voi": "morireste", "loro": "morirebbero" }
+          }
+        },
+        {
+          "id": "correre", "it": "correre", "fr": "courir", "group": "-ere",
+          "forms": {
+            "futuro":                { "io": "correrò", "tu": "correrai", "lui/lei": "correrà", "noi": "correremo", "voi": "correrete", "loro": "correranno" },
+            "congiuntivo-presente":  { "io": "corra", "tu": "corra", "lui/lei": "corra", "noi": "corriamo", "voi": "corriate", "loro": "corrano" },
+            "condizionale-presente": { "io": "correrei", "tu": "correresti", "lui/lei": "correrebbe", "noi": "correremmo", "voi": "correreste", "loro": "correrebbero" }
+          }
+        },
+        {
+          "id": "cadere", "it": "cadere", "fr": "tomber", "group": "irr.",
+          "forms": {
+            "futuro":                { "io": "cadrò", "tu": "cadrai", "lui/lei": "cadrà", "noi": "cadremo", "voi": "cadrete", "loro": "cadranno" },
+            "congiuntivo-presente":  { "io": "cada", "tu": "cada", "lui/lei": "cada", "noi": "cadiamo", "voi": "cadiate", "loro": "cadano" },
+            "condizionale-presente": { "io": "cadrei", "tu": "cadresti", "lui/lei": "cadrebbe", "noi": "cadremmo", "voi": "cadreste", "loro": "cadrebbero" }
+          }
+        },
+        {
+          "id": "ridere", "it": "ridere", "fr": "rire", "group": "-ere",
+          "forms": {
+            "futuro":                { "io": "riderò", "tu": "riderai", "lui/lei": "riderà", "noi": "rideremo", "voi": "riderete", "loro": "rideranno" },
+            "congiuntivo-presente":  { "io": "rida", "tu": "rida", "lui/lei": "rida", "noi": "ridiamo", "voi": "ridiate", "loro": "ridano" },
+            "condizionale-presente": { "io": "riderei", "tu": "rideresti", "lui/lei": "riderebbe", "noi": "rideremmo", "voi": "ridereste", "loro": "riderebbero" }
+          }
+        },
+        {
+          "id": "piangere", "it": "piangere", "fr": "pleurer", "group": "-ere",
+          "forms": {
+            "futuro":                { "io": "piangerò", "tu": "piangerai", "lui/lei": "piangerà", "noi": "piangeremo", "voi": "piangerete", "loro": "piangeranno" },
+            "congiuntivo-presente":  { "io": "pianga", "tu": "pianga", "lui/lei": "pianga", "noi": "piangiamo", "voi": "piangiate", "loro": "piangano" },
+            "condizionale-presente": { "io": "piangerei", "tu": "piangeresti", "lui/lei": "piangerebbe", "noi": "piangeremmo", "voi": "piangereste", "loro": "piangerebbero" }
+          }
+        },
+        {
+          "id": "vincere", "it": "vincere", "fr": "gagner", "group": "-ere",
+          "forms": {
+            "futuro":                { "io": "vincerò", "tu": "vincerai", "lui/lei": "vincerà", "noi": "vinceremo", "voi": "vincerete", "loro": "vinceranno" },
+            "congiuntivo-presente":  { "io": "vinca", "tu": "vinca", "lui/lei": "vinca", "noi": "vinciamo", "voi": "vinciate", "loro": "vincano" },
+            "condizionale-presente": { "io": "vincerei", "tu": "vinceresti", "lui/lei": "vincerebbe", "noi": "vinceremmo", "voi": "vincereste", "loro": "vincerebbero" }
+          }
+        },
+        {
+          "id": "perdere", "it": "perdere", "fr": "perdre", "group": "-ere",
+          "forms": {
+            "futuro":                { "io": "perderò", "tu": "perderai", "lui/lei": "perderà", "noi": "perderemo", "voi": "perderete", "loro": "perderanno" },
+            "congiuntivo-presente":  { "io": "perda", "tu": "perda", "lui/lei": "perda", "noi": "perdiamo", "voi": "perdiate", "loro": "perdano" },
+            "condizionale-presente": { "io": "perderei", "tu": "perderesti", "lui/lei": "perderebbe", "noi": "perderemmo", "voi": "perdereste", "loro": "perderebbero" }
+          }
+        },
+        {
+          "id": "cominciare", "it": "cominciare", "fr": "commencer", "group": "-are",
+          "forms": {
+            "futuro":                { "io": "comincerò", "tu": "comincerai", "lui/lei": "comincerà", "noi": "cominceremo", "voi": "comincerete", "loro": "cominceranno" },
+            "congiuntivo-presente":  { "io": "cominci", "tu": "cominci", "lui/lei": "cominci", "noi": "cominciamo", "voi": "cominciate", "loro": "comincino" },
+            "condizionale-presente": { "io": "comincerei", "tu": "cominceresti", "lui/lei": "comincerebbe", "noi": "cominceremmo", "voi": "comincereste", "loro": "comincerebbero" }
+          }
+        },
+        {
+          "id": "smettere", "it": "smettere", "fr": "arrêter / cesser", "group": "-ere",
+          "forms": {
+            "futuro":                { "io": "smetterò", "tu": "smetterai", "lui/lei": "smetterà", "noi": "smetteremo", "voi": "smetterete", "loro": "smetteranno" },
+            "congiuntivo-presente":  { "io": "smetta", "tu": "smetta", "lui/lei": "smetta", "noi": "smettiamo", "voi": "smettiate", "loro": "smettano" },
+            "condizionale-presente": { "io": "smetterei", "tu": "smetteresti", "lui/lei": "smetterebbe", "noi": "smetteremmo", "voi": "smettereste", "loro": "smetterebbero" }
+          }
+        },
+        {
+          "id": "succedere", "it": "succedere", "fr": "se passer / arriver", "group": "-ere",
+          "forms": {
+            "futuro":                { "io": "succederò", "tu": "succederai", "lui/lei": "succederà", "noi": "succederemo", "voi": "succederete", "loro": "succederanno" },
+            "congiuntivo-presente":  { "io": "succeda", "tu": "succeda", "lui/lei": "succeda", "noi": "succediamo", "voi": "succediate", "loro": "succedano" },
+            "condizionale-presente": { "io": "succederei", "tu": "succederesti", "lui/lei": "succederebbe", "noi": "succederemmo", "voi": "succedereste", "loro": "succederebbero" }
+          }
+        },
+        {
+          "id": "diventare", "it": "diventare", "fr": "devenir", "group": "-are",
+          "forms": {
+            "futuro":                { "io": "diventerò", "tu": "diventerai", "lui/lei": "diventerà", "noi": "diventeremo", "voi": "diventerete", "loro": "diventeranno" },
+            "congiuntivo-presente":  { "io": "diventi", "tu": "diventi", "lui/lei": "diventi", "noi": "diventiamo", "voi": "diventiate", "loro": "diventino" },
+            "condizionale-presente": { "io": "diventerei", "tu": "diventeresti", "lui/lei": "diventerebbe", "noi": "diventeremmo", "voi": "diventereste", "loro": "diventerebbero" }
+          }
+        }
+      ]
+    }
+  ]
+}

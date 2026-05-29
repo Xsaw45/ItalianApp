@@ -9,11 +9,13 @@
     "sections": [
       {
         "type": "intro",
-        "content": "Gli aggettivi sono parole che servono a descrivere meglio il nome, spiegando le sue qualità e caratteristiche. Buono, cattivo, stupido, intelligente, giovane, vecchio sono aggettivi."
+        "content": "Gli aggettivi sono parole che servono a descrivere meglio il nome, spiegando le sue qualità e caratteristiche. Buono, cattivo, stupido, intelligente, giovane, vecchio sono aggettivi.",
+        "content_fr": "Les adjectifs sont des mots qui servent à mieux décrire le nom en expliquant ses qualités et caractéristiques. Buono, cattivo, stupido, intelligente, giovane, vecchio sont des adjectifs."
       },
       {
         "type": "paragraph",
-        "content": "Gli aggettivi qualificativi non solo descrivono, ma **specificano** meglio il nome, che da generico diventa più preciso."
+        "content": "Gli aggettivi qualificativi non solo descrivono, ma **specificano** meglio il nome, che da generico diventa più preciso.",
+        "content_fr": "Les adjectifs qualificatifs ne font pas que décrire, ils **précisent** mieux le nom, qui passe du général au particulier."
       },
       {
         "type": "example",
@@ -24,28 +26,38 @@
       },
       {
         "type": "paragraph",
-        "content": "Gli aggettivi devono sempre **concordare con il nome** al quale si riferiscono: se mettiamo insieme un articolo, un nome e un aggettivo, essi devono essere tutti e tre maschili oppure tutti e tre femminili, e tutti e tre singolari o plurali."
+        "content": "Gli aggettivi devono sempre **concordare con il nome** al quale si riferiscono: se mettiamo insieme un articolo, un nome e un aggettivo, essi devono essere tutti e tre maschili oppure tutti e tre femminili, e tutti e tre singolari o plurali.",
+        "content_fr": "Les adjectifs doivent toujours **s'accorder avec le nom** auquel ils se réfèrent : si l'on met ensemble un article, un nom et un adjectif, ils doivent être tous les trois masculins ou tous les trois féminins, et tous les trois singuliers ou pluriels."
       },
       {
         "type": "heading",
-        "content": "La Forma"
+        "content": "La Forma",
+        "content_fr": "La Forme"
       },
       {
         "type": "table",
         "caption": "I due gruppi di aggettivi",
+        "caption_fr": "Les deux groupes d'adjectifs",
         "headers": ["Maschile sing.", "Femminile sing.", "Maschile plur.", "Femminile plur."],
+        "headers_fr": ["Masculin sing.", "Féminin sing.", "Masculin plur.", "Féminin plur."],
         "rows": [
+          ["-o (nuovo)", "-a (nuova)", "-i (nuovi)", "-e (nuove)"],
+          ["-e (intelligente)", "-e (intelligente)", "-i (intelligenti)", "-i (intelligenti)"]
+        ],
+        "rows_fr": [
           ["-o (nuovo)", "-a (nuova)", "-i (nuovi)", "-e (nuove)"],
           ["-e (intelligente)", "-e (intelligente)", "-i (intelligenti)", "-i (intelligenti)"]
         ]
       },
       {
         "type": "paragraph",
-        "content": "**Attenzione:** L'aggettivo *egoista* ha un solo singolare (egoista), ma due plurali: *egoisti* al maschile e *egoiste* al femminile."
+        "content": "**Attenzione:** L'aggettivo *egoista* ha un solo singolare (egoista), ma due plurali: *egoisti* al maschile e *egoiste* al femminile.",
+        "content_fr": "**Attention :** L'adjectif *egoista* n'a qu'un seul singulier (egoista), mais deux pluriels : *egoisti* au masculin et *egoiste* au féminin."
       },
       {
         "type": "heading",
-        "content": "L'Uso con più nomi"
+        "content": "L'Uso con più nomi",
+        "content_fr": "L'emploi avec plusieurs noms"
       },
       {
         "type": "list",
@@ -53,6 +65,11 @@
           "**Plurale maschile** se i nomi sono maschili: *Un libro e un quaderno nuovi*",
           "**Plurale femminile** se i nomi sono femminili: *Una penna e una matita nuove*",
           "**Plurale maschile** se i nomi sono uno maschile e uno femminile: *Una penna e un libro nuovi*"
+        ],
+        "items_fr": [
+          "**Pluriel masculin** si les noms sont masculins : *Un libro e un quaderno nuovi*",
+          "**Pluriel féminin** si les noms sont féminins : *Una penna e una matita nuove*",
+          "**Pluriel masculin** si les noms sont l'un masculin et l'autre féminin : *Una penna e un libro nuovi*"
         ]
       }
     ]

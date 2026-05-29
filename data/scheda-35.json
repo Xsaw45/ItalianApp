@@ -9,7 +9,8 @@
     "sections": [
       {
         "type": "intro",
-        "content": "I verbi che si usano generalmente **uniti a un verbo all'infinito** si chiamano:\n- **servili**: *dovere*, *potere*, *volere*;\n- **fraseologici**: *cominciare*, *smettere*, *cercare*…"
+        "content": "I verbi che si usano generalmente **uniti a un verbo all'infinito** si chiamano:\n- **servili**: *dovere*, *potere*, *volere*;\n- **fraseologici**: *cominciare*, *smettere*, *cercare*…",
+        "content_fr": "Les verbes qui s'emploient généralement **associés à un verbe à l'infinitif** s'appellent :\n- **verbes modaux** : *dovere*, *potere*, *volere* ;\n- **fraseologici** (aspectuels) : *cominciare*, *smettere*, *cercare*…"
       },
       {
         "type": "example",
@@ -22,16 +23,20 @@
       },
       {
         "type": "paragraph",
-        "content": "Questi verbi sono uniti all'infinito:"
+        "content": "Questi verbi sono uniti all'infinito:",
+        "content_fr": "Ces verbes sont associés à l'infinitif :"
       },
       {
         "type": "heading",
-        "content": "Direttamente (senza preposizione)"
+        "content": "Direttamente (senza preposizione)",
+        "content_fr": "Directement (sans préposition)"
       },
       {
         "type": "table",
         "caption": "Verbi seguiti direttamente dall'infinito",
+        "caption_fr": "Verbes suivis directement de l'infinitif",
         "headers": ["Verbo", "Esempio"],
+        "headers_fr": ["Verbe", "Exemple"],
         "rows": [
           ["volere", "Vorrei andare a dormire."],
           ["potere", "Posso telefonare io, se vuoi."],
@@ -40,11 +45,21 @@
           ["preferire", "Preferisco andare a casa."],
           ["fare", "Queste notizie mi fanno stare male."],
           ["lasciare", "Lascia perdere."]
+        ],
+        "rows_fr": [
+          ["volere (vouloir)", "Vorrei andare a dormire."],
+          ["potere (pouvoir)", "Posso telefonare io, se vuoi."],
+          ["dovere (devoir)", "Devo studiare dieci pagine di geografia."],
+          ["piacere (plaire)", "Mi piace molto stare qui."],
+          ["preferire (préférer)", "Preferisco andare a casa."],
+          ["fare (faire)", "Queste notizie mi fanno stare male."],
+          ["lasciare (laisser)", "Lascia perdere."]
         ]
       },
       {
         "type": "paragraph",
-        "content": "(Si costruiscono unendosi direttamente all'infinito senza alcuna preposizione anche le espressioni verbo *essere* + aggettivo: è bello, è facile, è inutile…)"
+        "content": "(Si costruiscono unendosi direttamente all'infinito senza alcuna preposizione anche le espressioni verbo *essere* + aggettivo: è bello, è facile, è inutile…)",
+        "content_fr": "(Se construisent également en s'associant directement à l'infinitif sans aucune préposition les expressions verbe *essere* + adjectif : è bello, è facile, è inutile…)"
       },
       {
         "type": "example",
@@ -55,12 +70,15 @@
       },
       {
         "type": "heading",
-        "content": "Con la preposizione a"
+        "content": "Con la preposizione a",
+        "content_fr": "Avec la préposition a"
       },
       {
         "type": "table",
         "caption": "Verbi seguiti da a + infinito",
+        "caption_fr": "Verbes suivis de a + infinitif",
         "headers": ["Verbo", "Esempio"],
+        "headers_fr": ["Verbe", "Exemple"],
         "rows": [
           ["incominciare", "Paola ha incominciato **a** studiare l'inglese."],
           ["continuare", "Continua **a** leggere."],
@@ -70,16 +88,29 @@
           ["insistere", "Beatrice insiste **a** chiedergli dei soldi, ma è inutile."],
           ["provare", "Prova **a** telefonare di nuovo."],
           ["riuscire", "Non riesco **a** capire questo problema di geometria."]
+        ],
+        "rows_fr": [
+          ["incominciare (commencer)", "Paola ha incominciato **a** studiare l'inglese."],
+          ["continuare (continuer)", "Continua **a** leggere."],
+          ["divertirsi (s'amuser)", "Silvio si diverte **a** collezionare francobolli."],
+          ["decidersi (se décider)", "Vincenzo si è deciso **a** sposarsi."],
+          ["mettersi (se mettre)", "Mettiti **a** studiare."],
+          ["insistere (insister)", "Beatrice insiste **a** chiedergli dei soldi, ma è inutile."],
+          ["provare (essayer)", "Prova **a** telefonare di nuovo."],
+          ["riuscire (réussir)", "Non riesco **a** capire questo problema di geometria."]
         ]
       },
       {
         "type": "heading",
-        "content": "Con la preposizione di"
+        "content": "Con la preposizione di",
+        "content_fr": "Avec la préposition di"
       },
       {
         "type": "table",
         "caption": "Verbi seguiti da di + infinito",
+        "caption_fr": "Verbes suivis de di + infinitif",
         "headers": ["Verbo", "Esempio"],
+        "headers_fr": ["Verbe", "Exemple"],
         "rows": [
           ["finire", "Ho finito **di** studiare."],
           ["pensare", "Penso **di** preparare una bella frittata per cena."],
@@ -93,11 +124,26 @@
           ["rifiutare", "Mi rifiuto **di** tornare da quel medico."],
           ["far finta/fingere", "Raffaella fa finta **di** essere d'accordo, ma poi fa quello che vuole."],
           ["sforzarsi", "Sforzati **di** fare più attenzione."]
+        ],
+        "rows_fr": [
+          ["finire (finir)", "Ho finito **di** studiare."],
+          ["pensare (penser)", "Penso **di** preparare una bella frittata per cena."],
+          ["credere (croire)", "Credo **di** aver studiato abbastanza."],
+          ["decidere (décider)", "Stefan ha deciso **di** tornare in Romania."],
+          ["cercare (chercher / essayer)", "Cerca **di** parlare più forte."],
+          ["ricordarsi (se souvenir)", "Ricordiamoci **di** restituire il quaderno a Sara."],
+          ["dimenticarsi (oublier)", "Ti sei dimenticato **di** portare la giustificazione?"],
+          ["accettare (accepter)", "Jonas ha accettato **di** fare quel lavoro, anche se non gli piace."],
+          ["tentare (tenter)", "Tenterò **di** spiegarti che cosa è successo."],
+          ["rifiutare (refuser)", "Mi rifiuto **di** tornare da quel medico."],
+          ["far finta/fingere (faire semblant)", "Raffaella fa finta **di** essere d'accordo, ma poi fa quello che vuole."],
+          ["sforzarsi (s'efforcer)", "Sforzati **di** fare più attenzione."]
         ]
       },
       {
         "type": "paragraph",
-        "content": "**Attenzione:** I verbi *pensare* e *credere* sono seguiti da **di + infinito** quando il soggetto di *pensare/credere* e il soggetto dell'infinito sono uguali:"
+        "content": "**Attenzione:** I verbi *pensare* e *credere* sono seguiti da **di + infinito** quando il soggetto di *pensare/credere* e il soggetto dell'infinito sono uguali:",
+        "content_fr": "**Attention :** Les verbes *pensare* et *credere* sont suivis de **di + infinitif** lorsque le sujet de *pensare/credere* et le sujet de l'infinitif sont identiques :"
       },
       {
         "type": "example",
@@ -107,7 +153,8 @@
       },
       {
         "type": "paragraph",
-        "content": "Quando il soggetto è diverso, *pensare* e *credere* sono seguiti da **che + indicativo** o **congiuntivo**:"
+        "content": "Quando il soggetto è diverso, *pensare* e *credere* sono seguiti da **che + indicativo** o **congiuntivo**:",
+        "content_fr": "Lorsque le sujet est différent, *pensare* et *credere* sont suivis de **che + indicatif** ou **subjonctif** :"
       },
       {
         "type": "example",

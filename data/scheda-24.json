@@ -9,11 +9,13 @@
     "sections": [
       {
         "type": "intro",
-        "content": "**L'imperfetto è un tempo del modo indicativo.**"
+        "content": "**L'imperfetto è un tempo del modo indicativo.**",
+        "content_fr": "**L'imparfait est un temps du mode indicatif.**"
       },
       {
         "type": "paragraph",
-        "content": "L'indicativo **imperfetto** indica un'azione **passata** che ha avuto una certa **durata** e **continuità**."
+        "content": "L'indicativo **imperfetto** indica un'azione **passata** che ha avuto una certa **durata** e **continuità**.",
+        "content_fr": "L'indicatif **imparfait** indique une action **passée** qui a eu une certaine **durée** et **continuité**."
       },
       {
         "type": "example",
@@ -23,21 +25,34 @@
       },
       {
         "type": "heading",
-        "content": "La forma"
+        "content": "La forma",
+        "content_fr": "La forme"
       },
       {
         "type": "paragraph",
-        "content": "Per le coniugazioni regolari dell'imperfetto vedi **Tavole dei verbi, pp. 324–31.**"
+        "content": "Per le coniugazioni regolari dell'imperfetto vedi **Tavole dei verbi, pp. 324–31.**",
+        "content_fr": "Pour les conjugaisons régulières de l'imparfait, voir **Tableaux des verbes, pp. 324–31.**"
       },
       {
         "type": "paragraph",
-        "content": "Indichiamo di seguito l'imperfetto indicativo dei più importanti verbi irregolari."
+        "content": "Indichiamo di seguito l'imperfetto indicativo dei più importanti verbi irregolari.",
+        "content_fr": "Nous indiquons ci-dessous l'imparfait de l'indicatif des verbes irréguliers les plus importants."
       },
       {
         "type": "table",
         "caption": "Imperfetto dei verbi irregolari",
+        "caption_fr": "Imparfait des verbes irréguliers",
         "headers": ["Avere", "", "Essere", "", "Fare", "", "Dire", ""],
+        "headers_fr": ["Avere (avoir)", "", "Essere (être)", "", "Fare (faire)", "", "Dire (dire)", ""],
         "rows": [
+          ["io", "avevo", "io", "ero", "io", "facevo", "io", "dicevo"],
+          ["tu", "avevi", "tu", "eri", "tu", "facevi", "tu", "dicevi"],
+          ["lui", "aveva", "lui", "era", "lui", "faceva", "lui", "diceva"],
+          ["noi", "avevamo", "noi", "eravamo", "noi", "facevamo", "noi", "dicevamo"],
+          ["voi", "avevate", "voi", "eravate", "voi", "facevate", "voi", "dicevate"],
+          ["loro", "avevano", "loro", "erano", "loro", "facevano", "loro", "dicevano"]
+        ],
+        "rows_fr": [
           ["io", "avevo", "io", "ero", "io", "facevo", "io", "dicevo"],
           ["tu", "avevi", "tu", "eri", "tu", "facevi", "tu", "dicevi"],
           ["lui", "aveva", "lui", "era", "lui", "faceva", "lui", "diceva"],
@@ -48,11 +63,13 @@
       },
       {
         "type": "heading",
-        "content": "L'uso"
+        "content": "L'uso",
+        "content_fr": "L'emploi"
       },
       {
         "type": "paragraph",
-        "content": "L'imperfetto si usa:"
+        "content": "L'imperfetto si usa:",
+        "content_fr": "L'imparfait s'utilise :"
       },
       {
         "type": "list",
@@ -60,6 +77,11 @@
           "per fare una **descrizione** al passato",
           "per esprimere un'azione **abituale** e **ripetitiva** nel passato",
           "per indicare che un'azione passata è avvenuta nello stesso momento di un'altra anche passata (e che tutte e due le azioni hanno avuto la stessa durata)"
+        ],
+        "items_fr": [
+          "pour faire une **description** au passé",
+          "pour exprimer une action **habituelle** et **répétitive** dans le passé",
+          "pour indiquer qu'une action passée s'est produite en même temps qu'une autre également passée (et que les deux actions ont eu la même durée)"
         ]
       },
       {

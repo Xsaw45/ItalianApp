@@ -7,6 +7,7 @@ import { renderTheory } from './theory-renderer.js';
 import { renderExercises } from './exercise-renderer.js';
 import { markTheoryViewed } from '../state.js';
 import { navigate } from '../router.js';
+import { t, localName } from '../i18n.js';
 
 /**
  * Render the scheda view.
@@ -20,7 +21,7 @@ export async function renderSchedaView(schedaId, activeTab = 'theory') {
   // Loading state
   app.appendChild(el('div', { className: 'loading-spinner' },
     el('div', { className: 'spinner' }),
-    el('p', {}, 'Caricamento...')
+    el('p', {}, t('scheda.loading'))
   ));
 
   try {
@@ -33,17 +34,18 @@ export async function renderSchedaView(schedaId, activeTab = 'theory') {
 
     const manifestScheda = manifest.schede[schedaId];
     if (!manifestScheda) {
-      app.appendChild(el('p', {}, `Scheda "${schedaId}" non trovata.`));
+      app.appendChild(el('p', {}, t('scheda.not.found', { id: schedaId })));
       return;
     }
 
     // Scheda header
     const header = el('div', { className: 'scheda-header' });
-    header.appendChild(el('div', { className: 'scheda-number' }, `Scheda ${schedaId}`));
-    header.appendChild(el('h2', { className: 'scheda-title' }, schedaData.meta.title));
-    if (schedaData.meta.subtitle) {
+    header.appendChild(el('div', { className: 'scheda-number' }, `${t('scheda.prefix')} ${schedaId}`));
+    header.appendChild(el('h2', { className: 'scheda-title' }, localName(schedaData.meta, 'title')));
+    const subtitle = localName(schedaData.meta, 'subtitle');
+    if (subtitle) {
       header.appendChild(el('p', { style: { color: 'var(--color-text-light)', marginTop: 'var(--space-xs)' } },
-        schedaData.meta.subtitle));
+        subtitle));
     }
     app.appendChild(header);
 
@@ -53,12 +55,12 @@ export async function renderSchedaView(schedaId, activeTab = 'theory') {
     const theoryTab = el('button', {
       className: `tab ${activeTab === 'theory' ? 'active' : ''}`,
       onClick: () => navigate(`/scheda/${schedaId}`)
-    }, 'Teoria');
+    }, t('scheda.tab.theory'));
 
     const exercisesTab = el('button', {
       className: `tab ${activeTab === 'exercises' ? 'active' : ''}`,
       onClick: () => navigate(`/scheda/${schedaId}/exercises`)
-    }, 'Esercizi');
+    }, t('scheda.tab.exercises'));
 
     tabs.appendChild(theoryTab);
     tabs.appendChild(exercisesTab);
@@ -76,7 +78,7 @@ export async function renderSchedaView(schedaId, activeTab = 'theory') {
 
     app.appendChild(content);
 
-    // Navigation between schede
+    // Navigation between schede (follows pedagogical order from categories)
     const nav = el('div', {
       style: {
         display: 'flex',
@@ -87,7 +89,7 @@ export async function renderSchedaView(schedaId, activeTab = 'theory') {
       }
     });
 
-    const schedeIds = Object.keys(manifest.schede);
+    const schedeIds = manifest.categories.flatMap(cat => cat.schede);
     const currentIdx = schedeIds.indexOf(schedaId);
 
     if (currentIdx > 0) {
@@ -96,7 +98,7 @@ export async function renderSchedaView(schedaId, activeTab = 'theory') {
         href: `#/scheda/${prevId}`,
         className: 'btn btn-ghost',
         style: { textDecoration: 'none' }
-      }, `\u2190 Scheda ${prevId}`));
+      }, t('scheda.prev', { id: prevId })));
     } else {
       nav.appendChild(el('span'));
     }
@@ -105,14 +107,14 @@ export async function renderSchedaView(schedaId, activeTab = 'theory') {
       nav.appendChild(el('button', {
         className: 'btn btn-primary btn-lg',
         onClick: () => navigate(`/scheda/${schedaId}/exercises`)
-      }, 'Vai agli esercizi \u2192'));
+      }, t('scheda.go.exercises')));
     } else if (currentIdx < schedeIds.length - 1) {
       const nextId = schedeIds[currentIdx + 1];
       nav.appendChild(el('a', {
         href: `#/scheda/${nextId}`,
         className: 'btn btn-ghost',
         style: { textDecoration: 'none' }
-      }, `Scheda ${nextId} \u2192`));
+      }, t('scheda.next', { id: nextId })));
     }
 
     app.appendChild(nav);
@@ -123,14 +125,14 @@ export async function renderSchedaView(schedaId, activeTab = 'theory') {
   } catch (err) {
     clearElement(app);
     app.appendChild(el('div', { className: 'card', style: { textAlign: 'center', padding: 'var(--space-2xl)' } },
-      el('h3', { style: { marginBottom: 'var(--space-md)' } }, 'Scheda non ancora disponibile'),
+      el('h3', { style: { marginBottom: 'var(--space-md)' } }, t('scheda.unavailable.title')),
       el('p', { style: { color: 'var(--color-text-muted)' } },
-        `Il contenuto della Scheda ${schedaId} non è ancora stato digitalizzato.`),
+        t('scheda.unavailable.body', { id: schedaId })),
       el('button', {
         className: 'btn btn-primary',
         onClick: () => navigate('/home'),
         style: { marginTop: 'var(--space-lg)' }
-      }, 'Torna alla home')
+      }, t('scheda.back.home'))
     ));
   }
 }

@@ -9,11 +9,13 @@
     "sections": [
       {
         "type": "intro",
-        "content": "**Il passato prossimo è un tempo composto del modo indicativo.**"
+        "content": "**Il passato prossimo è un tempo composto del modo indicativo.**",
+        "content_fr": "**Le passé composé est un temps composé du mode indicatif.**"
       },
       {
         "type": "paragraph",
-        "content": "Il **passato prossimo** indica un'azione **passata**. Le azioni al passato prossimo sono avvenute in un passato **vicino**:"
+        "content": "Il **passato prossimo** indica un'azione **passata**. Le azioni al passato prossimo sono avvenute in un passato **vicino**:",
+        "content_fr": "Le **passé composé** indique une action **passée**. Les actions au passé composé se sont produites dans un passé **récent** :"
       },
       {
         "type": "example",
@@ -23,7 +25,8 @@
       },
       {
         "type": "paragraph",
-        "content": "oppure in un passato lontano, ma i cui effetti durano ancora nel presente:"
+        "content": "oppure in un passato lontano, ma i cui effetti durano ancora nel presente:",
+        "content_fr": "ou dans un passé lointain, mais dont les effets durent encore dans le présent :"
       },
       {
         "type": "example",
@@ -33,29 +36,44 @@
       },
       {
         "type": "paragraph",
-        "content": "Il passato prossimo è un **tempo composto**, cioè è fatto di due parole:"
+        "content": "Il passato prossimo è un **tempo composto**, cioè è fatto di due parole:",
+        "content_fr": "Le passé composé est un **temps composé**, c'est-à-dire qu'il est formé de deux mots :"
       },
       {
         "type": "table",
         "caption": "Struttura del passato prossimo",
+        "caption_fr": "Structure du passé composé",
         "headers": ["Ausiliare", "Participio passato", "Ausiliare", "Participio passato"],
+        "headers_fr": ["Auxiliaire", "Participe passé", "Auxiliaire", "Participe passé"],
         "rows": [
+          ["HO", "GIOCATO", "SONO", "ANDATO"]
+        ],
+        "rows_fr": [
           ["HO", "GIOCATO", "SONO", "ANDATO"]
         ]
       },
       {
         "type": "paragraph",
-        "content": "L'**ausiliare** del passato prossimo può essere il tempo presente di **avere**, oppure di **essere** (vedremo dopo quando si usa l'uno o l'altro)."
+        "content": "L'**ausiliare** del passato prossimo può essere il tempo presente di **avere**, oppure di **essere** (vedremo dopo quando si usa l'uno o l'altro).",
+        "content_fr": "L'**auxiliaire** du passé composé peut être le présent de **avere**, ou bien de **essere** (nous verrons plus loin quand on utilise l'un ou l'autre)."
       },
       {
         "type": "paragraph",
-        "content": "Il **participio passato** è una forma verbale che si ottiene sostituendo la desinenza *-are*, *-ere*, *-ire* dell'infinito con la desinenza **-ato**, **-uto**, **-ito**:"
+        "content": "Il **participio passato** è una forma verbale che si ottiene sostituendo la desinenza *-are*, *-ere*, *-ire* dell'infinito con la desinenza **-ato**, **-uto**, **-ito**:",
+        "content_fr": "Le **participe passé** est une forme verbale que l'on obtient en remplaçant la désinence *-are*, *-ere*, *-ire* de l'infinitif par la désinence **-ato**, **-uto**, **-ito** :"
       },
       {
         "type": "table",
         "caption": "Formazione del participio passato regolare",
+        "caption_fr": "Formation du participe passé régulier",
         "headers": ["Infinito", "Participio passato"],
+        "headers_fr": ["Infinitif", "Participe passé"],
         "rows": [
+          ["parl**are**", "parl**ato**"],
+          ["cred**ere**", "cred**uto**"],
+          ["sent**ire**", "sent**ito**"]
+        ],
+        "rows_fr": [
           ["parl**are**", "parl**ato**"],
           ["cred**ere**", "cred**uto**"],
           ["sent**ire**", "sent**ito**"]
@@ -63,13 +81,25 @@
       },
       {
         "type": "paragraph",
-        "content": "Esistono molti participi passati irregolari. Ecco un elenco di quelli più importanti."
+        "content": "Esistono molti participi passati irregolari. Ecco un elenco di quelli più importanti.",
+        "content_fr": "Il existe de nombreux participes passés irréguliers. Voici une liste des plus importants."
       },
       {
         "type": "table",
         "caption": "Participi passati irregolari – 1ª e 2ª coniugazione",
+        "caption_fr": "Participes passés irréguliers – 1ère et 2ème conjugaison",
         "headers": ["1ª coniugazione", "", "2ª coniugazione", "", "", "", "", ""],
+        "headers_fr": ["1ère conjugaison", "", "2ème conjugaison", "", "", "", "", ""],
         "rows": [
+          ["fare", "fatto", "accendere", "acceso", "leggere", "letto", "spendere", "speso"],
+          ["", "", "bere", "bevuto", "mettere", "messo", "togliere", "tolto"],
+          ["", "", "chiedere", "chiesto", "nascere", "nato", "vincere", "vinto"],
+          ["", "", "chiudere", "chiuso", "nascondere", "nascosto", "rompere", "rotto"],
+          ["", "", "decidere", "deciso", "prendere", "preso", "scegliere", "scelto"],
+          ["", "", "dipingere", "dipinto", "rimanere", "rimasto", "scendere", "sceso"],
+          ["", "", "dividere", "diviso", "rispondere", "risposto", "scrivere", "scritto"]
+        ],
+        "rows_fr": [
           ["fare", "fatto", "accendere", "acceso", "leggere", "letto", "spendere", "speso"],
           ["", "", "bere", "bevuto", "mettere", "messo", "togliere", "tolto"],
           ["", "", "chiedere", "chiesto", "nascere", "nato", "vincere", "vinto"],
@@ -82,8 +112,16 @@
       {
         "type": "table",
         "caption": "Participi passati irregolari – 3ª coniugazione",
+        "caption_fr": "Participes passés irréguliers – 3ème conjugaison",
         "headers": ["3ª coniugazione", ""],
+        "headers_fr": ["3ème conjugaison", ""],
         "rows": [
+          ["aprire", "aperto"],
+          ["dire", "detto"],
+          ["morire", "morto"],
+          ["venire", "venuto"]
+        ],
+        "rows_fr": [
           ["aprire", "aperto"],
           ["dire", "detto"],
           ["morire", "morto"],
@@ -92,27 +130,36 @@
       },
       {
         "type": "heading",
-        "content": "L'ausiliare: avere o essere?"
+        "content": "L'ausiliare: avere o essere?",
+        "content_fr": "L'auxiliaire : avere ou essere ?"
       },
       {
         "type": "paragraph",
-        "content": "La maggioranza dei verbi vuole l'ausiliare **avere**. C'è però un gruppo di verbi (detti intransitivi) che vogliono l'ausiliare **essere**. Sono in genere verbi che indicano un movimento (*andare, arrivare, partire, tornare, venire*) o un cambiamento (*diventare, morire, nascere, crescere*). Dato però che le eccezioni sono numerose, è necessario imparare con l'uso e a memoria qual è l'ausiliare giusto e – in caso di dubbio – consultare il dizionario."
+        "content": "La maggioranza dei verbi vuole l'ausiliare **avere**. C'è però un gruppo di verbi (detti intransitivi) che vogliono l'ausiliare **essere**. Sono in genere verbi che indicano un movimento (*andare, arrivare, partire, tornare, venire*) o un cambiamento (*diventare, morire, nascere, crescere*). Dato però che le eccezioni sono numerose, è necessario imparare con l'uso e a memoria qual è l'ausiliare giusto e – in caso di dubbio – consultare il dizionario.",
+        "content_fr": "La majorité des verbes prend l'auxiliaire **avere**. Il existe cependant un groupe de verbes (dits intransitifs) qui prennent l'auxiliaire **essere**. Ce sont en général des verbes indiquant un mouvement (*andare, arrivare, partire, tornare, venire*) ou un changement (*diventare, morire, nascere, crescere*). Comme les exceptions sont nombreuses, il est nécessaire d'apprendre avec l'usage et par cœur quel est le bon auxiliaire et — en cas de doute — de consulter le dictionnaire."
       },
       {
         "type": "table",
         "caption": "Passato prossimo con avere e con essere",
+        "caption_fr": "Passé composé avec avere et avec essere",
         "headers": ["Mangiare (ausiliare avere)", "", "Andare (ausiliare essere)", ""],
+        "headers_fr": ["Mangiare (auxiliaire avere)", "", "Andare (auxiliaire essere)", ""],
         "rows": [
+          ["io", "ho mangiato", "io", "sono andato (andata)"]
+        ],
+        "rows_fr": [
           ["io", "ho mangiato", "io", "sono andato (andata)"]
         ]
       },
       {
         "type": "heading",
-        "content": "Attenzione"
+        "content": "Attenzione",
+        "content_fr": "Attention"
       },
       {
         "type": "paragraph",
-        "content": "Con l'ausiliare **avere** il participio passato non cambia. Con l'ausiliare **essere** cambia, cioè concorda in genere e numero con il soggetto."
+        "content": "Con l'ausiliare **avere** il participio passato non cambia. Con l'ausiliare **essere** cambia, cioè concorda in genere e numero con il soggetto.",
+        "content_fr": "Avec l'auxiliaire **avere**, le participe passé ne change pas. Avec l'auxiliaire **essere**, il change, c'est-à-dire qu'il s'accorde en genre et en nombre avec le sujet."
       },
       {
         "type": "example",
@@ -123,11 +170,13 @@
       },
       {
         "type": "paragraph",
-        "content": "Anche con l'ausiliare **avere** il participio passato cambia come genere e numero, quando il passato prossimo è preceduto dal pronome personale *lo, la, li, le*."
+        "content": "Anche con l'ausiliare **avere** il participio passato cambia come genere e numero, quando il passato prossimo è preceduto dal pronome personale *lo, la, li, le*.",
+        "content_fr": "Avec l'auxiliaire **avere** également, le participe passé s'accorde en genre et en nombre lorsque le passé composé est précédé du pronom personnel *lo, la, li, le*."
       },
       {
         "type": "paragraph",
-        "content": "Vedi **Scheda 11, *I pronomi*.**"
+        "content": "Vedi **Scheda 11, *I pronomi*.**",
+        "content_fr": "Voir **Scheda 11, *I pronomi*.**"
       },
       {
         "type": "example",

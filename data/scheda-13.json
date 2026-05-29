@@ -9,16 +9,20 @@
     "sections": [
       {
         "type": "intro",
-        "content": "Ecco la forma dei pronomi personali quando si usano come complemento indiretto."
+        "content": "Ecco la forma dei pronomi personali quando si usano come complemento indiretto.",
+        "content_fr": "Voici la forme des pronoms personnels lorsqu'ils sont utilisés comme complément indirect."
       },
       {
         "type": "heading",
-        "content": "La Forma"
+        "content": "La Forma",
+        "content_fr": "La Forme"
       },
       {
         "type": "table",
         "caption": "Pronomi complemento indiretto — forma debole e forte",
+        "caption_fr": "Pronoms complément indirect — forme faible et forte",
         "headers": ["Persona", "Forma debole", "Forma forte"],
+        "headers_fr": ["Personne", "Forme faible", "Forme forte"],
         "rows": [
           ["1ª singolare", "mi (= a me)", "me (a me, di me, con me...)"],
           ["2ª singolare", "ti (= a te)", "te (a te, di te, con te...)"],
@@ -27,30 +31,47 @@
           ["1ª plurale", "ci (= a noi)", "noi (a noi, di noi, con noi...)"],
           ["2ª plurale", "vi (= a voi)", "voi (a voi, di voi, con voi...)"],
           ["3ª plurale", "gli (= a loro)", "loro (a loro, di loro, con loro...)"]
+        ],
+        "rows_fr": [
+          ["1ère singulier", "mi (= à moi)", "me (à moi, de moi, avec moi...)"],
+          ["2ème singulier", "ti (= à toi)", "te (à toi, de toi, avec toi...)"],
+          ["3ème singulier M.", "gli (= à lui)", "lui/sé (à lui, à soi, de lui...)"],
+          ["3ème singulier F.", "le (= à elle)", "lei/sé (à elle, à soi, d'elle...)"],
+          ["1ère pluriel", "ci (= à nous)", "noi (à nous, de nous, avec nous...)"],
+          ["2ème pluriel", "vi (= à vous)", "voi (à vous, de vous, avec vous...)"],
+          ["3ème pluriel", "gli (= à eux/elles)", "loro (à eux/elles, d'eux/elles, avec eux/elles...)"]
         ]
       },
       {
         "type": "heading",
-        "content": "L'Uso"
+        "content": "L'Uso",
+        "content_fr": "L'Emploi"
       },
       {
         "type": "paragraph",
-        "content": "La **forma debole** si usa solo per indicare il complemento di termine (a chi?): *Telefonerò a voi domani → Vi telefonerò domani.*"
+        "content": "La **forma debole** si usa solo per indicare il complemento di termine (a chi?): *Telefonerò a voi domani → Vi telefonerò domani.*",
+        "content_fr": "La **forme faible** s'utilise uniquement pour indiquer le complément d'attribution (à qui ?) : *Telefonerò a voi domani → Vi telefonerò domani.*"
       },
       {
         "type": "paragraph",
-        "content": "La **forma forte** si usa per tutti i complementi introdotti da una preposizione: *Vengo con te. / Abbiamo parlato molto di voi. / Questo regalo è per lei.*"
+        "content": "La **forma forte** si usa per tutti i complementi introdotti da una preposizione: *Vengo con te. / Abbiamo parlato molto di voi. / Questo regalo è per lei.*",
+        "content_fr": "La **forme forte** s'utilise pour tous les compléments introduits par une préposition : *Vengo con te. / Abbiamo parlato molto di voi. / Questo regalo è per lei.*"
       },
       {
         "type": "list",
         "items": [
           "**Prima del verbo** (staccati) se il verbo è all'indicativo, congiuntivo o condizionale: *gli dico / se gli dicessi / gli direi*",
           "**Dopo il verbo** (uniti) se il verbo è all'infinito, imperativo o gerundio: *dirgli / digli / dicendogli*"
+        ],
+        "items_fr": [
+          "**Avant le verbe** (séparés) si le verbe est à l'indicatif, au subjonctif ou au conditionnel : *gli dico / se gli dicessi / gli direi*",
+          "**Après le verbe** (attachés) si le verbe est à l'infinitif, à l'impératif ou au gérondif : *dirgli / digli / dicendogli*"
         ]
       },
       {
         "type": "paragraph",
-        "content": "**Attenzione:** Alla 3ª persona si usa **sé** (invece di lui/lei) quando il pronome si riferisce al soggetto della frase: *Michele pensa solo a sé.* (= a se stesso, è egoista). Invece: *Michele pensa solo a lui.* (= a un'altra persona)"
+        "content": "**Attenzione:** Alla 3ª persona si usa **sé** (invece di lui/lei) quando il pronome si riferisce al soggetto della frase: *Michele pensa solo a sé.* (= a se stesso, è egoista). Invece: *Michele pensa solo a lui.* (= a un'altra persona)",
+        "content_fr": "**Attention :** À la 3ème personne, on utilise **sé** (à la place de lui/lei) quand le pronom se réfère au sujet de la phrase : *Michele pensa solo a sé.* (= à lui-même, il est égoïste). En revanche : *Michele pensa solo a lui.* (= à une autre personne)"
       }
     ]
   },

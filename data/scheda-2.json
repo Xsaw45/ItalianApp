@@ -2,18 +2,22 @@
   "meta": {
     "id": "2",
     "title": "Gli Articoli Partitivi",
+    "title_fr": "Les Articles Partitifs",
     "subtitle": "di + articolo determinativo",
+    "subtitle_fr": "di + article défini",
     "source": "Loescher Editore - L'italiano per studiare"
   },
   "theory": {
     "sections": [
       {
         "type": "intro",
-        "content": "L'articolo partitivo (formato dalla preposizione DI + l'articolo determinativo) indica una parte non ben determinata di un tutto più grande."
+        "content": "L'articolo partitivo (formato dalla preposizione DI + l'articolo determinativo) indica una parte non ben determinata di un tutto più grande.",
+        "content_fr": "L'article partitif (formé de la préposition DI + l'article défini) indique une partie non clairement déterminée d'un tout plus grand."
       },
       {
         "type": "paragraph",
-        "content": "Al **singolare** indica una certa quantità di qualcosa: *un po' di...*"
+        "content": "Al **singolare** indica una certa quantità di qualcosa: *un po' di...*",
+        "content_fr": "Au **singulier**, il indique une certaine quantité de quelque chose : *un po' di...* (un peu de...)"
       },
       {
         "type": "example",
@@ -24,7 +28,8 @@
       },
       {
         "type": "paragraph",
-        "content": "Al **plurale** indica una parte rispetto a tutto, un certo numero di: *alcuni, qualche...*"
+        "content": "Al **plurale** indica una parte rispetto a tutto, un certo numero di: *alcuni, qualche...*",
+        "content_fr": "Au **pluriel**, il indique une partie par rapport au tout, un certain nombre de : *alcuni, qualche...* (quelques...)"
       },
       {
         "type": "example",
@@ -35,27 +40,39 @@
       },
       {
         "type": "heading",
-        "content": "La Forma"
+        "content": "La Forma",
+        "content_fr": "La Forme"
       },
       {
         "type": "table",
         "caption": "Articoli partitivi",
+        "caption_fr": "Articles partitifs",
         "headers": ["", "Singolare", "Plurale", "Davanti a quali nomi?"],
+        "headers_fr": ["", "Singulier", "Pluriel", "Devant quels noms ?"],
         "rows": [
           ["Maschile", "**del** (di+il)", "**dei** (di+i)", "Nomi con **consonante** (eccetto z, s+cons., x, y, ps, gn, pn)"],
           ["Maschile", "**dello** (di+lo)", "**degli** (di+gli)", "Nomi con **z, s+cons., x, y, ps, gn, pn**"],
           ["Maschile", "**dell'** (di+l')", "**degli** (di+gli)", "Nomi con **vocale**"],
           ["Femminile", "**della** (di+la)", "**delle** (di+le)", "Nomi con **consonante**"],
           ["Femminile", "**dell'** (di+l')", "**delle** (di+le)", "Nomi con **vocale**"]
+        ],
+        "rows_fr": [
+          ["Masculin", "**del** (di+il)", "**dei** (di+i)", "Noms avec une **consonne** (sauf z, s+cons., x, y, ps, gn, pn)"],
+          ["Masculin", "**dello** (di+lo)", "**degli** (di+gli)", "Noms avec **z, s+cons., x, y, ps, gn, pn**"],
+          ["Masculin", "**dell'** (di+l')", "**degli** (di+gli)", "Noms avec une **voyelle**"],
+          ["Féminin", "**della** (di+la)", "**delle** (di+le)", "Noms avec une **consonne**"],
+          ["Féminin", "**dell'** (di+l')", "**delle** (di+le)", "Noms avec une **voyelle**"]
         ]
       },
       {
         "type": "heading",
-        "content": "L'Uso"
+        "content": "L'Uso",
+        "content_fr": "L'Emploi"
       },
       {
         "type": "paragraph",
-        "content": "L'articolo partitivo al plurale si usa anche per formare il **plurale dell'articolo indeterminativo**:"
+        "content": "L'articolo partitivo al plurale si usa anche per formare il **plurale dell'articolo indeterminativo**:",
+        "content_fr": "L'article partitif au pluriel s'utilise aussi pour former le **pluriel de l'article indéfini** :"
       },
       {
         "type": "example",

@@ -2,26 +2,32 @@
   "meta": {
     "id": "3",
     "title": "Gli Articoli Determinativi",
+    "title_fr": "Les Articles Définis",
     "subtitle": "Usi particolari con i nomi propri",
+    "subtitle_fr": "Emplois particuliers avec les noms propres",
     "source": "Loescher Editore - L'italiano per studiare"
   },
   "theory": {
     "sections": [
       {
         "type": "intro",
-        "content": "Si usa l'articolo determinativo davanti ai nomi propri? Dipende dal contesto."
+        "content": "Si usa l'articolo determinativo davanti ai nomi propri? Dipende dal contesto.",
+        "content_fr": "Utilise-t-on l'article défini devant les noms propres ? Cela dépend du contexte."
       },
       {
         "type": "heading",
-        "content": "Davanti a un nome di persona"
+        "content": "Davanti a un nome di persona",
+        "content_fr": "Devant un prénom"
       },
       {
         "type": "paragraph",
-        "content": "In generale **no**: *Ho visto Silvano.* Ma nella lingua parlata in certe zone dell'Italia settentrionale **sì**: *Come sta il Bruno?*"
+        "content": "In generale **no**: *Ho visto Silvano.* Ma nella lingua parlata in certe zone dell'Italia settentrionale **sì**: *Come sta il Bruno?*",
+        "content_fr": "En général **non** : *Ho visto Silvano.* Mais dans la langue parlée dans certaines régions du nord de l'Italie **oui** : *Come sta il Bruno?*"
       },
       {
         "type": "heading",
-        "content": "Davanti a un cognome"
+        "content": "Davanti a un cognome",
+        "content_fr": "Devant un nom de famille"
       },
       {
         "type": "list",
@@ -33,11 +39,21 @@
           "**Sì**, se è una donna: *La Grasso è una brava professoressa di matematica.*",
           "**No**, se c'è anche il nome: *Giovanna Grasso è una brava professoressa di matematica.*",
           "**Sì**, se è una famiglia (o marito e moglie): *I Filippi sono veramente gentili.*"
+        ],
+        "items_fr": [
+          "**Non**, si c'est un homme : *Ho incontrato Miniotti.*",
+          "**Oui**, dans le langage bureaucratique : *Il Salvemini è stato interrogato dalla polizia.*",
+          "**Oui**, si le nom de famille est précédé d'un titre : *Il dottor Balocco ha operato mia figlia. Il professor Bracco ha spiegato la lezione.*",
+          "**Oui**, dans le langage scolaire pour désigner un personnage célèbre : *Il Foscolo scrisse Le Grazie.*",
+          "**Oui**, si c'est une femme : *La Grasso è una brava professoressa di matematica.*",
+          "**Non**, si le prénom est aussi présent : *Giovanna Grasso è una brava professoressa di matematica.*",
+          "**Oui**, si c'est une famille (ou un couple) : *I Filippi sono veramente gentili.*"
         ]
       },
       {
         "type": "heading",
-        "content": "Davanti a un nome geografico"
+        "content": "Davanti a un nome geografico",
+        "content_fr": "Devant un nom géographique"
       },
       {
         "type": "list",
@@ -47,6 +63,13 @@
           "**No**, quando è un nome di città: *Abito a Torino. Ho visitato Firenze e Pisa.*",
           "**Sì**, se il nome della città è accompagnato da una determinazione particolare: *La Torino di una volta era una città piccola.*",
           "**Sì**, se la città indica il nome di una squadra di calcio: *Il Torino è tornato in serie A. La Roma ha vinto lo scudetto.*"
+        ],
+        "items_fr": [
+          "**Oui**, quand c'est un nom d'État, de région, de continent, de grande île, de montagne, de lac, de fleuve, de mer ou d'océan : *L'Italia ha un clima temperato. Il Danubio sfocia nel Mar Nero.*",
+          "**Non**, quand la préposition *in* précède un nom d'État, de région ou de continent : *In Italia c'è un clima temperato.*",
+          "**Non**, quand c'est un nom de ville : *Abito a Torino. Ho visitato Firenze e Pisa.*",
+          "**Oui**, si le nom de la ville est accompagné d'une précision particulière : *La Torino di una volta era una città piccola.*",
+          "**Oui**, si la ville désigne le nom d'une équipe de football : *Il Torino è tornato in serie A. La Roma ha vinto lo scudetto.*"
         ]
       }
     ]

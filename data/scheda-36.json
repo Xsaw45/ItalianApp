@@ -9,7 +9,8 @@
     "sections": [
       {
         "type": "intro",
-        "content": "**Gli avverbi sono parole o espressioni che servono per modificare o per precisare meglio altre parole.**"
+        "content": "**Gli avverbi sono parole o espressioni che servono per modificare o per precisare meglio altre parole.**",
+        "content_fr": "**Les adverbes sont des mots ou des expressions qui servent à modifier ou à préciser d'autres mots.**"
       },
       {
         "type": "example",
@@ -21,19 +22,23 @@
       },
       {
         "type": "paragraph",
-        "content": "(*molto* precisa l'aggettivo *intelligente*, cioè spiega quanto Silvano è intelligente)\n(*in fretta* precisa il verbo *camminare*, cioè spiega come cammina Maria)\n(*là* precisa il verbo *essere*, cioè spiega dove si trova il tabaccaio)"
+        "content": "(*molto* precisa l'aggettivo *intelligente*, cioè spiega quanto Silvano è intelligente)\n(*in fretta* precisa il verbo *camminare*, cioè spiega come cammina Maria)\n(*là* precisa il verbo *essere*, cioè spiega dove si trova il tabaccaio)",
+        "content_fr": "(*molto* précise l'adjectif *intelligente*, c'est-à-dire explique dans quelle mesure Silvano est intelligent)\n(*in fretta* précise le verbe *camminare*, c'est-à-dire explique comment marche Maria)\n(*là* précise le verbe *essere*, c'est-à-dire explique où se trouve le buraliste)"
       },
       {
         "type": "paragraph",
-        "content": "Ci sono molti tipi di avverbio, che servono per indicare:"
+        "content": "Ci sono molti tipi di avverbio, che servono per indicare:",
+        "content_fr": "Il existe de nombreux types d'adverbes, qui servent à indiquer :"
       },
       {
         "type": "heading",
-        "content": "Il modo"
+        "content": "Il modo",
+        "content_fr": "La manière"
       },
       {
         "type": "paragraph",
-        "content": "Il **modo** in cui un'azione viene fatta:\n**bene, male, facilmente, lentamente, velocemente, in fretta, di corsa, dolcemente, ingiustamente…**"
+        "content": "Il **modo** in cui un'azione viene fatta:\n**bene, male, facilmente, lentamente, velocemente, in fretta, di corsa, dolcemente, ingiustamente…**",
+        "content_fr": "La **manière** dont une action est accomplie :\n**bene, male, facilmente, lentamente, velocemente, in fretta, di corsa, dolcemente, ingiustamente…**"
       },
       {
         "type": "example",
@@ -44,15 +49,18 @@
       },
       {
         "type": "paragraph",
-        "content": "Per formare un avverbio di modo, bisogna aggiungere **-mente** alla forma femminile dell'aggettivo:\n*attento* → *attenta* → **attentamente**\n\nSe l'aggettivo finisce in **-le**, la **-e** cade:\n*facile* → **facilmente**"
+        "content": "Per formare un avverbio di modo, bisogna aggiungere **-mente** alla forma femminile dell'aggettivo:\n*attento* → *attenta* → **attentamente**\n\nSe l'aggettivo finisce in **-le**, la **-e** cade:\n*facile* → **facilmente**",
+        "content_fr": "Pour former un adverbe de manière, il faut ajouter **-mente** à la forme féminine de l'adjectif :\n*attento* → *attenta* → **attentamente**\n\nSi l'adjectif se termine en **-le**, le **-e** tombe :\n*facile* → **facilmente**"
       },
       {
         "type": "heading",
-        "content": "Il tempo"
+        "content": "Il tempo",
+        "content_fr": "Le temps"
       },
       {
         "type": "paragraph",
-        "content": "Il **tempo** in cui avviene l'azione:\n**ora, poi, mai, sempre, spesso, qualche volta, subito, prima, dopo, presto, tardi, oggi, domani…**"
+        "content": "Il **tempo** in cui avviene l'azione:\n**ora, poi, mai, sempre, spesso, qualche volta, subito, prima, dopo, presto, tardi, oggi, domani…**",
+        "content_fr": "Le **temps** auquel se déroule l'action :\n**ora, poi, mai, sempre, spesso, qualche volta, subito, prima, dopo, presto, tardi, oggi, domani…**"
       },
       {
         "type": "example",
@@ -63,11 +71,13 @@
       },
       {
         "type": "heading",
-        "content": "Il luogo"
+        "content": "Il luogo",
+        "content_fr": "Le lieu"
       },
       {
         "type": "paragraph",
-        "content": "Il **luogo** in cui avviene l'azione o dove si trova qualcuno/qualcosa:\n**qui, qua, lì, là, vicino, lontano, sopra, sotto, dentro, davanti, giù, lassù, nei dintorni, dappertutto…**"
+        "content": "Il **luogo** in cui avviene l'azione o dove si trova qualcuno/qualcosa:\n**qui, qua, lì, là, vicino, lontano, sopra, sotto, dentro, davanti, giù, lassù, nei dintorni, dappertutto…**",
+        "content_fr": "Le **lieu** où se déroule l'action ou où se trouve quelqu'un/quelque chose :\n**qui, qua, lì, là, vicino, lontano, sopra, sotto, dentro, davanti, giù, lassù, nei dintorni, dappertutto…**"
       },
       {
         "type": "example",
@@ -78,11 +88,13 @@
       },
       {
         "type": "heading",
-        "content": "La quantità"
+        "content": "La quantità",
+        "content_fr": "La quantité"
       },
       {
         "type": "paragraph",
-        "content": "La **quantità** di ciò che esprime un verbo o un aggettivo:\n**molto, poco, abbastanza, troppo, tanto, altrettanto, di più, di meno, parecchio…**"
+        "content": "La **quantità** di ciò che esprime un verbo o un aggettivo:\n**molto, poco, abbastanza, troppo, tanto, altrettanto, di più, di meno, parecchio…**",
+        "content_fr": "La **quantité** de ce qu'exprime un verbe ou un adjectif :\n**molto, poco, abbastanza, troppo, tanto, altrettanto, di più, di meno, parecchio…**"
       },
       {
         "type": "example",
@@ -93,11 +105,13 @@
       },
       {
         "type": "heading",
-        "content": "Gli avverbi interrogativi"
+        "content": "Gli avverbi interrogativi",
+        "content_fr": "Les adverbes interrogatifs"
       },
       {
         "type": "paragraph",
-        "content": "Gli avverbi **interrogativi**, che servono per introdurre una domanda: **Come? Quando? Dove? Perché? Quanto?**"
+        "content": "Gli avverbi **interrogativi**, che servono per introdurre una domanda: **Come? Quando? Dove? Perché? Quanto?**",
+        "content_fr": "Les adverbes **interrogatifs**, qui servent à introduire une question : **Come? Quando? Dove? Perché? Quanto?**"
       },
       {
         "type": "example",
@@ -108,11 +122,13 @@
       },
       {
         "type": "heading",
-        "content": "Gli avverbi di valutazione"
+        "content": "Gli avverbi di valutazione",
+        "content_fr": "Les adverbes d'évaluation"
       },
       {
         "type": "paragraph",
-        "content": "Gli avverbi di **valutazione**, che servono per esprimere un giudizio, un parere:\n**sì, no, non, di sicuro, forse, magari, senza dubbio, certamente, neppure, nemmeno, neanche, eventualmente, probabilmente…**"
+        "content": "Gli avverbi di **valutazione**, che servono per esprimere un giudizio, un parere:\n**sì, no, non, di sicuro, forse, magari, senza dubbio, certamente, neppure, nemmeno, neanche, eventualmente, probabilmente…**",
+        "content_fr": "Les adverbes d'**évaluation**, qui servent à exprimer un jugement, un avis :\n**sì, no, non, di sicuro, forse, magari, senza dubbio, certamente, neppure, nemmeno, neanche, eventualmente, probabilmente…**"
       },
       {
         "type": "example",
@@ -123,7 +139,8 @@
       },
       {
         "type": "paragraph",
-        "content": "Gli avverbi sono **invariabili**, non concordano con le altre parole e servono a precisare un'informazione."
+        "content": "Gli avverbi sono **invariabili**, non concordano con le altre parole e servono a precisare un'informazione.",
+        "content_fr": "Les adverbes sont **invariables**, ils ne s'accordent pas avec les autres mots et servent à préciser une information."
       }
     ]
   },

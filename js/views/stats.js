@@ -4,6 +4,7 @@
 import { el, clearElement } from '../utils/dom.js';
 import { loadManifest } from '../data-loader.js';
 import { loadState, getSchedaProgress } from '../state.js';
+import { t, localName } from '../i18n.js';
 
 export async function renderStatsView() {
   const app = document.getElementById('app');
@@ -15,7 +16,7 @@ export async function renderStatsView() {
 
     app.appendChild(el('h2', {
       style: { fontFamily: 'var(--font-heading)', color: 'var(--color-text)', marginBottom: 'var(--space-xl)' }
-    }, 'Statistiche'));
+    }, t('stats.title')));
 
     // --- Global stats ---
     let totalScore = 0, totalQuestions = 0, totalAttempts = 0;
@@ -39,16 +40,16 @@ export async function renderStatsView() {
     const globalPct = totalQuestions > 0 ? Math.round((totalScore / totalQuestions) * 100) : 0;
 
     const statsGrid = el('div', { className: 'stats-grid' });
-    statsGrid.appendChild(createStat(`${globalPct}%`, 'Punteggio globale'));
-    statsGrid.appendChild(createStat(String(totalQuestions), 'Domande risposte'));
-    statsGrid.appendChild(createStat(`${completedCount}/${schedeIds.length}`, 'Schede completate'));
-    statsGrid.appendChild(createStat(String(totalAttempts), 'Tentativi totali'));
+    statsGrid.appendChild(createStat(`${globalPct}%`, t('stats.global.score')));
+    statsGrid.appendChild(createStat(String(totalQuestions), t('stats.questions')));
+    statsGrid.appendChild(createStat(`${completedCount}/${schedeIds.length}`, t('stats.completed')));
+    statsGrid.appendChild(createStat(String(totalAttempts), t('stats.attempts')));
     app.appendChild(statsGrid);
 
     // --- Per category ---
     app.appendChild(el('h3', {
       style: { fontFamily: 'var(--font-heading)', margin: 'var(--space-xl) 0 var(--space-lg)', color: 'var(--color-text)' }
-    }, 'Per argomento'));
+    }, t('stats.per.topic')));
 
     const catList = el('div', { style: { display: 'flex', flexDirection: 'column', gap: 'var(--space-md)' } });
 
@@ -82,11 +83,11 @@ export async function renderStatsView() {
       const header = el('div', {
         style: { display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 'var(--space-sm)' }
       });
-      header.appendChild(el('span', { style: { fontWeight: '600' } }, `${cat.icon}  ${cat.name}`));
+      header.appendChild(el('span', { style: { fontWeight: '600' } }, `${cat.icon}  ${localName(cat, 'name')}`));
       const right = el('span', { style: { fontSize: 'var(--text-sm)', color: 'var(--color-text-muted)' } });
       right.textContent = catTotal > 0
-        ? `${pct}% \u2022 ${catCompleted}/${cat.schede.length} schede`
-        : `${catCompleted}/${cat.schede.length} schede`;
+        ? `${pct}% \u2022 ${t('stats.cat.count', { c: catCompleted, n: cat.schede.length })}`
+        : t('stats.cat.count', { c: catCompleted, n: cat.schede.length });
       header.appendChild(right);
       card.appendChild(header);
 
@@ -105,13 +106,13 @@ export async function renderStatsView() {
     const weakSchede = [];
     for (const [schedaId, schedaState] of Object.entries(state.schede || {})) {
       if (!schedaState?.exercises) continue;
-      let s = 0, t = 0;
+      let s = 0, t2 = 0;
       for (const ex of Object.values(schedaState.exercises)) {
-        if (ex.score !== undefined && ex.total > 0) { s += ex.score; t += ex.total; }
+        if (ex.score !== undefined && ex.total > 0) { s += ex.score; t2 += ex.total; }
       }
-      if (t > 0 && manifest.schede[schedaId]) {
-        const pct = Math.round((s / t) * 100);
-        if (pct < 80) weakSchede.push({ id: schedaId, title: manifest.schede[schedaId].title, pct });
+      if (t2 > 0 && manifest.schede[schedaId]) {
+        const pct = Math.round((s / t2) * 100);
+        if (pct < 80) weakSchede.push({ id: schedaId, title: localName(manifest.schede[schedaId], 'title'), pct });
       }
     }
     weakSchede.sort((a, b) => a.pct - b.pct);
@@ -119,7 +120,7 @@ export async function renderStatsView() {
     if (weakSchede.length > 0) {
       app.appendChild(el('h3', {
         style: { fontFamily: 'var(--font-heading)', margin: 'var(--space-xl) 0 var(--space-lg)', color: 'var(--color-text)' }
-      }, 'Da rivedere'));
+      }, t('stats.to.review')));
 
       const weakList = el('div', { style: { display: 'flex', flexDirection: 'column', gap: 'var(--space-xs)' } });
       for (const s of weakSchede.slice(0, 8)) {
@@ -142,7 +143,7 @@ export async function renderStatsView() {
           }
         }, `${s.pct}%`));
         item.appendChild(el('span', { style: { flex: '1' } }, `${s.id}. ${s.title}`));
-        item.appendChild(el('span', { style: { fontSize: 'var(--text-xs)', color: 'var(--color-text-muted)' } }, 'Riprova \u2192'));
+        item.appendChild(el('span', { style: { fontSize: 'var(--text-xs)', color: 'var(--color-text-muted)' } }, t('stats.retry')));
         weakList.appendChild(item);
       }
       app.appendChild(weakList);
@@ -151,12 +152,12 @@ export async function renderStatsView() {
     if (totalQuestions === 0) {
       app.appendChild(el('p', {
         style: { color: 'var(--color-text-muted)', marginTop: 'var(--space-xl)', textAlign: 'center' }
-      }, 'Nessun esercizio ancora completato. Inizia a studiare!'));
+      }, t('stats.empty')));
     }
 
   } catch (err) {
     clearElement(app);
-    app.appendChild(el('p', { style: { color: 'var(--color-incorrect)' } }, `Errore: ${err.message}`));
+    app.appendChild(el('p', { style: { color: 'var(--color-incorrect)' } }, `${t('stats.error')}${err.message}`));
   }
 }
 

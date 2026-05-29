@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "id": "0a",
+    "title": "Essere e Avere",
+    "title_fr": "Être et Avoir",
+    "subtitle": "I due verbi fondamentali",
+    "subtitle_fr": "Les deux verbes fondamentaux",
+    "source": "Loescher Editore - L'italiano per studiare"
+  },
+  "theory": {
+    "sections": [
+      {
+        "type": "intro",
+        "content": "**Essere** e **avere** sono i due verbi più importanti della lingua italiana. Sono usati sia come verbi principali che come verbi ausiliari per formare i tempi composti (passato prossimo, trapassato, ecc.).",
+        "content_fr": "**Essere** (être) et **avere** (avoir) sont les deux verbes les plus importants de la langue italienne. Ils sont utilisés à la fois comme verbes principaux et comme auxiliaires pour former les temps composés (passé composé, plus-que-parfait, etc.)."
+      },
+      {
+        "type": "heading",
+        "content": "Il verbo ESSERE (to be / être)",
+        "content_fr": "Le verbe ESSERE (être)"
+      },
+      {
+        "type": "table",
+        "caption": "Essere — Indicativo Presente",
+        "caption_fr": "Essere — Indicatif Présent",
+        "headers": ["Persona", "Forma", "Esempio"],
+        "headers_fr": ["Personne", "Forme", "Exemple"],
+        "rows": [
+          ["io", "**sono**", "Io sono italiano."],
+          ["tu", "**sei**", "Tu sei studente?"],
+          ["lui / lei / Lei", "**è**", "Lei è professoressa."],
+          ["noi", "**siamo**", "Noi siamo amici."],
+          ["voi", "**siete**", "Voi siete pronti?"],
+          ["loro", "**sono**", "Loro sono a Roma."]
+        ],
+        "rows_fr": [
+          ["io", "**sono**", "Je suis italien."],
+          ["tu", "**sei**", "Tu es étudiant ?"],
+          ["lui / lei / Lei", "**è**", "Elle est professeure."],
+          ["noi", "**siamo**", "Nous sommes amis."],
+          ["voi", "**siete**", "Vous êtes prêts ?"],
+          ["loro", "**sono**", "Ils sont à Rome."]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "Il verbo AVERE (to have / avoir)",
+        "content_fr": "Le verbe AVERE (avoir)"
+      },
+      {
+        "type": "table",
+        "caption": "Avere — Indicativo Presente",
+        "caption_fr": "Avere — Indicatif Présent",
+        "headers": ["Persona", "Forma", "Esempio"],
+        "headers_fr": ["Personne", "Forme", "Exemple"],
+        "rows": [
+          ["io", "**ho**", "Io ho un libro."],
+          ["tu", "**hai**", "Tu hai fame?"],
+          ["lui / lei / Lei", "**ha**", "Lei ha trent'anni."],
+          ["noi", "**abbiamo**", "Noi abbiamo una casa."],
+          ["voi", "**avete**", "Voi avete un gatto?"],
+          ["loro", "**hanno**", "Loro hanno molti amici."]
+        ],
+        "rows_fr": [
+          ["io", "**ho**", "J'ai un livre."],
+          ["tu", "**hai**", "Tu as faim ?"],
+          ["lui / lei / Lei", "**ha**", "Elle a trente ans."],
+          ["noi", "**abbiamo**", "Nous avons une maison."],
+          ["voi", "**avete**", "Vous avez un chat ?"],
+          ["loro", "**hanno**", "Ils ont beaucoup d'amis."]
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "ESSERE come ausiliare",
+        "content_fr": "ESSERE comme auxiliaire"
+      },
+      {
+        "type": "paragraph",
+        "content": "**Essere** è usato come ausiliare con: i verbi di movimento (*andare, venire, partire...*), i verbi di stato (*restare, rimanere, stare...*), i verbi riflessivi (*alzarsi, lavarsi...*) e alcuni verbi intransitivi.",
+        "content_fr": "**Essere** est utilisé comme auxiliaire avec : les verbes de mouvement (*andare, venire, partire...*), les verbes d'état (*restare, rimanere, stare...*), les verbes réfléchis (*alzarsi, lavarsi...*) et certains verbes intransitifs."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Io sono andato al mercato." },
+          { "italian": "Maria è arrivata tardi." },
+          { "italian": "Noi siamo partiti ieri." }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": "AVERE come ausiliare",
+        "content_fr": "AVERE comme auxiliaire"
+      },
+      {
+        "type": "paragraph",
+        "content": "**Avere** è usato come ausiliare con: i verbi transitivi (che hanno un complemento oggetto) e molti verbi intransitivi (*dormire, camminare, lavorare...*). Il participio passato resta invariabile.",
+        "content_fr": "**Avere** est utilisé comme auxiliaire avec : les verbes transitifs (qui ont un complément d'objet) et de nombreux verbes intransitifs (*dormire, camminare, lavorare...*). Le participe passé reste invariable."
+      },
+      {
+        "type": "example",
+        "items": [
+          { "italian": "Ho mangiato la pizza." },
+          { "italian": "Hai visto Marco?" },
+          { "italian": "Abbiamo lavorato molto." }
+        ]
+      },
+      {
+        "type": "rule",
+        "content": "**Regola pratica:** Usa **essere** se il verbo risponde a \"chi?\": *Chi è andato? → Maria **è** andata.* — Usa **avere** se il verbo risponde a \"che cosa?\": *Che cosa hai fatto? → **Ho** mangiato.*",
+        "content_fr": "**Règle pratique :** Utilise **essere** si le verbe répond à « qui ? » : *Chi è andato? → Maria **è** andata.* — Utilise **avere** si le verbe répond à « quoi ? » : *Che cosa hai fatto? → **Ho** mangiato.*"
+      },
+      {
+        "type": "note",
+        "content": "Attenzione all'accordo! Con **essere**, il participio passato si accorda con il soggetto: *Maria è andat**a**.* / *I ragazzi sono andat**i**.* — Con **avere**, il participio è invariabile: *Marco ha mangiato. / Maria ha mangiato.*",
+        "content_fr": "Attention à l'accord ! Avec **essere**, le participe passé s'accorde avec le sujet : *Maria è andat**a**.* / *I ragazzi sono andat**i**.* — Avec **avere**, le participe est invariable : *Marco ha mangiato. / Maria ha mangiato.*"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "0a-ex1",
+      "number": 1,
+      "type": "table-completion",
+      "instruction": "Completa la tabella con le forme corrette del verbo ESSERE al presente indicativo.",
+      "headers": ["Persona", "ESSERE"],
+      "rows": [
+        { "cells": [{ "value": "io" }, { "blank": true, "answer": "sono" }] },
+        { "cells": [{ "value": "tu" }, { "blank": true, "answer": "sei" }] },
+        { "cells": [{ "value": "lui / lei" }, { "blank": true, "answer": "è" }] },
+        { "cells": [{ "value": "noi" }, { "blank": true, "answer": "siamo" }] },
+        { "cells": [{ "value": "voi" }, { "blank": true, "answer": "siete" }] },
+        { "cells": [{ "value": "loro" }, { "blank": true, "answer": "sono" }] }
+      ]
+    },
+    {
+      "id": "0a-ex2",
+      "number": 2,
+      "type": "table-completion",
+      "instruction": "Completa la tabella con le forme corrette del verbo AVERE al presente indicativo.",
+      "headers": ["Persona", "AVERE"],
+      "rows": [
+        { "cells": [{ "value": "io" }, { "blank": true, "answer": "ho" }] },
+        { "cells": [{ "value": "tu" }, { "blank": true, "answer": "hai" }] },
+        { "cells": [{ "value": "lui / lei" }, { "blank": true, "answer": "ha" }] },
+        { "cells": [{ "value": "noi" }, { "blank": true, "answer": "abbiamo" }] },
+        { "cells": [{ "value": "voi" }, { "blank": true, "answer": "avete" }] },
+        { "cells": [{ "value": "loro" }, { "blank": true, "answer": "hanno" }] }
+      ]
+    },
+    {
+      "id": "0a-ex3",
+      "number": 3,
+      "type": "multiple-choice",
+      "instruction": "Scegli l'ausiliare corretto (essere o avere) per formare il passato prossimo.",
+      "items": [
+        {
+          "prompt": "Marco ___ mangiato la pizza.",
+          "options": ["ha", "è"],
+          "answer": "ha"
+        },
+        {
+          "prompt": "Maria ___ andata al cinema.",
+          "options": ["ha", "è"],
+          "answer": "è"
+        },
+        {
+          "prompt": "Noi ___ studiato molto ieri.",
+          "options": ["abbiamo", "siamo"],
+          "answer": "abbiamo"
+        },
+        {
+          "prompt": "I bambini ___ partiti stamattina.",
+          "options": ["hanno", "sono"],
+          "answer": "sono"
+        },
+        {
+          "prompt": "Tu ___ dormito bene?",
+          "options": ["hai", "sei"],
+          "answer": "hai"
+        },
+        {
+          "prompt": "Lei ___ arrivata in ritardo.",
+          "options": ["ha", "è"],
+          "answer": "è"
+        }
+      ]
+    },
+    {
+      "id": "0a-ex4",
+      "number": 4,
+      "type": "fill-in-blank",
+      "instruction": "Completa le frasi con la forma corretta di ESSERE o AVERE al presente indicativo.",
+      "items": [
+        { "before": "Io ", "blank": true, "answer": "sono", "after": " stanco dopo il lavoro." },
+        { "before": "Tu ", "blank": true, "answer": "hai", "after": " una macchina nuova?" },
+        { "before": "Noi ", "blank": true, "answer": "abbiamo", "after": " fame." },
+        { "before": "Loro ", "blank": true, "answer": "sono", "after": " di Milano." },
+        { "before": "Lei ", "blank": true, "answer": "ha", "after": " trent'anni." },
+        { "before": "Voi ", "blank": true, "answer": "siete", "after": " pronti per la lezione?" }
+      ]
+    }
+  ]
+}

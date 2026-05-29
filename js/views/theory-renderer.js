@@ -2,6 +2,12 @@
  * Renders theory JSON sections into HTML.
  */
 import { el } from '../utils/dom.js';
+import { getLanguage } from '../i18n.js';
+
+function getContent(section) {
+  if (getLanguage() === 'fr' && section.content_fr) return section.content_fr;
+  return section.content;
+}
 
 /**
  * Render theory content into a container.
@@ -36,40 +42,44 @@ function renderSection(section) {
 }
 
 function renderIntro(section) {
-  return el('div', { className: 'theory-intro' }, section.content);
+  return el('div', { className: 'theory-intro' }, getContent(section));
 }
 
 function renderHeading(section) {
-  return el('h3', { className: 'theory-heading' }, section.content);
+  return el('h3', { className: 'theory-heading' }, getContent(section));
 }
 
 function renderParagraph(section) {
   const p = el('p', { className: 'theory-paragraph' });
-  p.innerHTML = formatText(section.content);
+  p.innerHTML = formatText(getContent(section));
   return p;
 }
 
 function renderTable(section) {
+  const fr = getLanguage() === 'fr';
   const wrapper = el('div', { className: 'theory-table-wrapper' });
   const table = el('table', { className: 'theory-table' });
 
-  if (section.caption) {
-    table.appendChild(el('caption', {}, section.caption));
+  const caption = fr && section.caption_fr ? section.caption_fr : section.caption;
+  if (caption) {
+    table.appendChild(el('caption', {}, caption));
   }
 
-  if (section.headers) {
+  const headers = fr && section.headers_fr ? section.headers_fr : section.headers;
+  if (headers) {
     const thead = el('thead');
     const tr = el('tr');
-    for (const header of section.headers) {
+    for (const header of headers) {
       tr.appendChild(el('th', {}, header));
     }
     thead.appendChild(tr);
     table.appendChild(thead);
   }
 
-  if (section.rows) {
+  const rows = fr && section.rows_fr ? section.rows_fr : section.rows;
+  if (rows) {
     const tbody = el('tbody');
-    for (const row of section.rows) {
+    for (const row of rows) {
       const tr = el('tr');
       for (const cell of row) {
         const td = el('td');
@@ -112,19 +122,21 @@ function renderExample(section) {
 
 function renderRule(section) {
   const box = el('div', { className: 'theory-rule' });
-  box.innerHTML += formatText(section.content);
+  box.innerHTML += formatText(getContent(section));
   return box;
 }
 
 function renderNote(section) {
   const box = el('div', { className: 'theory-note' });
-  box.innerHTML += formatText(section.content);
+  box.innerHTML += formatText(getContent(section));
   return box;
 }
 
 function renderList(section) {
+  const fr = getLanguage() === 'fr';
+  const items = fr && section.items_fr ? section.items_fr : section.items;
   const list = el('ul', { className: 'theory-list' });
-  for (const item of section.items) {
+  for (const item of items) {
     const li = el('li');
     li.innerHTML = formatText(item);
     list.appendChild(li);

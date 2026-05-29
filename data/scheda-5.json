@@ -2,43 +2,54 @@
   "meta": {
     "id": "5",
     "title": "Il Genere del Nome",
+    "title_fr": "Le Genre du Nom",
     "subtitle": "Maschile e femminile",
+    "subtitle_fr": "Masculin et féminin",
     "source": "Loescher Editore - L'italiano per studiare"
   },
   "theory": {
     "sections": [
       {
         "type": "intro",
-        "content": "Tutti i nomi in italiano hanno un genere grammaticale, cioè sono maschili oppure femminili. Quando il nome indica una persona o un animale, è facile sapere qual è il genere grammaticale, perché quasi sempre coincide con il sesso reale."
+        "content": "Tutti i nomi in italiano hanno un genere grammaticale, cioè sono maschili oppure femminili. Quando il nome indica una persona o un animale, è facile sapere qual è il genere grammaticale, perché quasi sempre coincide con il sesso reale.",
+        "content_fr": "Tous les noms en italien ont un genre grammatical, c'est-à-dire qu'ils sont masculins ou féminins. Quand le nom désigne une personne ou un animal, il est facile de connaître le genre grammatical, car il coïncide presque toujours avec le sexe réel."
       },
       {
         "type": "paragraph",
-        "content": "Sono di genere **maschile** i nomi di persone e di animali di sesso maschile: *uomo, padre, fratello, amico, professore, operaio, dottore; cane, leone, gallo, cavallo, gatto, lupo*."
+        "content": "Sono di genere **maschile** i nomi di persone e di animali di sesso maschile: *uomo, padre, fratello, amico, professore, operaio, dottore; cane, leone, gallo, cavallo, gatto, lupo*.",
+        "content_fr": "Sont de genre **masculin** les noms de personnes et d'animaux de sexe masculin : *uomo, padre, fratello, amico, professore, operaio, dottore ; cane, leone, gallo, cavallo, gatto, lupo*."
       },
       {
         "type": "paragraph",
-        "content": "Sono di genere **femminile** i nomi di persone e di animali di sesso femminile: *donna, madre, sorella, amica, professoressa, operaia, dottoressa; cagna, leonessa, gallina, cavalla, gatta, lupa, mucca*."
+        "content": "Sono di genere **femminile** i nomi di persone e di animali di sesso femminile: *donna, madre, sorella, amica, professoressa, operaia, dottoressa; cagna, leonessa, gallina, cavalla, gatta, lupa, mucca*.",
+        "content_fr": "Sont de genre **féminin** les noms de personnes et d'animaux de sexe féminin : *donna, madre, sorella, amica, professoressa, operaia, dottoressa ; cagna, leonessa, gallina, cavalla, gatta, lupa, mucca*."
       },
       {
         "type": "paragraph",
-        "content": "Quando il nome indica una cosa, un oggetto, un'azione, un'idea, una qualità ecc. può essere maschile o femminile; in questo caso il **genere** è solo una **categoria grammaticale**."
+        "content": "Quando il nome indica una cosa, un oggetto, un'azione, un'idea, una qualità ecc. può essere maschile o femminile; in questo caso il **genere** è solo una **categoria grammaticale**.",
+        "content_fr": "Quand le nom désigne une chose, un objet, une action, une idée, une qualité, etc., il peut être masculin ou féminin ; dans ce cas le **genre** est uniquement une **catégorie grammaticale**."
       },
       {
         "type": "paragraph",
-        "content": "È importantissimo sapere il genere del nome, perché in italiano esiste la **concordanza**, cioè l'obbligo di mettere insieme parole tutte maschili oppure tutte femminili."
+        "content": "È importantissimo sapere il genere del nome, perché in italiano esiste la **concordanza**, cioè l'obbligo di mettere insieme parole tutte maschili oppure tutte femminili.",
+        "content_fr": "Il est très important de connaître le genre du nom, car en italien il existe la **concordance**, c'est-à-dire l'obligation d'associer des mots tous masculins ou tous féminins."
       },
       {
         "type": "heading",
-        "content": "Come riconoscere il genere"
+        "content": "Come riconoscere il genere",
+        "content_fr": "Comment reconnaître le genre"
       },
       {
         "type": "paragraph",
-        "content": "Possiamo guardare come finisce il nome, cioè la sua **desinenza**. Quando la desinenza non dà una risposta sicura, bisogna guardare sul dizionario."
+        "content": "Possiamo guardare come finisce il nome, cioè la sua **desinenza**. Quando la desinenza non dà una risposta sicura, bisogna guardare sul dizionario.",
+        "content_fr": "On peut regarder comment se termine le nom, c'est-à-dire sa **terminaison**. Quand la terminaison ne donne pas de réponse certaine, il faut consulter le dictionnaire."
       },
       {
         "type": "table",
         "caption": "Genere del nome in base alla desinenza",
+        "caption_fr": "Genre du nom selon la terminaison",
         "headers": ["Desinenza", "Genere", "Esempi", "Eccezioni"],
+        "headers_fr": ["Terminaison", "Genre", "Exemples", "Exceptions"],
         "rows": [
           ["-o", "quasi sempre maschile", "il libro, il letto, il compagno, lo studio, lo zio, il tavolo", "la mano, la radio, l'eco, la moto, la foto, l'auto"],
           ["-a", "generalmente femminile", "la mamma, la scuola, la maglia, l'acqua, la ragazza, la penna", "il problema, il diploma, il clima, il papa, il profeta, il poeta, il pilota"],
@@ -46,6 +57,14 @@
           ["-e, -è", "maschile o femminile", "il sole, il pane, il dente, il giornale, il caffè / la luce, la carne, la pelle, la soluzione", ""],
           ["-i, -ì", "maschile o femminile", "lo sci, il lunedì, il brindisi / l'analisi, l'oasi", ""],
           ["-ù", "generalmente femminile", "la gioventù, la servitù, la virtù", "il caucciù"]
+        ],
+        "rows_fr": [
+          ["-o", "presque toujours masculin", "il libro, il letto, il compagno, lo studio, lo zio, il tavolo", "la mano, la radio, l'eco, la moto, la foto, l'auto"],
+          ["-a", "généralement féminin", "la mamma, la scuola, la maglia, l'acqua, la ragazza, la penna", "il problema, il diploma, il clima, il papa, il profeta, il poeta, il pilota"],
+          ["-à", "généralement féminin", "la città, l'onestà, la sincerità, la metà", "il papà"],
+          ["-e, -è", "masculin ou féminin", "il sole, il pane, il dente, il giornale, il caffè / la luce, la carne, la pelle, la soluzione", ""],
+          ["-i, -ì", "masculin ou féminin", "lo sci, il lunedì, il brindisi / l'analisi, l'oasi", ""],
+          ["-ù", "généralement féminin", "la gioventù, la servitù, la virtù", "il caucciù"]
         ]
       }
     ]

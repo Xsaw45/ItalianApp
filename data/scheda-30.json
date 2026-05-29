@@ -9,18 +9,29 @@
     "sections": [
       {
         "type": "intro",
-        "content": "**Il congiuntivo è un altro dei modi verbali della lingua italiana (nelle schede precedenti è stato presentato il modo indicativo).**"
+        "content": "**Il congiuntivo è un altro dei modi verbali della lingua italiana (nelle schede precedenti è stato presentato il modo indicativo).**",
+        "content_fr": "**Le subjonctif est un autre des modes verbaux de la langue italienne (dans les fiches précédentes, le mode indicatif a été présenté).**"
       },
       {
         "type": "paragraph",
-        "content": "Il congiuntivo è il modo verbale che serve per esprimere **incertezza**, **dubbio**, **desiderio**. È importante capire la differenza di significato tra l'indicativo e il congiuntivo."
+        "content": "Il congiuntivo è il modo verbale che serve per esprimere **incertezza**, **dubbio**, **desiderio**. È importante capire la differenza di significato tra l'indicativo e il congiuntivo.",
+        "content_fr": "Le subjonctif est le mode verbal qui sert à exprimer l'**incertitude**, le **doute**, le **désir**. Il est important de comprendre la différence de sens entre l'indicatif et le subjonctif."
       },
       {
         "type": "table",
         "caption": "Indicativo vs Congiuntivo",
+        "caption_fr": "Indicatif vs Subjonctif",
         "headers": ["Indicativo", "Congiuntivo"],
+        "headers_fr": ["Indicatif", "Subjonctif"],
         "rows": [
           ["Esprime un fatto presentato come vero, reale, sicuro", "Esprime un fatto presentato come possibile, o come solo pensato, desiderato, temuto"],
+          ["*Oggi c'è il sole.*", "*Che bello se oggi ci **fosse** il sole!*"],
+          ["*Sono sicuro che domani ci **sarà** il sole.*", "*Ho paura che domani non ci **sia** il sole.*"],
+          ["*So che Tobias **lavora** alla Fiat.*", "*Credo che Tobias **lavori** alla Fiat.*"],
+          ["*Clelia **arriva** sempre in ritardo.*", "*Può darsi che Clelia **arrivi** in ritardo.*"]
+        ],
+        "rows_fr": [
+          ["Exprime un fait présenté comme vrai, réel, certain", "Exprime un fait présenté comme possible, ou comme seulement pensé, désiré, craint"],
           ["*Oggi c'è il sole.*", "*Che bello se oggi ci **fosse** il sole!*"],
           ["*Sono sicuro che domani ci **sarà** il sole.*", "*Ho paura che domani non ci **sia** il sole.*"],
           ["*So che Tobias **lavora** alla Fiat.*", "*Credo che Tobias **lavori** alla Fiat.*"],
@@ -29,32 +40,54 @@
       },
       {
         "type": "heading",
-        "content": "La forma"
+        "content": "La forma",
+        "content_fr": "La forme"
       },
       {
         "type": "paragraph",
-        "content": "Il modo congiuntivo ha 4 tempi:"
+        "content": "Il modo congiuntivo ha 4 tempi:",
+        "content_fr": "Le mode subjonctif a 4 temps :"
       },
       {
         "type": "list",
         "items": [
           "2 semplici (formati da una sola parola): **presente** (*che io lavori*) e **imperfetto** (*che io lavorassi*)",
           "2 composti (formati da due parole): **passato** (*che io abbia lavorato*) e **trapassato** (*che io avessi lavorato*)"
+        ],
+        "items_fr": [
+          "2 simples (formés d'un seul mot) : **présent** (*che io lavori*) et **imparfait** (*che io lavorassi*)",
+          "2 composés (formés de deux mots) : **passé** (*che io abbia lavorato*) et **plus-que-parfait** (*che io avessi lavorato*)"
         ]
       },
       {
         "type": "paragraph",
-        "content": "Per le coniugazioni regolari del congiuntivo **vedi *Tavole dei verbi*, pp. 324–31.**"
+        "content": "Per le coniugazioni regolari del congiuntivo **vedi *Tavole dei verbi*, pp. 324–31.**",
+        "content_fr": "Pour les conjugaisons régulières du subjonctif, **voir *Tavole dei verbi*, pp. 324–31.**"
       },
       {
         "type": "paragraph",
-        "content": "Le forme irregolari riguardano il presente e a volte anche l'imperfetto di alcuni verbi. Ecco le più comuni."
+        "content": "Le forme irregolari riguardano il presente e a volte anche l'imperfetto di alcuni verbi. Ecco le più comuni.",
+        "content_fr": "Les formes irrégulières concernent le présent et parfois aussi l'imparfait de certains verbes. Voici les plus courantes."
       },
       {
         "type": "table",
         "caption": "Verbi irregolari al congiuntivo",
+        "caption_fr": "Verbes irréguliers au subjonctif",
         "headers": ["Infinito", "Congiuntivo presente", "Congiuntivo imperfetto", "Infinito", "Congiuntivo presente", "Congiuntivo imperfetto"],
+        "headers_fr": ["Infinitif", "Subjonctif présent", "Subjonctif imparfait", "Infinitif", "Subjonctif présent", "Subjonctif imparfait"],
         "rows": [
+          ["andare", "vada", "andassi", "salire", "salga", "salissi"],
+          ["avere", "abbia", "avessi", "sapere", "sappia", "sapessi"],
+          ["bere", "beva", "bevessi", "scegliere", "scelga", "scegliessi"],
+          ["dare", "dia", "dessi", "stare", "stia", "stessi"],
+          ["dire", "dica", "dicessi", "tenere", "tenga", "tenessi"],
+          ["dovere", "debba", "dovessi", "togliere", "tolga", "togliessi"],
+          ["essere", "sia", "fossi", "tradurre", "traduca", "traducessi"],
+          ["fare", "faccia", "facessi", "uscire", "esca", "uscissi"],
+          ["potere", "possa", "potessi", "venire", "venga", "venissi"],
+          ["rimanere", "rimanga", "rimanessi", "volere", "voglia", "volessi"]
+        ],
+        "rows_fr": [
           ["andare", "vada", "andassi", "salire", "salga", "salissi"],
           ["avere", "abbia", "avessi", "sapere", "sappia", "sapessi"],
           ["bere", "beva", "bevessi", "scegliere", "scelga", "scegliessi"],
@@ -69,21 +102,28 @@
       },
       {
         "type": "heading",
-        "content": "L'uso"
+        "content": "L'uso",
+        "content_fr": "L'emploi"
       },
       {
         "type": "paragraph",
-        "content": "Il congiuntivo può essere usato in frasi indipendenti o in frasi dipendenti da altre."
+        "content": "Il congiuntivo può essere usato in frasi indipendenti o in frasi dipendenti da altre.",
+        "content_fr": "Le subjonctif peut être utilisé dans des propositions indépendantes ou dans des propositions dépendantes d'autres."
       },
       {
         "type": "paragraph",
-        "content": "**a)** L'uso in frasi indipendenti non è molto frequente e si limita soprattutto ai seguenti casi:"
+        "content": "**a)** L'uso in frasi indipendenti non è molto frequente e si limita soprattutto ai seguenti casi:",
+        "content_fr": "**a)** L'emploi dans des propositions indépendantes n'est pas très fréquent et se limite surtout aux cas suivants :"
       },
       {
         "type": "list",
         "items": [
           "**ordine/invito/esortazione** (con il congiuntivo presente) rivolti a qualcuno a cui si dà del Lei",
           "**desiderio** che si pensa non possibile, non realizzabile (con il congiuntivo imperfetto)"
+        ],
+        "items_fr": [
+          "**ordre/invitation/exhortation** (avec le subjonctif présent) adressés à quelqu'un à qui on dit Lei (vouvoiement formel)",
+          "**désir** que l'on pense impossible, irréalisable (avec le subjonctif imparfait)"
         ]
       },
       {
@@ -96,7 +136,8 @@
       },
       {
         "type": "paragraph",
-        "content": "**b)** Per l'uso del congiuntivo in frasi dipendenti **vedi Scheda 31.**"
+        "content": "**b)** Per l'uso del congiuntivo in frasi dipendenti **vedi Scheda 31.**",
+        "content_fr": "**b)** Pour l'emploi du subjonctif dans les propositions dépendantes, **voir Scheda 31.**"
       }
     ]
   },

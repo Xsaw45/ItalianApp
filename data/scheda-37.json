@@ -9,7 +9,8 @@
     "sections": [
       {
         "type": "intro",
-        "content": "Le preposizioni sono delle parole che si mettono davanti a nomi, aggettivi, pronomi, avverbi e verbi all'infinito per collegarli e metterli in rapporto in vario modo."
+        "content": "Le preposizioni sono delle parole che si mettono davanti a nomi, aggettivi, pronomi, avverbi e verbi all'infinito per collegarli e metterli in rapporto in vario modo.",
+        "content_fr": "Les prépositions sont des mots que l'on place devant des noms, des adjectifs, des pronoms, des adverbes et des verbes à l'infinitif pour les relier et les mettre en relation de diverses façons."
       },
       {
         "type": "example",
@@ -20,37 +21,56 @@
       },
       {
         "type": "paragraph",
-        "content": "(*di* unisce **la macchina** a **Riccardo** e serve per indicare chi è il padrone della macchina)\n(*in* unisce il verbo *abitare* alla *casa* e indica dove abita Riccardo; *tra* unisce *casa* con *boschi* e serve per indicare dov'è la casa)"
+        "content": "(*di* unisce **la macchina** a **Riccardo** e serve per indicare chi è il padrone della macchina)\n(*in* unisce il verbo *abitare* alla *casa* e indica dove abita Riccardo; *tra* unisce *casa* con *boschi* e serve per indicare dov'è la casa)",
+        "content_fr": "(*di* unit **la macchina** à **Riccardo** et sert à indiquer qui est le propriétaire de la voiture)\n(*in* unit le verbe *abitare* à *casa* et indique où habite Riccardo ; *tra* unit *casa* avec *boschi* et sert à indiquer où se trouve la maison)"
       },
       {
         "type": "heading",
-        "content": "La forma"
+        "content": "La forma",
+        "content_fr": "La forme"
       },
       {
         "type": "paragraph",
-        "content": "Le preposizioni sono di quattro tipi:"
+        "content": "Le preposizioni sono di quattro tipi:",
+        "content_fr": "Les prépositions sont de quatre types :"
       },
       {
         "type": "heading",
-        "content": "Preposizioni semplici"
+        "content": "Preposizioni semplici",
+        "content_fr": "Prépositions simples"
       },
       {
         "type": "list",
-        "items": ["di", "a", "da", "in", "con", "su", "per", "tra", "fra"]
+        "items": ["di", "a", "da", "in", "con", "su", "per", "tra", "fra"],
+        "items_fr": ["di", "a", "da", "in", "con", "su", "per", "tra", "fra"]
       },
       {
         "type": "heading",
-        "content": "Preposizioni articolate"
+        "content": "Preposizioni articolate",
+        "content_fr": "Prépositions contractées (prépositions + article)"
       },
       {
         "type": "paragraph",
-        "content": "Si ottengono unendo le preposizioni semplici con gli articoli determinativi."
+        "content": "Si ottengono unendo le preposizioni semplici con gli articoli determinativi.",
+        "content_fr": "Elles s'obtiennent en combinant les prépositions simples avec les articles définis."
       },
       {
         "type": "table",
         "caption": "Preposizioni articolate",
+        "caption_fr": "Prépositions contractées",
         "headers": ["", "di", "a", "da", "in", "con", "su", "per", "tra/fra"],
+        "headers_fr": ["", "di", "a", "da", "in", "con", "su", "per", "tra/fra"],
         "rows": [
+          ["il", "del", "al", "dal", "nel", "con il", "sul", "per il", "tra il"],
+          ["lo", "dello", "allo", "dallo", "nello", "con lo", "sullo", "per lo", "tra lo"],
+          ["l'", "dell'", "all'", "dall'", "nell'", "con l'", "sull'", "per l'", "tra l'"],
+          ["i", "dei", "ai", "dai", "nei", "con i", "sui", "per i", "tra i"],
+          ["gli", "degli", "agli", "dagli", "negli", "con gli", "sugli", "per gli", "tra gli"],
+          ["la", "della", "alla", "dalla", "nella", "con la", "sulla", "per la", "tra la"],
+          ["l'", "dell'", "all'", "dall'", "nell'", "con l'", "sull'", "per la", "tra la"],
+          ["le", "delle", "alle", "dalle", "nelle", "con le", "sulle", "per le", "tra le"]
+        ],
+        "rows_fr": [
           ["il", "del", "al", "dal", "nel", "con il", "sul", "per il", "tra il"],
           ["lo", "dello", "allo", "dallo", "nello", "con lo", "sullo", "per lo", "tra lo"],
           ["l'", "dell'", "all'", "dall'", "nell'", "con l'", "sull'", "per l'", "tra l'"],
@@ -63,19 +83,23 @@
       },
       {
         "type": "paragraph",
-        "content": "Per sapere quale preposizione articolata dobbiamo usare, bisogna pensare: davanti a questo nome che articolo usiamo?\n\nPartiamo dalla preposizione semplice **di**:\n- se dico *il cane* → la preposizione articolata sarà **del** cane\n- se dico *lo studente* → la preposizione articolata sarà **dello** studente\n- se dico *l'occhio* → la preposizione articolata sarà **dell'**occhio\n- se dico *la bambina* → la preposizione articolata sarà **della** bambina"
+        "content": "Per sapere quale preposizione articolata dobbiamo usare, bisogna pensare: davanti a questo nome che articolo usiamo?\n\nPartiamo dalla preposizione semplice **di**:\n- se dico *il cane* → la preposizione articolata sarà **del** cane\n- se dico *lo studente* → la preposizione articolata sarà **dello** studente\n- se dico *l'occhio* → la preposizione articolata sarà **dell'**occhio\n- se dico *la bambina* → la preposizione articolata sarà **della** bambina",
+        "content_fr": "Pour savoir quelle préposition contractée utiliser, il faut se demander : devant ce nom, quel article emploie-t-on ?\n\nPartons de la préposition simple **di** :\n- si je dis *il cane* → la préposition contractée sera **del** cane\n- si je dis *lo studente* → la préposition contractée sera **dello** studente\n- si je dis *l'occhio* → la préposition contractée sera **dell'**occhio\n- si je dis *la bambina* → la préposition contractée sera **della** bambina"
       },
       {
         "type": "heading",
-        "content": "Preposizioni improprie"
+        "content": "Preposizioni improprie",
+        "content_fr": "Prépositions impropres"
       },
       {
         "type": "paragraph",
-        "content": "Sono parole che vengono usate come preposizioni, ma possono anche essere **avverbi** o **aggettivi**."
+        "content": "Sono parole che vengono usate come preposizioni, ma possono anche essere **avverbi** o **aggettivi**.",
+        "content_fr": "Ce sont des mots utilisés comme prépositions, mais qui peuvent aussi être des **adverbes** ou des **adjectifs**."
       },
       {
         "type": "paragraph",
-        "content": "**Avverbi:** sopra, sotto, davanti, dietro, dentro, fuori, dopo, prima\n**Aggettivi:** vicino, lontano, salvo, lungo, secondo"
+        "content": "**Avverbi:** sopra, sotto, davanti, dietro, dentro, fuori, dopo, prima\n**Aggettivi:** vicino, lontano, salvo, lungo, secondo",
+        "content_fr": "**Adverbes :** sopra, sotto, davanti, dietro, dentro, fuori, dopo, prima\n**Adjectifs :** vicino, lontano, salvo, lungo, secondo"
       },
       {
         "type": "example",
@@ -88,15 +112,18 @@
       },
       {
         "type": "paragraph",
-        "content": "(*sopra* è in questo caso un avverbio di luogo nel primo esempio; nel secondo è una preposizione che collega i piatti al tavolo)\n(*lungo* è in questo caso un aggettivo nel primo esempio; nel secondo è una preposizione che collega il verbo *trovarsi* con il *fiume*)"
+        "content": "(*sopra* è in questo caso un avverbio di luogo nel primo esempio; nel secondo è una preposizione che collega i piatti al tavolo)\n(*lungo* è in questo caso un aggettivo nel primo esempio; nel secondo è una preposizione che collega il verbo *trovarsi* con il *fiume*)",
+        "content_fr": "(*sopra* est dans ce cas un adverbe de lieu dans le premier exemple ; dans le second, c'est une préposition qui relie les assiettes à la table)\n(*lungo* est dans ce cas un adjectif dans le premier exemple ; dans le second, c'est une préposition qui relie le verbe *trovarsi* avec le *fleuve*)"
       },
       {
         "type": "heading",
-        "content": "Locuzioni prepositive"
+        "content": "Locuzioni prepositive",
+        "content_fr": "Locutions prépositives"
       },
       {
         "type": "paragraph",
-        "content": "Sono preposizioni formate da più di una parola: **a causa di**, **di fronte a**, **in compagnia di**, **per mezzo di**…"
+        "content": "Sono preposizioni formate da più di una parola: **a causa di**, **di fronte a**, **in compagnia di**, **per mezzo di**…",
+        "content_fr": "Ce sont des prépositions formées de plus d'un mot : **a causa di**, **di fronte a**, **in compagnia di**, **per mezzo di**…"
       },
       {
         "type": "example",

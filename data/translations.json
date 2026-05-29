@@ -1,0 +1,244 @@
+{
+  "phrases": [
+    {
+      "id": "ph001",
+      "it": "Buongiorno!",
+      "fr": "Bonjour !",
+      "vocabTags": []
+    },
+    {
+      "id": "ph002",
+      "it": "Buonasera!",
+      "fr": "Bonsoir !",
+      "vocabTags": []
+    },
+    {
+      "id": "ph003",
+      "it": "Grazie mille!",
+      "fr": "Merci beaucoup !",
+      "vocabTags": []
+    },
+    {
+      "id": "ph004",
+      "it": "Prego!",
+      "fr": "De rien !",
+      "vocabTags": []
+    },
+    {
+      "id": "ph005",
+      "it": "Ciao, come stai?",
+      "fr": "Salut, comment vas-tu ?",
+      "vocabTags": []
+    },
+    {
+      "id": "ph006",
+      "it": "Io sono italiano.",
+      "fr": "Je suis italien.",
+      "vocabTags": ["essere"]
+    },
+    {
+      "id": "ph007",
+      "it": "Lei ha una borsa nuova.",
+      "fr": "Elle a un nouveau sac.",
+      "vocabTags": ["avere", "borsa", "nuovo"]
+    },
+    {
+      "id": "ph008",
+      "it": "Lui fa sport ogni giorno.",
+      "fr": "Il fait du sport tous les jours.",
+      "vocabTags": ["fare"]
+    },
+    {
+      "id": "ph009",
+      "it": "Andiamo al ristorante!",
+      "fr": "Allons au restaurant !",
+      "vocabTags": ["andare", "ristorante"]
+    },
+    {
+      "id": "ph010",
+      "it": "Voglio dormire.",
+      "fr": "Je veux dormir.",
+      "vocabTags": ["volere", "dormire"]
+    },
+    {
+      "id": "ph011",
+      "it": "Devo lavorare domani.",
+      "fr": "Je dois travailler demain.",
+      "vocabTags": ["dovere", "lavorare"]
+    },
+    {
+      "id": "ph012",
+      "it": "Puoi aiutarmi?",
+      "fr": "Peux-tu m'aider ?",
+      "vocabTags": ["potere", "aiutare"]
+    },
+    {
+      "id": "ph013",
+      "it": "Lei studia alla biblioteca.",
+      "fr": "Elle étudie à la bibliothèque.",
+      "vocabTags": ["studiare", "biblioteca"]
+    },
+    {
+      "id": "ph014",
+      "it": "Leggo un libro al parco.",
+      "fr": "Je lis un livre au parc.",
+      "vocabTags": ["leggere", "libro", "parco"]
+    },
+    {
+      "id": "ph015",
+      "it": "Parliamo italiano insieme.",
+      "fr": "Nous parlons italien ensemble.",
+      "vocabTags": ["parlare"]
+    },
+    {
+      "id": "ph016",
+      "it": "Non capisco questa parola.",
+      "fr": "Je ne comprends pas ce mot.",
+      "vocabTags": ["capire"]
+    },
+    {
+      "id": "ph017",
+      "it": "Esco con gli amici.",
+      "fr": "Je sors avec les amis.",
+      "vocabTags": ["uscire", "amico"]
+    },
+    {
+      "id": "ph018",
+      "it": "Scrivo una lettera alla madre.",
+      "fr": "J'écris une lettre à ma mère.",
+      "vocabTags": ["scrivere", "lettera", "madre"]
+    },
+    {
+      "id": "ph019",
+      "it": "Il ragazzo arriva alla stazione.",
+      "fr": "Le garçon arrive à la gare.",
+      "vocabTags": ["arrivare", "ragazzo", "stazione"]
+    },
+    {
+      "id": "ph020",
+      "it": "La famiglia mangia insieme la sera.",
+      "fr": "La famille mange ensemble le soir.",
+      "vocabTags": ["famiglia", "mangiare"]
+    },
+    {
+      "id": "ph021",
+      "it": "Bevo un caffè ogni mattina.",
+      "fr": "Je bois un café chaque matin.",
+      "vocabTags": ["bere", "caffe"]
+    },
+    {
+      "id": "ph022",
+      "it": "Vedo il padre in ufficio.",
+      "fr": "Je vois le père au bureau.",
+      "vocabTags": ["vedere", "padre", "ufficio"]
+    },
+    {
+      "id": "ph023",
+      "it": "Il bambino dorme ancora.",
+      "fr": "L'enfant dort encore.",
+      "vocabTags": ["bambino", "dormire", "ancora"]
+    },
+    {
+      "id": "ph024",
+      "it": "Compro del cibo al mercato.",
+      "fr": "J'achète de la nourriture au marché.",
+      "vocabTags": ["comprare", "cibo", "mercato"]
+    },
+    {
+      "id": "ph025",
+      "it": "Chiediamo la strada.",
+      "fr": "Nous demandons la route.",
+      "vocabTags": ["chiedere", "strada"]
+    },
+    {
+      "id": "ph026",
+      "it": "La città è molto grande e bella.",
+      "fr": "La ville est très grande et belle.",
+      "vocabTags": ["citta", "molto", "grande", "bello"]
+    },
+    {
+      "id": "ph027",
+      "it": "Questo libro è difficile ma interessante.",
+      "fr": "Ce livre est difficile mais intéressant.",
+      "vocabTags": ["libro", "difficile", "ma"]
+    },
+    {
+      "id": "ph028",
+      "it": "Lavoro spesso in ufficio.",
+      "fr": "Je travaille souvent au bureau.",
+      "vocabTags": ["lavorare", "spesso", "ufficio"]
+    },
+    {
+      "id": "ph029",
+      "it": "Lui parla sempre molto bene.",
+      "fr": "Il parle toujours très bien.",
+      "vocabTags": ["parlare", "sempre", "molto", "bene"]
+    },
+    {
+      "id": "ph030",
+      "it": "Vengo subito!",
+      "fr": "J'arrive tout de suite !",
+      "vocabTags": ["venire", "subito"]
+    },
+    {
+      "id": "ph031",
+      "it": "Mi sveglio sempre tardi.",
+      "fr": "Je me réveille toujours tard.",
+      "vocabTags": ["svegliarsi", "sempre"]
+    },
+    {
+      "id": "ph032",
+      "it": "Preferisco il pesce alla carne.",
+      "fr": "Je préfère le poisson à la viande.",
+      "vocabTags": ["preferire", "pesce", "carne"]
+    },
+    {
+      "id": "ph033",
+      "it": "Cerco il mio telefono.",
+      "fr": "Je cherche mon téléphone.",
+      "vocabTags": ["cercare", "telefono"]
+    },
+    {
+      "id": "ph034",
+      "it": "Oggi c'è il sole e un po' di vento.",
+      "fr": "Aujourd'hui il y a du soleil et un peu de vent.",
+      "vocabTags": ["sole", "vento", "poco"]
+    },
+    {
+      "id": "ph035",
+      "it": "La salute è molto importante.",
+      "fr": "La santé est très importante.",
+      "vocabTags": ["salute", "molto"]
+    },
+    {
+      "id": "ph036",
+      "it": "Penso che tu abbia ragione.",
+      "fr": "Je pense que tu as raison.",
+      "vocabTags": ["pensare"]
+    },
+    {
+      "id": "ph037",
+      "it": "Torno a casa presto.",
+      "fr": "Je rentre à la maison tôt.",
+      "vocabTags": ["tornare", "casa"]
+    },
+    {
+      "id": "ph038",
+      "it": "Mangio pasta e pesce stasera.",
+      "fr": "Je mange des pâtes et du poisson ce soir.",
+      "vocabTags": ["mangiare", "pasta", "pesce"]
+    },
+    {
+      "id": "ph039",
+      "it": "Ho mal di testa.",
+      "fr": "J'ai mal à la tête.",
+      "vocabTags": ["avere", "testa"]
+    },
+    {
+      "id": "ph040",
+      "it": "Aspetto il treno alla stazione.",
+      "fr": "J'attends le train à la gare.",
+      "vocabTags": ["aspettare", "treno", "stazione"]
+    }
+  ]
+}

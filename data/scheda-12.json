@@ -9,16 +9,20 @@
     "sections": [
       {
         "type": "intro",
-        "content": "Quando i pronomi personali si usano come complemento diretto hanno la funzione di complemento oggetto della frase."
+        "content": "Quando i pronomi personali si usano come complemento diretto hanno la funzione di complemento oggetto della frase.",
+        "content_fr": "Lorsque les pronoms personnels sont utilisés comme complément direct, ils ont la fonction de complément d'objet direct de la phrase."
       },
       {
         "type": "heading",
-        "content": "La Forma"
+        "content": "La Forma",
+        "content_fr": "La Forme"
       },
       {
         "type": "table",
         "caption": "Pronomi personali complemento diretto",
+        "caption_fr": "Pronoms personnels complément d'objet direct",
         "headers": ["Persona", "Pronome"],
+        "headers_fr": ["Personne", "Pronom"],
         "rows": [
           ["1ª persona singolare", "mi"],
           ["2ª persona singolare", "ti"],
@@ -28,26 +32,43 @@
           ["2ª persona plurale", "vi"],
           ["3ª persona plurale (M)", "li"],
           ["3ª persona plurale (F)", "le"]
+        ],
+        "rows_fr": [
+          ["1ère personne singulier", "mi"],
+          ["2ème personne singulier", "ti"],
+          ["3ème personne singulier (M)", "lo"],
+          ["3ème personne singulier (F)", "la"],
+          ["1ère personne pluriel", "ci"],
+          ["2ème personne pluriel", "vi"],
+          ["3ème personne pluriel (M)", "li"],
+          ["3ème personne pluriel (F)", "le"]
         ]
       },
       {
         "type": "paragraph",
-        "content": "I pronomi di 3ª persona singolare **lo/la** diventano **l'** quando sono seguiti dal verbo *avere*: *Lo ho fatto → L'ho fatto, La hanno sentita → L'hanno sentita*."
+        "content": "I pronomi di 3ª persona singolare **lo/la** diventano **l'** quando sono seguiti dal verbo *avere*: *Lo ho fatto → L'ho fatto, La hanno sentita → L'hanno sentita*.",
+        "content_fr": "Les pronoms de 3ème personne singulier **lo/la** deviennent **l'** lorsqu'ils sont suivis du verbe *avere* : *Lo ho fatto → L'ho fatto, La hanno sentita → L'hanno sentita*."
       },
       {
         "type": "heading",
-        "content": "L'Uso"
+        "content": "L'Uso",
+        "content_fr": "L'Emploi"
       },
       {
         "type": "list",
         "items": [
           "**Prima del verbo** (staccati) se il verbo è all'indicativo, congiuntivo o condizionale: *Mangio il panino → Lo mangio.*",
           "**Dopo il verbo** (uniti) se il verbo è all'infinito, all'imperativo o al gerundio: *Posso mangiare il panino → Posso mangiarlo. / Mangia il panino! → Mangialo!*"
+        ],
+        "items_fr": [
+          "**Avant le verbe** (séparés) si le verbe est à l'indicatif, au subjonctif ou au conditionnel : *Mangio il panino → Lo mangio.*",
+          "**Après le verbe** (attachés) si le verbe est à l'infinitif, à l'impératif ou au gérondif : *Posso mangiare il panino → Posso mangiarlo. / Mangia il panino! → Mangialo!*"
         ]
       },
       {
         "type": "paragraph",
-        "content": "**Attenzione:** È possibile usare le forme *me, te, lui/lei, noi, voi, loro* per dare molto risalto al pronome: *Noi vediamo lei.* (= vediamo proprio lei, non altri)"
+        "content": "**Attenzione:** È possibile usare le forme *me, te, lui/lei, noi, voi, loro* per dare molto risalto al pronome: *Noi vediamo lei.* (= vediamo proprio lei, non altri)",
+        "content_fr": "**Attention :** Il est possible d'utiliser les formes *me, te, lui/lei, noi, voi, loro* pour mettre fortement en relief le pronom : *Noi vediamo lei.* (= nous voyons vraiment elle, pas d'autres)"
       }
     ]
   },

@@ -9,41 +9,55 @@
     "sections": [
       {
         "type": "intro",
-        "content": "I nomi sono composti da parti che possiamo dividere e spiegare."
+        "content": "I nomi sono composti da parti che possiamo dividere e spiegare.",
+        "content_fr": "Les noms sont composés de parties que nous pouvons diviser et expliquer."
       },
       {
         "type": "list",
         "items": [
           "La **radice** è la parte della parola che esprime il suo significato.",
           "La **desinenza** è la parte della parola che indica le sue caratteristiche grammaticali (genere e numero)."
+        ],
+        "items_fr": [
+          "Le **radical** est la partie du mot qui exprime son sens.",
+          "La **terminaison** est la partie du mot qui indique ses caractéristiques grammaticales (genre et nombre)."
         ]
       },
       {
         "type": "paragraph",
-        "content": "Ad esempio: **CAS**-A (radice + desinenza femminile singolare), **RAGAZZ**-O (radice + desinenza maschile singolare), **MAR**-E (radice + desinenza maschile singolare), **LIBR**-I (radice + desinenza maschile plurale)."
+        "content": "Ad esempio: **CAS**-A (radice + desinenza femminile singolare), **RAGAZZ**-O (radice + desinenza maschile singolare), **MAR**-E (radice + desinenza maschile singolare), **LIBR**-I (radice + desinenza maschile plurale).",
+        "content_fr": "Par exemple : **CAS**-A (radical + terminaison féminin singulier), **RAGAZZ**-O (radical + terminaison masculin singulier), **MAR**-E (radical + terminaison masculin singulier), **LIBR**-I (radical + terminaison masculin pluriel)."
       },
       {
         "type": "paragraph",
-        "content": "I nomi composti solo dalla radice e dalla desinenza si chiamano **nomi primitivi**."
+        "content": "I nomi composti solo dalla radice e dalla desinenza si chiamano **nomi primitivi**.",
+        "content_fr": "Les noms composés uniquement du radical et de la terminaison s'appellent **noms primitifs**."
       },
       {
         "type": "heading",
-        "content": "Nomi derivati"
+        "content": "Nomi derivati",
+        "content_fr": "Noms dérivés"
       },
       {
         "type": "paragraph",
-        "content": "Partendo dai nomi primitivi si formano i **nomi derivati**, cioè nomi con prefissi e suffissi che li fanno diventare nomi nuovi con un altro significato."
+        "content": "Partendo dai nomi primitivi si formano i **nomi derivati**, cioè nomi con prefissi e suffissi che li fanno diventare nomi nuovi con un altro significato.",
+        "content_fr": "À partir des noms primitifs se forment les **noms dérivés**, c'est-à-dire des noms avec des préfixes et des suffixes qui leur donnent un nouveau sens."
       },
       {
         "type": "list",
         "items": [
           "Il **prefisso** è un elemento che si mette prima della radice.",
           "Il **suffisso** è un elemento che si mette dopo la radice."
+        ],
+        "items_fr": [
+          "Le **préfixe** est un élément que l'on place avant le radical.",
+          "Le **suffixe** est un élément que l'on place après le radical."
         ]
       },
       {
         "type": "paragraph",
-        "content": "Ad esempio: **PORT-A** è un nome primitivo (radice + desinenza). **PORT-IER-E** è un nome derivato (radice + suffisso + desinenza). **S-PORT-ELL-O** è un nome derivato (prefisso + radice + suffisso + desinenza)."
+        "content": "Ad esempio: **PORT-A** è un nome primitivo (radice + desinenza). **PORT-IER-E** è un nome derivato (radice + suffisso + desinenza). **S-PORT-ELL-O** è un nome derivato (prefisso + radice + suffisso + desinenza).",
+        "content_fr": "Par exemple : **PORT-A** est un nom primitif (radical + terminaison). **PORT-IER-E** est un nom dérivé (radical + suffixe + terminaison). **S-PORT-ELL-O** est un nom dérivé (préfixe + radical + suffixe + terminaison)."
       }
     ]
   },

@@ -9,7 +9,8 @@
     "sections": [
       {
         "type": "intro",
-        "content": "Gli aggettivi qualificativi possono esprimere in modo generale come sono una persona o una cosa, ma anche precisare quanto la persona o la cosa sono in quel modo, cioè in quale misura e grado possiedono una certa qualità."
+        "content": "Gli aggettivi qualificativi possono esprimere in modo generale come sono una persona o una cosa, ma anche precisare quanto la persona o la cosa sono in quel modo, cioè in quale misura e grado possiedono una certa qualità.",
+        "content_fr": "Les adjectifs qualificatifs peuvent exprimer de façon générale comment est une personne ou une chose, mais aussi préciser dans quelle mesure la personne ou la chose possède cette qualité."
       },
       {
         "type": "example",
@@ -24,11 +25,13 @@
       },
       {
         "type": "heading",
-        "content": "Il Comparativo"
+        "content": "Il Comparativo",
+        "content_fr": "Le Comparatif"
       },
       {
         "type": "paragraph",
-        "content": "Il grado comparativo si usa quando si fa il confronto tra due elementi (primo e secondo termine di paragone)."
+        "content": "Il grado comparativo si usa quando si fa il confronto tra due elementi (primo e secondo termine di paragone).",
+        "content_fr": "Le degré comparatif s'utilise quand on établit une comparaison entre deux éléments (premier et second terme de comparaison)."
       },
       {
         "type": "list",
@@ -36,26 +39,38 @@
           "**Comparativo di maggioranza:** il primo termine possiede la qualità in misura maggiore → *Questa casa è **più grande** della casa di Rosi.*",
           "**Comparativo di minoranza:** il primo termine possiede la qualità in misura minore → *Questa casa è **meno grande** della mia.*",
           "**Comparativo di uguaglianza:** il primo termine possiede la qualità in misura uguale → *Questa casa è **grande come** quella di papà.*"
+        ],
+        "items_fr": [
+          "**Comparatif de supériorité :** le premier terme possède la qualité en plus grande mesure → *Questa casa è **più grande** della casa di Rosi.*",
+          "**Comparatif d'infériorité :** le premier terme possède la qualité en moindre mesure → *Questa casa è **meno grande** della mia.*",
+          "**Comparatif d'égalité :** le premier terme possède la qualité en même mesure → *Questa casa è **grande come** quella di papà.*"
         ]
       },
       {
         "type": "paragraph",
-        "content": "I due termini sono collegati da **di** (se paragoniamo nomi o pronomi: *Emilia è più elegante **di** Adriana*) oppure **che** (se paragoniamo verbi o aggettivi: *Davide è più simpatico **che** bello*)."
+        "content": "I due termini sono collegati da **di** (se paragoniamo nomi o pronomi: *Emilia è più elegante **di** Adriana*) oppure **che** (se paragoniamo verbi o aggettivi: *Davide è più simpatico **che** bello*).",
+        "content_fr": "Les deux termes sont reliés par **di** (si l'on compare des noms ou pronoms : *Emilia è più elegante **di** Adriana*) ou par **che** (si l'on compare des verbes ou des adjectifs : *Davide è più simpatico **che** bello*)."
       },
       {
         "type": "heading",
-        "content": "Il Superlativo"
+        "content": "Il Superlativo",
+        "content_fr": "Le Superlatif"
       },
       {
         "type": "list",
         "items": [
           "**Superlativo relativo:** qualità al massimo o minimo grado rispetto a un gruppo → *Questa pizza è **la più buona** di tutte. Salvatore è **il meno simpatico** tra gli amici.*",
           "**Superlativo assoluto:** qualità al massimo grado senza confronto → *Oggi è una giornata **freddissima**. Ugo era **simpaticissimo**.*"
+        ],
+        "items_fr": [
+          "**Superlatif relatif :** qualité au degré maximum ou minimum par rapport à un groupe → *Questa pizza è **la più buona** di tutte. Salvatore è **il meno simpatico** tra gli amici.*",
+          "**Superlatif absolu :** qualité au degré maximum sans comparaison → *Oggi è una giornata **freddissima**. Ugo era **simpaticissimo**.*"
         ]
       },
       {
         "type": "paragraph",
-        "content": "Il superlativo assoluto si forma sostituendo alla desinenza la desinenza **-issimo** (caro → carissimo) oppure mettendo davanti **molto, estremamente, incredibilmente** (caro → molto caro)."
+        "content": "Il superlativo assoluto si forma sostituendo alla desinenza la desinenza **-issimo** (caro → carissimo) oppure mettendo davanti **molto, estremamente, incredibilmente** (caro → molto caro).",
+        "content_fr": "Le superlatif absolu se forme en remplaçant la terminaison par **-issimo** (caro → carissimo) ou en ajoutant devant **molto, estremamente, incredibilmente** (caro → molto caro)."
       }
     ]
   },

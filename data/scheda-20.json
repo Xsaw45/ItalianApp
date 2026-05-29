@@ -9,26 +9,34 @@
     "sections": [
       {
         "type": "intro",
-        "content": "**Gli interrogativi servono per introdurre una domanda.**"
+        "content": "**Gli interrogativi servono per introdurre una domanda.**",
+        "content_fr": "**Les interrogatifs servent à introduire une question.**"
       },
       {
         "type": "paragraph",
-        "content": "Anche gli interrogativi possono essere **aggettivi** (se accompagnano un nome) o **pronomi** (se sostituiscono o sottintendono un nome)."
+        "content": "Anche gli interrogativi possono essere **aggettivi** (se accompagnano un nome) o **pronomi** (se sostituiscono o sottintendono un nome).",
+        "content_fr": "Les interrogatifs peuvent aussi être des **adjectifs** (s'ils accompagnent un nom) ou des **pronoms** (s'ils remplacent ou sous-entendent un nom)."
       },
       {
         "type": "heading",
-        "content": "Gli aggettivi interrogativi"
+        "content": "Gli aggettivi interrogativi",
+        "content_fr": "Les adjectifs interrogatifs"
       },
       {
         "type": "list",
         "items": [
           "**che** e **quale**: per chiedere la **qualità** o l'**identità** del nome a cui si riferiscono",
           "**quanto**: per chiedere la **quantità** del nome a cui si riferiscono"
+        ],
+        "items_fr": [
+          "**che** et **quale** : pour demander la **qualité** ou l'**identité** du nom auquel ils se réfèrent",
+          "**quanto** : pour demander la **quantité** du nom auquel ils se réfèrent"
         ]
       },
       {
         "type": "paragraph",
-        "content": "**Che** e **quale** sono intercambiabili quando si chiede la qualità o l'identità:"
+        "content": "**Che** e **quale** sono intercambiabili quando si chiede la qualità o l'identità:",
+        "content_fr": "**Che** et **quale** sont interchangeables quand on demande la qualité ou l'identité :"
       },
       {
         "type": "example",
@@ -41,7 +49,8 @@
       },
       {
         "type": "paragraph",
-        "content": "**Quanto** concorda con il nome a cui si riferisce, sia nel **numero** sia nel **genere**:"
+        "content": "**Quanto** concorda con il nome a cui si riferisce, sia nel **numero** sia nel **genere**:",
+        "content_fr": "**Quanto** s'accorde avec le nom auquel il se réfère, aussi bien en **nombre** qu'en **genre** :"
       },
       {
         "type": "example",
@@ -54,13 +63,18 @@
       },
       {
         "type": "heading",
-        "content": "I pronomi interrogativi"
+        "content": "I pronomi interrogativi",
+        "content_fr": "Les pronoms interrogatifs"
       },
       {
         "type": "list",
         "items": [
           "**chi**: per fare una domanda riguardante una **persona**",
           "**che cosa**: per fare una domanda riguardante una **cosa**"
+        ],
+        "items_fr": [
+          "**chi** : pour poser une question concernant une **personne**",
+          "**che cosa** : pour poser une question concernant une **chose**"
         ]
       },
       {
@@ -73,19 +87,23 @@
       },
       {
         "type": "heading",
-        "content": "Attenzione: chi"
+        "content": "Attenzione: chi",
+        "content_fr": "Attention : chi"
       },
       {
         "type": "paragraph",
-        "content": "**Chi** è invariabile (cioè è sempre uguale al maschile, femminile, singolare o plurale) e vuole il verbo alla **3ª persona singolare**."
+        "content": "**Chi** è invariabile (cioè è sempre uguale al maschile, femminile, singolare o plurale) e vuole il verbo alla **3ª persona singolare**.",
+        "content_fr": "**Chi** est invariable (c'est-à-dire qu'il reste toujours identique au masculin, féminin, singulier ou pluriel) et demande le verbe à la **3ème personne du singulier**."
       },
       {
         "type": "heading",
-        "content": "Aggettivi interrogativi usati anche come pronomi"
+        "content": "Aggettivi interrogativi usati anche come pronomi",
+        "content_fr": "Adjectifs interrogatifs utilisés aussi comme pronoms"
       },
       {
         "type": "paragraph",
-        "content": "Anche gli aggettivi interrogativi **che**, **quale**, **quanto** possono essere pronomi quando sostituiscono un nome."
+        "content": "Anche gli aggettivi interrogativi **che**, **quale**, **quanto** possono essere pronomi quando sostituiscono un nome.",
+        "content_fr": "Les adjectifs interrogatifs **che**, **quale**, **quanto** peuvent également être des pronoms quand ils remplacent un nom."
       },
       {
         "type": "example",
@@ -96,11 +114,13 @@
       },
       {
         "type": "heading",
-        "content": "Interrogativa diretta e interrogativa indiretta"
+        "content": "Interrogativa diretta e interrogativa indiretta",
+        "content_fr": "Interrogative directe et interrogative indirecte"
       },
       {
         "type": "paragraph",
-        "content": "È facile accorgersi che gli aggettivi e i pronomi interrogativi introducono una domanda, cioè una frase **interrogativa diretta**, con il punto interrogativo:"
+        "content": "È facile accorgersi che gli aggettivi e i pronomi interrogativi introducono una domanda, cioè una frase **interrogativa diretta**, con il punto interrogativo:",
+        "content_fr": "Il est facile de constater que les adjectifs et pronoms interrogatifs introduisent une question, c'est-à-dire une phrase **interrogative directe**, avec le point d'interrogation :"
       },
       {
         "type": "example",
@@ -112,7 +132,8 @@
       },
       {
         "type": "paragraph",
-        "content": "Gli interrogativi possono però introdurre anche frasi che non hanno il punto interrogativo, ma che contengono un elemento di dubbio, di domanda. Queste frasi si chiamano **interrogative indirette**."
+        "content": "Gli interrogativi possono però introdurre anche frasi che non hanno il punto interrogativo, ma che contengono un elemento di dubbio, di domanda. Queste frasi si chiamano **interrogative indirette**.",
+        "content_fr": "Les interrogatifs peuvent cependant aussi introduire des phrases qui n'ont pas de point d'interrogation, mais qui contiennent un élément de doute, de question. Ces phrases s'appellent des **interrogatives indirectes**."
       },
       {
         "type": "example",

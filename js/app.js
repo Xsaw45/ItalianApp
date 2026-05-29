@@ -7,7 +7,10 @@ import { renderHomeView } from './views/home.js';
 import { renderSchedaView } from './views/scheda.js';
 import { renderStatsView } from './views/stats.js';
 import { renderVocabView } from './views/vocab.js';
+import { renderConjugationView } from './views/conjugation.js';
+import { renderTranslationView } from './views/translation.js';
 import { getSettings, updateSettings, getSchedaProgress, loadState, saveState } from './state.js';
+import { t, getLanguage, setLanguage, localName } from './i18n.js';
 import { el, clearElement } from './utils/dom.js';
 
 // Route handlers
@@ -31,6 +34,38 @@ function handleVocab() {
   renderVocabView('list');
 }
 
+function handleConj() {
+  renderConjugationView('list');
+}
+
+function handleTranslation() {
+  renderTranslationView('list');
+}
+
+// Re-render the current view based on hash
+function renderCurrentView() {
+  const hash = window.location.hash.replace('#', '') || '/home';
+  const schedaMatch = hash.match(/^\/scheda\/([^/]+)\/exercises$/);
+  const schedaMatchTheory = hash.match(/^\/scheda\/([^/]+)$/);
+  if (hash === '/home' || hash === '') {
+    renderHomeView();
+  } else if (hash === '/stats') {
+    renderStatsView();
+  } else if (hash === '/vocab') {
+    renderVocabView('list');
+  } else if (hash === '/conjugation') {
+    renderConjugationView('list');
+  } else if (hash === '/translation') {
+    renderTranslationView('list');
+  } else if (schedaMatch) {
+    renderSchedaView(schedaMatch[1], 'exercises');
+  } else if (schedaMatchTheory) {
+    renderSchedaView(schedaMatchTheory[1], 'theory');
+  } else {
+    renderHomeView();
+  }
+}
+
 // Initialize
 async function init() {
   // Apply saved settings
@@ -38,6 +73,9 @@ async function init() {
   if (settings.darkMode) {
     document.body.classList.add('dark');
   }
+
+  // Apply saved language
+  document.documentElement.lang = getLanguage();
 
   // Setup sidebar
   await buildSidebar();
@@ -48,22 +86,36 @@ async function init() {
   // Setup settings
   setupSettings();
 
+  // Setup language toggle
+  setupLangToggle();
+
   // Register routes
   registerRoutes({
     '/home': handleHome,
     '/stats': handleStats,
     '/vocab': handleVocab,
+    '/conjugation': handleConj,
+    '/translation': handleTranslation,
     '/scheda/:id': handleScheda,
     '/scheda/:id/exercises': handleSchedaExercises,
   });
 
   // Start router
   initRouter();
+
+  // Re-render on language change
+  window.addEventListener('languagechange', async () => {
+    document.documentElement.lang = getLanguage();
+    updateLangToggleBtn();
+    await buildSidebar();
+    renderCurrentView();
+  });
 }
 
 async function buildSidebar() {
   const nav = document.getElementById('sidebarNav');
   if (!nav) return;
+  clearElement(nav);
 
   try {
     const manifest = await loadManifest();
@@ -80,7 +132,7 @@ async function buildSidebar() {
         alignItems: 'center',
         gap: 'var(--space-sm)'
       }
-    }, '\u2302 Home');
+    }, `\u2302 ${t('nav.home')}`);
     nav.appendChild(homeLink);
 
     // Stats link
@@ -95,7 +147,7 @@ async function buildSidebar() {
         alignItems: 'center',
         gap: 'var(--space-sm)'
       }
-    }, '\u2211 Statistiche');
+    }, `\u2211 ${t('nav.stats')}`);
     nav.appendChild(statsLink);
 
     // Vocab link
@@ -105,13 +157,43 @@ async function buildSidebar() {
       style: {
         paddingLeft: 'var(--space-sm)',
         fontWeight: '600',
+        marginBottom: 'var(--space-md)',
+        display: 'flex',
+        alignItems: 'center',
+        gap: 'var(--space-sm)'
+      }
+    }, t('nav.vocab'));
+    nav.appendChild(vocabLink);
+
+    // Conjugation link
+    const conjLink = el('a', {
+      href: '#/conjugation',
+      className: 'sidebar-scheda-link',
+      style: {
+        paddingLeft: 'var(--space-sm)',
+        fontWeight: '600',
+        marginBottom: 'var(--space-md)',
+        display: 'flex',
+        alignItems: 'center',
+        gap: 'var(--space-sm)'
+      }
+    }, t('nav.conj'));
+    nav.appendChild(conjLink);
+
+    // Translation link
+    const translLink = el('a', {
+      href: '#/translation',
+      className: 'sidebar-scheda-link',
+      style: {
+        paddingLeft: 'var(--space-sm)',
+        fontWeight: '600',
         marginBottom: 'var(--space-xl)',
         display: 'flex',
         alignItems: 'center',
         gap: 'var(--space-sm)'
       }
-    }, 'A-Z Vocabolario');
-    nav.appendChild(vocabLink);
+    }, t('nav.translation'));
+    nav.appendChild(translLink);
 
     // Categories
     for (const category of manifest.categories) {
@@ -121,7 +203,7 @@ async function buildSidebar() {
         className: 'sidebar-category-header',
         onClick: () => cat.classList.toggle('open')
       });
-      header.appendChild(el('span', {}, category.name));
+      header.appendChild(el('span', {}, localName(category, 'name')));
       header.appendChild(el('span', { className: 'chevron' }, '\u25B6'));
       cat.appendChild(header);
 
@@ -140,7 +222,7 @@ async function buildSidebar() {
           dataset: { schedaId: String(schedaId) }
         });
         link.appendChild(el('span', { className: `progress-dot ${dotClass}` }));
-        link.appendChild(el('span', {}, `${schedaId}. ${info.title}`));
+        link.appendChild(el('span', {}, `${schedaId}. ${localName(info, 'title')}`));
         li.appendChild(link);
         list.appendChild(li);
       }
@@ -149,7 +231,7 @@ async function buildSidebar() {
       nav.appendChild(cat);
     }
   } catch (err) {
-    nav.textContent = 'Errore nel caricamento del menu.';
+    nav.textContent = t('sidebar.error');
   }
 }
 
@@ -191,6 +273,23 @@ function setupSettings() {
   });
 }
 
+function setupLangToggle() {
+  const btn = document.getElementById('langToggleBtn');
+  if (!btn) return;
+  updateLangToggleBtn();
+  btn.addEventListener('click', () => {
+    const current = getLanguage();
+    setLanguage(current === 'it' ? 'fr' : 'it');
+  });
+}
+
+function updateLangToggleBtn() {
+  const btn = document.getElementById('langToggleBtn');
+  if (!btn) return;
+  // Show the flag of the OTHER language (the one you'd switch to)
+  btn.textContent = getLanguage() === 'it' ? '🇫🇷' : '🇮🇹';
+}
+
 function showSettingsModal() {
   // Remove existing
   const existing = document.querySelector('.modal-overlay');
@@ -201,11 +300,11 @@ function showSettingsModal() {
   const overlay = el('div', { className: 'modal-overlay active' });
   const modal = el('div', { className: 'modal' });
 
-  modal.appendChild(el('h3', { className: 'modal-title' }, 'Impostazioni'));
+  modal.appendChild(el('h3', { className: 'modal-title' }, t('settings.title')));
 
   // Dark mode toggle
   const darkRow = el('div', { className: 'toggle-row' });
-  darkRow.appendChild(el('span', { className: 'toggle-label' }, 'Modalità scura'));
+  darkRow.appendChild(el('span', { className: 'toggle-label' }, t('settings.dark')));
   const darkToggle = el('label', { className: 'toggle' });
   const darkInput = el('input', {
     type: 'checkbox',
@@ -225,7 +324,7 @@ function showSettingsModal() {
 
   // Strict accents toggle
   const accentRow = el('div', { className: 'toggle-row' });
-  accentRow.appendChild(el('span', { className: 'toggle-label' }, 'Accenti rigorosi'));
+  accentRow.appendChild(el('span', { className: 'toggle-label' }, t('settings.accents')));
   const accentToggle = el('label', { className: 'toggle' });
   const accentInput = el('input', { type: 'checkbox' });
   if (settings.strictAccents) accentInput.checked = true;
@@ -245,7 +344,7 @@ function showSettingsModal() {
       color: 'var(--color-text-muted)',
       marginTop: 'var(--space-sm)'
     }
-  }, 'Se attivo, "è" e "e" sono considerati diversi nelle risposte.'));
+  }, t('settings.accents.desc')));
 
   // Divider
   modal.appendChild(el('hr', { style: { margin: 'var(--space-lg) 0', border: 'none', borderTop: '1px solid var(--color-border-light)' } }));
@@ -264,7 +363,7 @@ function showSettingsModal() {
       a.click();
       URL.revokeObjectURL(url);
     }
-  }, 'Esporta progressione'));
+  }, t('settings.export')));
 
   // Import progress button
   const importInput = el('input', { type: 'file', accept: '.json', style: { display: 'none' } });
@@ -276,14 +375,14 @@ function showSettingsModal() {
       try {
         const imported = JSON.parse(e.target.result);
         if (!imported.version || !imported.schede) {
-          alert('File non valido.');
+          alert(t('settings.invalid.file'));
           return;
         }
         saveState(imported);
         overlay.remove();
         window.location.reload();
       } catch {
-        alert('Errore durante l\'importazione.');
+        alert(t('settings.import.error'));
       }
     };
     reader.readAsText(file);
@@ -294,14 +393,14 @@ function showSettingsModal() {
     className: 'btn btn-outline',
     style: { width: '100%', marginBottom: 'var(--space-lg)' },
     onClick: () => importInput.click()
-  }, 'Importa progressione'));
+  }, t('settings.import')));
 
   // Close button
   const closeBtn = el('button', {
     className: 'btn btn-primary',
     style: { width: '100%' },
     onClick: () => overlay.remove()
-  }, 'Chiudi');
+  }, t('settings.close'));
   modal.appendChild(closeBtn);
 
   overlay.appendChild(modal);
@@ -317,7 +416,7 @@ init().catch(err => {
   const app = document.getElementById('app');
   if (app) {
     app.innerHTML = `<p style="color:var(--color-incorrect);padding:2rem;">
-      Errore nell'inizializzazione dell'app: ${err.message}
+      ${t('app.init.error')}${err.message}
     </p>`;
   }
 });

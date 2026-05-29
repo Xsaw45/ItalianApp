@@ -42,6 +42,19 @@ Chaque push sur `main` déclenche un déploiement automatique.
 
 ## Checklist avant déploiement
 
-- [ ] Tous les fichiers `data/scheda-*.json` sont présents dans `www/data/`
-- [ ] Le `sw.js` liste tous les fichiers dans `ASSETS_TO_CACHE`
 - [ ] `npm run build:www` s'est exécuté sans erreur
+- [ ] `www/data/` contient tous les `scheda-*.json` + `scheda-0a.json` + `scheda-19bis.json`
+- [ ] `www/data/vocab.json` et `www/data/conjugation.json` sont présents
+- [ ] `www/data/manifest.json` est à jour
+- [ ] `sw.js` version bumped (actuellement **v9**) si des fichiers ont changé
+- [ ] `sw.js` liste tous les nouveaux fichiers dans `ASSETS_TO_CACHE`
+
+## Version actuelle
+
+| Fichier | État |
+|---|---|
+| `sw.js` | v9 |
+| Module vocabulaire | 3 niveaux, ~300 mots |
+| Module conjugaison | 3 niveaux, 60 verbes (720 cartes) |
+| Schede | 42 fiches (scheda-1 → scheda-40 + 0a + 19bis) |
+| Langues | Italiano / Français (toggle) |

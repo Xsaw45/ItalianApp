@@ -2,18 +2,22 @@
   "meta": {
     "id": "1",
     "title": "Gli Articoli",
+    "title_fr": "Les Articles",
     "subtitle": "Determinativi e Indeterminativi",
+    "subtitle_fr": "Définis et Indéfinis",
     "source": "Loescher Editore - L'italiano per studiare"
   },
   "theory": {
     "sections": [
       {
         "type": "intro",
-        "content": "Gli articoli sono parole che non possono stare da sole, perché non hanno un significato proprio; devono sempre stare davanti al nome e hanno alcune funzioni importanti."
+        "content": "Gli articoli sono parole che non possono stare da sole, perché non hanno un significato proprio; devono sempre stare davanti al nome e hanno alcune funzioni importanti.",
+        "content_fr": "Les articles sont des mots qui ne peuvent pas se trouver seuls, car ils n'ont pas de signification propre ; ils doivent toujours se placer devant le nom et ont plusieurs fonctions importantes."
       },
       {
         "type": "paragraph",
-        "content": "L'**articolo determinativo** indica una persona, un animale o una cosa determinata e conosciuta da chi parla e da chi ascolta."
+        "content": "L'**articolo determinativo** indica una persona, un animale o una cosa determinata e conosciuta da chi parla e da chi ascolta.",
+        "content_fr": "L'**article défini** désigne une personne, un animal ou une chose déterminée et connue de celui qui parle et de celui qui écoute."
       },
       {
         "type": "example",
@@ -24,7 +28,8 @@
       },
       {
         "type": "paragraph",
-        "content": "L'**articolo indeterminativo** indica una persona, un animale o una cosa non determinata o generica, non conosciuta da chi parla e da chi ascolta."
+        "content": "L'**articolo indeterminativo** indica una persona, un animale o una cosa non determinata o generica, non conosciuta da chi parla e da chi ascolta.",
+        "content_fr": "L'**article indéfini** désigne une personne, un animal ou une chose non déterminée ou générique, inconnue de celui qui parle et de celui qui écoute."
       },
       {
         "type": "example",
@@ -35,23 +40,34 @@
       },
       {
         "type": "heading",
-        "content": "La Forma"
+        "content": "La Forma",
+        "content_fr": "La Forme"
       },
       {
         "type": "table",
         "caption": "Articoli Determinativi e Indeterminativi",
+        "caption_fr": "Articles Définis et Indéfinis",
         "headers": ["", "Determ. Sing.", "Determ. Plur.", "Indeterm.", "Davanti a quali nomi?"],
+        "headers_fr": ["", "Déf. Sing.", "Déf. Plur.", "Indéf.", "Devant quels noms ?"],
         "rows": [
           ["Maschile", "**il**", "**i**", "**un**", "Nomi che iniziano con **consonante** (eccetto z, s+cons., x, y, ps, gn, pn)"],
           ["Maschile", "**lo**", "**gli**", "**uno**", "Nomi che iniziano con **z, s+cons., x, y, ps, gn, pn**"],
           ["Maschile", "**l'**", "**gli**", "**un**", "Nomi che iniziano con **vocale**"],
           ["Femminile", "**la**", "**le**", "**una**", "Nomi che iniziano con **consonante**"],
           ["Femminile", "**l'**", "**le**", "**un'**", "Nomi che iniziano con **vocale**"]
+        ],
+        "rows_fr": [
+          ["Masculin", "**il**", "**i**", "**un**", "Noms commençant par une **consonne** (sauf z, s+cons., x, y, ps, gn, pn)"],
+          ["Masculin", "**lo**", "**gli**", "**uno**", "Noms commençant par **z, s+cons., x, y, ps, gn, pn**"],
+          ["Masculin", "**l'**", "**gli**", "**un**", "Noms commençant par une **voyelle**"],
+          ["Féminin", "**la**", "**le**", "**una**", "Noms commençant par une **consonne**"],
+          ["Féminin", "**l'**", "**le**", "**un'**", "Noms commençant par une **voyelle**"]
         ]
       },
       {
         "type": "heading",
-        "content": "Quando si usa l'articolo determinativo"
+        "content": "Quando si usa l'articolo determinativo",
+        "content_fr": "Quand utiliser l'article défini"
       },
       {
         "type": "list",
@@ -61,11 +77,19 @@
           "Per indicare qualcosa di cui **si è già parlato**: *Sono andato a una festa; la festa è stata divertente.*",
           "In sostituzione di un **aggettivo dimostrativo**: *Entro la primavera prenderò la patente.* (= entro questa primavera)",
           "In sostituzione di un **aggettivo indefinito**: *Il sabato sera vado in discoteca.* (= ogni sabato sera)"
+        ],
+        "items_fr": [
+          "Pour désigner une personne ou une chose **unique** : *La luna è gialla. Il papa vive a Roma.*",
+          "Pour désigner une **espèce ou catégorie entière** : *Il leone vive in Africa. I soldati portano la divisa.*",
+          "Pour désigner quelque chose **dont on a déjà parlé** : *Sono andato a una festa; la festa è stata divertente.*",
+          "En remplacement d'un **adjectif démonstratif** : *Entro la primavera prenderò la patente.* (= avant ce printemps)",
+          "En remplacement d'un **adjectif indéfini** : *Il sabato sera vado in discoteca.* (= chaque samedi soir)"
         ]
       },
       {
         "type": "heading",
-        "content": "Quando si usa l'articolo indeterminativo"
+        "content": "Quando si usa l'articolo indeterminativo",
+        "content_fr": "Quand utiliser l'article indéfini"
       },
       {
         "type": "list",
@@ -73,6 +97,11 @@
           "Per indicare una persona/cosa **qualunque**: *Prendi una matita e scrivi. Andiamo in un bar.*",
           "Quando **non si vuole precisare** meglio: *Mi ha telefonato un amico. Ho comprato un libro di fantascienza.*",
           "Quando una persona/cosa è **nominata per la prima volta**: *Sono andato a una festa di compleanno; la festa è stata molto divertente.*"
+        ],
+        "items_fr": [
+          "Pour désigner une personne/chose **quelconque** : *Prendi una matita e scrivi. Andiamo in un bar.*",
+          "Quand **on ne veut pas préciser davantage** : *Mi ha telefonato un amico. Ho comprato un libro di fantascienza.*",
+          "Quand une personne/chose est **mentionnée pour la première fois** : *Sono andato a una festa di compleanno; la festa è stata molto divertente.*"
         ]
       }
     ]

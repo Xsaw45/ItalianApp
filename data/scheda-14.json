@@ -9,7 +9,8 @@
     "sections": [
       {
         "type": "intro",
-        "content": "Ci e Ne sono due parole particolari, che hanno vari usi e vari significati."
+        "content": "Ci e Ne sono due parole particolari, che hanno vari usi e vari significati.",
+        "content_fr": "Ci et Ne sont deux mots particuliers, qui ont des usages et des significations variés."
       },
       {
         "type": "heading",
@@ -18,12 +19,20 @@
       {
         "type": "table",
         "caption": "Usi di CI",
+        "caption_fr": "Usages de CI",
         "headers": ["Che cos'è?", "Che cosa significa?", "Esempio"],
+        "headers_fr": ["Qu'est-ce que c'est ?", "Que signifie-t-il ?", "Exemple"],
         "rows": [
           ["pronome personale diretto", "noi (oggetto)", "Roby ci ha visti sull'autobus."],
           ["pronome personale indiretto", "a noi", "Ci impresti il tuo dizionario?"],
           ["particella avverbiale di luogo", "qui, lì, là", "Nello zaino c'è il portapenne. / Come vai a scuola? – Ci vado a piedi."],
           ["particella pronominale", "a questo, con questo, di questo", "Sono interessato a questo lavoro, ci tengo molto. / Sei riuscito a trovare i biglietti? Sì, ci sono riuscito."]
+        ],
+        "rows_fr": [
+          ["pronom personnel direct", "nous (objet)", "Roby ci ha visti sull'autobus."],
+          ["pronom personnel indirect", "à nous", "Ci impresti il tuo dizionario?"],
+          ["particule adverbiale de lieu", "ici, là, là-bas", "Nello zaino c'è il portapenne. / Come vai a scuola? – Ci vado a piedi."],
+          ["particule pronominale", "à cela, avec cela, de cela", "Sono interessato a questo lavoro, ci tengo molto. / Sei riuscito a trovare i biglietti? Sì, ci sono riuscito."]
         ]
       },
       {
@@ -33,15 +42,22 @@
       {
         "type": "table",
         "caption": "Usi di NE",
+        "caption_fr": "Usages de NE",
         "headers": ["Che cos'è?", "Che cosa significa?", "Esempio"],
+        "headers_fr": ["Qu'est-ce que c'est ?", "Que signifie-t-il ?", "Exemple"],
         "rows": [
           ["pronome personale indiretto", "di lui, di lei, di loro / da lui, da lei, da loro", "Beppe è molto affezionato ai figli. Ne parla sempre. / Ho fatto questo lavoro ma non ne ho guadagnato niente."],
           ["pronome partitivo", "di questo, di questa, di questi — una parte di qualcosa", "Vuoi del gelato? Sì, ne vorrei un po'. / Mangi tutta la pasta? No, ne prendo solo un piatto."]
+        ],
+        "rows_fr": [
+          ["pronom personnel indirect", "de lui, d'elle, d'eux / par lui, par elle, par eux", "Beppe è molto affezionato ai figli. Ne parla sempre. / Ho fatto questo lavoro ma non ne ho guadagnato niente."],
+          ["pronom partitif", "de ceci, de cela — une partie de quelque chose", "Vuoi del gelato? Sì, ne vorrei un po'. / Mangi tutta la pasta? No, ne prendo solo un piatto."]
         ]
       },
       {
         "type": "paragraph",
-        "content": "**Attenzione:** *Lo, la, li, le* significano **tutto**. *Ne* invece significa **un po'**, ed è necessario specificare la quantità: *Vuoi le arance? – Sì, le voglio.* (tutte) / *Vuoi le arance? – Sì, ne vorrei tre.* (solo alcune)"
+        "content": "**Attenzione:** *Lo, la, li, le* significano **tutto**. *Ne* invece significa **un po'**, ed è necessario specificare la quantità: *Vuoi le arance? – Sì, le voglio.* (tutte) / *Vuoi le arance? – Sì, ne vorrei tre.* (solo alcune)",
+        "content_fr": "**Attention :** *Lo, la, li, le* signifient **tout**. *Ne* en revanche signifie **un peu**, et il est nécessaire de préciser la quantité : *Vuoi le arance? – Sì, le voglio.* (toutes) / *Vuoi le arance? – Sì, ne vorrei tre.* (seulement quelques-unes)"
       }
     ]
   },

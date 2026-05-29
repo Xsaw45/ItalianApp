@@ -9,35 +9,56 @@
     "sections": [
       {
         "type": "paragraph",
-        "content": "Molti verbi si possono coniugare in forma riflessiva, per esprimere un'azione che ricade, si riflette sul soggetto stesso che la compie."
+        "content": "Molti verbi si possono coniugare in forma riflessiva, per esprimere un'azione che ricade, si riflette sul soggetto stesso che la compie.",
+        "content_fr": "De nombreux verbes peuvent se conjuguer à la forme réfléchie, pour exprimer une action qui retombe, se réfléchit sur le sujet lui-même qui l'accomplit."
       },
       {
         "type": "paragraph",
-        "content": "Osserviamo questi esempi:"
+        "content": "Osserviamo questi esempi:",
+        "content_fr": "Observons ces exemples :"
       },
       {
         "type": "table",
         "caption": "Tipi di forma verbale",
+        "caption_fr": "Types de forme verbale",
         "headers": ["Frase", "Tipo"],
+        "headers_fr": ["Phrase", "Type"],
         "rows": [
           ["Io lavo i piatti", "forma normale **attiva**"],
           ["Io mi lavo", "forma **riflessiva diretta**"],
           ["Io mi lavo i denti", "forma **riflessiva indiretta**"]
+        ],
+        "rows_fr": [
+          ["Io lavo i piatti", "forme normale **active**"],
+          ["Io mi lavo", "forme **réfléchie directe**"],
+          ["Io mi lavo i denti", "forme **réfléchie indirecte**"]
         ]
       },
       {
         "type": "paragraph",
-        "content": "Nelle frasi del tipo 2 l'azione di lavare non riguarda una cosa esterna (come i piatti della frase 1), ma riguarda me stesso che faccio l'azione."
+        "content": "Nelle frasi del tipo 2 l'azione di lavare non riguarda una cosa esterna (come i piatti della frase 1), ma riguarda me stesso che faccio l'azione.",
+        "content_fr": "Dans les phrases de type 2, l'action de laver ne concerne pas une chose extérieure (comme les assiettes de la phrase 1), mais me concerne moi-même qui accomplis l'action."
       },
       {
         "type": "paragraph",
-        "content": "I verbi nella forma riflessiva si coniugano normalmente, ma sono **sempre** accompagnati dal **pronome riflessivo**: **mi**, **ti**, **si**, **ci**, **vi**, **si**."
+        "content": "I verbi nella forma riflessiva si coniugano normalmente, ma sono **sempre** accompagnati dal **pronome riflessivo**: **mi**, **ti**, **si**, **ci**, **vi**, **si**.",
+        "content_fr": "Les verbes à la forme réfléchie se conjuguent normalement, mais sont **toujours** accompagnés du **pronom réfléchi** : **mi**, **ti**, **si**, **ci**, **vi**, **si**."
       },
       {
         "type": "table",
         "caption": "Coniugazione del verbo riflessivo lavarsi",
+        "caption_fr": "Conjugaison du verbe réfléchi lavarsi",
         "headers": ["Presente", "Futuro", "Imperfetto", "Passato prossimo"],
+        "headers_fr": ["Présent", "Futur", "Imparfait", "Passé composé"],
         "rows": [
+          ["io mi lavo", "io mi laverò", "io mi lavavo", "io mi sono lavato"],
+          ["tu ti lavi", "tu ti laverai", "tu ti lavavi", "tu ti sei lavato"],
+          ["lui si lava", "lui si laverà", "lui si lavava", "lui si è lavato"],
+          ["noi ci laviamo", "noi ci laveremo", "noi ci lavavamo", "noi ci siamo lavati"],
+          ["voi vi lavate", "voi vi laverete", "voi vi lavavate", "voi vi siete lavati"],
+          ["loro si lavano", "loro si laveranno", "loro si lavavano", "loro si sono lavati"]
+        ],
+        "rows_fr": [
           ["io mi lavo", "io mi laverò", "io mi lavavo", "io mi sono lavato"],
           ["tu ti lavi", "tu ti laverai", "tu ti lavavi", "tu ti sei lavato"],
           ["lui si lava", "lui si laverà", "lui si lavava", "lui si è lavato"],
@@ -48,13 +69,21 @@
       },
       {
         "type": "paragraph",
-        "content": "Come si vede dall'esempio, i verbi riflessivi al participio passato usano sempre l'ausiliare **essere** e non l'ausiliare **avere**."
+        "content": "Come si vede dall'esempio, i verbi riflessivi al participio passato usano sempre l'ausiliare **essere** e non l'ausiliare **avere**.",
+        "content_fr": "Comme on le voit dans l'exemple, les verbes réfléchis au participe passé utilisent toujours l'auxiliaire **essere** et non l'auxiliaire **avere**."
       },
       {
         "type": "table",
         "caption": "Forma attiva vs forma riflessiva",
+        "caption_fr": "Forme active vs forme réfléchie",
         "headers": ["Forma attiva", "Forma riflessiva"],
+        "headers_fr": ["Forme active", "Forme réfléchie"],
         "rows": [
+          ["Ho lavato le calze.", "Mi sono lavato – Mi sono lavato le mani."],
+          ["Ho asciugato i bicchieri.", "Mi sono asciugato – Mi sono asciugato i capelli."],
+          ["Ho guardato la televisione.", "Mi sono guardato allo specchio."]
+        ],
+        "rows_fr": [
           ["Ho lavato le calze.", "Mi sono lavato – Mi sono lavato le mani."],
           ["Ho asciugato i bicchieri.", "Mi sono asciugato – Mi sono asciugato i capelli."],
           ["Ho guardato la televisione.", "Mi sono guardato allo specchio."]
@@ -62,7 +91,8 @@
       },
       {
         "type": "paragraph",
-        "content": "Esiste anche la **forma riflessiva reciproca**, quando il pronome personale non ha significato riflessivo, ma significa *tra noi*, *tra voi*, *tra loro*, *l'un l'altro* e il verbo indica un'azione che due o più persone fanno a vicenda, scambievolmente."
+        "content": "Esiste anche la **forma riflessiva reciproca**, quando il pronome personale non ha significato riflessivo, ma significa *tra noi*, *tra voi*, *tra loro*, *l'un l'altro* e il verbo indica un'azione che due o più persone fanno a vicenda, scambievolmente.",
+        "content_fr": "Il existe aussi la **forme réfléchie réciproque**, quand le pronom personnel n'a pas de sens réfléchi, mais signifie *entre nous*, *entre vous*, *entre eux*, *l'un l'autre* et le verbe indique une action que deux personnes ou plus font mutuellement, de manière réciproque."
       },
       {
         "type": "example",
@@ -72,15 +102,18 @@
       },
       {
         "type": "paragraph",
-        "content": "Non vuol dire i bambini picchiano loro stessi (forma riflessiva), ma ogni bambino picchia un altro bambino, si picchiano tra loro."
+        "content": "Non vuol dire i bambini picchiano loro stessi (forma riflessiva), ma ogni bambino picchia un altro bambino, si picchiano tra loro.",
+        "content_fr": "Cela ne signifie pas que les enfants se frappent eux-mêmes (forme réfléchie), mais que chaque enfant frappe un autre enfant, ils se frappent entre eux."
       },
       {
         "type": "heading",
-        "content": "Attenzione"
+        "content": "Attenzione",
+        "content_fr": "Attention"
       },
       {
         "type": "paragraph",
-        "content": "Esistono anche i **verbi pronominali**, che sembrano uguali ai verbi riflessivi e si coniugano con le stesse regole:"
+        "content": "Esistono anche i **verbi pronominali**, che sembrano uguali ai verbi riflessivi e si coniugano con le stesse regole:",
+        "content_fr": "Il existe aussi les **verbes pronominaux**, qui ressemblent aux verbes réfléchis et se conjuguent avec les mêmes règles :"
       },
       {
         "type": "example",

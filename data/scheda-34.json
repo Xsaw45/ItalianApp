@@ -9,7 +9,8 @@
     "sections": [
       {
         "type": "intro",
-        "content": "Il gerundio è un modo del verbo che esprime un'azione mettendola in rapporto con il verbo della frase principale dal punto di vista **causale**, **temporale** e **modale**."
+        "content": "Il gerundio è un modo del verbo che esprime un'azione mettendola in rapporto con il verbo della frase principale dal punto di vista **causale**, **temporale** e **modale**.",
+        "content_fr": "Le gérondif est un mode du verbe qui exprime une action en la mettant en relation avec le verbe de la phrase principale du point de vue **causal**, **temporel** et **modal**."
       },
       {
         "type": "list",
@@ -17,21 +18,32 @@
           "**Rapporto di causa** — **Mangiando** troppo, ingrassi. (*Dato che mangi troppo, ingrassi*)",
           "**Rapporto di tempo** — **Andando** a casa, ho visto Roby. (*Mentre andavo a casa, ho visto Roby*)",
           "**Rapporto di modo** — Jacopo studia **pensando** ad altro. (*Jacopo studia in modo distratto*)"
+        ],
+        "items_fr": [
+          "**Rapport de cause** — **Mangiando** troppo, ingrassi. (*Vu que tu manges trop, tu grossis*)",
+          "**Rapport de temps** — **Andando** a casa, ho visto Roby. (*Pendant que j'allais à la maison, j'ai vu Roby*)",
+          "**Rapport de manière** — Jacopo studia **pensando** ad altro. (*Jacopo étudie de manière distraite*)"
         ]
       },
       {
         "type": "heading",
-        "content": "La forma"
+        "content": "La forma",
+        "content_fr": "La forme"
       },
       {
         "type": "paragraph",
-        "content": "Il gerundio ha 2 tempi:"
+        "content": "Il gerundio ha 2 tempi:",
+        "content_fr": "Le gérondif a 2 temps :"
       },
       {
         "type": "list",
         "items": [
           "uno **semplice** (formato da una sola parola), che indica un'azione contemporanea a quella della frase principale",
           "uno **composto** (formato da due parole), che indica un'azione anteriore (avvenuta prima) a quella della frase principale"
+        ],
+        "items_fr": [
+          "un **simple** (formé d'un seul mot), qui indique une action simultanée à celle de la phrase principale",
+          "un **composé** (formé de deux mots), qui indique une action antérieure (survenue avant) à celle de la phrase principale"
         ]
       },
       {
@@ -43,31 +55,41 @@
       },
       {
         "type": "paragraph",
-        "content": "Per le coniugazioni regolari del gerundio, **vedi *Tavole dei verbi*, pp. 324–31.**"
+        "content": "Per le coniugazioni regolari del gerundio, **vedi *Tavole dei verbi*, pp. 324–31.**",
+        "content_fr": "Pour les conjugaisons régulières du gérondif, **voir *Tavole dei verbi*, pp. 324–31.**"
       },
       {
         "type": "paragraph",
-        "content": "Indichiamo di seguito il gerundio presente dei più importanti verbi irregolari."
+        "content": "Indichiamo di seguito il gerundio presente dei più importanti verbi irregolari.",
+        "content_fr": "Nous indiquons ci-dessous le gérondif présent des verbes irréguliers les plus importants."
       },
       {
         "type": "table",
         "caption": "Gerundio presente dei verbi irregolari",
+        "caption_fr": "Gérondif présent des verbes irréguliers",
         "headers": ["fare", "bere", "dire"],
+        "headers_fr": ["fare", "bere", "dire"],
         "rows": [
+          ["facendo", "bevendo", "dicendo"]
+        ],
+        "rows_fr": [
           ["facendo", "bevendo", "dicendo"]
         ]
       },
       {
         "type": "paragraph",
-        "content": "**Attenzione:** Se con il gerundio c'è un **pronome personale** diretto o indiretto, questo si mette dopo il gerundio e forma con esso una sola parola: vedendo**lo**, guardando**ti**…"
+        "content": "**Attenzione:** Se con il gerundio c'è un **pronome personale** diretto o indiretto, questo si mette dopo il gerundio e forma con esso una sola parola: vedendo**lo**, guardando**ti**…",
+        "content_fr": "**Attention :** Si avec le gérondif il y a un **pronom personnel** direct ou indirect, celui-ci se place après le gérondif et ne forme avec lui qu'un seul mot : vedendo**lo**, guardando**ti**…"
       },
       {
         "type": "heading",
-        "content": "L'uso"
+        "content": "L'uso",
+        "content_fr": "L'emploi"
       },
       {
         "type": "paragraph",
-        "content": "Oltre che nei casi spiegati finora, il gerundio si usa molto spesso preceduto dal verbo **stare** (all'indicativo **presente** o **imperfetto**) per indicare un'azione che è in svolgimento:"
+        "content": "Oltre che nei casi spiegati finora, il gerundio si usa molto spesso preceduto dal verbo **stare** (all'indicativo **presente** o **imperfetto**) per indicare un'azione che è in svolgimento:",
+        "content_fr": "En plus des cas expliqués jusqu'ici, le gérondif s'emploie très souvent précédé du verbe **stare** (à l'indicatif **présent** ou **imparfait**) pour indiquer une action qui est en cours :"
       },
       {
         "type": "example",
@@ -77,12 +99,15 @@
       },
       {
         "type": "paragraph",
-        "content": "Osserva la differenza tra l'uso del verbo nella forma normale e in questa forma con il gerundio, detta **perifrastica**."
+        "content": "Osserva la differenza tra l'uso del verbo nella forma normale e in questa forma con il gerundio, detta **perifrastica**.",
+        "content_fr": "Observe la différence entre l'emploi du verbe à la forme normale et dans cette forme avec le gérondif, appelée **périphrastique**."
       },
       {
         "type": "table",
         "caption": "Forma normale vs. forma perifrastica",
+        "caption_fr": "Forme normale vs. forme périphrastique",
         "headers": ["Forma normale", "Forma perifrastica"],
+        "headers_fr": ["Forme normale", "Forme périphrastique"],
         "rows": [
           [
             "In primavera piove spesso. (piove indica un evento naturale, una cosa che succede in generale)",
@@ -91,6 +116,16 @@
           [
             "I bambini dormono molto. (dormono indica un'abitudine, un fatto generale che succede sempre)",
             "I bambini stanno dormendo. (stanno dormendo indica che i bambini in questo momento sono a letto e dormono)"
+          ]
+        ],
+        "rows_fr": [
+          [
+            "In primavera piove spesso. (piove indique un événement naturel, quelque chose qui se passe en général)",
+            "Sta piovendo. (sta piovendo indique qu'il y a de la pluie en ce moment)"
+          ],
+          [
+            "I bambini dormono molto. (dormono indique une habitude, un fait général qui se passe toujours)",
+            "I bambini stanno dormendo. (stanno dormendo indique que les enfants sont en ce moment au lit et dorment)"
           ]
         ]
       }

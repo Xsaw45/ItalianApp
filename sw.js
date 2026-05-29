@@ -1,4 +1,4 @@
-const CACHE_NAME = 'italienapp-v6';
+const CACHE_NAME = 'italienapp-v10';
 
 const ASSETS_TO_CACHE = [
   './',
@@ -14,6 +14,7 @@ const ASSETS_TO_CACHE = [
   './js/app.js',
   './js/router.js',
   './js/state.js',
+  './js/i18n.js',
   './js/data-loader.js',
   './js/utils/dom.js',
   './js/utils/normalize.js',
@@ -23,6 +24,8 @@ const ASSETS_TO_CACHE = [
   './js/views/exercise-renderer.js',
   './js/views/stats.js',
   './js/views/vocab.js',
+  './js/views/conjugation.js',
+  './js/views/translation.js',
   './js/views/exercises/multiple-choice.js',
   './js/views/exercises/fill-in-blank.js',
   './js/views/exercises/matching.js',
@@ -72,8 +75,11 @@ const ASSETS_TO_CACHE = [
   './data/scheda-38.json',
   './data/scheda-39.json',
   './data/scheda-40.json',
+  './data/scheda-0a.json',
   './data/scheda-19bis.json',
-  './data/vocab.json'
+  './data/vocab.json',
+  './data/conjugation.json',
+  './data/translations.json'
 ];
 
 self.addEventListener('install', (event) => {

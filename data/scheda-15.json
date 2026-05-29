@@ -9,7 +9,8 @@
     "sections": [
       {
         "type": "intro",
-        "content": "Quando i pronomi personali indiretti mi, ti, gli, ci, vi sono usati insieme con i pronomi personali diretti lo, la, li, le e con il pronome ne si trasformano in forme combinate."
+        "content": "Quando i pronomi personali indiretti mi, ti, gli, ci, vi sono usati insieme con i pronomi personali diretti lo, la, li, le e con il pronome ne si trasformano in forme combinate.",
+        "content_fr": "Lorsque les pronoms personnels indirects mi, ti, gli, ci, vi sont utilisés avec les pronoms personnels directs lo, la, li, le et avec le pronom ne, ils se transforment en formes combinées."
       },
       {
         "type": "heading",
@@ -18,8 +19,17 @@
       {
         "type": "table",
         "caption": "Pronomi combinati",
+        "caption_fr": "Pronoms combinés",
         "headers": ["Indiretto", "Diretto lo", "Diretto la", "Diretto li", "Diretto le", "Ne"],
+        "headers_fr": ["Indirect", "Direct lo", "Direct la", "Direct li", "Direct le", "Ne"],
         "rows": [
+          ["mi → me", "me lo", "me la", "me li", "me le", "me ne"],
+          ["ti → te", "te lo", "te la", "te li", "te le", "te ne"],
+          ["gli / le → gli", "glielo", "gliela", "glieli", "gliele", "gliene"],
+          ["ci → ce", "ce lo", "ce la", "ce li", "ce le", "ce ne"],
+          ["vi → ve", "ve lo", "ve la", "ve li", "ve le", "ve ne"]
+        ],
+        "rows_fr": [
           ["mi → me", "me lo", "me la", "me li", "me le", "me ne"],
           ["ti → te", "te lo", "te la", "te li", "te le", "te ne"],
           ["gli / le → gli", "glielo", "gliela", "glieli", "gliele", "gliene"],
@@ -29,7 +39,8 @@
       },
       {
         "type": "paragraph",
-        "content": "**Attenzione:** Nei pronomi combinati, le forme deboli mi, ti, ci, vi diventano **me, te, ce, ve**. Per la 3ª persona (gli/le) e per il plurale (gli), le forme combinate sono scritte **unite** in una sola parola: *glielo, gliela, glieli, gliele, gliene*."
+        "content": "**Attenzione:** Nei pronomi combinati, le forme deboli mi, ti, ci, vi diventano **me, te, ce, ve**. Per la 3ª persona (gli/le) e per il plurale (gli), le forme combinate sono scritte **unite** in una sola parola: *glielo, gliela, glieli, gliele, gliene*.",
+        "content_fr": "**Attention :** Dans les pronoms combinés, les formes faibles mi, ti, ci, vi deviennent **me, te, ce, ve**. Pour la 3e personne (gli/le) et pour le pluriel (gli), les formes combinées s'écrivent **soudées** en un seul mot : *glielo, gliela, glieli, gliele, gliene*."
       },
       {
         "type": "heading",
@@ -40,6 +51,10 @@
         "items": [
           "**Prima del verbo** (staccati) se il verbo è all'indicativo, congiuntivo o condizionale: *te lo dico / se te lo dicessi / te lo direi*",
           "**Dopo il verbo** (uniti) se il verbo è all'infinito, all'imperativo o al gerundio: *non posso dirtelo / diglielo / dicendotelo*"
+        ],
+        "items_fr": [
+          "**Avant le verbe** (séparés) si le verbe est à l'indicatif, au subjonctif ou au conditionnel : *te lo dico / se te lo dicessi / te lo direi*",
+          "**Après le verbe** (soudés) si le verbe est à l'infinitif, à l'impératif ou au gérondif : *non posso dirtelo / diglielo / dicendotelo*"
         ]
       }
     ]

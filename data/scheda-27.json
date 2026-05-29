@@ -9,11 +9,13 @@
     "sections": [
       {
         "type": "intro",
-        "content": "**Il passato remoto è un tempo del modo indicativo.**"
+        "content": "**Il passato remoto è un tempo del modo indicativo.**",
+        "content_fr": "**Le passé simple est un temps du mode indicatif.**"
       },
       {
         "type": "paragraph",
-        "content": "Il passato remoto indica un'azione passata, che è avvenuta in un passato lontano e che è completamente finita."
+        "content": "Il passato remoto indica un'azione passata, che è avvenuta in un passato lontano e che è completamente finita.",
+        "content_fr": "Le passé simple indique une action passée, qui s'est produite dans un passé lointain et qui est complètement terminée."
       },
       {
         "type": "example",
@@ -23,25 +25,39 @@
       },
       {
         "type": "heading",
-        "content": "La forma"
+        "content": "La forma",
+        "content_fr": "La forme"
       },
       {
         "type": "paragraph",
-        "content": "Per le coniugazioni regolari del passato remoto **vedi *Tavole dei verbi*, pp. 324–31.**"
+        "content": "Per le coniugazioni regolari del passato remoto **vedi *Tavole dei verbi*, pp. 324–31.**",
+        "content_fr": "Pour les conjugaisons régulières du passé simple, **voir *Tavole dei verbi*, pp. 324–31.**"
       },
       {
         "type": "paragraph",
-        "content": "Indichiamo di seguito il passato remoto dei più importanti verbi irregolari."
+        "content": "Indichiamo di seguito il passato remoto dei più importanti verbi irregolari.",
+        "content_fr": "Nous indiquons ci-dessous le passé simple des verbes irréguliers les plus importants."
       },
       {
         "type": "paragraph",
-        "content": "La **prima coniugazione** ha solo 3 verbi irregolari al passato remoto e la **terza** ne ha solo 2:"
+        "content": "La **prima coniugazione** ha solo 3 verbi irregolari al passato remoto e la **terza** ne ha solo 2:",
+        "content_fr": "La **première conjugaison** n'a que 3 verbes irréguliers au passé simple et la **troisième** n'en a que 2 :"
       },
       {
         "type": "table",
         "caption": "Verbi irregolari della prima e terza coniugazione",
+        "caption_fr": "Verbes irréguliers des première et troisième conjugaisons",
         "headers": ["Prima coniugazione: Dare", "Prima: Fare", "Prima: Stare", "Terza: Dire", "Terza: Venire"],
+        "headers_fr": ["1re conjugaison : Dare", "1re : Fare", "1re : Stare", "3e : Dire", "3e : Venire"],
         "rows": [
+          ["io diedi", "io feci", "io stetti", "io dissi", "io venni"],
+          ["tu desti", "tu facesti", "tu stesti", "tu dicesti", "tu venisti"],
+          ["lui diede", "lui fece", "lui stette", "lui disse", "lui venne"],
+          ["noi demmo", "noi facemmo", "noi stemmo", "noi dicemmo", "noi venimmo"],
+          ["voi deste", "voi faceste", "voi steste", "voi diceste", "voi veniste"],
+          ["loro diedero", "loro fecero", "loro stettero", "loro dissero", "loro vennero"]
+        ],
+        "rows_fr": [
           ["io diedi", "io feci", "io stetti", "io dissi", "io venni"],
           ["tu desti", "tu facesti", "tu stesti", "tu dicesti", "tu venisti"],
           ["lui diede", "lui fece", "lui stette", "lui disse", "lui venne"],
@@ -52,13 +68,24 @@
       },
       {
         "type": "paragraph",
-        "content": "Ecco i verbi irregolari più importanti della **seconda coniugazione**:"
+        "content": "Ecco i verbi irregolari più importanti della **seconda coniugazione**:",
+        "content_fr": "Voici les verbes irréguliers les plus importants de la **deuxième conjugaison** :"
       },
       {
         "type": "table",
         "caption": "Verbi irregolari della seconda coniugazione (gruppo 1)",
+        "caption_fr": "Verbes irréguliers de la deuxième conjugaison (groupe 1)",
         "headers": ["Avere", "Essere", "Chiudere", "Conoscere", "Decidere"],
+        "headers_fr": ["Avere", "Essere", "Chiudere", "Conoscere", "Decidere"],
         "rows": [
+          ["io ebbi", "io fui", "io chiusi", "io conobbi", "io decisi"],
+          ["tu avesti", "tu fosti", "tu chiudesti", "tu conoscesti", "tu decidesti"],
+          ["lui ebbe", "lui fu", "lui chiuse", "lui conobbe", "lui decise"],
+          ["noi avemmo", "noi fummo", "noi chiudemmo", "noi conoscemmo", "noi decidemmo"],
+          ["voi aveste", "voi foste", "voi chiudeste", "voi conosceste", "voi decideste"],
+          ["loro ebbero", "loro furono", "loro chiusero", "loro conobbero", "loro decisero"]
+        ],
+        "rows_fr": [
           ["io ebbi", "io fui", "io chiusi", "io conobbi", "io decisi"],
           ["tu avesti", "tu fosti", "tu chiudesti", "tu conoscesti", "tu decidesti"],
           ["lui ebbe", "lui fu", "lui chiuse", "lui conobbe", "lui decise"],
@@ -70,8 +97,18 @@
       {
         "type": "table",
         "caption": "Verbi irregolari della seconda coniugazione (gruppo 2)",
+        "caption_fr": "Verbes irréguliers de la deuxième conjugaison (groupe 2)",
         "headers": ["Leggere", "Mettere", "Prendere", "Sapere", "Scrivere"],
+        "headers_fr": ["Leggere", "Mettere", "Prendere", "Sapere", "Scrivere"],
         "rows": [
+          ["io lessi", "io misi", "io presi", "io seppi", "io scrissi"],
+          ["tu leggesti", "tu mettesti", "tu prendesti", "tu sapesti", "tu scrivesti"],
+          ["lui lesse", "lui mise", "lui prese", "lui seppe", "lui scrisse"],
+          ["noi leggemmo", "noi mettemmo", "noi prendemmo", "noi sapemmo", "noi scrivemmo"],
+          ["voi leggeste", "voi metteste", "voi prendeste", "voi sapeste", "voi scriveste"],
+          ["loro lessero", "loro misero", "loro presero", "loro seppero", "loro scrissero"]
+        ],
+        "rows_fr": [
           ["io lessi", "io misi", "io presi", "io seppi", "io scrissi"],
           ["tu leggesti", "tu mettesti", "tu prendesti", "tu sapesti", "tu scrivesti"],
           ["lui lesse", "lui mise", "lui prese", "lui seppe", "lui scrisse"],
@@ -83,8 +120,18 @@
       {
         "type": "table",
         "caption": "Verbi irregolari della seconda coniugazione (gruppo 3)",
+        "caption_fr": "Verbes irréguliers de la deuxième conjugaison (groupe 3)",
         "headers": ["Spendere", "Tenere", "Vedere", "Vivere", "Volere"],
+        "headers_fr": ["Spendere", "Tenere", "Vedere", "Vivere", "Volere"],
         "rows": [
+          ["io spesi", "io tenni", "io vidi", "io vissi", "io volli"],
+          ["tu spendesti", "tu tenesti", "tu vedesti", "tu vivesti", "tu volesti"],
+          ["lui spese", "lui tenne", "lui vide", "lui visse", "lui volle"],
+          ["noi spendemmo", "noi tenemmo", "noi vedemmo", "noi vivemmo", "noi volemmo"],
+          ["voi spendeste", "voi teneste", "voi vedeste", "voi viveste", "voi voleste"],
+          ["loro spesero", "loro tennero", "loro videro", "loro vissero", "loro vollero"]
+        ],
+        "rows_fr": [
           ["io spesi", "io tenni", "io vidi", "io vissi", "io volli"],
           ["tu spendesti", "tu tenesti", "tu vedesti", "tu vivesti", "tu volesti"],
           ["lui spese", "lui tenne", "lui vide", "lui visse", "lui volle"],
@@ -95,15 +142,18 @@
       },
       {
         "type": "heading",
-        "content": "L'uso"
+        "content": "L'uso",
+        "content_fr": "L'emploi"
       },
       {
         "type": "paragraph",
-        "content": "Nell'italiano parlato oggi il passato remoto è usato soltanto in alcune regioni italiane (Toscana e alcune zone del Sud); nelle altre è sostituito dal passato prossimo."
+        "content": "Nell'italiano parlato oggi il passato remoto è usato soltanto in alcune regioni italiane (Toscana e alcune zone del Sud); nelle altre è sostituito dal passato prossimo.",
+        "content_fr": "Dans l'italien parlé aujourd'hui, le passé simple n'est utilisé que dans certaines régions d'Italie (Toscane et quelques zones du Sud) ; dans les autres régions, il est remplacé par le passé composé."
       },
       {
         "type": "paragraph",
-        "content": "È però importante studiare il passato remoto per poter capire i libri di storia e i romanzi, che sono normalmente scritti con questo tempo."
+        "content": "È però importante studiare il passato remoto per poter capire i libri di storia e i romanzi, che sono normalmente scritti con questo tempo.",
+        "content_fr": "Il est cependant important d'étudier le passé simple pour pouvoir comprendre les livres d'histoire et les romans, qui sont normalement écrits avec ce temps."
       }
     ]
   },

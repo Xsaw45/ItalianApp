@@ -9,11 +9,13 @@
     "sections": [
       {
         "type": "intro",
-        "content": "**I numerali servono per indicare in modo preciso la quantità di qualcosa o l'ordine in cui qualcosa si trova all'interno di una serie.**"
+        "content": "**I numerali servono per indicare in modo preciso la quantità di qualcosa o l'ordine in cui qualcosa si trova all'interno di una serie.**",
+        "content_fr": "**Les numéraux servent à indiquer de façon précise la quantité de quelque chose ou l'ordre dans lequel quelque chose se trouve à l'intérieur d'une série.**"
       },
       {
         "type": "paragraph",
-        "content": "Se i numerali indicano una **quantità precisa** si chiamano numerali **cardinali** e corrispondono ai numeri che usiamo in matematica:"
+        "content": "Se i numerali indicano una **quantità precisa** si chiamano numerali **cardinali** e corrispondono ai numeri che usiamo in matematica:",
+        "content_fr": "Si les numéraux indiquent une **quantité précise**, ils s'appellent numéraux **cardinaux** et correspondent aux nombres que nous utilisons en mathématiques :"
       },
       {
         "type": "example",
@@ -23,7 +25,8 @@
       },
       {
         "type": "paragraph",
-        "content": "Se i numerali indicano l'**ordine** in una serie si chiamano numerali **ordinali** e si usano come **aggettivi**, per cui concordano in genere e numero con il nome a cui si riferiscono:"
+        "content": "Se i numerali indicano l'**ordine** in una serie si chiamano numerali **ordinali** e si usano come **aggettivi**, per cui concordano in genere e numero con il nome a cui si riferiscono:",
+        "content_fr": "Si les numéraux indiquent l'**ordre** dans une série, ils s'appellent numéraux **ordinaux** et s'utilisent comme des **adjectifs** ; ils s'accordent donc en genre et en nombre avec le nom auquel ils se réfèrent :"
       },
       {
         "type": "example",
@@ -34,8 +37,27 @@
       {
         "type": "table",
         "caption": "Numerali cardinali e ordinali",
+        "caption_fr": "Numéraux cardinaux et ordinaux",
         "headers": ["Cardinali", "Ordinali", "Cardinali", "Ordinali"],
+        "headers_fr": ["Cardinaux", "Ordinaux", "Cardinaux", "Ordinaux"],
         "rows": [
+          ["1 – uno", "primo", "16 – sedici", "sedicesimo"],
+          ["2 – due", "secondo", "17 – diciassette", "diciassettesimo"],
+          ["3 – tre", "terzo", "18 – diciotto", "diciottesimo"],
+          ["4 – quattro", "quarto", "19 – diciannove", "diciannovesimo"],
+          ["5 – cinque", "quinto", "20 – venti", "ventesimo"],
+          ["6 – sei", "sesto", "30 – trenta", "trentesimo"],
+          ["7 – sette", "settimo", "40 – quaranta", "quarantesimo"],
+          ["8 – otto", "ottavo", "50 – cinquanta", "cinquantesimo"],
+          ["9 – nove", "nono", "60 – sessanta", "sessantesimo"],
+          ["10 – dieci", "decimo", "70 – settanta", "settantesimo"],
+          ["11 – undici", "undicesimo", "80 – ottanta", "ottantesimo"],
+          ["12 – dodici", "dodicesimo", "90 – novanta", "novantesimo"],
+          ["13 – tredici", "tredicesimo", "100 – cento", "centesimo"],
+          ["14 – quattordici", "quattordicesimo", "1 000 – mille", "millesimo"],
+          ["15 – quindici", "quindicesimo", "10 000 – diecimila", "diecimillesimo"]
+        ],
+        "rows_fr": [
           ["1 – uno", "primo", "16 – sedici", "sedicesimo"],
           ["2 – due", "secondo", "17 – diciassette", "diciassettesimo"],
           ["3 – tre", "terzo", "18 – diciotto", "diciottesimo"],
@@ -55,11 +77,13 @@
       },
       {
         "type": "heading",
-        "content": "Uno"
+        "content": "Uno",
+        "content_fr": "Uno"
       },
       {
         "type": "paragraph",
-        "content": "**Uno** si usa come l'articolo indeterminativo *un, uno, una, un'*:"
+        "content": "**Uno** si usa come l'articolo indeterminativo *un, uno, una, un'*:",
+        "content_fr": "**Uno** s'utilise comme l'article indéfini *un, uno, una, un'* :"
       },
       {
         "type": "example",
@@ -69,11 +93,13 @@
       },
       {
         "type": "heading",
-        "content": "Milione e miliardo"
+        "content": "Milione e miliardo",
+        "content_fr": "Milione et miliardo"
       },
       {
         "type": "paragraph",
-        "content": "**Milione** e **miliardo** sono nomi maschili e quindi possono avere singolare e plurale; se dopo c'è un nome bisogna inserire anche la preposizione **di**:"
+        "content": "**Milione** e **miliardo** sono nomi maschili e quindi possono avere singolare e plurale; se dopo c'è un nome bisogna inserire anche la preposizione **di**:",
+        "content_fr": "**Milione** et **miliardo** sont des noms masculins et peuvent donc avoir un singulier et un pluriel ; si un nom les suit, il faut insérer également la préposition **di** :"
       },
       {
         "type": "example",
@@ -83,11 +109,13 @@
       },
       {
         "type": "heading",
-        "content": "Aggettivi numerali con o senza articolo"
+        "content": "Aggettivi numerali con o senza articolo",
+        "content_fr": "Adjectifs numéraux avec ou sans article"
       },
       {
         "type": "paragraph",
-        "content": "Gli aggettivi numerali possono essere o non essere preceduti dall'articolo, ma il significato della frase cambia:"
+        "content": "Gli aggettivi numerali possono essere o non essere preceduti dall'articolo, ma il significato della frase cambia:",
+        "content_fr": "Les adjectifs numéraux peuvent être ou non précédés de l'article, mais le sens de la phrase change :"
       },
       {
         "type": "example",
@@ -98,11 +126,13 @@
       },
       {
         "type": "heading",
-        "content": "Numerali frazionari"
+        "content": "Numerali frazionari",
+        "content_fr": "Numéraux fractionnaires"
       },
       {
         "type": "paragraph",
-        "content": "I numerali **frazionari** si usano in matematica, ma anche nel linguaggio di tutti i giorni per indicare parti di un totale. In matematica si scrivono in cifre, nella lingua comune in lettere:"
+        "content": "I numerali **frazionari** si usano in matematica, ma anche nel linguaggio di tutti i giorni per indicare parti di un totale. In matematica si scrivono in cifre, nella lingua comune in lettere:",
+        "content_fr": "Les numéraux **fractionnaires** s'utilisent en mathématiques, mais aussi dans le langage courant pour indiquer des parties d'un tout. En mathématiques, ils s'écrivent en chiffres ; dans la langue commune, en lettres :"
       },
       {
         "type": "example",
@@ -112,11 +142,13 @@
       },
       {
         "type": "heading",
-        "content": "Numerali collettivi"
+        "content": "Numerali collettivi",
+        "content_fr": "Numéraux collectifs"
       },
       {
         "type": "paragraph",
-        "content": "I numerali **collettivi** si usano per indicare una quantità numerica considerata come un insieme e sono **nomi** (quindi vogliono l'articolo)."
+        "content": "I numerali **collettivi** si usano per indicare una quantità numerica considerata come un insieme e sono **nomi** (quindi vogliono l'articolo).",
+        "content_fr": "Les numéraux **collectifs** s'utilisent pour indiquer une quantité numérique considérée comme un ensemble ; ce sont des **noms** (ils prennent donc l'article)."
       },
       {
         "type": "list",
@@ -125,15 +157,23 @@
           "In riferimento al numero **tre** si usano: *trimestre*, *triennio*, *terzetto*…",
           "In riferimento al numero **dieci** si usano: *decennio*, *decina*, *decade*…",
           "In riferimento al numero **dodici** si usa: *dozzina*."
+        ],
+        "items_fr": [
+          "En référence au nombre **deux**, on utilise : *coppia*, *paio*, *biennio*… (ainsi que *entrambi* qui signifie *tous les deux*).",
+          "En référence au nombre **trois**, on utilise : *trimestre*, *triennio*, *terzetto*…",
+          "En référence au nombre **dix**, on utilise : *decennio*, *decina*, *decade*…",
+          "En référence au nombre **douze**, on utilise : *dozzina*."
         ]
       },
       {
         "type": "heading",
-        "content": "Numerali distributivi"
+        "content": "Numerali distributivi",
+        "content_fr": "Numéraux distributifs"
       },
       {
         "type": "paragraph",
-        "content": "I numerali **distributivi** si usano per indicare più persone o cose ordinate nello spazio e nel tempo: *a uno a uno*, *uno per volta*, *uno alla volta*, *uno per ciascuno*…"
+        "content": "I numerali **distributivi** si usano per indicare più persone o cose ordinate nello spazio e nel tempo: *a uno a uno*, *uno per volta*, *uno alla volta*, *uno per ciascuno*…",
+        "content_fr": "Les numéraux **distributifs** s'utilisent pour indiquer plusieurs personnes ou choses réparties dans l'espace et dans le temps : *a uno a uno* (un par un), *uno per volta* (un à la fois), *uno alla volta* (un à la fois), *uno per ciascuno* (un pour chacun)…"
       }
     ]
   },

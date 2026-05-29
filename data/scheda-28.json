@@ -9,11 +9,13 @@
     "sections": [
       {
         "type": "intro",
-        "content": "**Il futuro è un tempo del modo indicativo.**"
+        "content": "**Il futuro è un tempo del modo indicativo.**",
+        "content_fr": "**Le futur est un temps du mode indicatif.**"
       },
       {
         "type": "paragraph",
-        "content": "L'indicativo **futuro** indica un'azione futura, che **deve ancora avvenire** rispetto al momento in cui si parla o si scrive."
+        "content": "L'indicativo **futuro** indica un'azione futura, che **deve ancora avvenire** rispetto al momento in cui si parla o si scrive.",
+        "content_fr": "L'indicatif **futur** indique une action future, qui **doit encore se produire** par rapport au moment où l'on parle ou écrit."
       },
       {
         "type": "example",
@@ -23,21 +25,34 @@
       },
       {
         "type": "heading",
-        "content": "La forma"
+        "content": "La forma",
+        "content_fr": "La forme"
       },
       {
         "type": "paragraph",
-        "content": "Per le coniugazioni regolari del futuro **vedi *Tavole dei verbi*, pp. 324–31.**"
+        "content": "Per le coniugazioni regolari del futuro **vedi *Tavole dei verbi*, pp. 324–31.**",
+        "content_fr": "Pour les conjugaisons régulières du futur, **voir *Tavole dei verbi*, pp. 324–31.**"
       },
       {
         "type": "paragraph",
-        "content": "Indichiamo di seguito il futuro dei più importanti verbi irregolari."
+        "content": "Indichiamo di seguito il futuro dei più importanti verbi irregolari.",
+        "content_fr": "Nous indiquons ci-dessous le futur des verbes irréguliers les plus importants."
       },
       {
         "type": "table",
         "caption": "Verbi irregolari al futuro (gruppo 1)",
+        "caption_fr": "Verbes irréguliers au futur (groupe 1)",
         "headers": ["Avere", "Essere", "Andare", "Dare", "Fare"],
+        "headers_fr": ["Avere", "Essere", "Andare", "Dare", "Fare"],
         "rows": [
+          ["io avrò", "io sarò", "io andrò", "io darò", "io farò"],
+          ["tu avrai", "tu sarai", "tu andrai", "tu darai", "tu farai"],
+          ["lui avrà", "lui sarà", "lui andrà", "lui darà", "lui farà"],
+          ["noi avremo", "noi saremo", "noi andremo", "noi daremo", "noi faremo"],
+          ["voi avrete", "voi sarete", "voi andrete", "voi darete", "voi farete"],
+          ["loro avranno", "loro saranno", "loro andranno", "loro daranno", "loro faranno"]
+        ],
+        "rows_fr": [
           ["io avrò", "io sarò", "io andrò", "io darò", "io farò"],
           ["tu avrai", "tu sarai", "tu andrai", "tu darai", "tu farai"],
           ["lui avrà", "lui sarà", "lui andrà", "lui darà", "lui farà"],
@@ -49,8 +64,18 @@
       {
         "type": "table",
         "caption": "Verbi irregolari al futuro (gruppo 2)",
+        "caption_fr": "Verbes irréguliers au futur (groupe 2)",
         "headers": ["Sapere", "Potere", "Dovere", "Volere", "Venire"],
+        "headers_fr": ["Sapere", "Potere", "Dovere", "Volere", "Venire"],
         "rows": [
+          ["io saprò", "io potrò", "io dovrò", "io vorrò", "io verrò"],
+          ["tu saprai", "tu potrai", "tu dovrai", "tu vorrai", "tu verrai"],
+          ["lui saprà", "lui potrà", "lui dovrà", "lui vorrà", "lui verrà"],
+          ["noi sapremo", "noi potremo", "noi dovremo", "noi vorremo", "noi verremo"],
+          ["voi saprete", "voi potrete", "voi dovrete", "voi vorrete", "voi verrete"],
+          ["loro sapranno", "loro potranno", "loro dovranno", "loro vorranno", "loro verranno"]
+        ],
+        "rows_fr": [
           ["io saprò", "io potrò", "io dovrò", "io vorrò", "io verrò"],
           ["tu saprai", "tu potrai", "tu dovrai", "tu vorrai", "tu verrai"],
           ["lui saprà", "lui potrà", "lui dovrà", "lui vorrà", "lui verrà"],
@@ -61,15 +86,18 @@
       },
       {
         "type": "heading",
-        "content": "L'uso"
+        "content": "L'uso",
+        "content_fr": "L'emploi"
       },
       {
         "type": "paragraph",
-        "content": "Il futuro ha due tempi: il **futuro semplice** e il **futuro anteriore**."
+        "content": "Il futuro ha due tempi: il **futuro semplice** e il **futuro anteriore**.",
+        "content_fr": "Le futur a deux temps : le **futur simple** et le **futur antérieur**."
       },
       {
         "type": "paragraph",
-        "content": "Il **futuro semplice** si usa soprattutto:"
+        "content": "Il **futuro semplice** si usa soprattutto:",
+        "content_fr": "Le **futur simple** s'emploie surtout :"
       },
       {
         "type": "list",
@@ -78,6 +106,12 @@
           "per esprimere un **dubbio**",
           "per esprimere una **concessione**",
           "per esprimere un'**ipotesi approssimativa**"
+        ],
+        "items_fr": [
+          "pour indiquer une action qui se réalisera dans le futur, à un moment ultérieur au moment présent",
+          "pour exprimer un **doute**",
+          "pour exprimer une **concession**",
+          "pour exprimer une **hypothèse approximative**"
         ]
       },
       {
@@ -91,7 +125,8 @@
       },
       {
         "type": "paragraph",
-        "content": "Oggi il futuro è spesso sostituito dal semplice presente, soprattutto nell'italiano familiare e parlato nell'Italia del Nord."
+        "content": "Oggi il futuro è spesso sostituito dal semplice presente, soprattutto nell'italiano familiare e parlato nell'Italia del Nord.",
+        "content_fr": "Aujourd'hui, le futur est souvent remplacé par le simple présent, surtout dans l'italien familier et parlé dans le Nord de l'Italie."
       },
       {
         "type": "example",
@@ -101,11 +136,13 @@
       },
       {
         "type": "paragraph",
-        "content": "Il **futuro anteriore** è un tempo composto dal futuro dell'ausiliare avere-essere (*avrò*, *sarò*) + il participio passato del verbo."
+        "content": "Il **futuro anteriore** è un tempo composto dal futuro dell'ausiliare avere-essere (*avrò*, *sarò*) + il participio passato del verbo.",
+        "content_fr": "Le **futur antérieur** est un temps composé du futur de l'auxiliaire avere-essere (*avrò*, *sarò*) + le participe passé du verbe."
       },
       {
         "type": "paragraph",
-        "content": "Si usa quando ci sono due azioni future e l'una avviene prima dell'altra."
+        "content": "Si usa quando ci sono due azioni future e l'una avviene prima dell'altra.",
+        "content_fr": "Il s'emploie quand il y a deux actions futures et que l'une se produit avant l'autre."
       },
       {
         "type": "example",

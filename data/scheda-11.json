@@ -9,28 +9,35 @@
     "sections": [
       {
         "type": "intro",
-        "content": "Il pronome è una parola che si usa al posto di un nome per non ripeterlo e rendere la frase più semplice e scorrevole."
+        "content": "Il pronome è una parola che si usa al posto di un nome per non ripeterlo e rendere la frase più semplice e scorrevole.",
+        "content_fr": "Le pronom est un mot qui s'utilise à la place d'un nom pour éviter de le répéter et rendre la phrase plus simple et fluide."
       },
       {
         "type": "paragraph",
-        "content": "I pronomi possono sostituire non solo un nome, ma anche altre parole o addirittura delle frasi intere: un aggettivo, un altro pronome, un verbo o una frase intera."
+        "content": "I pronomi possono sostituire non solo un nome, ma anche altre parole o addirittura delle frasi intere: un aggettivo, un altro pronome, un verbo o una frase intera.",
+        "content_fr": "Les pronoms peuvent remplacer non seulement un nom, mais aussi d'autres mots ou même des phrases entières : un adjectif, un autre pronom, un verbe ou une phrase entière."
       },
       {
         "type": "paragraph",
-        "content": "Ci sono molti tipi di pronomi: **personali**, **possessivi**, **dimostrativi**, **indefiniti**, **relativi**, **interrogativi**."
+        "content": "Ci sono molti tipi di pronomi: **personali**, **possessivi**, **dimostrativi**, **indefiniti**, **relativi**, **interrogativi**.",
+        "content_fr": "Il existe de nombreux types de pronoms : **personnels**, **possessifs**, **démonstratifs**, **indéfinis**, **relatifs**, **interrogatifs**."
       },
       {
         "type": "heading",
-        "content": "I Pronomi Personali Soggetto"
+        "content": "I Pronomi Personali Soggetto",
+        "content_fr": "Les Pronoms Personnels Sujets"
       },
       {
         "type": "paragraph",
-        "content": "I **pronomi personali** indicano le persone del discorso: *io, me, mi, noi, ci* si riferiscono a chi parla; *tu, te, ti, voi, vi* si riferiscono a chi ascolta; *egli, lui, ella, lei, essi, esse, loro, li* si riferiscono alla persona o cosa di cui si parla."
+        "content": "I **pronomi personali** indicano le persone del discorso: *io, me, mi, noi, ci* si riferiscono a chi parla; *tu, te, ti, voi, vi* si riferiscono a chi ascolta; *egli, lui, ella, lei, essi, esse, loro, li* si riferiscono alla persona o cosa di cui si parla.",
+        "content_fr": "Les **pronoms personnels** indiquent les personnes du discours : *io, me, mi, noi, ci* se réfèrent à celui qui parle ; *tu, te, ti, voi, vi* se réfèrent à celui qui écoute ; *egli, lui, ella, lei, essi, esse, loro, li* se réfèrent à la personne ou chose dont on parle."
       },
       {
         "type": "table",
         "caption": "Pronomi personali soggetto",
+        "caption_fr": "Pronoms personnels sujets",
         "headers": ["Persona", "Pronome"],
+        "headers_fr": ["Personne", "Pronom"],
         "rows": [
           ["1ª persona singolare", "io"],
           ["2ª persona singolare", "tu"],
@@ -40,15 +47,27 @@
           ["2ª persona plurale", "voi"],
           ["3ª persona plurale (M)", "essi, loro"],
           ["3ª persona plurale (F)", "esse, loro"]
+        ],
+        "rows_fr": [
+          ["1ère personne singulier", "io"],
+          ["2ème personne singulier", "tu"],
+          ["3ème personne singulier (M)", "egli, lui, esso"],
+          ["3ème personne singulier (F)", "ella, lei, essa"],
+          ["1ère personne pluriel", "noi"],
+          ["2ème personne pluriel", "voi"],
+          ["3ème personne pluriel (M)", "essi, loro"],
+          ["3ème personne pluriel (F)", "esse, loro"]
         ]
       },
       {
         "type": "paragraph",
-        "content": "**Attenzione:** Nella 3ª persona le forme egli/ella e essi/esse sono oggi sostituite — nella lingua parlata — da lui, lei, loro."
+        "content": "**Attenzione:** Nella 3ª persona le forme egli/ella e essi/esse sono oggi sostituite — nella lingua parlata — da lui, lei, loro.",
+        "content_fr": "**Attention :** À la 3ème personne, les formes egli/ella et essi/esse sont aujourd'hui remplacées — dans la langue parlée — par lui, lei, loro."
       },
       {
         "type": "paragraph",
-        "content": "In italiano non è obbligatorio indicare sempre il pronome soggetto; molto spesso — quando è chiaro di chi si parla — non si dice, cioè si lascia sottinteso."
+        "content": "In italiano non è obbligatorio indicare sempre il pronome soggetto; molto spesso — quando è chiaro di chi si parla — non si dice, cioè si lascia sottinteso.",
+        "content_fr": "En italien, il n'est pas obligatoire d'indiquer toujours le pronom sujet ; très souvent — quand il est clair de qui on parle — on ne le dit pas, c'est-à-dire qu'il reste sous-entendu."
       }
     ]
   },

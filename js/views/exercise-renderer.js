@@ -11,6 +11,7 @@ import { renderTableCompletion, checkTableCompletion } from './exercises/table-c
 import { renderMatching, checkMatching } from './exercises/matching.js';
 import { renderOpenEnded } from './exercises/open-ended.js';
 import { saveExerciseResult } from '../state.js';
+import { getLanguage } from '../i18n.js';
 
 const renderers = {
   'fill-in-blank':       { render: renderFillInBlank,       check: checkFillInBlank },
@@ -37,7 +38,8 @@ export function renderExercises(schedaData, container) {
     // Header
     const header = el('div', { className: 'exercise-header' });
     header.appendChild(el('span', { className: 'exercise-number' }, String(exercise.number)));
-    header.appendChild(el('span', { className: 'exercise-instruction' }, exercise.instruction));
+    const instruction = getLanguage() === 'fr' && exercise.instruction_fr ? exercise.instruction_fr : exercise.instruction;
+    header.appendChild(el('span', { className: 'exercise-instruction' }, instruction));
     card.appendChild(header);
 
     // Body
